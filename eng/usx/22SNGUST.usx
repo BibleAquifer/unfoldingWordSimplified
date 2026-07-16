@@ -1,141 +1,1104 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="SNG" style="id">- unfoldingWord Simplified -</book>
-<para style="h">Song of Songs</para>
-<para style="toc1">Song of Songs</para>
-<para style="toc2">Song of Songs</para>
-<para style="mt1">Song of Songs</para>
-<chapter number="1" style="c" sid="SNG 1"/>
-<para style="p"><verse number="1" style="v" sid="SNG 1:1"/>This is King Solomon’s most beautiful song.<verse eid="SNG 1:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 1:2"/>I wish he would kiss me on my lips, because how you love me is more delightful than wine.<verse eid="SNG 1:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 1:3"/>The fragrance of the perfume on your skin is very pleasing. More and more people are honoring you, just as the fragrance of the perfume that you have put on your skin is spreading farther and farther. That is why the other young women are attracted to you.<verse eid="SNG 1:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 1:4"/>Take me quickly; take me to your home. He is like a king to me; I desire him to bring me into his bedroom. We are very happy about you; we say that how you love is better than wine. It is not surprising that the other young women adore you.<verse eid="SNG 1:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 1:5"/>You young women of Jerusalem, I am brown but beautiful; my dark skin is like the tents in Kedar, and I am beautiful like the curtains in Solomon’s palace.<verse eid="SNG 1:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 1:6"/>But do not stare at me because the sun has made my skin dark; my brothers were angry with me, so they forced me to work outside in the sunshine in the vineyards, so I was not able to take good care of my skin.<verse eid="SNG 1:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 1:7"/>You whom I love, where will you take your flock of sheep today? Where will you allow them to rest at noontime? I want to know because it is not right for me to wander around like a prostitute, looking for you among the flocks that belong to your friends.<verse eid="SNG 1:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 1:8"/>You who are the most beautiful of all the women, if you search for me and do not know where I will take my sheep, follow the tracks of the sheep. Then allow your young goats to eat grass near the shepherds’ tents.<verse eid="SNG 1:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 1:9"/>You are beautiful, my dear one, like one of the young female horses that pull the chariots belonging to the king of Egypt.<verse eid="SNG 1:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 1:10"/>Your cheeks are lovely with jewelry, and your neck is lovely with strings of beads around it.<verse eid="SNG 1:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 1:11"/>We will make for you some gold earrings that are inlaid with silver.<verse eid="SNG 1:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 1:12"/>During the time that he who is like a king to me was on his couch, the smell of my perfume spread around the room.<verse eid="SNG 1:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 1:13"/>The man whom I love stays between my breasts during the night like a bag of sweet-smelling perfume tied around my neck.<verse eid="SNG 1:13"/></para>
-<para style="p"><verse number="14" style="v" sid="SNG 1:14"/>The man whom I love is like a bunch of the fragrant flowers that are in the grape farms of the city of En Gedi.<verse eid="SNG 1:14"/></para>
-<para style="p"><verse number="15" style="v" sid="SNG 1:15"/>My dear one, you are beautiful; you are very beautiful! Your eyes are as gentle and beautiful as doves.<verse eid="SNG 1:15"/></para>
-<para style="p"><verse number="16" style="v" sid="SNG 1:16"/>You whom I love, you are very good-looking, you are delightful! The green grass will be like a bed where we lie down.<verse eid="SNG 1:16"/></para>
-<para style="p"><verse number="17" style="v" sid="SNG 1:17"/>Branches of cedar trees will shade us; branches of pine trees will be like a roof over our heads.<verse eid="SNG 1:17"/></para>
-<chapter eid="SNG 1"/>
-<chapter number="2" style="c" sid="SNG 2"/>
-<para style="p"><verse number="1" style="v" sid="SNG 2:1"/>I am like an insignificant flower on the plains, like an insignificant lily growing in the valleys.<verse eid="SNG 2:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 2:2"/>Among all the other young women, you, my dear one, are like a lily growing among thorns!<verse eid="SNG 2:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 2:3"/>Compared to other men, you, the one whom I love, are like an apple tree that produces delicious fruit and grows in the forest among common trees. You are like a tree whose shadow protects me from the sun, and your being close to me is delightful, like eating sweet fruit.<verse eid="SNG 2:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 2:4"/>I want you to lead me to the place where we can make love, and it is evident that you love me very much.<verse eid="SNG 2:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 2:5"/>Strengthen and refresh me with fruit, because the way you love me makes me feel lovesick.<verse eid="SNG 2:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 2:6"/>The man whom I love has placed his left arm under my head and he holds me close with his right arm.<verse eid="SNG 2:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 2:7"/>You young women of Jerusalem, I want you to solemnly promise me, while the female gazelles and female deer are listening, that you will not cause people to love romantically until it is the right time.<verse eid="SNG 2:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 2:8"/>Listen! Look! The man whom I love is coming. It is as though he is leaping over the mountains and skipping over the hills,<verse eid="SNG 2:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 2:9"/>like a gazelle or a young male deer. Look! There he is! He is standing outside the wall of our house, peering in through the window, and looking intently through the wooden strips inside the window frame.<verse eid="SNG 2:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 2:10"/>The man whom I love spoke to me and said, “My dear one, get up; my beautiful one, come with me!<verse eid="SNG 2:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 2:11"/>Look, the cold season has ended; the rain has stopped.<verse eid="SNG 2:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 2:12"/>The flowers are blooming throughout the country. It is now time to sing; we hear the doves cooing throughout our land.<verse eid="SNG 2:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 2:13"/>There are new figs on the fig trees, and there are blossoms on the grapevines and their fragrance fills the air. My dear one, get up; my beautiful one, come with me!<verse eid="SNG 2:13"/></para>
-<para style="p"><verse number="14" style="v" sid="SNG 2:14"/>You are like a dove that is hiding far from me in an opening in the rocky cliff. Allow me to see your form, and allow me to hear your voice, because your voice sounds sweet, and your form is comely.”<verse eid="SNG 2:14"/></para>
-<para style="p"><verse number="15" style="v" sid="SNG 2:15"/>There are harmful things that are like little foxes that ruin vineyards; do not allow these things to ruin our growing relationship.<verse eid="SNG 2:15"/></para>
-<para style="p"><verse number="16" style="v" sid="SNG 2:16"/>You whom I love, you are mine, and I am yours. You have pleasure when you kiss my lips, as a gazelle does when eating among the lilies.<verse eid="SNG 2:16"/></para>
-<para style="p"><verse number="17" style="v" sid="SNG 2:17"/>You whom I love, come and be like a gazelle or a young male deer on the mountains in Bether, until the evening breeze blows and the sun sets.<verse eid="SNG 2:17"/></para>
-<chapter eid="SNG 2"/>
-<chapter number="3" style="c" sid="SNG 3"/>
-<para style="p"><verse number="1" style="v" sid="SNG 3:1"/>At night while I lay on my bed, I searched for the man whom I love. I searched for him, but could not find him.<verse eid="SNG 3:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 3:2"/>So I said to myself, “I will get up now and walk around the city, through the streets and plazas, to search for the man whom I love.” So I got up and went out to search for him, but I could not find him.<verse eid="SNG 3:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 3:3"/>The city watchmen saw me while they were walking around the city. I asked them, “Have you seen the man whom I love?”<verse eid="SNG 3:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 3:4"/>As soon as I walked past them, I found the man who I love. I clung to him and would not release my hold on him until I brought him to my mother’s house, to the bedroom of my mother who had conceived me.<verse eid="SNG 3:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 3:5"/>You young women of Jerusalem, I want you to solemnly promise me, while the female gazelles and female deer are listening, that you will not cause people to love romantically until it is the right time.<verse eid="SNG 3:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 3:6"/>Look! See what is coming up from the dry and uninhabited area. Look at what is stirring up dust like clouds of smoke, and like billows of smoke from burning myrrh and incense, which are from the fragrant powders imported by traveling traders!<verse eid="SNG 3:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 3:7"/>Look! Solomon has sent his portable royal chair and it is surrounded by 60 bodyguards chosen from the greatest soldiers in Israel.<verse eid="SNG 3:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 3:8"/>They all have swords, and they all know how to use them. Each one has his sword strapped to his side and is prepared to defend against dangers that might occur during the night.<verse eid="SNG 3:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 3:9"/>King Solomon commanded his servants to make that royal portable chair for him; it was made with wood from Lebanon.<verse eid="SNG 3:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 3:10"/>The canopy that covered it was held up by posts made with silver, and the base of the palanquin was made with gold. The seat was covered with purple cloth, and the inside of the palanquin was lovingly decorated by the women of Jerusalem.<verse eid="SNG 3:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 3:11"/>You young women of Jerusalem, come and look at King Solomon wearing the headdress that his mother put on his head on the day when he was married, on the day when he was very happy.<verse eid="SNG 3:11"/></para>
-<chapter eid="SNG 3"/>
-<chapter number="4" style="c" sid="SNG 4"/>
-<para style="p"><verse number="1" style="v" sid="SNG 4:1"/>My dear one, you are beautiful, you are very beautiful! Beneath your veil, your eyes are as gentle and as beautiful as doves. Your long black hair moves from side to side like a flock of black goats moving down the slopes of Mount Gilead.<verse eid="SNG 4:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 4:2"/>Your teeth are very white, white like a flock of sheep whose wool people have just cut off and which have just come up from washing in a stream. You have all of your teeth on both sides of your mouth; none of them is missing.<verse eid="SNG 4:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 4:3"/>Your lips are the color of bright red thread, and your mouth is beautiful. Beneath your veil, your cheeks are round and rosy like the halves of a pomegranate.<verse eid="SNG 4:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 4:4"/>Your long neck is beautiful, like the tower of King David that was built using layers of stone. The beauty of your jeweled neck is like a thousand shields hanging on the walls of a tower; like the beauty of a thousand warrior's shields hanging from a tower.<verse eid="SNG 4:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 4:5"/>Your two breasts are as beautiful as two young twin gazelles that eat grass among lilies.<verse eid="SNG 4:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 4:6"/>Until the evening breeze blows, and the sun sets, I will go to your breasts, because they are like two hills that smell like pleasant spices.<verse eid="SNG 4:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 4:7"/>My dear one, you are completely beautiful; your body is perfectly formed and has no blemish!<verse eid="SNG 4:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 4:8"/>Come back to me, my bride. It is as though you are in Lebanon far away, where I cannot reach you. Come back to me. It is as though you are inaccessible on the top of Mount Hermon or the nearby peaks, where I cannot go to you. Come from the mountains, where the lions have their dens and where the leopards live.<verse eid="SNG 4:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 4:9"/>You who are as dear to me as a sister, my bride, by only once quickly looking at me with your eyes, and by one strand of jewels in your necklace, you have obtained my full affection.<verse eid="SNG 4:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 4:10"/>You who are as dear to me as a sister, my bride, your love for me is delightful! It is more delightful than wine! The fragrance of your perfume is more pleasing than any spice!<verse eid="SNG 4:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 4:11"/>When you kiss me, my bride, it is as delightful as eating honey. Your kisses are as sweet as milk mixed with honey. The aroma of your clothes is like the aroma of cedar trees in Lebanon.<verse eid="SNG 4:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 4:12"/>You who are as dear to me as a sister, my bride, you are like a garden that the owner keeps locked so that other men cannot enter it; you are like a spring or a fountain that is covered so that others may not drink from it.<verse eid="SNG 4:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 4:13"/>You are like an orchard of pomegranate trees full of delicious fruit, and plenty of plants that produce henna and nard spices,<verse eid="SNG 4:13"/></para>
-<para style="p"><verse number="14" style="v" sid="SNG 4:14"/>and saffron and calamus and cinnamon and many other kinds of incense, myrrh and aloes, and many other fine spices.<verse eid="SNG 4:14"/></para>
-<para style="p"><verse number="15" style="v" sid="SNG 4:15"/>You are like a spring in a garden, like a well of fresh-flowing water, and like streams that flow down from the mountains of Lebanon.<verse eid="SNG 4:15"/></para>
-<para style="p"><verse number="16" style="v" sid="SNG 4:16"/>I want the north wind and the south wind to come, and blow on me, so that the fragrance of my body will spread through the air and attract the man I love. You whom I love, I am like your garden. I want you to come and enjoy my body, like someone comes into a garden and enjoys eating the delicious fruit that grows there.<verse eid="SNG 4:16"/></para>
-<chapter eid="SNG 4"/>
-<chapter number="5" style="c" sid="SNG 5"/>
-<para style="p"><verse number="1" style="v" sid="SNG 5:1"/>You who are as dear to me as a sister, my bride, I am ready to go away with you now and enjoy making love with you. It will be delightful, delightful like when I gather my myrrh with my other spices, as wonderful as eating my honey and honeycomb, and as enjoyable as drinking my wine with milk. Friends, enjoy making love; fully enjoy all that you do with each other.<verse eid="SNG 5:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 5:2"/>I was asleep, and I had a dream. In it I heard the man I love knocking at the door. He said, “You who are as dear to me as a sister, my dear one, you who are like a dove, my flawless one. Open the door for me because my hair is wet from the dew, from the mist that has fallen during the night.”<verse eid="SNG 5:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 5:3"/>But I had already taken my robe off; I did not want to put it on again to open the door. I had already washed my feet; so I did not want them to get dirty again by answering the door.<verse eid="SNG 5:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 5:4"/>The man I love put his hand through the opening in the door, and I was thrilled in my inner being that he was there.<verse eid="SNG 5:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 5:5"/>I got up to open the door for the man I love, but first I put much myrrh on my hands. The liquid myrrh was dripping from my fingers while I unlatched the bolt.<verse eid="SNG 5:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 5:6"/>I opened the door for the man I love, but he had left. He had turned away and was gone! I greatly despaired because he was not there. I searched for him, but I could not find him. I called out for him, but he did not answer.<verse eid="SNG 5:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 5:7"/>The city watchmen saw me while they were walking around the city. They struck me and bruised me because they thought I was a prostitute; those watchmen who were guarding the city walls took my shawl that was on me.<verse eid="SNG 5:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 5:8"/>You young women of Jerusalem, if you see the man I love, what will you tell him? I want you to solemnly promise me that if you see him, you will tell him that the way he loves me makes me feel lovesick.<verse eid="SNG 5:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 5:9"/>You who are the most beautiful of all the women, why do you think that the man you love is better than other men? In what way is he better than other men that would cause you to want us to solemnly promise that we will tell him that?<verse eid="SNG 5:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 5:10"/>It is because the man I love is handsome and healthy, outstanding among an uncountable number of other men.<verse eid="SNG 5:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 5:11"/>His face is beautiful and gleams like gold; he is as precious as purest gold. His hair is wavy and as black as a raven.<verse eid="SNG 5:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 5:12"/>His eyes are as gentle and beautiful as doves which are beside streams. His eyes are as white as white doves which are sitting beside pools of water.<verse eid="SNG 5:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 5:13"/>His cheeks are like a garden where spices grow, and like towers where spices are kept. His lips are like lilies that have myrrh dripping from them.<verse eid="SNG 5:13"/></para>
-<para style="p"><verse number="14" style="v" sid="SNG 5:14"/>His arms are like round gold rods, that are decorated with precious stones. His abdomen is like ivory that is decorated with sapphires.<verse eid="SNG 5:14"/></para>
-<para style="p"><verse number="15" style="v" sid="SNG 5:15"/>His legs are like alabaster columns that are set in bases made of pure gold. He is majestic, like the mountains of Lebanon. He is tall and strong and outstanding like the cedar trees that grow there.<verse eid="SNG 5:15"/></para>
-<para style="p"><verse number="16" style="v" sid="SNG 5:16"/>His kisses are very sweet; he is completely attractive. You young women of Jerusalem, this is what the man I love, who is my friend, is like, and this is why he is better than all other men.<verse eid="SNG 5:16"/></para>
-<chapter eid="SNG 5"/>
-<chapter number="6" style="c" sid="SNG 6"/>
-<para style="p"><verse number="1" style="v" sid="SNG 6:1"/>You who are the most beautiful of the women, where has the man you love gone? Tell us which direction he went, and we will go with you to search for him.<verse eid="SNG 6:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 6:2"/>The man who I love has come to me. I am like his garden where pleasant spices grow. He has come to enjoy my body as a gazelle enjoys grazing in a garden and as a person enjoys picking lilies.<verse eid="SNG 6:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 6:3"/>I belong to the man I love, and  he belongs to me. He feels pleasure when he is near me, as a gazelle does when eating among lilies.<verse eid="SNG 6:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 6:4"/>My dear one, you are beautiful. You are as beautiful as the city of Tirzah and as lovely as the city of Jerusalem. You are as exciting and majestic to look at as an army with banners.<verse eid="SNG 6:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 6:5"/>Stop looking at me like that, because your eyes excite me very much. Your long black hair moves from side to side like a flock of black goats moving down the slopes of Mount Gilead.<verse eid="SNG 6:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 6:6"/>Your teeth are very white, white like a flock of sheep that has just come up from being washed in a stream. You have all of your teeth on both sides of your mouth; none of them is missing.<verse eid="SNG 6:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 6:7"/>Beneath your veil, your cheeks are round and rosy like the halves of a pomegranate.<verse eid="SNG 6:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 6:8"/>Even if a king had 60 queens and 80 concubines and more young women in his court than anyone can count,<verse eid="SNG 6:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 6:9"/>none of them would be as special as she is. She is like a dove; she is flawless. Her mother considers her to be very special; she is her mother’s favorite child. When the young women of the king’s court see her, they say that she is fortunate, and the queens and concubines praise her.<verse eid="SNG 6:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 6:10"/>Look at this woman who appears like the dawn, who is as beautiful to look at as the moon, who is radiant like the sun, who is as exciting and majestic to look at as an army with banners!<verse eid="SNG 6:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 6:11"/>I went down to the walnut tree orchard to look at the new plants that were growing in the valley. I wanted to see if the grapevines had budded and if the pomegranate trees were blooming.<verse eid="SNG 6:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 6:12"/>All of a sudden I imagined that I was among the chariots of my noble people.<verse eid="SNG 6:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 6:13"/>Come back to us, beautiful woman from Shulam, come back to us, in order that we may see you! Why do you want to look at the beautiful woman from Shulam, as if she were a dancer who dances to entertain armies?<verse eid="SNG 6:13"/></para>
-<chapter eid="SNG 6"/>
-<chapter number="7" style="c" sid="SNG 7"/>
-<para style="p"><verse number="1" style="v" sid="SNG 7:1"/>You who are the daughter of a prince, have very lovely feet in your sandals! Your curved hips are like jewels that have been made by a man who shapes jewels very well.<verse eid="SNG 7:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 7:2"/>Your navel is like a round bowl that is always full of wine mixed with spices. Your belly is like a pile of wheat with lilies growing around it.<verse eid="SNG 7:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 7:3"/>Your breasts are as delicate as two young twin gazelles.<verse eid="SNG 7:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 7:4"/>Your neck is long and beautiful, like a tower made of ivory. Your eyes sparkle like the pools of water in the city of Heshbon, near the Bath Rabbim gate. Your nose is beautiful like the tower in Lebanon that faces Damascus.<verse eid="SNG 7:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 7:5"/>Your head is majestic like Mount Carmel. Your long hair is shiny and black; it is as though I, your king, am captured by your tresses.<verse eid="SNG 7:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 7:6"/>You are very beautiful and very lovely! Loving you is very delightful!<verse eid="SNG 7:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 7:7"/>You are tall like a palm tree, and your breasts are full and round like date clusters that hang from palm trees.<verse eid="SNG 7:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 7:8"/>I said to myself, “I will climb that palm tree and take hold of those clusters of dates.” I want your breasts to be like sweet bunches of grapes that I can enjoy; I want your breath to be like the sweet fragrance of apples.<verse eid="SNG 7:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 7:9"/>I want your kisses to be like very good wine. When I kiss you, the man whom I love, I want my kisses to be as if you are freely drinking wine, and as if wine is flowing over our lips as we sleep together.<verse eid="SNG 7:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 7:10"/>I belong to the man I love, and he desires me.<verse eid="SNG 7:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 7:11"/>You whom I love, come with me, and let us go to the countryside, and sleep in one of the villages.<verse eid="SNG 7:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 7:12"/>And let us go early to the vineyards to see if the grapevines have budded and if there are blossoms on them that have opened, and to see if the pomegranate trees are blooming, and there I will have sexual relations with you.<verse eid="SNG 7:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 7:13"/>The mandrake plants are producing a fragrant scent, and the pleasures we will experience as we express our love for each other will be like choice fruits that have been stored, new ones and old ones. You whom I love, I have reserved my love for you as if I were storing choice fruit.<verse eid="SNG 7:13"/></para>
-<chapter eid="SNG 7"/>
-<chapter number="8" style="c" sid="SNG 8"/>
-<para style="p"><verse number="1" style="v" sid="SNG 8:1"/>I wish that you were like my brother, my own brother, who nursed from my mother’s breasts when he was a baby. Because then, whenever I met you outside the house, I could kiss you, and no one would criticize me.<verse eid="SNG 8:1"/></para>
-<para style="p"><verse number="2" style="v" sid="SNG 8:2"/>I would like to bring you to my mother’s house, to where my mother, who taught me so many things, lives. I would like to take you to my mother’s house so I could have sexual relations with you there. Having sexual relations with you would be as if I were giving you spiced wine to drink, as if I were giving you sweet pomegranate wine.<verse eid="SNG 8:2"/></para>
-<para style="p"><verse number="3" style="v" sid="SNG 8:3"/>The man I love has placed his left arm under my head and he holds me close with his right arm.<verse eid="SNG 8:3"/></para>
-<para style="p"><verse number="4" style="v" sid="SNG 8:4"/>You young women of Jerusalem, I want you to solemnly promise me, that you will not cause people to love romantically until it is the right time.<verse eid="SNG 8:4"/></para>
-<para style="p"><verse number="5" style="v" sid="SNG 8:5"/>Look at this woman who is coming up from the wilderness, the woman who is leaning on the man she loves! I woke you up when you were under the apple tree at the place where your mother was in labor with you, the place where you were born.<verse eid="SNG 8:5"/></para>
-<para style="p"><verse number="6" style="v" sid="SNG 8:6"/>Keep me close to you, like a seal that rests against your chest as it hangs down from its cord, or like a seal worn on your bracelet. The strength with which I love you is as powerful as the strength of death; it is as strong as the grave. It is as though our love for each other bursts into flames, and as though our love is the lightening that Yahweh creates.<verse eid="SNG 8:6"/></para>
-<para style="p"><verse number="7" style="v" sid="SNG 8:7"/>We love each other so deeply, that how we love each other can be compared to a strong fire that no river or flood can put out. If a man tried to cause a woman to love him by saying he would give her everything that he owns, she would refuse.<verse eid="SNG 8:7"/></para>
-<para style="p"><verse number="8" style="v" sid="SNG 8:8"/>We have a young sister, and her breasts are not large yet. What should we do for her at the time that we promise some young man that he can marry her?<verse eid="SNG 8:8"/></para>
-<para style="p"><verse number="9" style="v" sid="SNG 8:9"/>We will protect her virginity, as if we were soldiers building a battlement of silver to protect a wall. We will protect her virginity, like we would protect a door from intruders by covering it with boards made of cedar wood.<verse eid="SNG 8:9"/></para>
-<para style="p"><verse number="10" style="v" sid="SNG 8:10"/>Like a wall that allows no one to enter, I have remained a virgin and let no man come into me; but now my breasts are large like towers. So I am delightful to my beloved.<verse eid="SNG 8:10"/></para>
-<para style="p"><verse number="11" style="v" sid="SNG 8:11"/>King Solomon had a vineyard at a place called Baal Hamon, and he rented it to people for them to farm it. He required each one to pay him one thousand pieces of silver each year for the grapes that they harvested.<verse eid="SNG 8:11"/></para>
-<para style="p"><verse number="12" style="v" sid="SNG 8:12"/>But my body is like my own vineyard, which is mine to give to the man whom I choose. Solomon can keep the one thousand pieces of silver that he receives from renting his vineyard, and the farmers who take care of it for him can keep the two hundred pieces of silver he pays them.<verse eid="SNG 8:12"/></para>
-<para style="p"><verse number="13" style="v" sid="SNG 8:13"/>You, the woman I love, who are staying in the gardens, my friends are eagerly listening so that they can hear you speak; speak to me!<verse eid="SNG 8:13"/></para>
-<para style="p"><verse number="14" style="v" sid="SNG 8:14"/>You who I love, come to me quickly! Run to me like a gazelle or a young male deer runs across mountains where spices grow.<verse eid="SNG 8:14"/></para>
-<chapter eid="SNG 8"/>
+  <book code="SNG" style="id">EN_UST en_English_ltr Mon Feb 20 2023 13:12:46 GMT-0600 (Central Standard Time) tc</book>
+  <para style="ide">UTF-8
+</para>
+  <para style="h">Song of Songs
+</para>
+  <para style="toc1">The Song of Songs
+</para>
+  <para style="toc2">Song of Songs
+</para>
+  <para style="toc3">Sng
+</para>
+  <para style="mt1">Song of Songs
+
+</para>
+  <ms style="ts"/>
+  <chapter number="1" style="c" sid="SNG 1"/>
+  <para style="p"><verse number="1" style="v" sid="SNG 1:1"/>This is King Solomon’s most beautiful song.
+<verse eid="SNG 1:1"/></para>
+  <para style="sp">The woman thinks about the man she loves
+</para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 1:2"/>I wish he would kiss me on my lips,
+</para>
+  <para style="sp">The woman speaks internally to the absent man
+</para>
+  <para style="q2">because how you love me is more delightful than wine.
+<verse eid="SNG 1:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 1:3"/>The fragrance of the perfume on your skin is very pleasing.
+</para>
+  <para style="q2">More and more people are honoring you,
+</para>
+  <para style="q2">just as the fragrance of the perfume that you have put on your skin is spreading farther and farther.
+</para>
+  <para style="q1">That is why the other young women are attracted to you.
+<verse eid="SNG 1:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 1:4"/>Take me quickly;
+</para>
+  <para style="q2">take me to your home.
+</para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1">He is like a king to me;
+</para>
+  <para style="q2">I desire him to bring me into his bedroom.
+</para>
+  <para style="sp">The women of Jerusalem speaking about the man
+</para>
+  <para style="q1">We are very happy about you;
+</para>
+  <para style="q2">we say that how you love is better than wine.
+</para>
+  <para style="sp">The woman speaking to the man about the young women of Jerusalem
+</para>
+  <para style="q2">It is not surprising that the young women adore you.
+
+<ms style="ts"/>
+<verse eid="SNG 1:4"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 1:5"/>You young women of Jerusalem,
+</para>
+  <para style="q2">I am brown but beautiful;
+</para>
+  <para style="q1">my dark skin is like the tents in Kedar,
+</para>
+  <para style="q2">and I am beautiful like the curtains in Solomon’s palace.
+<verse eid="SNG 1:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 1:6"/>But do not stare at me because the sun has made my skin dark;
+</para>
+  <para style="q1">my brothers were angry with me,
+</para>
+  <para style="q1">so they forced me to work outside in the sunshine in the vineyards,
+</para>
+  <para style="q2">so I was not able to take good care of my skin.
+
+<ms style="ts"/>
+<verse eid="SNG 1:6"/></para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 1:7"/>You whom I love, where will you take your flock of sheep today?
+</para>
+  <para style="q2">Where will you allow them to rest at noontime?
+</para>
+  <para style="q1">I want to know because it is not right for me to wander around like a prostitute,
+</para>
+  <para style="q2">looking for you among the flocks that belong to your friends.
+
+<ms style="ts"/>
+<verse eid="SNG 1:7"/></para>
+  <para style="sp">The man answering the woman he loves
+</para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 1:8"/>You who are the most beautiful of all the women,
+</para>
+  <para style="q2">if you search for me and do not know where I will take my sheep,
+</para>
+  <para style="q1">follow the tracks of the sheep.
+</para>
+  <para style="q2">Then allow your young goats to eat grass near the shepherds’ tents.
+
+<ms style="ts"/>
+<verse eid="SNG 1:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 1:9"/>You excite me, my dear one,
+</para>
+  <para style="q2">like a mare walking among Pharoah’s stallions.
+<verse eid="SNG 1:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 1:10"/>Your cheeks are lovely with jewelry,
+</para>
+  <para style="q2">and your neck is lovely with strings of beads around it.
+<verse eid="SNG 1:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 1:11"/>We will make for you some gold earrings
+</para>
+  <para style="q2">that are inlaid with silver.
+
+<ms style="ts"/>
+<verse eid="SNG 1:11"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 1:12"/>During the time that he who is like a king to me reclined on his couch,
+</para>
+  <para style="q2">the fragrance of my perfume spread around the room.
+<verse eid="SNG 1:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 1:13"/>During the night I desire to cradle the man I love between my breasts; to me, he is like the bag of sweet-smelling perfume which I keep there.
+<verse eid="SNG 1:13"/></para>
+  <para style="q2"><verse number="14" style="v" sid="SNG 1:14"/>The man whom I love is like a bunch of the fragrant flowers that are in the grape farms of the city of En Gedi.
+
+<ms style="ts"/>
+<verse eid="SNG 1:14"/></para>
+  <para style="sp">The man speaking to the woman he loves
+</para>
+  <para style="q1"><verse number="15" style="v" sid="SNG 1:15"/>My dear one, you are beautiful;
+</para>
+  <para style="q2">you are very beautiful!
+</para>
+  <para style="q1">Your eyes are as gentle and beautiful as doves.
+
+<ms style="ts"/>
+<verse eid="SNG 1:15"/></para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="16" style="v" sid="SNG 1:16"/>You whom I love, you are very good-looking,
+</para>
+  <para style="q2">you are delightful!
+</para>
+  <para style="q2">The green grass will be like a bed where we lie down.
+<verse eid="SNG 1:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="SNG 1:17"/>Branches of cedar trees will shade us;
+</para>
+  <para style="q2">branches of pine trees will be like a roof over our heads.
+
+<ms style="ts"/>
+
+<verse eid="SNG 1:17"/><verse eid="SNG 1:17"/></para>
+  <chapter eid="SNG 1"/>
+  <chapter number="2" style="c" sid="SNG 2"/>
+  <para style="q1"><verse number="1" style="v" sid="SNG 2:1"/>I am like an insignificant flower on the plains,
+</para>
+  <para style="q2">like an insignificant lily growing in the valleys.
+<verse eid="SNG 2:1"/></para>
+  <para style="sp">The man speaking to the woman he loves
+</para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 2:2"/>Among all the other young women,
+</para>
+  <para style="q2">you, my dear one, are like a lily growing among thorns!
+
+<ms style="ts"/>
+<verse eid="SNG 2:2"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 2:3"/>Compared to other men, you, the one whom I love, are like an apple tree that produces delicious fruit and grows in the forest among common trees.
+</para>
+  <para style="q2">You are like a tree whose shade protects me from the sun,
+</para>
+  <para style="q1">and your being close to me is delightful, like eating sweet fruit.
+<verse eid="SNG 2:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 2:4"/>I want you to lead me to the place where we can make love,
+</para>
+  <para style="q2">and it is evident that you love me very much.
+
+<ms style="ts"/>
+<verse eid="SNG 2:4"/></para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 2:5"/>Strengthen and refresh me with fruit,
+</para>
+  <para style="q2">because the way you love me makes me feel lovesick.
+<verse eid="SNG 2:5"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 2:6"/>The man whom I love has placed his left arm under my head,
+</para>
+  <para style="q2">and he holds me close with his right arm.
+
+<ms style="ts"/>
+<verse eid="SNG 2:6"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 2:7"/>You young women of Jerusalem,
+</para>
+  <para style="q2">I want you to solemnly promise me, while the female gazelles and female deer are listening,
+</para>
+  <para style="q1">that you will not cause people to love romantically
+</para>
+  <para style="q2">until it is the right time.
+
+<ms style="ts"/>
+<verse eid="SNG 2:7"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 2:8"/>Listen! Look! The man whom I love is coming.
+</para>
+  <para style="q2">It is as though he is leaping over the mountains
+</para>
+  <para style="q1">and skipping over the hills,
+<verse eid="SNG 2:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 2:9"/>like a gazelle or a young male deer.
+</para>
+  <para style="q2">Look! There he is! He is standing outside the wall of our house,
+</para>
+  <para style="q1">peering in through the window,
+</para>
+  <para style="q2">and looking intently through the wooden strips inside the window frame.
+
+<ms style="ts"/>
+<verse eid="SNG 2:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 2:10"/>The man whom I love spoke to me and said,
+</para>
+  <para style="q2">“My dear one, get up;
+</para>
+  <para style="q2">my beautiful one, come with me!
+<verse eid="SNG 2:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 2:11"/>Look, the cold season has ended;
+</para>
+  <para style="q2">the rain has stopped.
+
+<ms style="ts"/>
+<verse eid="SNG 2:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 2:12"/>The flowers are blooming throughout the country.
+</para>
+  <para style="q2">It is now time to sing;
+</para>
+  <para style="q1">we hear the doves cooing throughout our land.
+<verse eid="SNG 2:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 2:13"/>There are new figs on the fig trees,
+</para>
+  <para style="q2">and there are blossoms on the grapevines,
+</para>
+  <para style="q1">and their fragrance fills the air.
+</para>
+  <para style="q2">My dear one, get up;
+</para>
+  <para style="q2">my beautiful one, come with me!
+
+<ms style="ts"/>
+<verse eid="SNG 2:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="SNG 2:14"/>You are like a dove that is hiding far from me in an opening in the rocky cliff.
+</para>
+  <para style="q1">Allow me to see your form,
+</para>
+  <para style="q2">and allow me to hear your voice,
+</para>
+  <para style="q2">because your voice sounds sweet,
+</para>
+  <para style="q1">and your form is comely.”
+
+<ms style="ts"/>
+<verse eid="SNG 2:14"/></para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="15" style="v" sid="SNG 2:15"/>There are harmful things that are like little foxes that ruin vineyards;
+</para>
+  <para style="q2">do not allow these things to ruin our growing relationship.
+
+<ms style="ts"/>
+<verse eid="SNG 2:15"/></para>
+  <para style="q1"><verse number="16" style="v" sid="SNG 2:16"/>You whom I love, you are mine, and I am yours.
+</para>
+  <para style="q2">You have pleasure when you kiss my lips,
+</para>
+  <para style="q2">as a gazelle does when eating among the lilies.
+<verse eid="SNG 2:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="SNG 2:17"/>You whom I love, come and be like a gazelle or a young male deer on the mountains in Bether,
+</para>
+  <para style="q2">until the evening breeze blows and the sun sets.
+
+<ms style="ts"/>
+
+<verse eid="SNG 2:17"/><verse eid="SNG 2:17"/></para>
+  <chapter eid="SNG 2"/>
+  <chapter number="3" style="c" sid="SNG 3"/>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="1" style="v" sid="SNG 3:1"/>At night while I lay on my bed,
+</para>
+  <para style="q2">I searched for the man whom I love.
+</para>
+  <para style="q1">I searched for him,
+</para>
+  <para style="q2">but could not find him.
+<verse eid="SNG 3:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 3:2"/>So I said to myself,
+</para>
+  <para style="q1">“I will get up now and walk around the city,
+</para>
+  <para style="q2">through the streets and plazas,
+</para>
+  <para style="q2">to search for the man whom I love.”
+</para>
+  <para style="q1">So I got up and went out to search for him,
+</para>
+  <para style="q2">but I could not find him.
+
+<ms style="ts"/>
+<verse eid="SNG 3:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 3:3"/>The city watchmen saw me
+</para>
+  <para style="q2">while they were walking around the city.
+</para>
+  <para style="q1">I asked them,
+</para>
+  <para style="q2">“Have you seen the man whom I love?”
+<verse eid="SNG 3:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 3:4"/>As soon as I walked past them,
+</para>
+  <para style="q2">I found the man whom I love.
+</para>
+  <para style="q1">I clung to him and would not release my hold on him
+</para>
+  <para style="q2">until I brought him to my mother’s house,
+</para>
+  <para style="q2">to the bedroom of my mother who had conceived me.
+
+<ms style="ts"/>
+<verse eid="SNG 3:4"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 3:5"/>You young women of Jerusalem,
+</para>
+  <para style="q2">I want you to solemnly promise me, while the female gazelles and female deer are listening,
+</para>
+  <para style="q1">that you will not cause people to love romantically
+</para>
+  <para style="q2">until it is the right time.
+
+<ms style="ts"/>
+<verse eid="SNG 3:5"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 3:6"/>Look! See what is coming up from the dry and uninhabited area.
+</para>
+  <para style="q2">Look at what is stirring up dust like clouds of smoke,
+</para>
+  <para style="q1">and like billows of smoke from burning myrrh and incense,
+</para>
+  <para style="q2">which are from the fragrant powders imported by traveling traders!
+<verse eid="SNG 3:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 3:7"/>Look! Solomon has sent his portable royal chair,
+</para>
+  <para style="q2">and it is surrounded by 60 bodyguards
+</para>
+  <para style="q2">chosen from the greatest soldiers in Israel.
+
+<ms style="ts"/>
+<verse eid="SNG 3:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 3:8"/>They all have swords,
+</para>
+  <para style="q2">and they all know how to use them.
+</para>
+  <para style="q1">Each one has his sword strapped to his side
+</para>
+  <para style="q2">and is prepared to defend against dangers that might occur during the night.
+<verse eid="SNG 3:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 3:9"/>King Solomon commanded his servants to make that royal portable chair for him;
+</para>
+  <para style="q2">it was made with wood from Lebanon.
+
+<ms style="ts"/>
+<verse eid="SNG 3:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 3:10"/>The canopy that covered it was held up by posts made with silver,
+</para>
+  <para style="q2">and the base of the palanquin was made with gold.
+</para>
+  <para style="q1">The seat was covered with purple cloth,
+</para>
+  <para style="q2">and the inside of the palanquin was lovingly decorated by the women of Jerusalem.
+<verse eid="SNG 3:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 3:11"/>You young women of Jerusalem,
+</para>
+  <para style="q2">come and look at King Solomon
+</para>
+  <para style="q1">wearing the headdress that his mother put on his head
+</para>
+  <para style="q2">on the day when he was married,
+</para>
+  <para style="q1">on the day when he was very happy.
+
+<ms style="ts"/>
+
+<verse eid="SNG 3:11"/><verse eid="SNG 3:11"/></para>
+  <chapter eid="SNG 3"/>
+  <chapter number="4" style="c" sid="SNG 4"/>
+  <para style="sp">The man speaking to the woman he loves
+</para>
+  <para style="q1"><verse number="1" style="v" sid="SNG 4:1"/>My dear one, you are beautiful,
+</para>
+  <para style="q2">you are very beautiful!
+</para>
+  <para style="q2">Beneath your veil, your eyes are as gentle and as beautiful as doves.
+</para>
+  <para style="q1">Your long black hair moves from side to side like a flock of black goats
+</para>
+  <para style="q2">moving down the slopes of Mount Gilead.
+
+<ms style="ts"/>
+<verse eid="SNG 4:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 4:2"/>Your teeth are very white,
+</para>
+  <para style="q2">white like a flock of sheep whose wool people have just cut off
+</para>
+  <para style="q1">and which have just come up from washing in a stream.
+</para>
+  <para style="q1">You have all of your teeth on both sides of your mouth;
+</para>
+  <para style="q2">none of them is missing.
+
+<ms style="ts"/>
+<verse eid="SNG 4:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 4:3"/>Your lips are the color of bright red thread,
+</para>
+  <para style="q2">and your mouth is beautiful.
+</para>
+  <para style="q1">Beneath your veil,
+</para>
+  <para style="q2">your cheeks are round and rosy like the halves of a pomegranate.
+
+<ms style="ts"/>
+<verse eid="SNG 4:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 4:4"/>Your long neck is beautiful like the tower of King David
+</para>
+  <para style="q2">that was built using layers of stone.
+</para>
+  <para style="q1">The beauty of your jeweled neck is like a thousand shields hanging on the walls of a tower;
+</para>
+  <para style="q2">like the beauty of a thousand warrior’s shields hanging from a tower.
+<verse eid="SNG 4:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 4:5"/>Your two breasts are as beautiful as two young twin gazelles
+</para>
+  <para style="q2">that eat grass among lilies.
+
+<ms style="ts"/>
+<verse eid="SNG 4:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 4:6"/>Until the evening breeze blows
+</para>
+  <para style="q2">and the sun sets,
+</para>
+  <para style="q1">I will go to your breasts
+</para>
+  <para style="q2">because they are like two hills that smell like pleasant spices.
+<verse eid="SNG 4:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 4:7"/>My dear one, you are completely beautiful;
+</para>
+  <para style="q2">your body is perfectly formed and has no blemish!
+
+<ms style="ts"/>
+<verse eid="SNG 4:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 4:8"/>Come back to me, my bride. It is as though you are in Lebanon
+</para>
+  <para style="q2">far away, where I cannot reach you.
+</para>
+  <para style="q1">Come back to me.
+</para>
+  <para style="q1">It is as though you are inaccessible on the top of Mount Hermon
+</para>
+  <para style="q2">or the nearby peaks, where I cannot go to you.
+</para>
+  <para style="q1">Come from the mountains, where the lions have their dens
+</para>
+  <para style="q2">and where the leopards live.
+
+<ms style="ts"/>
+<verse eid="SNG 4:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 4:9"/>You who are as dear to me as a sister, my bride,
+</para>
+  <para style="q2">by only once quickly looking at me with your eyes, and by one strand of jewels in your necklace,
+</para>
+  <para style="q2">you have obtained my full affection.
+
+<ms style="ts"/>
+<verse eid="SNG 4:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 4:10"/>You who are as dear to me as a sister, my bride,
+</para>
+  <para style="q2">your love for me is delightful!
+</para>
+  <para style="q2">It is more delightful than wine!
+</para>
+  <para style="q1">The fragrance of your perfume
+</para>
+  <para style="q2">is more pleasing than any spice!
+<verse eid="SNG 4:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 4:11"/>When you kiss me, my bride, it is as delightful as eating honey.
+</para>
+  <para style="q2">Your kisses are as sweet as milk mixed with honey.
+</para>
+  <para style="q2">The aroma of your clothes
+</para>
+  <para style="q2">is like the aroma of cedar trees in Lebanon.
+
+<ms style="ts"/>
+<verse eid="SNG 4:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 4:12"/>You who are as dear to me as a sister, my bride, you are like a garden that the owner keeps locked
+</para>
+  <para style="q2">so that other men cannot enter it;
+</para>
+  <para style="q1">you are like a spring or a fountain that is covered
+</para>
+  <para style="q2">so that others may not drink from it.
+<verse eid="SNG 4:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 4:13"/>You are like an orchard of pomegranate trees
+</para>
+  <para style="q2">full of delicious fruit
+</para>
+  <para style="q2">and plenty of plants that produce henna and nard spices,
+<verse eid="SNG 4:13"/></para>
+  <para style="q2"><verse number="14" style="v" sid="SNG 4:14"/>and saffron and calamus and cinnamon
+</para>
+  <para style="q2">and many other kinds of incense,
+</para>
+  <para style="q2">myrrh and aloes,
+</para>
+  <para style="q2">and many other fine spices.
+
+<ms style="ts"/>
+<verse eid="SNG 4:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="SNG 4:15"/>You are like a spring in a garden,
+</para>
+  <para style="q2">like a well of fresh-flowing water,
+</para>
+  <para style="q2">and like streams that flow down from the mountains of Lebanon.
+<verse eid="SNG 4:15"/></para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="16" style="v" sid="SNG 4:16"/>I want the north wind and the south wind to come
+</para>
+  <para style="q2">and blow on me,
+</para>
+  <para style="q1">so that the fragrance of my body will spread through the air and attract the man I love.
+</para>
+  <para style="q1">You whom I love, I am like your garden.
+</para>
+  <para style="q2">I want you to come and enjoy my body,
+</para>
+  <para style="q2">like someone comes into a garden and enjoys eating the delicious fruit that grows there.
+
+<ms style="ts"/>
+
+<verse eid="SNG 4:16"/><verse eid="SNG 4:16"/></para>
+  <chapter eid="SNG 4"/>
+  <chapter number="5" style="c" sid="SNG 5"/>
+  <para style="sp">The man speaking to the woman he loves
+</para>
+  <para style="q1"><verse number="1" style="v" sid="SNG 5:1"/>You who are as dear to me as a sister, my bride,
+</para>
+  <para style="q2">I am ready to go away with you now and enjoy making love with you.
+</para>
+  <para style="q1">It will be delightful, delightful like when I gather my myrrh with my other spices,
+</para>
+  <para style="q2">as wonderful as eating my honey and honeycomb,
+</para>
+  <para style="q2">and as enjoyable as drinking my wine with milk.
+
+</para>
+  <para style="sp">The women of Jerusalem speaking to the newly married couple
+</para>
+  <para style="q1">Friends, enjoy making love;
+</para>
+  <para style="q2">fully enjoy all that you do with each other.
+
+<ms style="ts"/>
+<verse eid="SNG 5:1"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 5:2"/>I was asleep, and I had a dream.
+</para>
+  <para style="q2">In it I heard the man I love knocking at the door.
+</para>
+  <para style="q1">He said, “You who are as dear to me as a sister, my dear one, you who are like a dove, my flawless one.
+</para>
+  <para style="q2">Open the door for me
+</para>
+  <para style="q1">because my hair is wet from the dew,
+</para>
+  <para style="q2">from the mist that has fallen during the night.”
+
+<ms style="ts"/>
+<verse eid="SNG 5:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 5:3"/>But I had already taken my robe off;
+</para>
+  <para style="q2">I did not want to put it on again to open the door.
+</para>
+  <para style="q1">I had already washed my feet;
+</para>
+  <para style="q2">so I did not want them to get dirty again by answering the door.
+<verse eid="SNG 5:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 5:4"/>The man I love put his hand through the opening in the door,
+</para>
+  <para style="q2">and I was thrilled in my inner being that he was there.
+
+<ms style="ts"/>
+<verse eid="SNG 5:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 5:5"/>I got up to open the door for the man I love,
+</para>
+  <para style="q2">but first I put much myrrh on my hands.
+</para>
+  <para style="q1">The liquid myrrh was dripping from my fingers
+</para>
+  <para style="q2">while I unlatched the bolt.
+
+<ms style="ts"/>
+<verse eid="SNG 5:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 5:6"/>I opened the door for the man I love,
+</para>
+  <para style="q2">but he had left.
+</para>
+  <para style="q1">He had turned away and was gone!
+</para>
+  <para style="q2">I greatly despaired because he was not there.
+</para>
+  <para style="q1">I searched for him, but I could not find him.
+</para>
+  <para style="q2">I called out for him, but he did not answer.
+
+<ms style="ts"/>
+<verse eid="SNG 5:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 5:7"/>The city watchmen saw me while they were walking around the city.
+</para>
+  <para style="q1">They struck me and bruised me
+</para>
+  <para style="q2">because they thought I was a prostitute;
+</para>
+  <para style="q2">those watchmen who were guarding the city walls took my robe that was on me.
+<verse eid="SNG 5:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 5:8"/>You young women of Jerusalem,
+</para>
+  <para style="q2">if you see the man I love, what will you tell him?
+</para>
+  <para style="q1">I want you to solemnly promise me that if you see him,
+</para>
+  <para style="q2">you will tell him that the way he loves me makes me feel lovesick.
+
+<ms style="ts"/>
+<verse eid="SNG 5:8"/></para>
+  <para style="sp">The women of Jerusalem speaking to the woman
+</para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 5:9"/>You who are the most beautiful of all the women,
+</para>
+  <para style="q2">why do you think that the man you love is better than other men?
+</para>
+  <para style="q1">In what way is he better than other men
+</para>
+  <para style="q2">that would cause you to want us to solemnly promise that we will tell him that?
+
+<ms style="ts"/>
+<verse eid="SNG 5:9"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 5:10"/>It is because the man I love is handsome and healthy,
+</para>
+  <para style="q2">outstanding among an uncountable number of other men.
+<verse eid="SNG 5:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 5:11"/>His face is beautiful and gleams like gold; he is as precious as purest gold.
+</para>
+  <para style="q2">His hair is wavy
+</para>
+  <para style="q2">and as black as a raven.
+
+<ms style="ts"/>
+<verse eid="SNG 5:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 5:12"/>His eyes are as gentle and beautiful as doves
+</para>
+  <para style="q2">which are beside streams.
+</para>
+  <para style="q1">His eyes are as white as white doves
+</para>
+  <para style="q2">which are sitting beside pools of water.
+
+<ms style="ts"/>
+<verse eid="SNG 5:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 5:13"/>His cheeks are like a garden where spices grow
+</para>
+  <para style="q2">and like towers where spices are kept.
+</para>
+  <para style="q1">His lips are like lilies
+</para>
+  <para style="q2">that have myrrh dripping from them.
+
+<ms style="ts"/>
+<verse eid="SNG 5:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="SNG 5:14"/>His arms are like round gold rods,
+</para>
+  <para style="q2">that are decorated with precious stones.
+</para>
+  <para style="q1">His abdomen is like ivory
+</para>
+  <para style="q2">that is decorated with sapphires.
+
+<ms style="ts"/>
+<verse eid="SNG 5:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="SNG 5:15"/>His legs are like alabaster columns
+</para>
+  <para style="q2">that are set in bases made of pure gold.
+</para>
+  <para style="q1">He is majestic, like the mountains of Lebanon.
+</para>
+  <para style="q2">He is tall and strong and outstanding like the cedar trees that grow there.
+
+<ms style="ts"/>
+<verse eid="SNG 5:15"/></para>
+  <para style="q1"><verse number="16" style="v" sid="SNG 5:16"/>His kisses are very sweet;
+</para>
+  <para style="q2">he is completely attractive.
+</para>
+  <para style="q1">You young women of Jerusalem,
+</para>
+  <para style="q2">this is what the man I love, who is my friend, is like, and this is why he is better than all other men.
+
+<ms style="ts"/>
+
+<verse eid="SNG 5:16"/><verse eid="SNG 5:16"/></para>
+  <chapter eid="SNG 5"/>
+  <chapter number="6" style="c" sid="SNG 6"/>
+  <para style="sp">The women of Jerusalem speaking to the woman
+</para>
+  <para style="q1"><verse number="1" style="v" sid="SNG 6:1"/>You who are the most beautiful of the women,
+</para>
+  <para style="q2">where has the man you love gone?
+</para>
+  <para style="q1">Tell us which direction he went,
+</para>
+  <para style="q2">and we will go with you to search for him.
+
+<ms style="ts"/>
+<verse eid="SNG 6:1"/></para>
+  <para style="sp">The woman speaking to herself
+</para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 6:2"/>The man who I love has come to me.
+</para>
+  <para style="q2">I am like his garden where pleasant spices grow.
+</para>
+  <para style="q1">He has come to enjoy my body as a gazelle enjoys grazing in a garden and as a person enjoys picking lilies.
+
+<ms style="ts"/>
+<verse eid="SNG 6:2"/><verse number="3" style="v" sid="SNG 6:3"/>I belong to the man I love, and he belongs to me.
+</para>
+  <para style="q2">He feels pleasure when he is near me,
+</para>
+  <para style="q2">as a gazelle does when eating among lilies.
+
+</para>
+  <para style="sp">The man speaking
+
+</para>
+  <ms style="ts"/>
+  <para style="q2">You are as beautiful as the city of Tirzah and as lovely as the city of Jerusalem.
+</para>
+  <para style="q2">You are as exciting and majestic to look at as an army with banners.
+
+<ms style="ts"/>
+<verse eid="SNG 6:3"/></para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 6:5"/>Stop looking at me like that,
+</para>
+  <para style="q2">because your eyes excite me very much.
+</para>
+  <para style="q1">Your long black hair moves from side to side like a flock of black goats
+</para>
+  <para style="q2">moving down the slopes of Mount Gilead.
+
+<ms style="ts"/>
+<verse eid="SNG 6:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 6:6"/>Your teeth are very white,
+</para>
+  <para style="q2">white like a flock of sheep
+</para>
+  <para style="q1">that has just come up from being washed in a stream.
+</para>
+  <para style="q1">You have all of your teeth on both sides of your mouth;
+</para>
+  <para style="q2">none of them is missing.
+
+<ms style="ts"/>
+<verse eid="SNG 6:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 6:7"/>Beneath your veil,
+</para>
+  <para style="q2">your cheeks are round and rosy like the halves of a pomegranate.
+
+<ms style="ts"/>
+<verse eid="SNG 6:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 6:8"/>Even if a king had 60 queens and 80 concubines
+</para>
+  <para style="q2">and more young women in his court than anyone can count,
+<verse eid="SNG 6:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 6:9"/>none of them would be as special as she is. She is like a dove; she is flawless.
+</para>
+  <para style="q2">Her mother considers her to be very special;
+</para>
+  <para style="q2">she is her mother’s favorite child.
+</para>
+  <para style="q1">When the young women of the king’s court see her, they say that she is fortunate,
+</para>
+  <para style="q2">and the queens and concubines praise her.
+
+<ms style="ts"/>
+<verse eid="SNG 6:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 6:10"/>Look at this woman who appears like the dawn,
+</para>
+  <para style="q2">who is as beautiful to look at as the moon,
+</para>
+  <para style="q2">who is radiant like the sun,
+</para>
+  <para style="q2">who is as exciting and majestic to look at as an army with banners!
+
+<ms style="ts"/>
+<verse eid="SNG 6:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 6:11"/>I went down to the walnut tree orchard
+</para>
+  <para style="q2">to look at the new plants that were growing in the valley.
+</para>
+  <para style="q1">I wanted to see if the grapevines had budded
+</para>
+  <para style="q2">and if the pomegranate trees were blooming.
+<verse eid="SNG 6:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 6:12"/>All of a sudden
+</para>
+  <para style="q2">I imagined that I was among the chariots of my noble people.
+
+<ms style="ts"/>
+<verse eid="SNG 6:12"/></para>
+  <para style="sp">The women of Jerusalem speaking
+</para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 6:13"/>Come back to us, beautiful woman from Shulam,
+</para>
+  <para style="q2">come back to us, in order that we may see you!
+
+</para>
+  <para style="sp">The man speaking
+</para>
+  <para style="q1">Why do you want to look at the beautiful woman from Shulam,
+</para>
+  <para style="q2">as if she were a dancer who dances to entertain armies?
+
+<ms style="ts"/>
+
+<verse eid="SNG 6:13"/><verse eid="SNG 6:13"/></para>
+  <chapter eid="SNG 6"/>
+  <chapter number="7" style="c" sid="SNG 7"/>
+  <para style="q1"><verse number="1" style="v" sid="SNG 7:1"/>You who are the daughter of a prince,
+</para>
+  <para style="q2">have very lovely feet in your sandals!
+</para>
+  <para style="q1">Your curved hips are like jewels
+</para>
+  <para style="q2">that have been made by a man who shapes jewels very well.
+
+<ms style="ts"/>
+<verse eid="SNG 7:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 7:2"/>Your navel is like a round bowl
+</para>
+  <para style="q2">that is always full of wine mixed with spices.
+</para>
+  <para style="q1">Your belly is like a pile of wheat
+</para>
+  <para style="q2">with lilies growing around it.
+
+<ms style="ts"/>
+<verse eid="SNG 7:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 7:3"/>Your breasts are as delicate as two young twin gazelles.
+
+<verse eid="SNG 7:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 7:4"/>Your neck is long and beautiful, like a tower made of ivory.
+</para>
+  <para style="q1">Your eyes sparkle like the pools of water in the city of Heshbon,
+</para>
+  <para style="q2">near the Bath Rabbim gate.
+</para>
+  <para style="q1">Your nose is beautiful like the tower in Lebanon
+</para>
+  <para style="q2">that faces Damascus.
+
+<ms style="ts"/>
+<verse eid="SNG 7:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 7:5"/>Your head is majestic like Mount Carmel.
+</para>
+  <para style="q2">Your long hair is shiny and black;
+</para>
+  <para style="q2">it is as though I, your king, am captured by your tresses.
+<verse eid="SNG 7:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 7:6"/>You are very beautiful and very lovely!
+</para>
+  <para style="q2">Loving you is very delightful!
+
+<ms style="ts"/>
+<verse eid="SNG 7:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 7:7"/>You are tall like a palm tree,
+</para>
+  <para style="q2">and your breasts are full and round like date clusters that hang from palm trees.
+<verse eid="SNG 7:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 7:8"/>I said to myself, “I will climb that palm tree
+</para>
+  <para style="q2">and take hold of those clusters of dates.”
+</para>
+  <para style="q1">I want your breasts to be like sweet bunches of grapes that I can enjoy;
+</para>
+  <para style="q2">I want your breath to be like the sweet fragrance of apples.
+
+<ms style="ts"/>
+<verse eid="SNG 7:8"/><verse number="9" style="v" sid="SNG 7:9"/>I want your kisses to be like very good wine.
+
+</para>
+  <para style="sp">The woman speaking to the man she loves
+</para>
+  <para style="q1">When I kiss you, the man whom I love,
+</para>
+  <para style="q2">I want my kisses to be as if you are freely drinking wine,
+</para>
+  <para style="q2">and as if wine is flowing over our lips as we sleep together.
+
+<ms style="ts"/>
+<verse eid="SNG 7:9"/><verse number="10" style="v" sid="SNG 7:10"/>I belong to the man I love,
+</para>
+  <para style="q2">and he desires me.
+<verse eid="SNG 7:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 7:11"/>You whom I love, come with me, and let us go to the countryside,
+</para>
+  <para style="q2">and sleep in one of the villages.
+
+<ms style="ts"/>
+<verse eid="SNG 7:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 7:12"/>And let us go early to the vineyards
+</para>
+  <para style="q2">to see if the grapevines have budded
+</para>
+  <para style="q2">and if there are blossoms on them that have opened,
+</para>
+  <para style="q1">and to see if the pomegranate trees are blooming,
+</para>
+  <para style="q2">and there I will have sexual relations with you.
+
+<ms style="ts"/>
+<verse eid="SNG 7:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 7:13"/>The mandrake plants are producing a fragrant scent,
+</para>
+  <para style="q2">and the pleasures we will experience as we express our love for each other will be like choice fruits that have been stored,
+</para>
+  <para style="q1">new ones and old ones.
+</para>
+  <para style="q2">You whom I love, I have reserved my love for you as if I were storing choice fruit.
+
+<ms style="ts"/>
+
+<verse eid="SNG 7:13"/><verse eid="SNG 7:13"/></para>
+  <chapter eid="SNG 7"/>
+  <chapter number="8" style="c" sid="SNG 8"/>
+  <para style="q1"><verse number="1" style="v" sid="SNG 8:1"/>I wish that you were like my brother,
+</para>
+  <para style="q1">my own brother, who nursed from my mother’s breasts when he was a baby.
+</para>
+  <para style="q2">Because then, whenever I met you outside the house, I could kiss you,
+</para>
+  <para style="q1">and no one would criticize me.
+
+<ms style="ts"/>
+<verse eid="SNG 8:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="SNG 8:2"/>I would like to bring you to my mother’s house,
+</para>
+  <para style="q2">to where my mother, who taught me so many things, lives.
+</para>
+  <para style="q1">I would like to take you to my mother’s house so I could have sexual relations with you there.
+</para>
+  <para style="q1">Having sexual relations with you would be as if I were giving you spiced wine to drink, as if I were giving you sweet pomegranate wine.
+
+<verse eid="SNG 8:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="SNG 8:3"/>The man I love has placed his left arm under my head
+</para>
+  <para style="q2">and he holds me close with his right arm.
+
+<ms style="ts"/>
+<verse eid="SNG 8:3"/></para>
+  <para style="sp">The woman speaking to the women of Jerusalem
+</para>
+  <para style="q1"><verse number="4" style="v" sid="SNG 8:4"/>You young women of Jerusalem,
+</para>
+  <para style="q2">I want you to solemnly promise me,
+</para>
+  <para style="q1">that you will not cause people to love romantically
+</para>
+  <para style="q2">until it is the right time.
+
+<ms style="ts"/>
+<verse eid="SNG 8:4"/></para>
+  <para style="sp">The women of Jerusalem speaking
+</para>
+  <para style="q1"><verse number="5" style="v" sid="SNG 8:5"/>Look at this woman who is coming up from the wilderness,
+</para>
+  <para style="q2">the woman who is leaning on the man she loves!
+
+</para>
+  <para style="sp">The young woman speaking to the man she loves
+</para>
+  <para style="q1">I woke you up when you were under the apple tree
+</para>
+  <para style="q2">at the place where your mother gave birth to you,
+</para>
+  <para style="q2">the place where you were born.
+
+<ms style="ts"/>
+<verse eid="SNG 8:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="SNG 8:6"/>Keep me close to you,
+</para>
+  <para style="q2">like a seal that rests against your chest as it hangs down from its cord,
+</para>
+  <para style="q1">or like a seal worn on your bracelet.
+</para>
+  <para style="q1">The strength with which I love you is as powerful as the strength of death;
+</para>
+  <para style="q2">it is as strong as the grave.
+</para>
+  <para style="q1">It is as though our love for each other bursts into flames,
+</para>
+  <para style="q2">and as though our love is the lightning that Yahweh creates.
+
+<ms style="ts"/>
+<verse eid="SNG 8:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="SNG 8:7"/>We love each other so deeply,
+</para>
+  <para style="q2">that how we love each other can be compared to a strong fire that no river or flood can put out.
+</para>
+  <para style="q1">If a man tried to cause a woman to love him by saying he would give her everything that he owns,
+</para>
+  <para style="q2">she would refuse.
+
+<ms style="ts"/>
+<verse eid="SNG 8:7"/></para>
+  <para style="sp">The young woman’s brothers speaking among themselves
+</para>
+  <para style="q1"><verse number="8" style="v" sid="SNG 8:8"/>We have a young sister,
+</para>
+  <para style="q2">and her breasts are not large yet.
+</para>
+  <para style="q1">What should we do for her at the time that we promise some young man that he can marry her?
+
+<ms style="ts"/>
+<verse eid="SNG 8:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="SNG 8:9"/>We will protect her virginity,
+</para>
+  <para style="q2">as if we were soldiers building a battlement of silver to protect a wall.
+</para>
+  <para style="q1">We will protect her virginity,
+</para>
+  <para style="q2">like we would protect a door from intruders by covering it with boards made of cedar wood.
+
+<ms style="ts"/>
+<verse eid="SNG 8:9"/></para>
+  <para style="sp">The woman speaking
+</para>
+  <para style="q1"><verse number="10" style="v" sid="SNG 8:10"/>Like a wall that allows no one to enter, I have remained a virgin and let no man come into me;
+</para>
+  <para style="q2">but now my breasts are large like towers.
+</para>
+  <para style="q1">So I am delightful to my beloved.
+
+<ms style="ts"/>
+<verse eid="SNG 8:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="SNG 8:11"/>King Solomon had a vineyard at a place called Baal Hamon,
+</para>
+  <para style="q1">and he rented it to people for them to farm it.
+</para>
+  <para style="q2">He required each one to pay him one thousand pieces of silver each year for the grapes that they harvested.
+<verse eid="SNG 8:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="SNG 8:12"/>But my body is like my own vineyard, which is mine to give to the man whom I choose.
+</para>
+  <para style="q1">Solomon can keep the one thousand pieces of silver that he receives from renting his vineyard,
+</para>
+  <para style="q2">and the farmers who take care of it for him can keep the two hundred pieces of silver he pays them.
+
+<ms style="ts"/>
+<verse eid="SNG 8:12"/></para>
+  <para style="sp">The man speaking to the woman he loves
+</para>
+  <para style="q1"><verse number="13" style="v" sid="SNG 8:13"/>You, the woman I love, who are staying in the gardens,
+</para>
+  <para style="q2">my friends are eagerly listening so that they can hear you speak;
+</para>
+  <para style="q2">speak to me!
+
+<ms style="ts"/>
+<verse eid="SNG 8:13"/></para>
+  <para style="sp">The young woman speaking to the man she loves
+</para>
+  <para style="q1"><verse number="14" style="v" sid="SNG 8:14"/>You whom I love, come to me quickly!
+</para>
+  <para style="q2">Run to me like a gazelle or a young male deer
+</para>
+  <para style="q1">runs across mountains where spices grow.
+<verse eid="SNG 8:14"/></para>
+  <chapter eid="SNG 8"/>
 </usx>

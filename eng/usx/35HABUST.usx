@@ -1,70 +1,426 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="HAB" style="id">- unfoldingWord Simplified -</book>
-<para style="h">Habakkuk</para>
-<para style="toc1">Habakkuk</para>
-<para style="toc2">Habakkuk</para>
-<para style="mt1">Habakkuk</para>
-<chapter number="1" style="c" sid="HAB 1"/>
-<para style="p"><verse number="1" style="v" sid="HAB 1:1"/>This is the conversation between Habakkuk the prophet and Yahweh.<verse eid="HAB 1:1"/></para>
-<para style="p"><verse number="2" style="v" sid="HAB 1:2"/>I said, “Yahweh, how long must I continue to call to you for help before you respond? I cry out, “The people are acting so violently!” but you do not rescue me!<verse eid="HAB 1:2"/></para>
-<para style="p"><verse number="3" style="v" sid="HAB 1:3"/>Why do you make me watch people do what is wrong, but you do nothing? I see people destroying things and acting violently; they fight and quarrel everywhere.<verse eid="HAB 1:3"/></para>
-<para style="p"><verse number="4" style="v" sid="HAB 1:4"/>No one obeys the law of Moses, and no one acts in a right way for very long. Wicked people always defeat the righteous people in the courts, because judges never make fair decisions.”<verse eid="HAB 1:4"/></para>
-<para style="p"><verse number="5" style="v" sid="HAB 1:5"/>Yahweh replied to me, “This is happening, but look around at what is happening in the other nations. If you look, you will be amazed, and even astonished, since I am doing something during this time that you would never have believed would happen, even if someone told you about it.<verse eid="HAB 1:5"/></para>
-<para style="p"><verse number="6" style="v" sid="HAB 1:6"/>Very soon I will bring the soldiers of Babylonia, who are fierce and swift. They will march across the entire earth and conquer many other countries.<verse eid="HAB 1:6"/></para>
-<para style="p"><verse number="7" style="v" sid="HAB 1:7"/>They are a people whom others fear very much, and they do whatever they want to, because they believe that they are very great and that they have the right to judge everyone else.<verse eid="HAB 1:7"/></para>
-<para style="p"><verse number="8" style="v" sid="HAB 1:8"/>The horses that pull their chariots go faster than leopards, and they are fiercer than wolves are in the evening. The horses on which the soldiers ride gallop swiftly; the soldiers riding them come from distant places. They are like eagles that swoop down to snatch their prey.<verse eid="HAB 1:8"/></para>
-<para style="p"><verse number="9" style="v" sid="HAB 1:9"/>As they ride along, they are determined to act violently. They advance eagerly, as fast as the wind over the desert, and gather up as many prisoners as there are grains of sand!<verse eid="HAB 1:9"/></para>
-<para style="p"><verse number="10" style="v" sid="HAB 1:10"/>They make fun of kings and princes of other countries, and they ridicule all the cities that have high walls around them. They pile up earth around those cities to capture them.<verse eid="HAB 1:10"/></para>
-<para style="p"><verse number="11" style="v" sid="HAB 1:11"/>They rush past like the wind, and then they go to attack other cities. But they are very guilty, because they think that their own power is their god!”<verse eid="HAB 1:11"/></para>
-<para style="p"><verse number="12" style="v" sid="HAB 1:12"/>Then I said, “Yahweh, are you not the eternal God? You are my Holy One, so we will not die. So why have you sent those men from Babylonia to judge us and kill us? You are like our Rock, on top of which we can hide, so why have you sent them to punish us?<verse eid="HAB 1:12"/></para>
-<para style="p"><verse number="13" style="v" sid="HAB 1:13"/>You are pure, and you cannot endure looking at what is evil, so why are you ignoring men who are treacherous? Why do you do nothing to punish those wicked men from Babylonia, who destroy people who are more righteous than they are?<verse eid="HAB 1:13"/></para>
-<para style="p"><verse number="14" style="v" sid="HAB 1:14"/>They treat us like fish in the sea, or like other creatures in the sea, that have no ruler.<verse eid="HAB 1:14"/></para>
-<para style="p"><verse number="15" style="v" sid="HAB 1:15"/>The soldiers of Babylonia think that we are fish for them to pull out of the sea with hooks or to catch in their nets, while they rejoice and celebrate.<verse eid="HAB 1:15"/></para>
-<para style="p"><verse number="16" style="v" sid="HAB 1:16"/>If they catch us, they will worship their weapons with which they captured us and offer sacrifices to them and burn incense in front of them! They will say, ‘These weapons have enabled us to become rich and eat expensive food.’<verse eid="HAB 1:16"/></para>
-<para style="p"><verse number="17" style="v" sid="HAB 1:17"/>Will you allow them to continue to conquer people forever? Will you allow them to destroy people of other nations without any mercy for anyone?”<verse eid="HAB 1:17"/></para>
-<chapter eid="HAB 1"/>
-<chapter number="2" style="c" sid="HAB 2"/>
-<para style="p"><verse number="1" style="v" sid="HAB 2:1"/>After I said that, I said to myself, “I will climb up into my guard post, and stand there in my watchtower. I will wait there to find out what Yahweh will say, what he will reply and how I should answer.”<verse eid="HAB 2:1"/></para>
-<para style="p"><verse number="2" style="v" sid="HAB 2:2"/>Then Yahweh replied to me, “Write plainly on tablets what I am revealing to you in this vision, and then read it to a messenger so he can run with it to tell it to other people.<verse eid="HAB 2:2"/></para>
-<para style="p"><verse number="3" style="v" sid="HAB 2:3"/>In this vision I will talk about things that will happen in the future. Now is not the time when those things will happen, but they certainly will happen, and when they occur, they will occur quickly, and they will not be delayed. You want those things to happen immediately, but they are not happening. But wait patiently for them to happen!<verse eid="HAB 2:3"/></para>
-<para style="p"><verse number="4" style="v" sid="HAB 2:4"/>Think about the proud people! They are certainly not doing what is righteous. But people who are righteous will live because they faithfully do what I want them to do.<verse eid="HAB 2:4"/></para>
-<para style="p"><verse number="5" style="v" sid="HAB 2:5"/>If people live for excess such as wine, they will deceive themselves, and proud people are never able to rest. Greedy people open their mouths as wide as the place where dead people are, and they never have enough, just like the place of the dead never has enough dead people. The armies of Babylonia conquer many nations for themselves, and capture all their people.<verse eid="HAB 2:5"/></para>
-<para style="p"><verse number="6" style="v" sid="HAB 2:6"/>But soon all those whom they have captured will ridicule the soldiers from Babylonia! They will make fun of them, saying, ‘Terrible things will happen to you who have stolen things from other countries! You got many things by forcing people to give them to you. But you certainly will not keep those things for long!’<verse eid="HAB 2:6"/></para>
-<para style="p"><verse number="7" style="v" sid="HAB 2:7"/>Suddenly those whom you forced to be unjustly indebted to you will rise up and cause you to tremble, and they will take away all the things that you have stolen from them.<verse eid="HAB 2:7"/></para>
-<para style="p"><verse number="8" style="v" sid="HAB 2:8"/>You stole things from the people of many nations. You murdered people of many people groups, and you destroyed their land and their cities. So those who are still alive will steal valuable things from you.<verse eid="HAB 2:8"/></para>
-<para style="p"><verse number="9" style="v" sid="HAB 2:9"/>Terrible things will happen to you people of Babylonia who build big houses with money that you got by forcing others to give it to you. You are proud, and you think that your houses will be safe because you have built them in places where you can easily defend them.<verse eid="HAB 2:9"/></para>
-<para style="p"><verse number="10" style="v" sid="HAB 2:10"/>But because you have destroyed others, you have caused your family and yourselves shame!<verse eid="HAB 2:10"/></para>
-<para style="p"><verse number="11" style="v" sid="HAB 2:11"/>The stones in the walls of your houses cry out to accuse you, and the beams in your ceilings also say the same things!<verse eid="HAB 2:11"/></para>
-<para style="p"><verse number="12" style="v" sid="HAB 2:12"/>Terrible things will happen to you people of Babylonia who kill people in order to build cities, cities that you build by using money that you have gotten by committing crimes.<verse eid="HAB 2:12"/></para>
-<para style="p"><verse number="13" style="v" sid="HAB 2:13"/>But Yahweh, commander of the angel armies, has declared that everything that is built by people who do things like that will be destroyed by fire; they will have worked hard uselessly.<verse eid="HAB 2:13"/></para>
-<para style="p"><verse number="14" style="v" sid="HAB 2:14"/>But in contrast, like the oceans are filled with water, the earth will be filled with people who know that Yahweh is very great!<verse eid="HAB 2:14"/></para>
-<para style="p"><verse number="15" style="v" sid="HAB 2:15"/>Terrible things will happen to you people of Babylonia, who cause people who live in nearby countries to become drunk. You force them to drink a lot of drugged wine until they are drunk and then they walk around naked because you are happy when you see that.<verse eid="HAB 2:15"/></para>
-<para style="p"><verse number="16" style="v" sid="HAB 2:16"/>But you are the ones who soon will be disgraced instead of being honored. It will be as though you are forced to drink a lot of wine until you will also stagger around, drunk. You will drink the wine that symbolizes that Yahweh will punish you, and he will cause others to dishonor you instead of honoring you.<verse eid="HAB 2:16"/></para>
-<para style="p"><verse number="17" style="v" sid="HAB 2:17"/>You did violent things to the people in Lebanon, and you killed the wild animals there, but you will be punished severely for doing that. You have killed many people and you have destroyed their lands and their cities.<verse eid="HAB 2:17"/></para>
-<para style="p"><verse number="18" style="v" sid="HAB 2:18"/>You people of Babylonia need to know that your idols are completely useless, because it is people who made them. Statues that have been carved or made in a mold deceive you. Those who trust in idols are trusting in things that they themselves created, things that cannot speak!<verse eid="HAB 2:18"/></para>
-<para style="p"><verse number="19" style="v" sid="HAB 2:19"/>Terrible things will happen to you who say to lifeless idols that are made of wood, ‘Wake up!’ Stone idols certainly cannot tell you what you should do; they look nice because they are covered with silver and gold, but they are not alive.<verse eid="HAB 2:19"/></para>
-<para style="p"><verse number="20" style="v" sid="HAB 2:20"/>But Yahweh is in his holy temple; everyone on the earth should be silent in his presence!”<verse eid="HAB 2:20"/></para>
-<chapter eid="HAB 2"/>
-<chapter number="3" style="c" sid="HAB 3"/>
-<para style="p"><verse number="1" style="v" sid="HAB 3:1"/>A prayer of Habakkuk the prophet.<verse eid="HAB 3:1"/></para>
-<para style="p"><verse number="2" style="v" sid="HAB 3:2"/>Yahweh, I have heard about you; and I revere you because of all the amazing things that you have done. In our time, do again some of those things that you did long ago! Even when you are angry with us, act mercifully toward us!<verse eid="HAB 3:2"/></para>
-<para style="p"><verse number="3" style="v" sid="HAB 3:3"/>In a vision, I saw God, the Holy One, coming from the region of Teman in Edom; I also saw him coming from the Paran hills in the region of Sinai. His glory filled the sky, and the earth was full of people who were praising him.<verse eid="HAB 3:3"/></para>
-<para style="p"><verse number="4" style="v" sid="HAB 3:4"/>His glory was like the sunrise; rays flashed from his hands where he keeps his power.<verse eid="HAB 3:4"/></para>
-<para style="p"><verse number="5" style="v" sid="HAB 3:5"/>He sent plagues in front of him, and other plagues came behind him.<verse eid="HAB 3:5"/></para>
-<para style="p"><verse number="6" style="v" sid="HAB 3:6"/>When he stopped, the earth shook. When he looked at the nations, all the people trembled. The hills and mountains that have existed since the beginning of time collapsed and crumbled. He is the only one who exists eternally!<verse eid="HAB 3:6"/></para>
-<para style="p"><verse number="7" style="v" sid="HAB 3:7"/>In the vision I saw the people who live in tents in the region of Cushan were very afraid, and the people in the region of Midian were trembling.<verse eid="HAB 3:7"/></para>
-<para style="p"><verse number="8" style="v" sid="HAB 3:8"/>Yahweh, was it because you were angry with the rivers and streams that you struck them? Did the seas cause you to be furious, with the result that you rode through them with horses that were pulling chariots that you used to bring victory to your cause?<verse eid="HAB 3:8"/></para>
-<para style="p"><verse number="9" style="v" sid="HAB 3:9"/>It was as though you uncovered your bow and prepared to shoot it, and had grasped arrows to put to your bow. Then you split open the earth, and streams burst out.<verse eid="HAB 3:9"/></para>
-<para style="p"><verse number="10" style="v" sid="HAB 3:10"/>It is as though the mountains saw you doing that, and they trembled in pain. The water rushed by in floods; it was as though the deep ocean roared and caused its waves to rise up high.<verse eid="HAB 3:10"/></para>
-<para style="p"><verse number="11" style="v" sid="HAB 3:11"/>The sun and moon stopped moving in the sky, while your lightning flashed past like a swift arrow, and your glittering spear flashed.<verse eid="HAB 3:11"/></para>
-<para style="p"><verse number="12" style="v" sid="HAB 3:12"/>Being very angry, you walked across the earth and trampled the armies of many nations!<verse eid="HAB 3:12"/></para>
-<para style="p"><verse number="13" style="v" sid="HAB 3:13"/>But you also went to rescue your people, and to save the one whom you have chosen. You struck down the leader of those wicked people and took away all his power completely.<verse eid="HAB 3:13"/></para>
-<para style="p"><verse number="14" style="v" sid="HAB 3:14"/>With his own spear you destroyed the leader of those soldiers who rushed like a whirlwind to attack and scatter us, thinking that they could conquer us as easily as they defeat the weak people who hide from them.<verse eid="HAB 3:14"/></para>
-<para style="p"><verse number="15" style="v" sid="HAB 3:15"/>You walked through the sea with your horses to destroy our enemies, and caused the waves to surge.<verse eid="HAB 3:15"/></para>
-<para style="p"><verse number="16" style="v" sid="HAB 3:16"/>When I saw that vision, my heart pounded and my lips quivered because I became afraid. My legs became weak and I shook, because I was terrified. But I will wait quietly for the people of Babylonia, those who invaded our country, to experience disasters!<verse eid="HAB 3:16"/></para>
-<para style="p"><verse number="17" style="v" sid="HAB 3:17"/>Therefore, even if there are no blossoms on the fig trees, and there are no grapes on the grapevines, and even if there are no olives growing on the olive trees, and there are no crops in the fields, and even if the flocks of sheep and goats die in the fields, and there are no cattle in the stalls, this is what I will do.<verse eid="HAB 3:17"/></para>
-<para style="p"><verse number="18" style="v" sid="HAB 3:18"/>I will rejoice because of Yahweh! I will be joyful because my God is the one who saves me!<verse eid="HAB 3:18"/></para>
-<para style="p"><verse number="19" style="v" sid="HAB 3:19"/>Yahweh the Lord is the one who gives me strength, and he enables me to climb safely like a deer does, he makes me walk on my high hills. (This message is for the choir director: When this prayer is sung, it is to be accompanied by people playing stringed instruments.)<verse eid="HAB 3:19"/></para>
-<chapter eid="HAB 3"/>
+  <book code="HAB" style="id">EN_UST en_English_ltr Wed Sep 09 2020 13:10:03 GMT-0500 (Central Daylight Time) tc</book>
+  <para style="ide">UTF-8
+</para>
+  <para style="h">Habakkuk
+</para>
+  <para style="toc1">The Book of Habakkuk
+</para>
+  <para style="toc2">Habakkuk
+</para>
+  <para style="toc3">Hab
+</para>
+  <para style="mt1">Habakkuk
+
+</para>
+  <ms style="ts"/>
+  <chapter number="1" style="c" sid="HAB 1"/>
+  <para style="p"><verse number="1" style="v" sid="HAB 1:1"/>I am Habakkuk the prophet. This is the message that Yahweh gave me in a vision.
+<verse eid="HAB 1:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="HAB 1:2"/>I said, “Yahweh, how long must I keep praying to you for help
+</para>
+  <para style="q2">before you respond?
+</para>
+  <para style="q1">I ask you to rescue us from people who are acting violently everywhere,
+</para>
+  <para style="q2">but you do not rescue us!
+<verse eid="HAB 1:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="HAB 1:3"/>Why do you make me keep seeing people doing evil?
+</para>
+  <para style="q2">Why do you not punish people who are doing what is wrong?
+</para>
+  <para style="q1">I see people destroying things and acting violently,
+</para>
+  <para style="q2">and there is fighting and quarreling everywhere.
+<verse eid="HAB 1:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="HAB 1:4"/>No one obeys your instruction,
+</para>
+  <para style="q2">and judges never decide cases fairly.
+</para>
+  <para style="q1">Wicked people always defeat righteous people in the courts,
+</para>
+  <para style="q2">so that no one ever gets justice.”
+<verse eid="HAB 1:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="HAB 1:5"/>Yahweh replied to me, “Look at the completely amazing thing happening among the other nations;
+</para>
+  <para style="q2">you will be astounded,
+</para>
+  <para style="q1">because I am doing something during this time that you would not believe
+</para>
+  <para style="q2">even if someone told you about it.
+<verse eid="HAB 1:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="HAB 1:6"/>I am making the Chaldeans powerful; they are fierce and swift soldiers.
+</para>
+  <para style="q2">They will march across the entire earth
+</para>
+  <para style="q1">and conquer countries that do not belong to them.
+<verse eid="HAB 1:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="HAB 1:7"/>They are terrifying people
+</para>
+  <para style="q2">who do whatever they want
+</para>
+  <para style="q2">and pay no attention to the laws of other countries.
+<verse eid="HAB 1:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="HAB 1:8"/>Their horses are faster than leopards
+</para>
+  <para style="q2">and fiercer than wolves at night.
+</para>
+  <para style="q1">Their horsemen gallop swiftly from distant places;
+</para>
+  <para style="q2">they swoop down like eagles rushing to kill their prey.
+<verse eid="HAB 1:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="HAB 1:9"/>They all advance with the purpose of acting violently.
+</para>
+  <para style="q1">They advance like a desert wind,
+</para>
+  <para style="q2">gathering prisoners as numerous as grains of sand.
+<verse eid="HAB 1:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="HAB 1:10"/>They mock the kings and rulers of other countries
+</para>
+  <para style="q2">and laugh at all the cities with high walls.
+</para>
+  <para style="q1">They pile up dirt against those walls
+</para>
+  <para style="q2">and climb up to capture those cities.
+<verse eid="HAB 1:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="HAB 1:11"/>They rush past like the wind and move on.
+</para>
+  <para style="q2">But they are very guilty,
+</para>
+  <para style="q1">because they think that their own military power is their god.”
+<verse eid="HAB 1:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="HAB 1:12"/>Then I said, 
+“Yahweh, you have always been God from ancient times.
+</para>
+  <para style="q2">You are my Holy One; we will not die.
+</para>
+  <para style="q1">You have appointed the Chaldeans to judge us and punish us.
+</para>
+  <para style="q2">You are our Rock, and you have sent them to correct us.
+<verse eid="HAB 1:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="HAB 1:13"/>You are pure, and you cannot endure seeing evil,
+</para>
+  <para style="q2">so why are you tolerating treacherous people?
+</para>
+  <para style="q1">Why do you say nothing
+</para>
+  <para style="q2">when wicked people destroy people who are more righteous than they are?
+<verse eid="HAB 1:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="HAB 1:14"/>You treat us like fish in the sea
+</para>
+  <para style="q2">or like other sea creatures that have no one to rule over them.
+<verse eid="HAB 1:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="HAB 1:15"/>The soldiers of Chaldea treat us like fish; they pull us out with hooks
+</para>
+  <para style="q2">or catch us in their nets,
+</para>
+  <para style="q2">and they rejoice and celebrate.
+<verse eid="HAB 1:15"/></para>
+  <para style="q1"><verse number="16" style="v" sid="HAB 1:16"/>They worship the weapons with which they capture people and offer sacrifices to them
+</para>
+  <para style="q2">and burn incense in front of them. They say, 
+‘Those weapons have enabled us to become rich and eat expensive food.’
+<verse eid="HAB 1:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="HAB 1:17"/>Will you allow them to keep conquering people?
+</para>
+  <para style="q2">Will you allow them to keep destroying people of other nations without showing any mercy?”
+
+
+<verse eid="HAB 1:17"/><verse eid="HAB 1:17"/></para>
+  <chapter eid="HAB 1"/>
+  <chapter number="2" style="c" sid="HAB 2"/>
+  <para style="q1"><verse number="1" style="v" sid="HAB 2:1"/>After I said that, I said to myself,
+“I will climb up into my guard post,
+</para>
+  <para style="q2">and stand there in my watchtower.
+</para>
+  <para style="q1">I will wait there to find out what Yahweh will say,
+</para>
+  <para style="q2">to know how I should answer.”
+
+<verse eid="HAB 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="HAB 2:2"/>Then Yahweh replied to me,
+</para>
+  <para style="q1">“Write plainly on tablets what I am revealing to you in this vision,
+</para>
+  <para style="q2">and then read it to a messenger
+</para>
+  <para style="q2">so he can run with it to tell it to other people.
+<verse eid="HAB 2:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="HAB 2:3"/>In this vision I will talk about things that will happen when I decide.
+</para>
+  <para style="q1">They will certainly happen in the future, I do not lie.
+
+</para>
+  <para style="q1">You want those things to happen immediately, but they are not happening.
+</para>
+  <para style="q2">But wait patiently for them to happen!
+
+</para>
+  <para style="q2">When they occur, they will occur quickly,
+</para>
+  <para style="q2">and not slowly.
+<verse eid="HAB 2:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="HAB 2:4"/>Think about the people in that proud nation!
+</para>
+  <para style="q2">They are certainly not doing what is righteous.
+</para>
+  <para style="q1">But people who are righteous will live
+</para>
+  <para style="q2">because they faithfully do what I want them to do.
+<verse eid="HAB 2:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="HAB 2:5"/>Drunk armies are foolish,
+</para>
+  <para style="q2">they cannot stop pillaging.
+</para>
+  <para style="q1">No matter how much they kill and steal, they want more.
+</para>
+  <para style="q2">They will conquer every people group they encounter.
+<verse eid="HAB 2:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="HAB 2:6"/>But soon all those whom they have captured will ridicule the soldiers from Babylonia!
+</para>
+  <para style="q1">They will make fun of them, saying,
+</para>
+  <para style="q2">‘Terrible things will happen to you who have stolen things from other countries!
+</para>
+  <para style="q1">You got many things by forcing people to give them to you.
+</para>
+  <para style="q2">But you certainly will not keep those things for long!’
+<verse eid="HAB 2:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="HAB 2:7"/>Suddenly those you owe a debt to because you pillaged them will come to pillage you.
+</para>
+  <para style="q2">You will be afraid.
+</para>
+  <para style="q2">They will recapture all the things that you stole from them.
+<verse eid="HAB 2:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="HAB 2:8"/>You stole things from the people of many nations.
+</para>
+  <para style="q1">You murdered people of many people groups,
+</para>
+  <para style="q2">and you destroyed their land and their cities.
+</para>
+  <para style="q1">So those who are still alive will steal valuable things from you.
+<verse eid="HAB 2:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="HAB 2:9"/>Terrible things will happen to you people of Babylonia who build big houses
+</para>
+  <para style="q2">with money that you got by forcing others to give it to you.
+</para>
+  <para style="q1">You are proud, and you think that your houses will be safe
+</para>
+  <para style="q2">because you have built them in places where you can easily defend them.
+<verse eid="HAB 2:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="HAB 2:10"/>But because you have destroyed others,
+</para>
+  <para style="q2">you have harmed yourself and disgraced your own family!
+<verse eid="HAB 2:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="HAB 2:11"/>The very stones in the walls of your houses
+</para>
+  <para style="q2">and the wooden beams in your ceilings show that you did evil things to get them
+<verse eid="HAB 2:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="HAB 2:12"/>Terrible things will happen to you people of Babylonia who kill people in order to build cities,
+</para>
+  <para style="q2">cities that you build by using money that you have gotten by committing crimes.
+<verse eid="HAB 2:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="HAB 2:13"/>But Yahweh, commander of the angel armies, has declared that fire will destroy everything built by people who do things like that;
+</para>
+  <para style="q2">they will have worked hard uselessly.
+<verse eid="HAB 2:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="HAB 2:14"/>But in contrast, just as water fills the oceans,
+</para>
+  <para style="q2">Yahweh will fill the earth with people who know how glorious he is.
+<verse eid="HAB 2:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="HAB 2:15"/>Terrible things will happen to you people of Babylonia,
+</para>
+  <para style="q2">who cause people who live in nearby countries to become drunk.
+</para>
+  <para style="q1">You force them to drink a lot of drugged wine
+</para>
+  <para style="q2">until they are drunk and then they walk around naked
+</para>
+  <para style="q2">because you are happy when you see that.
+<verse eid="HAB 2:15"/></para>
+  <para style="q1"><verse number="16" style="v" sid="HAB 2:16"/>But you are the ones whom Yahweh will soon disgrace instead of honor.
+</para>
+  <para style="q2">Yahweh will make you drink so much wine that you will also stagger around drunk and naked.
+</para>
+  <para style="q1">Yahweh will powerfully judge and curse you,
+</para>
+  <para style="q2">and everyone will see that you are weak and not strong.
+<verse eid="HAB 2:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="HAB 2:17"/>You did violent things to the people in Lebanon,
+</para>
+  <para style="q2">and you killed the wild animals there,
+</para>
+  <para style="q1">so you will be punished severely for doing that.
+</para>
+  <para style="q1">You have killed many people
+</para>
+  <para style="q2">and you have destroyed their lands and their cities.
+<verse eid="HAB 2:17"/></para>
+  <para style="q1"><verse number="18" style="v" sid="HAB 2:18"/>An idol that someone carves or casts from metal does not help anyone at all;
+</para>
+  <para style="q2">it only deceives the people who trust it.
+</para>
+  <para style="q1">The person who makes an idol trusts something that he himself created,
+</para>
+  <para style="q2">something that cannot even speak!
+<verse eid="HAB 2:18"/><verse number="19" style="v" sid="HAB 2:19"/>Terrible things will happen to you who say to lifeless idols that are made of wood or rock,
+</para>
+  <para style="q2">‘Wake up!’
+</para>
+  <para style="q1">Stone idols certainly cannot tell you what you should do;
+</para>
+  <para style="q2">they look nice because they are covered with silver and gold,
+</para>
+  <para style="q2">but they are not alive.
+<verse eid="HAB 2:19"/></para>
+  <para style="q1"><verse number="20" style="v" sid="HAB 2:20"/>But Yahweh is in his holy temple;
+</para>
+  <para style="q2">everyone on the earth should be silent in his presence!”
+
+
+<verse eid="HAB 2:20"/><verse eid="HAB 2:20"/></para>
+  <chapter eid="HAB 2"/>
+  <chapter number="3" style="c" sid="HAB 3"/>
+  <para style="p"><verse number="1" style="v" sid="HAB 3:1"/>Habakkuk the prophet prayed this prayer, set to the tune called Shigyonoth.
+
+<verse eid="HAB 3:1"/></para>
+  <para style="b"/>
+  <para style="q1"><verse number="2" style="v" sid="HAB 3:2"/>Yahweh, I have heard reports about what you have done,
+</para>
+  <para style="q2">and I am in awe of all you have done.
+</para>
+  <para style="q1">Do again in our time what you did long ago!
+</para>
+  <para style="q2">Even when you are angry with us,
+</para>
+  <para style="q1">act mercifully toward us!
+
+<verse eid="HAB 3:2"/></para>
+  <para style="b"/>
+  <para style="q1"><verse number="3" style="v" sid="HAB 3:3"/>God came from Teman,
+</para>
+  <para style="q2">and the Holy One came from Mount Paran.
+</para>
+  <para style="q1">His glory covered the sky,
+</para>
+  <para style="q2">and praise for him filled the whole earth.
+<verse eid="HAB 3:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="HAB 3:4"/>He shone like the sunrise;
+</para>
+  <para style="q2">his rays of light flashed from his hands,
+</para>
+  <para style="q2">and that is where he conceals his awesome power.
+<verse eid="HAB 3:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="HAB 3:5"/>Sickness went ahead of him like a soldier,
+</para>
+  <para style="q2">and burning disease followed behind him.
+<verse eid="HAB 3:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="HAB 3:6"/>He stopped and surveyed the earth.
+</para>
+  <para style="q2">He looked at the nations and made them tremble.
+</para>
+  <para style="q1">The mountains that have existed from the beginning of time collapsed;
+</para>
+  <para style="q2">the ancient hills crumbled.
+</para>
+  <para style="q1">He has always existed and always will.
+<verse eid="HAB 3:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="HAB 3:7"/>I saw that the people in the tents of Cushan were distressed,
+</para>
+  <para style="q2">and the people of Midian were trembling like tent curtains.
+
+<verse eid="HAB 3:7"/></para>
+  <para style="b"/>
+  <para style="q1"><verse number="8" style="v" sid="HAB 3:8"/>Yahweh, were you angry at the rivers and streams?
+</para>
+  <para style="q2">Were you furious at the sea?
+</para>
+  <para style="q1">No! You rode on your horses and on your chariots
+</para>
+  <para style="q2">to defeat your enemies and rescue your people.
+<verse eid="HAB 3:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="HAB 3:9"/>You took your bow out of its cover, ready to shoot.
+</para>
+  <para style="q2">You made ready your arrows, just as you had promised.
+</para>
+  <para style="q1">You split the ground, and water gushed out in rivers.
+<verse eid="HAB 3:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="HAB 3:10"/>The mountains trembled when they saw you.
+</para>
+  <para style="q2">A great flood of water rushed past.
+</para>
+  <para style="q1">The ocean depths roared loudly
+</para>
+  <para style="q2">and seemed to raise their hands high in the air.
+<verse eid="HAB 3:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="HAB 3:11"/>The sun and the moon stopped moving
+</para>
+  <para style="q2">as your arrows flew through the sky like flashes of light
+</para>
+  <para style="q2">and your shining spear gleamed brightly.
+<verse eid="HAB 3:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="HAB 3:12"/>You marched across the land in your anger,
+</para>
+  <para style="q2">and you trampled the nations in your fury.
+<verse eid="HAB 3:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="HAB 3:13"/>You went out to rescue your people,
+</para>
+  <para style="q2">to save the king you had chosen.
+</para>
+  <para style="q1">You crushed the ruler of the wicked people,
+</para>
+  <para style="q2">destroying his power from his crown to his very foundation.
+<verse eid="HAB 3:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="HAB 3:14"/>With the enemy’s own spear you killed their leader,
+</para>
+  <para style="q2">who had come rushing like a whirlwind to scatter us
+</para>
+  <para style="q1">and gloated like they were about to devour helpless people in hiding.
+<verse eid="HAB 3:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="HAB 3:15"/>You smashed through the sea on your horses,
+</para>
+  <para style="q2">churning through the great surging waves.
+
+<verse eid="HAB 3:15"/></para>
+  <para style="b"/>
+  <para style="q1"><verse number="16" style="v" sid="HAB 3:16"/>When I heard this, my stomach churned inside me;
+</para>
+  <para style="q2">at the sound of it, my lips trembled.
+</para>
+  <para style="q1">My bones felt like they were rotting,
+</para>
+  <para style="q2">and my legs gave way beneath me.
+</para>
+  <para style="q1">However, I will wait quietly for the time when disaster
+</para>
+  <para style="q2">comes to the people who are attacking us.
+<verse eid="HAB 3:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="HAB 3:17"/>The fig trees may not blossom,
+</para>
+  <para style="q2">and there may be no grapes on the vines.
+</para>
+  <para style="q1">The olive trees may produce nothing,
+</para>
+  <para style="q2">and the fields may yield no crops.
+</para>
+  <para style="q1">The flocks of sheep and goats may disappear from the pastures,
+</para>
+  <para style="q2">and there may be no cattle in the stalls.
+<verse eid="HAB 3:17"/></para>
+  <para style="q1"><verse number="18" style="v" sid="HAB 3:18"/>Even so, I will rejoice because I know Yahweh.
+</para>
+  <para style="q2">I will be joyful because Yahweh is the God who saves me.
+<verse eid="HAB 3:18"/></para>
+  <para style="q1"><verse number="19" style="v" sid="HAB 3:19"/>Yahweh the Lord makes me strong.
+</para>
+  <para style="q2">He makes me as sure-footed as a deer
+</para>
+  <para style="q1">and enables me to go safely to the high places.
+
+</para>
+  <para style="b"/>
+  <para style="q1">(This is for the choir director to use when the people sing this prayer with stringed instruments.)
+<verse eid="HAB 3:19"/></para>
+  <chapter eid="HAB 3"/>
 </usx>
