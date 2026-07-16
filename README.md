@@ -15,3 +15,11 @@ The repository is organized by language codes, with each language folder contain
 ## Documentation
 
 For more information about the Aquifer platform, data, and metadata formats, visit the [Aquifer Documentation repository](https://github.com/BibleAquifer/unfoldingWordSimplified).
+
+## Sources
+
+This edition represents v89 of the *unfoldingWord® Simplified Text*, which is Copyright 2026 by unfoldingWord. The original work by *unfoldingWord* is available from unfoldingword.org/ult.
+
+Source: https://git.door43.org/unfoldingWord/en_ust/releases/tag/v89 
+
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
