@@ -8416,12 +8416,10 @@
   <para style="ms1">Book Four
 
 </para>
-  <para style="p">
-    <verse number="1" style="v" sid="PSA 90:1"/>
-  </para>
+  <para style="p"/>
   <para style="d">A prayer by the prophet Moses
 </para>
-  <para style="q1">Lord, you have been like a home for us
+  <para style="q1"><verse number="1" style="v" sid="PSA 90:1"/>Lord, you have been like a home for us
 </para>
   <para style="q2">throughout our generations.
 <verse eid="PSA 90:1"/></para>
@@ -11176,10 +11174,7 @@
 
 <ms style="ts"/>
 <verse eid="PSA 116:17"/></para>
-  <para style="q1">
-    <verse number="18-19" style="v" sid="PSA 116:18-19"/>
-  </para>
-  <para style="q2">As the people who belong to Yahweh watch,
+  <para style="q1"><verse number="18-19" style="v" sid="PSA 116:18-19"/>As the people who belong to Yahweh watch,
 </para>
   <para style="q2">in the courtyard outside his temple,
 </para>
