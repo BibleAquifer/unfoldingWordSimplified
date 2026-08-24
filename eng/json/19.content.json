@@ -14960,6 +14960,16 @@
     "content": "<p><sup>52</sup>&nbsp;May people always bless Yahweh! Amen! Yes, amen!</p>"
   },
   {
+    "content_id": "10019090000",
+    "version": "1.0.2",
+    "title": "Psalms 90:0",
+    "media_type": "Text",
+    "index_reference": "19090000",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<p><sup>0</sup>&nbsp;A prayer by the prophet Moses</p>"
+  },
+  {
     "content_id": "10019090001",
     "version": "1.0.2",
     "title": "Psalms 90:1",
@@ -14967,7 +14977,7 @@
     "index_reference": "19090001",
     "language": "eng",
     "review_level": "Professional",
-    "content": "<p><sup>1</sup>&nbsp;A prayer by the prophet Moses Lord, you have been like a home for us throughout our generations.</p>"
+    "content": "<p><sup>1</sup>&nbsp;Lord, you have been like a home for us throughout our generations.</p>"
   },
   {
     "content_id": "10019090002",
