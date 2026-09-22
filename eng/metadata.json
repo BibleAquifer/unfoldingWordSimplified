@@ -4,7 +4,7 @@
 "resource_type": "Bible",
 "title": "unfoldingWord Simplified Text",
 "aquifer_name": "unfoldingWord Simplified Text",
-"version": "1.1.0",
+"version": "1.0.2",
 "collection_title": "unfoldingWord Simplified Text",
 "short_name": "UST",
 "license_info": {
@@ -28,8 +28,8 @@
 "showAdaptationNoticeForNonEnglish": false
 },
 "adaptation_notice": "",
-"resource_code": "unfoldingWordSimplifiedText",
-"date_created": "2026-08-24",
+"resource_code": "unfoldingWordSimplified",
+"date_created": "2026-09-22",
 "language": "eng",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-24T07:34:56.923430"
+"dateCreated": "2026-09-22T06:07:12.937203"
 },
 "idAuthorities": {
 "aquifer": {
@@ -54,8 +54,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"unfoldingWordSimplifiedText": {
-"timestamp": "2026-08-24T07:34:56.923430"
+"unfoldingWordSimplified": {
+"timestamp": "2026-09-22T06:07:12.937203"
 }
 }
 },
@@ -25668,379 +25668,6 @@
 "scope": {
 "REV": []
 }
-},
-"alignments/json/01.alignment.json": {
-"mimeType": "text/json",
-"size": 4403859,
-"scope": {
-"GEN": []
-}
-},
-"alignments/json/02.alignment.json": {
-"mimeType": "text/json",
-"size": 3552159,
-"scope": {
-"EXO": []
-}
-},
-"alignments/json/03.alignment.json": {
-"mimeType": "text/json",
-"size": 2331332,
-"scope": {
-"LEV": []
-}
-},
-"alignments/json/05.alignment.json": {
-"mimeType": "text/json",
-"size": 1836148,
-"scope": {
-"DEU": []
-}
-},
-"alignments/json/06.alignment.json": {
-"mimeType": "text/json",
-"size": 1914126,
-"scope": {
-"JOS": []
-}
-},
-"alignments/json/07.alignment.json": {
-"mimeType": "text/json",
-"size": 2024953,
-"scope": {
-"JDG": []
-}
-},
-"alignments/json/08.alignment.json": {
-"mimeType": "text/json",
-"size": 283644,
-"scope": {
-"RUT": []
-}
-},
-"alignments/json/09.alignment.json": {
-"mimeType": "text/json",
-"size": 2689555,
-"scope": {
-"1SA": []
-}
-},
-"alignments/json/11.alignment.json": {
-"mimeType": "text/json",
-"size": 2337513,
-"scope": {
-"1KI": []
-}
-},
-"alignments/json/12.alignment.json": {
-"mimeType": "text/json",
-"size": 2415050,
-"scope": {
-"2KI": []
-}
-},
-"alignments/json/15.alignment.json": {
-"mimeType": "text/json",
-"size": 849582,
-"scope": {
-"EZR": []
-}
-},
-"alignments/json/16.alignment.json": {
-"mimeType": "text/json",
-"size": 1250408,
-"scope": {
-"NEH": []
-}
-},
-"alignments/json/17.alignment.json": {
-"mimeType": "text/json",
-"size": 695823,
-"scope": {
-"EST": []
-}
-},
-"alignments/json/18.alignment.json": {
-"mimeType": "text/json",
-"size": 2031082,
-"scope": {
-"JOB": []
-}
-},
-"alignments/json/19.alignment.json": {
-"mimeType": "text/json",
-"size": 4477540,
-"scope": {
-"PSA": []
-}
-},
-"alignments/json/20.alignment.json": {
-"mimeType": "text/json",
-"size": 1597955,
-"scope": {
-"PRO": []
-}
-},
-"alignments/json/22.alignment.json": {
-"mimeType": "text/json",
-"size": 311576,
-"scope": {
-"SNG": []
-}
-},
-"alignments/json/25.alignment.json": {
-"mimeType": "text/json",
-"size": 227195,
-"scope": {
-"LAM": []
-}
-},
-"alignments/json/29.alignment.json": {
-"mimeType": "text/json",
-"size": 228343,
-"scope": {
-"JOL": []
-}
-},
-"alignments/json/31.alignment.json": {
-"mimeType": "text/json",
-"size": 70420,
-"scope": {
-"OBA": []
-}
-},
-"alignments/json/32.alignment.json": {
-"mimeType": "text/json",
-"size": 166558,
-"scope": {
-"JON": []
-}
-},
-"alignments/json/34.alignment.json": {
-"mimeType": "text/json",
-"size": 140046,
-"scope": {
-"NAM": []
-}
-},
-"alignments/json/35.alignment.json": {
-"mimeType": "text/json",
-"size": 145555,
-"scope": {
-"HAB": []
-}
-},
-"alignments/json/36.alignment.json": {
-"mimeType": "text/json",
-"size": 188626,
-"scope": {
-"ZEP": []
-}
-},
-"alignments/json/37.alignment.json": {
-"mimeType": "text/json",
-"size": 145054,
-"scope": {
-"HAG": []
-}
-},
-"alignments/json/39.alignment.json": {
-"mimeType": "text/json",
-"size": 70407,
-"scope": {
-"MAL": []
-}
-},
-"alignments/json/40.alignment.json": {
-"mimeType": "text/json",
-"size": 3032130,
-"scope": {
-"MAT": []
-}
-},
-"alignments/json/41.alignment.json": {
-"mimeType": "text/json",
-"size": 2052933,
-"scope": {
-"MRK": []
-}
-},
-"alignments/json/42.alignment.json": {
-"mimeType": "text/json",
-"size": 3783984,
-"scope": {
-"LUK": []
-}
-},
-"alignments/json/43.alignment.json": {
-"mimeType": "text/json",
-"size": 2898127,
-"scope": {
-"JHN": []
-}
-},
-"alignments/json/44.alignment.json": {
-"mimeType": "text/json",
-"size": 3700862,
-"scope": {
-"ACT": []
-}
-},
-"alignments/json/45.alignment.json": {
-"mimeType": "text/json",
-"size": 1344403,
-"scope": {
-"ROM": []
-}
-},
-"alignments/json/46.alignment.json": {
-"mimeType": "text/json",
-"size": 1348331,
-"scope": {
-"1CO": []
-}
-},
-"alignments/json/47.alignment.json": {
-"mimeType": "text/json",
-"size": 846970,
-"scope": {
-"2CO": []
-}
-},
-"alignments/json/48.alignment.json": {
-"mimeType": "text/json",
-"size": 483498,
-"scope": {
-"GAL": []
-}
-},
-"alignments/json/49.alignment.json": {
-"mimeType": "text/json",
-"size": 475301,
-"scope": {
-"EPH": []
-}
-},
-"alignments/json/50.alignment.json": {
-"mimeType": "text/json",
-"size": 306245,
-"scope": {
-"PHP": []
-}
-},
-"alignments/json/51.alignment.json": {
-"mimeType": "text/json",
-"size": 304069,
-"scope": {
-"COL": []
-}
-},
-"alignments/json/52.alignment.json": {
-"mimeType": "text/json",
-"size": 256853,
-"scope": {
-"1TH": []
-}
-},
-"alignments/json/53.alignment.json": {
-"mimeType": "text/json",
-"size": 158099,
-"scope": {
-"2TH": []
-}
-},
-"alignments/json/54.alignment.json": {
-"mimeType": "text/json",
-"size": 342435,
-"scope": {
-"1TI": []
-}
-},
-"alignments/json/55.alignment.json": {
-"mimeType": "text/json",
-"size": 240331,
-"scope": {
-"2TI": []
-}
-},
-"alignments/json/56.alignment.json": {
-"mimeType": "text/json",
-"size": 152688,
-"scope": {
-"TIT": []
-}
-},
-"alignments/json/57.alignment.json": {
-"mimeType": "text/json",
-"size": 70016,
-"scope": {
-"PHM": []
-}
-},
-"alignments/json/58.alignment.json": {
-"mimeType": "text/json",
-"size": 944964,
-"scope": {
-"HEB": []
-}
-},
-"alignments/json/59.alignment.json": {
-"mimeType": "text/json",
-"size": 356031,
-"scope": {
-"JAS": []
-}
-},
-"alignments/json/60.alignment.json": {
-"mimeType": "text/json",
-"size": 344594,
-"scope": {
-"1PE": []
-}
-},
-"alignments/json/61.alignment.json": {
-"mimeType": "text/json",
-"size": 208074,
-"scope": {
-"2PE": []
-}
-},
-"alignments/json/62.alignment.json": {
-"mimeType": "text/json",
-"size": 408297,
-"scope": {
-"1JN": []
-}
-},
-"alignments/json/64.alignment.json": {
-"mimeType": "text/json",
-"size": 44836,
-"scope": {
-"3JN": []
-}
-},
-"alignments/json/65.alignment.json": {
-"mimeType": "text/json",
-"size": 91835,
-"scope": {
-"JUD": []
-}
-},
-"alignments/json/66.alignment.json": {
-"mimeType": "text/json",
-"size": 1806674,
-"scope": {
-"REV": []
-}
-},
-"alignments/json/63-001.alignment.json": {
-"mimeType": "text/json",
-"size": 58398,
-"scope": {
-"2JN": [
-"1"
-]
-}
 }
 },
 "copyright": {
@@ -26058,18 +25685,5 @@
 ]
 }
 },
-"article_metadata": {},
-"alignment_metadata": {
-"alignment_source": "https://github.com/Clear-Bible/alignments-eng/tree/main/data/alignments/UST",
-"alignment_ot_basis": "WLCM",
-"alignment_nt_basis": "SBLGNT",
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/"
-}
-}
-]
-}
+"article_metadata": {}
 }
