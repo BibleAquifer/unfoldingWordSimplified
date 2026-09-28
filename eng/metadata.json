@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "unfoldingWordSimplified",
-"date_created": "2026-09-22",
+"date_created": "2026-09-28",
 "language": "eng",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-22T06:07:12.937203"
+"dateCreated": "2026-09-28T15:12:16.637965"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "unfoldingWordSimplified": {
-"timestamp": "2026-09-22T06:07:12.937203"
+"timestamp": "2026-09-28T15:12:16.637965"
 }
 }
 },
@@ -14800,6 +14800,369 @@
 ]
 }
 },
+"json/27.content.json": {
+"mimeType": "text/json",
+"size": 162726,
+"scope": {
+"DAN": [
+"Daniel 1:1",
+"Daniel 1:2",
+"Daniel 1:3",
+"Daniel 1:4",
+"Daniel 1:5",
+"Daniel 1:6",
+"Daniel 1:7",
+"Daniel 1:8",
+"Daniel 1:9",
+"Daniel 1:10",
+"Daniel 1:11",
+"Daniel 1:12",
+"Daniel 1:13",
+"Daniel 1:14",
+"Daniel 1:15",
+"Daniel 1:16",
+"Daniel 1:17",
+"Daniel 1:18",
+"Daniel 1:19",
+"Daniel 1:20",
+"Daniel 1:21",
+"Daniel 2:1",
+"Daniel 2:2",
+"Daniel 2:3",
+"Daniel 2:4",
+"Daniel 2:5",
+"Daniel 2:6",
+"Daniel 2:7",
+"Daniel 2:8",
+"Daniel 2:9",
+"Daniel 2:10",
+"Daniel 2:11",
+"Daniel 2:12",
+"Daniel 2:13",
+"Daniel 2:14",
+"Daniel 2:15",
+"Daniel 2:16",
+"Daniel 2:17",
+"Daniel 2:18",
+"Daniel 2:19",
+"Daniel 2:20",
+"Daniel 2:21",
+"Daniel 2:22",
+"Daniel 2:23",
+"Daniel 2:24",
+"Daniel 2:25",
+"Daniel 2:26",
+"Daniel 2:27",
+"Daniel 2:28",
+"Daniel 2:29",
+"Daniel 2:30",
+"Daniel 2:31",
+"Daniel 2:32",
+"Daniel 2:33",
+"Daniel 2:34",
+"Daniel 2:35",
+"Daniel 2:36",
+"Daniel 2:37",
+"Daniel 2:38",
+"Daniel 2:39",
+"Daniel 2:40",
+"Daniel 2:41",
+"Daniel 2:42",
+"Daniel 2:43",
+"Daniel 2:44",
+"Daniel 2:45",
+"Daniel 2:46",
+"Daniel 2:47",
+"Daniel 2:48",
+"Daniel 2:49",
+"Daniel 3:1",
+"Daniel 3:2",
+"Daniel 3:3",
+"Daniel 3:4",
+"Daniel 3:5",
+"Daniel 3:6",
+"Daniel 3:7",
+"Daniel 3:8",
+"Daniel 3:9",
+"Daniel 3:10",
+"Daniel 3:11",
+"Daniel 3:12",
+"Daniel 3:13",
+"Daniel 3:14",
+"Daniel 3:15",
+"Daniel 3:16",
+"Daniel 3:17",
+"Daniel 3:18",
+"Daniel 3:19",
+"Daniel 3:20",
+"Daniel 3:21",
+"Daniel 3:22",
+"Daniel 3:23",
+"Daniel 3:24",
+"Daniel 3:25",
+"Daniel 3:26",
+"Daniel 3:27",
+"Daniel 3:28",
+"Daniel 3:29",
+"Daniel 3:30",
+"Daniel 4:1",
+"Daniel 4:2",
+"Daniel 4:3",
+"Daniel 4:4",
+"Daniel 4:5",
+"Daniel 4:6",
+"Daniel 4:7",
+"Daniel 4:8",
+"Daniel 4:9",
+"Daniel 4:10",
+"Daniel 4:11",
+"Daniel 4:12",
+"Daniel 4:13",
+"Daniel 4:14",
+"Daniel 4:15",
+"Daniel 4:16",
+"Daniel 4:17",
+"Daniel 4:18",
+"Daniel 4:19",
+"Daniel 4:20",
+"Daniel 4:21",
+"Daniel 4:22",
+"Daniel 4:23",
+"Daniel 4:24",
+"Daniel 4:25",
+"Daniel 4:26",
+"Daniel 4:27",
+"Daniel 4:28",
+"Daniel 4:29",
+"Daniel 4:30",
+"Daniel 4:31",
+"Daniel 4:32",
+"Daniel 4:33",
+"Daniel 4:34",
+"Daniel 4:35",
+"Daniel 4:36",
+"Daniel 4:37",
+"Daniel 5:1",
+"Daniel 5:2",
+"Daniel 5:3",
+"Daniel 5:4",
+"Daniel 5:5",
+"Daniel 5:6",
+"Daniel 5:7",
+"Daniel 5:8",
+"Daniel 5:9",
+"Daniel 5:10",
+"Daniel 5:11",
+"Daniel 5:12",
+"Daniel 5:13",
+"Daniel 5:14",
+"Daniel 5:15",
+"Daniel 5:16",
+"Daniel 5:17",
+"Daniel 5:18",
+"Daniel 5:19",
+"Daniel 5:20",
+"Daniel 5:21",
+"Daniel 5:22",
+"Daniel 5:23",
+"Daniel 5:24",
+"Daniel 5:25",
+"Daniel 5:26",
+"Daniel 5:27",
+"Daniel 5:28",
+"Daniel 5:29",
+"Daniel 5:30",
+"Daniel 5:31",
+"Daniel 6:1",
+"Daniel 6:2",
+"Daniel 6:3",
+"Daniel 6:4",
+"Daniel 6:5",
+"Daniel 6:6",
+"Daniel 6:7",
+"Daniel 6:8",
+"Daniel 6:9",
+"Daniel 6:10",
+"Daniel 6:11",
+"Daniel 6:12",
+"Daniel 6:13",
+"Daniel 6:14",
+"Daniel 6:15",
+"Daniel 6:16",
+"Daniel 6:17",
+"Daniel 6:18",
+"Daniel 6:19",
+"Daniel 6:20",
+"Daniel 6:21",
+"Daniel 6:22",
+"Daniel 6:23",
+"Daniel 6:24",
+"Daniel 6:25",
+"Daniel 6:26",
+"Daniel 6:27",
+"Daniel 6:28",
+"Daniel 7:1",
+"Daniel 7:2",
+"Daniel 7:3",
+"Daniel 7:4",
+"Daniel 7:5",
+"Daniel 7:6",
+"Daniel 7:7",
+"Daniel 7:8",
+"Daniel 7:9",
+"Daniel 7:10",
+"Daniel 7:11",
+"Daniel 7:12",
+"Daniel 7:13",
+"Daniel 7:14",
+"Daniel 7:15",
+"Daniel 7:16",
+"Daniel 7:17",
+"Daniel 7:18",
+"Daniel 7:19",
+"Daniel 7:20",
+"Daniel 7:21",
+"Daniel 7:22",
+"Daniel 7:23",
+"Daniel 7:24",
+"Daniel 7:25",
+"Daniel 7:26",
+"Daniel 7:27",
+"Daniel 7:28",
+"Daniel 8:1",
+"Daniel 8:2",
+"Daniel 8:3",
+"Daniel 8:4",
+"Daniel 8:5",
+"Daniel 8:6",
+"Daniel 8:7",
+"Daniel 8:8",
+"Daniel 8:9",
+"Daniel 8:10",
+"Daniel 8:11",
+"Daniel 8:12",
+"Daniel 8:13",
+"Daniel 8:14",
+"Daniel 8:15",
+"Daniel 8:16",
+"Daniel 8:17",
+"Daniel 8:18",
+"Daniel 8:19",
+"Daniel 8:20",
+"Daniel 8:21",
+"Daniel 8:22",
+"Daniel 8:23",
+"Daniel 8:24",
+"Daniel 8:25",
+"Daniel 8:26",
+"Daniel 8:27",
+"Daniel 9:1",
+"Daniel 9:2",
+"Daniel 9:3",
+"Daniel 9:4",
+"Daniel 9:5",
+"Daniel 9:6",
+"Daniel 9:7",
+"Daniel 9:8",
+"Daniel 9:9",
+"Daniel 9:10",
+"Daniel 9:11",
+"Daniel 9:12",
+"Daniel 9:13",
+"Daniel 9:14",
+"Daniel 9:15",
+"Daniel 9:16",
+"Daniel 9:17",
+"Daniel 9:18",
+"Daniel 9:19",
+"Daniel 9:20-21",
+"Daniel 9:22",
+"Daniel 9:23",
+"Daniel 9:24",
+"Daniel 9:25",
+"Daniel 9:26",
+"Daniel 9:27",
+"Daniel 10:1",
+"Daniel 10:2",
+"Daniel 10:3",
+"Daniel 10:4",
+"Daniel 10:5",
+"Daniel 10:6",
+"Daniel 10:7",
+"Daniel 10:8",
+"Daniel 10:9",
+"Daniel 10:10",
+"Daniel 10:11",
+"Daniel 10:12",
+"Daniel 10:13",
+"Daniel 10:14",
+"Daniel 10:15",
+"Daniel 10:16",
+"Daniel 10:17",
+"Daniel 10:18",
+"Daniel 10:19",
+"Daniel 10:20-21",
+"Daniel 11:1",
+"Daniel 11:2",
+"Daniel 11:3",
+"Daniel 11:4",
+"Daniel 11:5",
+"Daniel 11:6",
+"Daniel 11:7",
+"Daniel 11:8",
+"Daniel 11:9",
+"Daniel 11:10",
+"Daniel 11:11",
+"Daniel 11:12",
+"Daniel 11:13",
+"Daniel 11:14",
+"Daniel 11:15",
+"Daniel 11:16",
+"Daniel 11:17",
+"Daniel 11:18",
+"Daniel 11:19",
+"Daniel 11:20",
+"Daniel 11:21",
+"Daniel 11:22",
+"Daniel 11:23",
+"Daniel 11:24",
+"Daniel 11:25",
+"Daniel 11:26",
+"Daniel 11:27",
+"Daniel 11:28",
+"Daniel 11:29",
+"Daniel 11:30",
+"Daniel 11:31",
+"Daniel 11:32",
+"Daniel 11:33",
+"Daniel 11:34",
+"Daniel 11:35",
+"Daniel 11:36",
+"Daniel 11:37",
+"Daniel 11:38",
+"Daniel 11:39",
+"Daniel 11:40",
+"Daniel 11:41",
+"Daniel 11:42",
+"Daniel 11:43",
+"Daniel 11:44",
+"Daniel 11:45",
+"Daniel 12:1",
+"Daniel 12:2",
+"Daniel 12:3",
+"Daniel 12:4",
+"Daniel 12:5",
+"Daniel 12:6",
+"Daniel 12:7",
+"Daniel 12:8",
+"Daniel 12:9",
+"Daniel 12:10",
+"Daniel 12:11",
+"Daniel 12:12",
+"Daniel 12:13"
+]
+}
+},
 "json/28.content.json": {
 "mimeType": "text/json",
 "size": 89603,
@@ -15083,6 +15446,160 @@
 "Joel 3:19",
 "Joel 3:20",
 "Joel 3:21"
+]
+}
+},
+"json/30.content.json": {
+"mimeType": "text/json",
+"size": 69367,
+"scope": {
+"AMO": [
+"Amos 1:1",
+"Amos 1:2",
+"Amos 1:3",
+"Amos 1:4",
+"Amos 1:5",
+"Amos 1:6",
+"Amos 1:7",
+"Amos 1:8",
+"Amos 1:9",
+"Amos 1:10",
+"Amos 1:11",
+"Amos 1:12",
+"Amos 1:13",
+"Amos 1:14",
+"Amos 1:15",
+"Amos 2:1",
+"Amos 2:2",
+"Amos 2:3",
+"Amos 2:4",
+"Amos 2:5",
+"Amos 2:6",
+"Amos 2:7",
+"Amos 2:8",
+"Amos 2:9",
+"Amos 2:10",
+"Amos 2:11",
+"Amos 2:12",
+"Amos 2:13",
+"Amos 2:14",
+"Amos 2:15",
+"Amos 2:16",
+"Amos 3:1",
+"Amos 3:2",
+"Amos 3:3",
+"Amos 3:4",
+"Amos 3:5",
+"Amos 3:6",
+"Amos 3:7",
+"Amos 3:8",
+"Amos 3:9",
+"Amos 3:10",
+"Amos 3:11",
+"Amos 3:12",
+"Amos 3:13",
+"Amos 3:14",
+"Amos 3:15",
+"Amos 4:1",
+"Amos 4:2",
+"Amos 4:3",
+"Amos 4:4",
+"Amos 4:5",
+"Amos 4:6",
+"Amos 4:7",
+"Amos 4:8",
+"Amos 4:9",
+"Amos 4:10",
+"Amos 4:11",
+"Amos 4:12",
+"Amos 4:13",
+"Amos 5:1",
+"Amos 5:2",
+"Amos 5:3",
+"Amos 5:4",
+"Amos 5:5",
+"Amos 5:6",
+"Amos 5:7",
+"Amos 5:8",
+"Amos 5:9",
+"Amos 5:10",
+"Amos 5:11",
+"Amos 5:12",
+"Amos 5:13",
+"Amos 5:14",
+"Amos 5:15",
+"Amos 5:16",
+"Amos 5:17",
+"Amos 5:18",
+"Amos 5:19",
+"Amos 5:20",
+"Amos 5:21",
+"Amos 5:22",
+"Amos 5:23",
+"Amos 5:24",
+"Amos 5:25",
+"Amos 5:26",
+"Amos 5:27",
+"Amos 6:1",
+"Amos 6:2",
+"Amos 6:3",
+"Amos 6:4",
+"Amos 6:5",
+"Amos 6:6",
+"Amos 6:7",
+"Amos 6:8",
+"Amos 6:9",
+"Amos 6:10",
+"Amos 6:11",
+"Amos 6:12",
+"Amos 6:13",
+"Amos 6:14",
+"Amos 7:1",
+"Amos 7:2",
+"Amos 7:3",
+"Amos 7:4",
+"Amos 7:5",
+"Amos 7:6",
+"Amos 7:7",
+"Amos 7:8",
+"Amos 7:9",
+"Amos 7:10",
+"Amos 7:11",
+"Amos 7:12",
+"Amos 7:13",
+"Amos 7:14",
+"Amos 7:15",
+"Amos 7:16",
+"Amos 7:17",
+"Amos 8:1",
+"Amos 8:2",
+"Amos 8:3",
+"Amos 8:4",
+"Amos 8:5",
+"Amos 8:6",
+"Amos 8:7",
+"Amos 8:8",
+"Amos 8:9",
+"Amos 8:10",
+"Amos 8:11",
+"Amos 8:12",
+"Amos 8:13",
+"Amos 8:14",
+"Amos 9:1",
+"Amos 9:2",
+"Amos 9:3",
+"Amos 9:4",
+"Amos 9:5",
+"Amos 9:6",
+"Amos 9:7",
+"Amos 9:8",
+"Amos 9:9",
+"Amos 9:10",
+"Amos 9:11",
+"Amos 9:12",
+"Amos 9:13",
+"Amos 9:14",
+"Amos 9:15"
 ]
 }
 },
@@ -15506,6 +16023,225 @@
 "Haggai 2:21",
 "Haggai 2:22",
 "Haggai 2:23"
+]
+}
+},
+"json/38.content.json": {
+"mimeType": "text/json",
+"size": 95680,
+"scope": {
+"ZEC": [
+"Zechariah 1:1",
+"Zechariah 1:2",
+"Zechariah 1:3",
+"Zechariah 1:4",
+"Zechariah 1:5",
+"Zechariah 1:6",
+"Zechariah 1:7",
+"Zechariah 1:8",
+"Zechariah 1:9",
+"Zechariah 1:10",
+"Zechariah 1:11",
+"Zechariah 1:12",
+"Zechariah 1:13",
+"Zechariah 1:14",
+"Zechariah 1:15",
+"Zechariah 1:16",
+"Zechariah 1:17",
+"Zechariah 1:18",
+"Zechariah 1:19",
+"Zechariah 1:20",
+"Zechariah 1:21",
+"Zechariah 2:1",
+"Zechariah 2:2",
+"Zechariah 2:3",
+"Zechariah 2:4",
+"Zechariah 2:5",
+"Zechariah 2:6",
+"Zechariah 2:7",
+"Zechariah 2:8",
+"Zechariah 2:9",
+"Zechariah 2:10",
+"Zechariah 2:11",
+"Zechariah 2:12",
+"Zechariah 2:13",
+"Zechariah 3:1",
+"Zechariah 3:2",
+"Zechariah 3:3",
+"Zechariah 3:4",
+"Zechariah 3:5",
+"Zechariah 3:6",
+"Zechariah 3:7",
+"Zechariah 3:8",
+"Zechariah 3:9",
+"Zechariah 3:10",
+"Zechariah 4:1",
+"Zechariah 4:2",
+"Zechariah 4:3",
+"Zechariah 4:4",
+"Zechariah 4:5",
+"Zechariah 4:6",
+"Zechariah 4:7",
+"Zechariah 4:8",
+"Zechariah 4:9",
+"Zechariah 4:10",
+"Zechariah 4:11",
+"Zechariah 4:12",
+"Zechariah 4:13",
+"Zechariah 4:14",
+"Zechariah 5:1",
+"Zechariah 5:2",
+"Zechariah 5:3",
+"Zechariah 5:4",
+"Zechariah 5:5",
+"Zechariah 5:6",
+"Zechariah 5:7",
+"Zechariah 5:8",
+"Zechariah 5:9",
+"Zechariah 5:10",
+"Zechariah 5:11",
+"Zechariah 6:1",
+"Zechariah 6:2",
+"Zechariah 6:3",
+"Zechariah 6:4",
+"Zechariah 6:5",
+"Zechariah 6:6",
+"Zechariah 6:7",
+"Zechariah 6:8",
+"Zechariah 6:9",
+"Zechariah 6:10",
+"Zechariah 6:11",
+"Zechariah 6:12",
+"Zechariah 6:13",
+"Zechariah 6:14",
+"Zechariah 6:15",
+"Zechariah 7:1",
+"Zechariah 7:2",
+"Zechariah 7:3",
+"Zechariah 7:4",
+"Zechariah 7:5",
+"Zechariah 7:6",
+"Zechariah 7:7",
+"Zechariah 7:8",
+"Zechariah 7:9",
+"Zechariah 7:10",
+"Zechariah 7:11",
+"Zechariah 7:12",
+"Zechariah 7:13",
+"Zechariah 7:14",
+"Zechariah 8:1",
+"Zechariah 8:2",
+"Zechariah 8:3",
+"Zechariah 8:4",
+"Zechariah 8:5",
+"Zechariah 8:6",
+"Zechariah 8:7",
+"Zechariah 8:8",
+"Zechariah 8:9",
+"Zechariah 8:10",
+"Zechariah 8:11",
+"Zechariah 8:12",
+"Zechariah 8:13",
+"Zechariah 8:14",
+"Zechariah 8:15",
+"Zechariah 8:16",
+"Zechariah 8:17",
+"Zechariah 8:18",
+"Zechariah 8:19",
+"Zechariah 8:20",
+"Zechariah 8:21",
+"Zechariah 8:22",
+"Zechariah 8:23",
+"Zechariah 9:1",
+"Zechariah 9:2",
+"Zechariah 9:3",
+"Zechariah 9:4",
+"Zechariah 9:5",
+"Zechariah 9:6",
+"Zechariah 9:7",
+"Zechariah 9:8",
+"Zechariah 9:9",
+"Zechariah 9:10",
+"Zechariah 9:11",
+"Zechariah 9:12",
+"Zechariah 9:13",
+"Zechariah 9:14",
+"Zechariah 9:15",
+"Zechariah 9:16",
+"Zechariah 9:17",
+"Zechariah 10:1",
+"Zechariah 10:2",
+"Zechariah 10:3",
+"Zechariah 10:4",
+"Zechariah 10:5",
+"Zechariah 10:6",
+"Zechariah 10:7",
+"Zechariah 10:8",
+"Zechariah 10:9",
+"Zechariah 10:10",
+"Zechariah 10:11",
+"Zechariah 10:12",
+"Zechariah 11:1",
+"Zechariah 11:2",
+"Zechariah 11:3",
+"Zechariah 11:4",
+"Zechariah 11:5",
+"Zechariah 11:6",
+"Zechariah 11:7",
+"Zechariah 11:8",
+"Zechariah 11:9",
+"Zechariah 11:10",
+"Zechariah 11:11",
+"Zechariah 11:12",
+"Zechariah 11:13",
+"Zechariah 11:14",
+"Zechariah 11:15",
+"Zechariah 11:16",
+"Zechariah 11:17",
+"Zechariah 12:1",
+"Zechariah 12:2",
+"Zechariah 12:3",
+"Zechariah 12:4",
+"Zechariah 12:5",
+"Zechariah 12:6",
+"Zechariah 12:7",
+"Zechariah 12:8",
+"Zechariah 12:9",
+"Zechariah 12:10",
+"Zechariah 12:11",
+"Zechariah 12:12",
+"Zechariah 12:13",
+"Zechariah 12:14",
+"Zechariah 13:1",
+"Zechariah 13:2",
+"Zechariah 13:3",
+"Zechariah 13:4",
+"Zechariah 13:5",
+"Zechariah 13:6",
+"Zechariah 13:7",
+"Zechariah 13:8",
+"Zechariah 13:9",
+"Zechariah 14:1",
+"Zechariah 14:2",
+"Zechariah 14:3",
+"Zechariah 14:4",
+"Zechariah 14:5",
+"Zechariah 14:6",
+"Zechariah 14:7",
+"Zechariah 14:8",
+"Zechariah 14:9",
+"Zechariah 14:10",
+"Zechariah 14:11",
+"Zechariah 14:12",
+"Zechariah 14:13",
+"Zechariah 14:14",
+"Zechariah 14:15",
+"Zechariah 14:16",
+"Zechariah 14:17",
+"Zechariah 14:18",
+"Zechariah 14:19",
+"Zechariah 14:20",
+"Zechariah 14:21"
 ]
 }
 },
@@ -23267,7 +24003,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 12099,
+"size": 12098,
 "scope": {
 "JUD": [
 "Jude 1:1",
@@ -23753,42 +24489,42 @@
 },
 "usfm/05DEUUST.SFM": {
 "mimeType": "text/plain",
-"size": 172973,
+"size": 173051,
 "scope": {
 "DEU": []
 }
 },
 "usx/05DEUUST.usx": {
 "mimeType": "application/xml",
-"size": 253212,
+"size": 253504,
 "scope": {
 "DEU": []
 }
 },
 "usfm/06JOSUST.SFM": {
 "mimeType": "text/plain",
-"size": 129720,
+"size": 131056,
 "scope": {
 "JOS": []
 }
 },
 "usx/06JOSUST.usx": {
 "mimeType": "application/xml",
-"size": 178495,
+"size": 183432,
 "scope": {
 "JOS": []
 }
 },
 "usfm/07JDGUST.SFM": {
 "mimeType": "text/plain",
-"size": 139014,
+"size": 139853,
 "scope": {
 "JDG": []
 }
 },
 "usx/07JDGUST.usx": {
 "mimeType": "application/xml",
-"size": 189112,
+"size": 192518,
 "scope": {
 "JDG": []
 }
@@ -23921,14 +24657,14 @@
 },
 "usfm/19PSAUST.SFM": {
 "mimeType": "text/plain",
-"size": 359050,
+"size": 361934,
 "scope": {
 "PSA": []
 }
 },
 "usx/19PSAUST.usx": {
 "mimeType": "application/xml",
-"size": 675783,
+"size": 683308,
 "scope": {
 "PSA": []
 }
@@ -23963,28 +24699,42 @@
 },
 "usfm/25LAMUST.SFM": {
 "mimeType": "text/plain",
-"size": 25534,
+"size": 25793,
 "scope": {
 "LAM": []
 }
 },
 "usx/25LAMUST.usx": {
 "mimeType": "application/xml",
-"size": 49649,
+"size": 50360,
 "scope": {
 "LAM": []
 }
 },
+"usfm/27DANUST.SFM": {
+"mimeType": "text/plain",
+"size": 75753,
+"scope": {
+"DAN": []
+}
+},
+"usx/27DANUST.usx": {
+"mimeType": "application/xml",
+"size": 105071,
+"scope": {
+"DAN": []
+}
+},
 "usfm/28HOSUST.SFM": {
 "mimeType": "text/plain",
-"size": 43915,
+"size": 44347,
 "scope": {
 "HOS": []
 }
 },
 "usx/28HOSUST.usx": {
 "mimeType": "application/xml",
-"size": 73061,
+"size": 74223,
 "scope": {
 "HOS": []
 }
@@ -24001,6 +24751,20 @@
 "size": 25720,
 "scope": {
 "JOL": []
+}
+},
+"usfm/30AMOUST.SFM": {
+"mimeType": "text/plain",
+"size": 35792,
+"scope": {
+"AMO": []
+}
+},
+"usx/30AMOUST.usx": {
+"mimeType": "application/xml",
+"size": 57090,
+"scope": {
+"AMO": []
 }
 },
 "usfm/31OBAUST.SFM": {
@@ -24033,14 +24797,14 @@
 },
 "usfm/33MICUST.SFM": {
 "mimeType": "text/plain",
-"size": 24599,
+"size": 24935,
 "scope": {
 "MIC": []
 }
 },
 "usx/33MICUST.usx": {
 "mimeType": "application/xml",
-"size": 41113,
+"size": 42005,
 "scope": {
 "MIC": []
 }
@@ -24061,70 +24825,84 @@
 },
 "usfm/35HABUST.SFM": {
 "mimeType": "text/plain",
-"size": 10999,
+"size": 11192,
 "scope": {
 "HAB": []
 }
 },
 "usx/35HABUST.usx": {
 "mimeType": "application/xml",
-"size": 19283,
+"size": 19786,
 "scope": {
 "HAB": []
 }
 },
 "usfm/36ZEPUST.SFM": {
 "mimeType": "text/plain",
-"size": 14929,
+"size": 15092,
 "scope": {
 "ZEP": []
 }
 },
 "usx/36ZEPUST.usx": {
 "mimeType": "application/xml",
-"size": 23315,
+"size": 23743,
 "scope": {
 "ZEP": []
 }
 },
 "usfm/37HAGUST.SFM": {
 "mimeType": "text/plain",
-"size": 9212,
+"size": 9316,
 "scope": {
 "HAG": []
 }
 },
 "usx/37HAGUST.usx": {
 "mimeType": "application/xml",
-"size": 12043,
+"size": 12312,
 "scope": {
 "HAG": []
 }
 },
+"usfm/38ZECUST.SFM": {
+"mimeType": "text/plain",
+"size": 43879,
+"scope": {
+"ZEC": []
+}
+},
+"usx/38ZECUST.usx": {
+"mimeType": "application/xml",
+"size": 63488,
+"scope": {
+"ZEC": []
+}
+},
 "usfm/39MALUST.SFM": {
 "mimeType": "text/plain",
-"size": 12931,
+"size": 13089,
 "scope": {
 "MAL": []
 }
 },
 "usx/39MALUST.usx": {
 "mimeType": "application/xml",
-"size": 17045,
+"size": 17468,
 "scope": {
 "MAL": []
 }
 },
 "usfm/40MATUST.SFM": {
 "mimeType": "text/plain",
-"size": 195390,
+"size": 195388,
 "scope": {
 "MAT": []
 }
 },
 "usx/40MATUST.usx": {
 "mimeType": "application/xml",
-"size": 282276,
+"size": 282274,
 "scope": {
 "MAT": []
 }
@@ -24145,42 +24923,42 @@
 },
 "usfm/42LUKUST.SFM": {
 "mimeType": "text/plain",
-"size": 196677,
+"size": 196673,
 "scope": {
 "LUK": []
 }
 },
 "usx/42LUKUST.usx": {
 "mimeType": "application/xml",
-"size": 283242,
+"size": 283238,
 "scope": {
 "LUK": []
 }
 },
 "usfm/43JHNUST.SFM": {
 "mimeType": "text/plain",
-"size": 147662,
+"size": 147660,
 "scope": {
 "JHN": []
 }
 },
 "usx/43JHNUST.usx": {
 "mimeType": "application/xml",
-"size": 213407,
+"size": 213405,
 "scope": {
 "JHN": []
 }
 },
 "usfm/44ACTUST.SFM": {
 "mimeType": "text/plain",
-"size": 210038,
+"size": 210034,
 "scope": {
 "ACT": []
 }
 },
 "usx/44ACTUST.usx": {
 "mimeType": "application/xml",
-"size": 287665,
+"size": 287661,
 "scope": {
 "ACT": []
 }
@@ -24467,28 +25245,28 @@
 },
 "usfm/65JUDUST.SFM": {
 "mimeType": "text/plain",
-"size": 6171,
+"size": 6170,
 "scope": {
 "JUD": []
 }
 },
 "usx/65JUDUST.usx": {
 "mimeType": "application/xml",
-"size": 8305,
+"size": 8304,
 "scope": {
 "JUD": []
 }
 },
 "usfm/66REVUST.SFM": {
 "mimeType": "text/plain",
-"size": 90983,
+"size": 91369,
 "scope": {
 "REV": []
 }
 },
 "usx/66REVUST.usx": {
 "mimeType": "application/xml",
-"size": 122347,
+"size": 123349,
 "scope": {
 "REV": []
 }
@@ -24551,9 +25329,16 @@
 },
 "md/65.content.md": {
 "mimeType": "text/markdown",
-"size": 7025,
+"size": 7024,
 "scope": {
 "JUD": []
+}
+},
+"md/30.content.md": {
+"mimeType": "text/markdown",
+"size": 37798,
+"scope": {
+"AMO": []
 }
 },
 "md/25.content.md": {
@@ -24801,6 +25586,13 @@
 "PRO": []
 }
 },
+"md/27.content.md": {
+"mimeType": "text/markdown",
+"size": 85388,
+"scope": {
+"DAN": []
+}
+},
 "md/11.content.md": {
 "mimeType": "text/markdown",
 "size": 199848,
@@ -24862,6 +25654,13 @@
 "size": 34234,
 "scope": {
 "EPH": []
+}
+},
+"md/38.content.md": {
+"mimeType": "text/markdown",
+"size": 49876,
+"scope": {
+"ZEC": []
 }
 },
 "md/48.content.md": {
@@ -25018,6 +25817,13 @@
 "LAM": []
 }
 },
+"docx/27.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 68299,
+"scope": {
+"DAN": []
+}
+},
 "docx/28.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 58089,
@@ -25030,6 +25836,13 @@
 "size": 47873,
 "scope": {
 "JOL": []
+}
+},
+"docx/30.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54274,
+"scope": {
+"AMO": []
 }
 },
 "docx/31.content.docx": {
@@ -25079,6 +25892,13 @@
 "size": 45111,
 "scope": {
 "HAG": []
+}
+},
+"docx/38.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 57540,
+"scope": {
+"ZEC": []
 }
 },
 "docx/39.content.docx": {
@@ -25265,7 +26085,7 @@
 },
 "docx/65.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44592,
+"size": 44590,
 "scope": {
 "JUD": []
 }
@@ -25410,6 +26230,13 @@
 "LAM": []
 }
 },
+"pdf/27.content.pdf": {
+"mimeType": "application/pdf",
+"size": 270161,
+"scope": {
+"DAN": []
+}
+},
 "pdf/28.content.pdf": {
 "mimeType": "application/pdf",
 "size": 162154,
@@ -25422,6 +26249,13 @@
 "size": 67549,
 "scope": {
 "JOL": []
+}
+},
+"pdf/30.content.pdf": {
+"mimeType": "application/pdf",
+"size": 129224,
+"scope": {
+"AMO": []
 }
 },
 "pdf/31.content.pdf": {
@@ -25471,6 +26305,13 @@
 "size": 46680,
 "scope": {
 "HAG": []
+}
+},
+"pdf/38.content.pdf": {
+"mimeType": "application/pdf",
+"size": 168957,
+"scope": {
+"ZEC": []
 }
 },
 "pdf/39.content.pdf": {
@@ -25657,7 +26498,7 @@
 },
 "pdf/65.content.pdf": {
 "mimeType": "application/pdf",
-"size": 37359,
+"size": 37366,
 "scope": {
 "JUD": []
 }
