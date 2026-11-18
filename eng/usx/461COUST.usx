@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1CO" style="id">EN_UST en_English_ltr Sat Jul 16 2022 08:53:20 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -52,9 +52,9 @@
   <para style="p"><verse number="18" style="v" sid="1CO 1:18"/>{I do not use wise words,} because the message that I proclaim about {the death of the Messiah on} the cross sounds foolish to people who are bringing destruction on themselves. However, God works powerfully in this message for us whom he is rescuing.
 <verse eid="1CO 1:18"/><verse number="19" style="v" sid="1CO 1:19"/>{You can tell that this is true,} because the prophet Isaiah wrote,
 </para>
-  <para style="q1">“I will render useless the wise things that wise people think,
+  <para style="q1" vid="1CO 1:19">“I will render useless the wise things that wise people think,
 </para>
-  <para style="q1">and I will make the intelligent things that intelligent people think worthless.”
+  <para style="q1" vid="1CO 1:19">and I will make the intelligent things that intelligent people think worthless.”
 
 <ms style="ts"/>
 <verse eid="1CO 1:19"/></para>
@@ -82,11 +82,11 @@
 <verse eid="1CO 1:29"/><verse number="30" style="v" sid="1CO 1:30"/>It is God who has united you to the Messiah Jesus. By working through the Messiah, God has made us wise. He has declared us innocent, chosen us to be his own people, and delivered us {from evil powers}.
 <verse eid="1CO 1:30"/><verse number="31" style="v" sid="1CO 1:31"/>So, {because God is the one who does all these things, we should do what} the prophet Jeremiah wrote:
 </para>
-  <para style="q1">“If people want to say great things about something, they should say those great things about the Lord.”
+  <para style="q1" vid="1CO 1:31">“If people want to say great things about something, they should say those great things about the Lord.”
 
 <ms style="ts"/>
 
-<verse eid="1CO 1:31"/><verse eid="1CO 1:31"/></para>
+<verse eid="1CO 1:31"/></para>
   <chapter eid="1CO 1"/>
   <chapter number="2" style="c" sid="1CO 2"/>
   <para style="p"><verse number="1" style="v" sid="1CO 2:1"/>My fellow believers, I also {acted according to this pattern} when I visited you and told you about what God has now revealed to us. I did not speak in more powerful ways than others do. I did not argue in wiser ways than others do.
@@ -106,13 +106,13 @@
 <verse eid="1CO 2:7"/><verse number="8" style="v" sid="1CO 2:8"/>The people who rule right now did not know about these wise things. {You can tell that} they did not know, because they killed our glorious Lord on the cross.
 <verse eid="1CO 2:8"/><verse number="9" style="v" sid="1CO 2:9"/>Rather, {how they acted} fits with what the prophet Isaiah wrote:
 </para>
-  <para style="q1">“God has ready for the people who love him
+  <para style="q1" vid="1CO 2:9">“God has ready for the people who love him
 </para>
-  <para style="q1">things that no one witnessed before
+  <para style="q1" vid="1CO 2:9">things that no one witnessed before
 </para>
-  <para style="q1">and things that no one heard about before
+  <para style="q1" vid="1CO 2:9">and things that no one heard about before
 </para>
-  <para style="q1">and things that no human even imagined before.”
+  <para style="q1" vid="1CO 2:9">and things that no human even imagined before.”
 
 <ms style="ts"/>
 <verse eid="1CO 2:9"/></para>
@@ -128,16 +128,16 @@
 <verse eid="1CO 2:14"/><verse number="15" style="v" sid="1CO 2:15"/>On the other hand, people who have God’s Spirit {can} judge rightly about everything. However, no {other} person {can} judge rightly about them.
 <verse eid="1CO 2:15"/><verse number="16" style="v" sid="1CO 2:16"/>This fits with {what the scripture says}:
 </para>
-  <para style="q1">“No human knows what the Lord is thinking.
+  <para style="q1" vid="1CO 2:16">“No human knows what the Lord is thinking.
 </para>
-  <para style="q1">No human can teach him about anything.”
+  <para style="q1" vid="1CO 2:16">No human can teach him about anything.”
 
 </para>
-  <para style="m">We, however, can think the same things that the Messiah is thinking.
+  <para style="m" vid="1CO 2:16">We, however, can think the same things that the Messiah is thinking.
 
 <ms style="ts"/>
 
-<verse eid="1CO 2:16"/><verse eid="1CO 2:16"/></para>
+<verse eid="1CO 2:16"/></para>
   <chapter eid="1CO 2"/>
   <chapter number="3" style="c" sid="1CO 3"/>
   <para style="p"><verse number="1" style="v" sid="1CO 3:1"/>My fellow believers, {when I visited you,} I was unable to teach you in the way I would teach people who have God’s Spirit. Rather, {I had to teach you} in the way I would teach people who think only in human ways. {I had to do this} because you believed in the Messiah in an immature way.
@@ -181,12 +181,12 @@
   <para style="p"><verse number="18" style="v" sid="1CO 3:18"/>Do not believe what is not true about yourselves. You who consider yourselves to be wise according to human standards should become foolish {according to human standards}. In this way, you will {really} become wise people.
 <verse eid="1CO 3:18"/><verse number="19" style="v" sid="1CO 3:19"/>{I speak these words} because the things that humans consider to be wise are things that God considers to be foolish. {You know that this is true} because the author of the book of Job wrote,
 </para>
-  <para style="q1">“God is the one who disrupts the clever schemes that wise people plan.”
+  <para style="q1" vid="1CO 3:19">“God is the one who disrupts the clever schemes that wise people plan.”
 
 <verse eid="1CO 3:19"/></para>
   <para style="m"><verse number="20" style="v" sid="1CO 3:20"/>Further, {the author of a psalm wrote},
 </para>
-  <para style="q1">“The Lord is aware of everything that wise people plan, {and he knows} that these plans will not succeed.”
+  <para style="q1" vid="1CO 3:20">“The Lord is aware of everything that wise people plan, {and he knows} that these plans will not succeed.”
 
 <ms style="ts"/>
 <verse eid="1CO 3:20"/></para>
@@ -196,7 +196,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 3:23"/><verse eid="1CO 3:23"/></para>
+<verse eid="1CO 3:23"/></para>
   <chapter eid="1CO 3"/>
   <chapter number="4" style="c" sid="1CO 4"/>
   <para style="p"><verse number="1" style="v" sid="1CO 4:1"/>I want people to think of us {who proclaim the good news} as those who serve the Messiah and who are in charge of proclaiming what God has now revealed to us.
@@ -246,7 +246,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 4:21"/><verse eid="1CO 4:21"/></para>
+<verse eid="1CO 4:21"/></para>
   <chapter eid="1CO 4"/>
   <chapter number="5" style="c" sid="1CO 5"/>
   <para style="p"><verse number="1" style="v" sid="1CO 5:1"/>I have learned that you are in fact allowing people from your group to have improper sex. Even those who do not worship God do not allow some of the things that you allow. {The worst thing that I have learned is} that a man from your group is having sex with his stepmother.
@@ -273,11 +273,11 @@
 <verse eid="1CO 5:11"/><verse number="12" style="v" sid="1CO 5:12"/>{I want you to act in this way only with fellow believers,} because {you and} I do not need to decide whether someone who is not part of our group is guilty or innocent. Rather, you need to focus on deciding whether people who are part of your group are guilty or innocent.
 <verse eid="1CO 5:12"/><verse number="13" style="v" sid="1CO 5:13"/>{Do not worry about people who are not part of your group because} God is the one who decides whether they are guilty or innocent. {You should focus on people who are part of your group because the scripture says,}
 </para>
-  <para style="q1">“You must get rid of any evil person who is part of your group!”
+  <para style="q1" vid="1CO 5:13">“You must get rid of any evil person who is part of your group!”
 
 <ms style="ts"/>
 
-<verse eid="1CO 5:13"/><verse eid="1CO 5:13"/></para>
+<verse eid="1CO 5:13"/></para>
   <chapter eid="1CO 5"/>
   <chapter number="6" style="c" sid="1CO 6"/>
   <para style="p"><verse number="1" style="v" sid="1CO 6:1"/>When someone from your group quarrels with another person from your group, you should never settle the quarrel {in a public court} in front of people who do not believe. Rather, {you should settle the quarrel in private} among the people whom God has set apart for himself.
@@ -325,7 +325,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 6:20"/><verse eid="1CO 6:20"/></para>
+<verse eid="1CO 6:20"/></para>
   <chapter eid="1CO 6"/>
   <chapter number="7" style="c" sid="1CO 7"/>
   <para style="p"><verse number="1" style="v" sid="1CO 7:1"/>Moving on to what you asked me about, in your letter you said that it is appropriate for people not to have sex with each other.
@@ -413,7 +413,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 7:40"/><verse eid="1CO 7:40"/></para>
+<verse eid="1CO 7:40"/></para>
   <chapter eid="1CO 7"/>
   <chapter number="8" style="c" sid="1CO 8"/>
   <para style="p"><verse number="1" style="v" sid="1CO 8:1"/>I am now moving on to speak about meat that someone has offered to another god. All of us {who believe} do know {what is true about other gods. However,} knowing {what is true often} makes people proud. It is loving others that really helps other believers.
@@ -442,7 +442,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 8:13"/><verse eid="1CO 8:13"/></para>
+<verse eid="1CO 8:13"/></para>
   <chapter eid="1CO 8"/>
   <chapter number="9" style="c" sid="1CO 9"/>
   <para style="p"><verse number="1" style="v" sid="1CO 9:1"/>I am not bound {to eat only certain foods}. Our Lord Jesus sent me to represent him, and I have seen him {with my own eyes}. God has united us to the Lord, and I have worked hard for you because of that.
@@ -470,7 +470,7 @@
 <verse eid="1CO 9:11"/><verse number="12" style="v" sid="1CO 9:12"/>Other people have received financial support from you. Barnabas and I deserve even more to receive it from you.
 
 </para>
-  <para style="p">However, we have not asked for any support from you. Rather, we choose to go without things so that we will not keep the good news about the Messiah from spreading.
+  <para style="p" vid="1CO 9:12">However, we have not asked for any support from you. Rather, we choose to go without things so that we will not keep the good news about the Messiah from spreading.
 <verse eid="1CO 9:12"/><verse number="13" style="v" sid="1CO 9:13"/>Surely you know that the people who perform their duties in the temple eat some of the food that people offer in the temple. More specifically, the priests who offer sacrifices on the altar receive part of what people bring to them to offer on the altar.
 <verse eid="1CO 9:13"/><verse number="14" style="v" sid="1CO 9:14"/>Similarly, the Lord instructed that anyone who preaches the good news should make their living from {preaching} the good news.
 
@@ -502,7 +502,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 9:27"/><verse eid="1CO 9:27"/></para>
+<verse eid="1CO 9:27"/></para>
   <chapter eid="1CO 9"/>
   <chapter number="10" style="c" sid="1CO 10"/>
   <para style="p"><verse number="1" style="v" sid="1CO 10:1"/>Now I want to remind you, fellow believers, that our Jewish ancestors all followed God when he appeared to them in a cloud. They all walked through the Red Sea when God made a dry path for them through the water.
@@ -570,7 +570,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 10:33"/><verse eid="1CO 10:33"/></para>
+<verse eid="1CO 10:33"/></para>
   <chapter eid="1CO 10"/>
   <chapter number="11" style="c" sid="1CO 11"/>
   <para style="p"><verse number="1" style="v" sid="1CO 11:1"/>Do what I do, just like I do what Christ did.
@@ -640,11 +640,11 @@
 <verse eid="1CO 11:33"/><verse number="34" style="v" sid="1CO 11:34"/>Any people who are {so} hungry {that they start eating before everyone has received food and drink} should eat at their own houses. That way, when you gather together as fellow believers, God will not punish you.
 
 </para>
-  <para style="p">I have not said everything that I need to say. So, I will instruct you about those things whenever I visit you.
+  <para style="p" vid="1CO 11:34">I have not said everything that I need to say. So, I will instruct you about those things whenever I visit you.
 
 <ms style="ts"/>
 
-<verse eid="1CO 11:34"/><verse eid="1CO 11:34"/></para>
+<verse eid="1CO 11:34"/></para>
   <chapter eid="1CO 11"/>
   <chapter number="12" style="c" sid="1CO 12"/>
   <para style="p"><verse number="1" style="v" sid="1CO 12:1"/>I am now moving on to speak about how God’s Spirit specially empowers believers. I want to inform you, my fellow believers, about these things.
@@ -707,7 +707,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 12:31"/><verse eid="1CO 12:31"/></para>
+<verse eid="1CO 12:31"/></para>
   <chapter eid="1CO 12"/>
   <chapter number="13" style="c" sid="1CO 13"/>
   <para style="p"><verse number="1" style="v" sid="1CO 13:1"/>Imagine that I could speak many human and angelic languages, but I did not love others. I would be {able to make much noise,} like a loud metal instrument{, but I would not be helping anyone}.
@@ -734,7 +734,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 13:13"/><verse eid="1CO 13:13"/></para>
+<verse eid="1CO 13:13"/></para>
   <chapter eid="1CO 13"/>
   <chapter number="14" style="c" sid="1CO 14"/>
   <para style="p"><verse number="1" style="v" sid="1CO 14:1"/>You should seek to love others always. Also, you should eagerly seek that the Holy Spirit specially empowers you, particularly that you might be able to proclaim what God says.
@@ -779,11 +779,11 @@
   <para style="p"><verse number="20" style="v" sid="1CO 14:20"/>My fellow believers, I do not want you to be foolish {about these things, like} little children {are}. Rather, you should know much {about these things, like} a fully grown adult {does}. You should {only} be {like} little children by not doing what is wrong.
 <verse eid="1CO 14:20"/><verse number="21" style="v" sid="1CO 14:21"/>The prophet Isaiah wrote in the Scriptures what the Lord says,
 </para>
-  <para style="q1">“I will talk to my people Israel
+  <para style="q1" vid="1CO 14:21">“I will talk to my people Israel
 </para>
-  <para style="q1">by means of people who speak foreign languages.
+  <para style="q1" vid="1CO 14:21">by means of people who speak foreign languages.
 </para>
-  <para style="q1">However, they will not listen to me in this way.”
+  <para style="q1" vid="1CO 14:21">However, they will not listen to me in this way.”
 
 <ms style="ts"/>
 <verse eid="1CO 14:21"/></para>
@@ -811,7 +811,7 @@
 <verse eid="1CO 14:32"/><verse number="33" style="v" sid="1CO 14:33"/>{That is true} because what is peaceful and orderly, not what is disorderly, characterizes God.
 
 </para>
-  <para style="p">{I want you to act} like all the {other} people whom God has set apart for himself act when they gather together to worship God.
+  <para style="p" vid="1CO 14:33">{I want you to act} like all the {other} people whom God has set apart for himself act when they gather together to worship God.
 
 <ms style="ts"/>
 <verse eid="1CO 14:33"/><verse number="34" style="v" sid="1CO 14:34"/>Wives should keep quiet when believers gather together {and their husbands are speaking}. They should not talk but rather honor and obey {their husbands}. {They should do this} because that is what we find in {God’s} law.
@@ -829,7 +829,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 14:40"/><verse eid="1CO 14:40"/></para>
+<verse eid="1CO 14:40"/></para>
   <chapter eid="1CO 14"/>
   <chapter number="15" style="c" sid="1CO 15"/>
   <para style="p"><verse number="1" style="v" sid="1CO 15:1"/>Next, I am informing you, fellow believers, about the good news that I told you about. You learned this good news {from me}, and you firmly believe it.
@@ -941,15 +941,14 @@
 <ms style="ts"/>
 <verse eid="1CO 15:53"/><verse number="54" style="v" sid="1CO 15:54"/>When our bodies that fall apart and die transform into bodies that last forever and can never die, at that time what the prophets wrote about will finally happen:
 </para>
-  <para style="q1">“God has made it so that people no longer die.”
+  <para style="q1" vid="1CO 15:54">“God has made it so that people no longer die.”
 <verse eid="1CO 15:54"/></para>
   <para style="q1"><verse number="55" style="v" sid="1CO 15:55"/>{Further,}
 </para>
-  <para style="q1">“When people die, this does not destroy or hurt them.”
+  <para style="q1" vid="1CO 15:55">“When people die, this does not destroy or hurt them.”
 
+<ms style="ts"/>
 <verse eid="1CO 15:55"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="56" style="v" sid="1CO 15:56"/>People die because sin causes them to die, and that happens because the law specifies dying as the penalty for sin.
 <verse eid="1CO 15:56"/><verse number="57" style="v" sid="1CO 15:57"/>However, I praise God because he has enabled us to conquer {how we sin and die}. {He has done this} by means of what our Lord, Jesus the Messiah, has done.
 
@@ -959,7 +958,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1CO 15:58"/><verse eid="1CO 15:58"/></para>
+<verse eid="1CO 15:58"/></para>
   <chapter eid="1CO 15"/>
   <chapter number="16" style="c" sid="1CO 16"/>
   <para style="p"><verse number="1" style="v" sid="1CO 16:1"/>I am now moving on to speak about the money that I am collecting for God’s people {who are Jewish}. I want you to do what I instructed the groups of believers {who live} in the region of Galatia to do.

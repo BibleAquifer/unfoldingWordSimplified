@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1PE" style="id">EN_UST en_English_ltr Tue Jul 05 2022 15:42:47 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -67,18 +67,18 @@
 <ms style="ts"/>
 <verse eid="1PE 1:23"/><verse number="24" style="v" sid="1PE 1:24"/>{We know that this is true} because, {as the prophet Isaiah wrote,}
 </para>
-  <para style="q1">“All people are like grass, and everything that is great about people is like flowers in the grass.
+  <para style="q1" vid="1PE 1:24">“All people are like grass, and everything that is great about people is like flowers in the grass.
 </para>
-  <para style="q1">Just as grass dies and flowers whither, {so do people die and what is great about them only lasts for a short time},
+  <para style="q1" vid="1PE 1:24">Just as grass dies and flowers whither, {so do people die and what is great about them only lasts for a short time},
 <verse eid="1PE 1:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="1PE 1:25"/>but God’s message lasts forever.”
 
 </para>
-  <para style="m">This message {that lasts forever} is the good news {about the Messiah} that we have declared to you.
+  <para style="m" vid="1PE 1:25">This message {that lasts forever} is the good news {about the Messiah} that we have declared to you.
 
 <ms style="ts"/>
 
-<verse eid="1PE 1:25"/><verse eid="1PE 1:25"/></para>
+<verse eid="1PE 1:25"/></para>
   <chapter eid="1PE 1"/>
   <chapter number="2" style="c" sid="1PE 2"/>
   <para style="p"><verse number="1" style="v" sid="1PE 2:1"/>Because {these things are true}, do not act wickedly or deceive others in any way. Do not be hypocrites, and do not envy others. Do not speak evil things falsely about anyone.
@@ -101,16 +101,16 @@
 <verse eid="1PE 2:7"/></para>
   <para style="p"><verse number="8" style="v" sid="1PE 2:8"/>{Isaiah} also {wrote in the Scriptures that the Messiah would be like}
 </para>
-  <para style="q1">“a stone that causes people to stumble,
+  <para style="q1" vid="1PE 2:8">“a stone that causes people to stumble,
 </para>
-  <para style="q1">and a rock that offends people.”
+  <para style="q1" vid="1PE 2:8">and a rock that offends people.”
 
 </para>
-  <para style="p">{Just as people become injured because they trip over a rock,}
+  <para style="p" vid="1PE 2:8">{Just as people become injured because they trip over a rock,}
 </para>
-  <para style="q1">people become offended because they disobey God’s message;
+  <para style="q1" vid="1PE 2:8">people become offended because they disobey God’s message;
 </para>
-  <para style="q1">that is what God determined would happen to them.
+  <para style="q1" vid="1PE 2:8">that is what God determined would happen to them.
 
 <ms style="ts"/>
 <verse eid="1PE 2:8"/></para>
@@ -141,25 +141,25 @@
 <verse eid="1PE 2:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="1PE 2:22"/>“He never sinned.
 </para>
-  <para style="q1">And he never said anything to deceive people.”
+  <para style="q1" vid="1PE 2:22">And he never said anything to deceive people.”
 <verse eid="1PE 2:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="1PE 2:23"/>When people insulted him, he never insulted them in return.
 </para>
-  <para style="q1">When he suffered, he never threatened {those who caused him to suffer}.
+  <para style="q1" vid="1PE 2:23">When he suffered, he never threatened {those who caused him to suffer}.
 </para>
-  <para style="q1">Instead, he trusted God, who always judges rightly, {to prove that he was innocent}.
+  <para style="q1" vid="1PE 2:23">Instead, he trusted God, who always judges rightly, {to prove that he was innocent}.
 
 <ms style="ts"/>
 <verse eid="1PE 2:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="1PE 2:24"/>The Messiah himself was punished for our sins in his body {when he died} on the cross with the purpose that we would live rightly because we are no longer controlled by sin.
 
 </para>
-  <para style="p">God has healed you because people wounded the Messiah.
+  <para style="p" vid="1PE 2:24">God has healed you because people wounded the Messiah.
 <verse eid="1PE 2:24"/><verse number="25" style="v" sid="1PE 2:25"/>{God healed you} because you were {alienated from God} like sheep that had become lost, but now God has brought you back to Jesus, who cares for you and watches over you {as a shepherd cares for his sheep}.
 
 <ms style="ts"/>
 
-<verse eid="1PE 2:25"/><verse eid="1PE 2:25"/></para>
+<verse eid="1PE 2:25"/></para>
   <chapter eid="1PE 2"/>
   <chapter number="3" style="c" sid="1PE 3"/>
   <para style="p"><verse number="1" style="v" sid="1PE 3:1"/>In a similar way, you women {who are believers}, submit to your husbands. {Do this} in order that you may persuade any husbands who do not believe the message {about the Messiah} to become believers without you saying anything to them.
@@ -185,19 +185,19 @@
 <ms style="ts"/>
 <verse eid="1PE 3:9"/><verse number="10" style="v" sid="1PE 3:10"/>{We know that this is true} because, {as David wrote,}
 </para>
-  <para style="q1">“As for those who truly want to enjoy good lives,
+  <para style="q1" vid="1PE 3:10">“As for those who truly want to enjoy good lives,
 </para>
-  <para style="q1">they must not say evil things or speak deceitful things.
+  <para style="q1" vid="1PE 3:10">they must not say evil things or speak deceitful things.
 <verse eid="1PE 3:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="1PE 3:11"/>They must also refuse to do evil, and do what is good {instead}.
 </para>
-  <para style="q1">They must diligently strive to have peaceful relationships with other people.
+  <para style="q1" vid="1PE 3:11">They must diligently strive to have peaceful relationships with other people.
 <verse eid="1PE 3:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="1PE 3:12"/>{They must do these things,} because the Lord watches over righteous people.
 </para>
-  <para style="q1">He listens {and responds} to the prayers of righteous people,
+  <para style="q1" vid="1PE 3:12">He listens {and responds} to the prayers of righteous people,
 </para>
-  <para style="q1">but he opposes people who do evil.”
+  <para style="q1" vid="1PE 3:12">but he opposes people who do evil.”
 
 <ms style="ts"/>
 <verse eid="1PE 3:12"/></para>
@@ -220,7 +220,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1PE 3:22"/><verse eid="1PE 3:22"/></para>
+<verse eid="1PE 3:22"/></para>
   <chapter eid="1PE 3"/>
   <chapter number="4" style="c" sid="1PE 4"/>
   <para style="p"><verse number="1" style="v" sid="1PE 4:1"/>Therefore, because the Messiah physically suffered, prepare yourselves {to suffer as Christians} by thinking {about suffering} the way that Jesus thought {about suffering}. {Do this} because those who physically suffer are no longer involved in sin
@@ -254,16 +254,16 @@
 <verse eid="1PE 4:16"/><verse number="17" style="v" sid="1PE 4:17"/>{I say this} because it is now time for God to begin judging people, and first he will judge those who belong to him. Since {he will judge} us believers first, think about what {terrible things} will finally happen to those who do not obey the good news that comes from him!
 <verse eid="1PE 4:17"/><verse number="18" style="v" sid="1PE 4:18"/>{Solomon} also {wrote in the Scriptures},
 </para>
-  <para style="q1">“If righteous people must suffer many difficult trials before going to heaven,
+  <para style="q1" vid="1PE 4:18">“If righteous people must suffer many difficult trials before going to heaven,
 </para>
-  <para style="q1">how much more will the ungodly and sinful people surely suffer!”
+  <para style="q1" vid="1PE 4:18">how much more will the ungodly and sinful people surely suffer!”
 
 <verse eid="1PE 4:18"/></para>
   <para style="p"><verse number="19" style="v" sid="1PE 4:19"/>Therefore, those who are suffering because God wants {them to suffer} should trust God with their lives while continuing to do what is good. God is the one who created them, and he always does what he promises to do.
 
 <ms style="ts"/>
 
-<verse eid="1PE 4:19"/><verse eid="1PE 4:19"/></para>
+<verse eid="1PE 4:19"/></para>
   <chapter eid="1PE 4"/>
   <chapter number="5" style="c" sid="1PE 5"/>
   <para style="p"><verse number="1" style="v" sid="1PE 5:1"/>Now I{, Peter,} urge those among you who are elders {who lead the assemblies of believers}; {I am also} an elder. I personally witnessed the Messiah suffer, and I will share in his glorious nature that God will soon reveal.

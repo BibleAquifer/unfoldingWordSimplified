@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EPH" style="id">EN_UST en_English_ltr Tue Sep 07 2021 11:27:07 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -65,7 +65,7 @@ and who are loyal to the Messiah Jesus.
 
 <ms style="ts"/>
 
-<verse eid="EPH 1:23"/><verse eid="EPH 1:23"/></para>
+<verse eid="EPH 1:23"/></para>
   <chapter eid="EPH 1"/>
   <chapter number="2" style="c" sid="EPH 2"/>
   <para style="p"><verse number="1" style="v" sid="EPH 2:1"/>Before you trusted the Messiah, you were spiritually dead—you were unable to stop sinning.
@@ -111,7 +111,7 @@ and who are loyal to the Messiah Jesus.
 
 <ms style="ts"/>
 
-<verse eid="EPH 2:22"/><verse eid="EPH 2:22"/></para>
+<verse eid="EPH 2:22"/></para>
   <chapter eid="EPH 2"/>
   <chapter number="3" style="c" sid="EPH 3"/>
   <para style="p"><verse number="1" style="v" sid="EPH 3:1"/>Because God is working out this plan for you non-Jews, I, Paul, pray to the Father for you, even as I am in prison because I serve the Messiah Jesus for your sake.
@@ -157,7 +157,7 @@ and who are loyal to the Messiah Jesus.
 
 <ms style="ts"/>
 
-<verse eid="EPH 3:21"/><verse eid="EPH 3:21"/></para>
+<verse eid="EPH 3:21"/></para>
   <chapter eid="EPH 3"/>
   <chapter number="4" style="c" sid="EPH 4"/>
   <para style="p"><verse number="1" style="v" sid="EPH 4:1"/>Because of all this, as someone who is in prison because I serve the Lord Jesus, I appeal to you to live in a way that honors Jesus, who called you to live for him.
@@ -174,11 +174,11 @@ and who are loyal to the Messiah Jesus.
   <para style="p"><verse number="7" style="v" sid="EPH 4:7"/>To each one of us God has given spiritual gifts in just the way that the Messiah has decided that we should have them.
 <verse eid="EPH 4:7"/><verse number="8" style="v" sid="EPH 4:8"/>That is why the scripture says,
 </para>
-  <para style="q1">As he went up to the high place,
+  <para style="q1" vid="EPH 4:8">As he went up to the high place,
 </para>
-  <para style="q1">he brought with him many people whom he had captured,
+  <para style="q1" vid="EPH 4:8">he brought with him many people whom he had captured,
 </para>
-  <para style="q1">and gave gifts to his people.
+  <para style="q1" vid="EPH 4:8">and gave gifts to his people.
 
 <ms style="ts"/>
 <verse eid="EPH 4:8"/></para>
@@ -228,7 +228,7 @@ and who are loyal to the Messiah Jesus.
 
 <ms style="ts"/>
 
-<verse eid="EPH 4:32"/><verse eid="EPH 4:32"/></para>
+<verse eid="EPH 4:32"/></para>
   <chapter eid="EPH 4"/>
   <chapter number="5" style="c" sid="EPH 5"/>
   <para style="p"><verse number="1" style="v" sid="EPH 5:1"/>Because of what God has done for you, imitate him just as children imitate the father who loves them dearly.
@@ -256,13 +256,13 @@ and who are loyal to the Messiah Jesus.
 <verse eid="EPH 5:12"/><verse number="13" style="v" sid="EPH 5:13"/>but it is necessary for us to expose them so that people can know and understand that these deeds are evil. This is like when we bring something into the light in order to reveal to everyone what it truly is. Then people can examine and judge that thing that light has exposed.
 <verse eid="EPH 5:13"/><verse number="14" style="v" sid="EPH 5:14"/>Before you knew God you were like someone asleep or dead in a dark place. This is what believers are talking about when they say,
 </para>
-  <para style="q1">“You who are asleep, wake up!
+  <para style="q1" vid="EPH 5:14">“You who are asleep, wake up!
 </para>
-  <para style="q1">You who are dead, come out of the darkness and live!
+  <para style="q1" vid="EPH 5:14">You who are dead, come out of the darkness and live!
 </para>
-  <para style="q1">The Messiah will show you what is true,
+  <para style="q1" vid="EPH 5:14">The Messiah will show you what is true,
 </para>
-  <para style="q1">just as a light that shines shows people what was in the darkness.”
+  <para style="q1" vid="EPH 5:14">just as a light that shines shows people what was in the darkness.”
 
 <ms style="ts"/>
 <verse eid="EPH 5:14"/></para>
@@ -295,7 +295,7 @@ and who are loyal to the Messiah Jesus.
 <ms style="ts"/>
 <verse eid="EPH 5:29-30"/><verse number="31" style="v" sid="EPH 5:31"/>The scriptures say this about people who marry:
 </para>
-  <para style="q1">“Therefore a man will leave his father and his mother and will join himself to his wife, and the two of them will become as though they were one person.”
+  <para style="q1" vid="EPH 5:31">“Therefore a man will leave his father and his mother and will join himself to his wife, and the two of them will become as though they were one person.”
 
 <verse eid="EPH 5:31"/></para>
   <para style="p"><verse number="32" style="v" sid="EPH 5:32"/>There is very much about this that we cannot understand, but I am telling you that this example of a husband and wife also helps us to understand the relationship between the Messiah and the group of people who belong to him.
@@ -303,14 +303,14 @@ and who are loyal to the Messiah Jesus.
 
 <ms style="ts"/>
 
-<verse eid="EPH 5:33"/><verse eid="EPH 5:33"/></para>
+<verse eid="EPH 5:33"/></para>
   <chapter eid="EPH 5"/>
   <chapter number="6" style="c" sid="EPH 6"/>
   <para style="p"><verse number="1" style="v" sid="EPH 6:1"/>As for you who are children, obey your parents as a way of serving the Lord Jesus because it is right for you to do that.
 <verse eid="EPH 6:1"/><verse number="2" style="v" sid="EPH 6:2"/>God commanded in the scriptures,
 
 </para>
-  <para style="p">“Greatly respect your father and mother.” That is the first law that God commanded in which he also promised something. He promised,
+  <para style="p" vid="EPH 6:2">“Greatly respect your father and mother.” That is the first law that God commanded in which he also promised something. He promised,
 
 <verse eid="EPH 6:2"/></para>
   <para style="p"><verse number="3" style="v" sid="EPH 6:3"/>“If you do that, you will prosper, and you will live a long time on the earth.”

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1TH" style="id">EN_UST en_English_ltr Thu Feb 02 2023 13:19:45 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -37,7 +37,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TH 1:10"/><verse eid="1TH 1:10"/></para>
+<verse eid="1TH 1:10"/></para>
   <chapter eid="1TH 1"/>
   <chapter number="2" style="c" sid="1TH 2"/>
   <para style="p"><verse number="1" style="v" sid="1TH 2:1"/>Fellow believers, you surely remember that when we visited you, it was very productive.
@@ -78,7 +78,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TH 2:20"/><verse eid="1TH 2:20"/></para>
+<verse eid="1TH 2:20"/></para>
   <chapter eid="1TH 2"/>
   <chapter number="3" style="c" sid="1TH 3"/>
   <para style="p"><verse number="1" style="v" sid="1TH 3:1"/>So then, because we {felt like we} could not possibly wait any longer, we decided that just Silas and I should stay behind in the city of Athens.
@@ -107,7 +107,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TH 3:13"/><verse eid="1TH 3:13"/></para>
+<verse eid="1TH 3:13"/></para>
   <chapter eid="1TH 3"/>
   <chapter number="4" style="c" sid="1TH 4"/>
   <para style="p"><verse number="1" style="v" sid="1TH 4:1"/>So then, fellow believers, {here is} the rest {of what I want to write to you}. {When we visited you,} we taught you how you should behave in a way that honors God, and that is how you are behaving! Now we urge you, because God has united you to the Lord Jesus, to continue to behave in this way more and more.
@@ -144,7 +144,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TH 4:18"/><verse eid="1TH 4:18"/></para>
+<verse eid="1TH 4:18"/></para>
   <chapter eid="1TH 4"/>
   <chapter number="5" style="c" sid="1TH 5"/>
   <para style="p"><verse number="1" style="v" sid="1TH 5:1"/>{Now I want you to be aware of the timing of our Lord’s return to earth} Our fellow believers in the Messiah, we do not {really} need to write {anything} to you about the specific time {of our Lord’s return}.

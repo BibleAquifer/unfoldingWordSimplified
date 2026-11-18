@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="LUK" style="id">EN_UST en_English_ltr Thu Apr 28 2022 14:02:18 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -105,17 +105,17 @@
 <verse eid="LUK 1:45"/></para>
   <para style="p"><verse number="46" style="v" sid="LUK 1:46"/>Then Mary praised God by saying:
 </para>
-  <para style="q1">“Oh, how I praise the Lord
+  <para style="q1" vid="LUK 1:46">“Oh, how I praise the Lord
 <verse eid="LUK 1:46"/></para>
   <para style="q1"><verse number="47" style="v" sid="LUK 1:47"/>and I feel very joyful about God,
 </para>
-  <para style="q1">the one who saves me!
+  <para style="q1" vid="LUK 1:47">the one who saves me!
 
 <ms style="ts"/>
 <verse eid="LUK 1:47"/></para>
   <para style="q1"><verse number="48" style="v" sid="LUK 1:48"/>I am happy because he was gracious to me, even though I was not very important.
 </para>
-  <para style="q1">Just imagine this—from now on, people living at all times in the future will say that God has blessed me.
+  <para style="q1" vid="LUK 1:48">Just imagine this—from now on, people living at all times in the future will say that God has blessed me.
 <verse eid="LUK 1:48"/></para>
   <para style="q1"><verse number="49" style="v" sid="LUK 1:49"/>They will say this because God, the Powerful and Holy One, has done great things for me.
 
@@ -125,25 +125,25 @@
 <verse eid="LUK 1:50"/></para>
   <para style="q1"><verse number="51" style="v" sid="LUK 1:51"/>He has shown people that he is very powerful.
 </para>
-  <para style="q1">He has routed those who think proudly within themselves.
+  <para style="q1" vid="LUK 1:51">He has routed those who think proudly within themselves.
 
 <ms style="ts"/>
 <verse eid="LUK 1:51"/></para>
   <para style="q1"><verse number="52" style="v" sid="LUK 1:52"/>He has made rulers stop ruling,
 </para>
-  <para style="q1">but he has honored people who are lowly.
+  <para style="q1" vid="LUK 1:52">but he has honored people who are lowly.
 <verse eid="LUK 1:52"/></para>
   <para style="q1"><verse number="53" style="v" sid="LUK 1:53"/>He has let people who were hungry eat good food until they were full,
 </para>
-  <para style="q1">but he has sent rich people away without giving them anything.
+  <para style="q1" vid="LUK 1:53">but he has sent rich people away without giving them anything.
 
 <ms style="ts"/>
 <verse eid="LUK 1:53"/></para>
   <para style="q1"><verse number="54-55" style="v" sid="LUK 1:54-55"/>He has helped Israel, the people who serve him.
 </para>
-  <para style="q1">Long ago he promised our ancestors that he would be merciful to them.
+  <para style="q1" vid="LUK 1:54-55">Long ago he promised our ancestors that he would be merciful to them.
 </para>
-  <para style="q1">He has kept that promise and has always acted mercifully toward Abraham and all who descended from him.”
+  <para style="q1" vid="LUK 1:54-55">He has kept that promise and has always acted mercifully toward Abraham and all who descended from him.”
 
 <ms style="ts"/>
 <verse eid="LUK 1:54-55"/></para>
@@ -172,19 +172,19 @@
 <verse eid="LUK 1:67"/></para>
   <para style="q1"><verse number="68" style="v" sid="LUK 1:68"/>“Praise the Lord, the God whom we people of Israel worship,
 </para>
-  <para style="q1">because he has come to set us, his people, free.
+  <para style="q1" vid="LUK 1:68">because he has come to set us, his people, free.
 
 <ms style="ts"/>
 <verse eid="LUK 1:68"/></para>
   <para style="q1"><verse number="69" style="v" sid="LUK 1:69"/>He has sent someone who will powerfully save us,
 </para>
-  <para style="q1">someone who is descended from David, whom he chose to be king.
+  <para style="q1" vid="LUK 1:69">someone who is descended from David, whom he chose to be king.
 <verse eid="LUK 1:69"/></para>
   <para style="q1"><verse number="70" style="v" sid="LUK 1:70"/>(Long ago God inspired his prophets to say that he would do these things.)
 <verse eid="LUK 1:70"/></para>
   <para style="q1"><verse number="71" style="v" sid="LUK 1:71"/>{God is sending this deliverer} to save us from our enemies,
 </para>
-  <para style="q1">and {he will rescue us} from the power of everyone who hates us.
+  <para style="q1" vid="LUK 1:71">and {he will rescue us} from the power of everyone who hates us.
 
 <ms style="ts"/>
 <verse eid="LUK 1:71"/></para>
@@ -194,7 +194,7 @@
 <verse eid="LUK 1:73"/></para>
   <para style="q1"><verse number="74" style="v" sid="LUK 1:74"/>He promised that he would rescue us from the power of our enemies
 </para>
-  <para style="q1">so that we could serve him without being afraid of them.
+  <para style="q1" vid="LUK 1:74">so that we could serve him without being afraid of them.
 <verse eid="LUK 1:74"/></para>
   <para style="q1"><verse number="75" style="v" sid="LUK 1:75"/>As a result, we could live in the right way, as people who completely belong to him, for as long as we live.”
 
@@ -202,13 +202,13 @@
 <verse eid="LUK 1:75"/></para>
   <para style="p"><verse number="76" style="v" sid="LUK 1:76"/>{Then Zechariah said to his baby son,}
 </para>
-  <para style="q1">“And as for you, my child, you will be a prophet
+  <para style="q1" vid="LUK 1:76">“And as for you, my child, you will be a prophet
 </para>
-  <para style="q1">of the Most High God.
+  <para style="q1" vid="LUK 1:76">of the Most High God.
 </para>
-  <para style="q1">You will begin your work before the Lord comes
+  <para style="q1" vid="LUK 1:76">You will begin your work before the Lord comes
 </para>
-  <para style="q1">so that you can prepare the people to be ready for him.
+  <para style="q1" vid="LUK 1:76">so that you can prepare the people to be ready for him.
 <verse eid="LUK 1:76"/></para>
   <para style="q1"><verse number="77" style="v" sid="LUK 1:77"/>You will tell God’s people that he wants to save them by forgiving their sins.
 
@@ -216,7 +216,7 @@
 <verse eid="LUK 1:77"/></para>
   <para style="q1"><verse number="78" style="v" sid="LUK 1:78"/>God wants to save us because he is compassionate and merciful.
 </para>
-  <para style="q1">That is why he is sending this Savior from heaven to help us.
+  <para style="q1" vid="LUK 1:78">That is why he is sending this Savior from heaven to help us.
 <verse eid="LUK 1:78"/></para>
   <para style="q1"><verse number="79" style="v" sid="LUK 1:79"/>This Savior will show the truth to those who do not know it, even to those who do not know it at all. He will show us how to live in a way that pleases God.”
 
@@ -226,7 +226,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 1:80"/><verse eid="LUK 1:80"/></para>
+<verse eid="LUK 1:80"/></para>
   <chapter eid="LUK 1"/>
   <chapter number="2" style="c" sid="LUK 2"/>
   <para style="p"><verse number="1" style="v" sid="LUK 2:1"/>Also during that time, Caesar Augustus{, who ruled over the whole Roman Empire,} commanded that every person living in his empire had to register {his name in an official list of the people who lived there}.
@@ -337,7 +337,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 2:52"/><verse eid="LUK 2:52"/></para>
+<verse eid="LUK 2:52"/></para>
   <chapter eid="LUK 2"/>
   <chapter number="3" style="c" sid="LUK 3"/>
   <para style="p"><verse number="1" style="v" sid="LUK 3:1"/>{This next part of the history happened} when Tiberius Caesar had been ruling {the Roman Empire} for about fifteen years. At that time, Pontius Pilate was the governor of the province of Judea, Herod Antipas was ruling the district of Galilee, his brother Philip was ruling the regions of Iturea and Trachonitis, and Lysanius was ruling the region of Abilene.
@@ -349,19 +349,19 @@
 <ms style="ts"/>
 <verse eid="LUK 3:3"/><verse number="4" style="v" sid="LUK 3:4"/>{When John preached like this,} the words came true that the prophet Isaiah wrote on a scroll long ago:
 </para>
-  <para style="q1">“In the desolate place, someone will be calling out {to the people}:
+  <para style="q1" vid="LUK 3:4">“In the desolate place, someone will be calling out {to the people}:
 </para>
-  <para style="q1">‘Prepare yourselves to receive the Lord!
+  <para style="q1" vid="LUK 3:4">‘Prepare yourselves to receive the Lord!
 </para>
-  <para style="q1">Make yourselves ready for when he comes!’
+  <para style="q1" vid="LUK 3:4">Make yourselves ready for when he comes!’
 
 <ms style="ts"/>
 <verse eid="LUK 3:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="LUK 3:5"/>{When an important person is going to arrive by a certain road,} people fill in all the ravines and level off all the steep places in it.
 </para>
-  <para style="q1">They make the road straight wherever it is crooked,
+  <para style="q1" vid="LUK 3:5">They make the road straight wherever it is crooked,
 </para>
-  <para style="q1">and they smooth out all the bumps. {In the same way, God will make sure that there will be people who are ready for the Messiah.}
+  <para style="q1" vid="LUK 3:5">and they smooth out all the bumps. {In the same way, God will make sure that there will be people who are ready for the Messiah.}
 <verse eid="LUK 3:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="LUK 3:6"/>Then everyone will recognize God’s way of saving people.”
 
@@ -432,7 +432,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 3:38"/><verse eid="LUK 3:38"/></para>
+<verse eid="LUK 3:38"/></para>
   <chapter eid="LUK 3"/>
   <chapter number="4" style="c" sid="LUK 4"/>
   <para style="p"><verse number="1" style="v" sid="LUK 4:1"/>After John baptized him, Jesus came back out of the Jordan River. The Holy Spirit was fully empowering him. Then the Holy Spirit led him into the wilderness.
@@ -455,10 +455,10 @@
   <para style="p"><verse number="9" style="v" sid="LUK 4:9"/>Then the devil took Jesus to Jerusalem. He set him on the highest part of the temple and said to him, “If you really are the Son of God, jump down from here.
 <verse eid="LUK 4:9"/><verse number="10" style="v" sid="LUK 4:10"/>You will not be hurt, because the Scriptures say,
 </para>
-  <para style="q1">‘God will command his angels to protect you.’
+  <para style="q1" vid="LUK 4:10">‘God will command his angels to protect you.’
 <verse eid="LUK 4:10"/><verse number="11" style="v" sid="LUK 4:11"/>And the Scriptures also say,
 </para>
-  <para style="q1">‘The angels will hold you up in their hands when you are falling, so that you will not get hurt.’”
+  <para style="q1" vid="LUK 4:11">‘The angels will hold you up in their hands when you are falling, so that you will not get hurt.’”
 
 <ms style="ts"/>
 <verse eid="LUK 4:11"/><verse number="12" style="v" sid="LUK 4:12"/>But Jesus replied, “{No, I will not do that, because} the Scriptures also say: ‘Do not test the Lord your God’.”
@@ -480,13 +480,13 @@
 <verse eid="LUK 4:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="LUK 4:18"/>“The Spirit of the Lord is empowering me,
 </para>
-  <para style="q1">because he has specially appointed me to declare God’s good news to people who are poor.
+  <para style="q1" vid="LUK 4:18">because he has specially appointed me to declare God’s good news to people who are poor.
 </para>
-  <para style="q1">He has sent me to declare to people who are in prison that they will go free,
+  <para style="q1" vid="LUK 4:18">He has sent me to declare to people who are in prison that they will go free,
 </para>
-  <para style="q1">and to tell those who are blind that they will see again.
+  <para style="q1" vid="LUK 4:18">and to tell those who are blind that they will see again.
 </para>
-  <para style="q1">He has sent me to release people whom others are oppressing,
+  <para style="q1" vid="LUK 4:18">He has sent me to release people whom others are oppressing,
 <verse eid="LUK 4:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="LUK 4:19"/>and to announce that now is the time when the Lord will act favorably toward people.”
 
@@ -542,7 +542,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 4:44"/><verse eid="LUK 4:44"/></para>
+<verse eid="LUK 4:44"/></para>
   <chapter eid="LUK 4"/>
   <chapter number="5" style="c" sid="LUK 5"/>
   <para style="p"><verse number="1" style="v" sid="LUK 5:1"/>One day while many people were crowding around Jesus and listening to him teach God’s message, he was standing next to Lake Gennesaret.
@@ -625,7 +625,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 5:39"/><verse eid="LUK 5:39"/></para>
+<verse eid="LUK 5:39"/></para>
   <chapter eid="LUK 5"/>
   <chapter number="6" style="c" sid="LUK 6"/>
   <para style="p"><verse number="1" style="v" sid="LUK 6:1"/>One Sabbath day, as Jesus and his disciples were walking through some grain fields, the disciples picked some heads of grain. They rubbed them in their hands to separate the grain from the husks. Then they ate the grain.
@@ -668,7 +668,7 @@
 <verse eid="LUK 6:20"/><verse number="21" style="v" sid="LUK 6:21"/>It is very good for you who are hungry now, because God will give you everything you need.
 
 </para>
-  <para style="p">It is very good for you who are grieving now, because God will someday make you laugh with joy.
+  <para style="p" vid="LUK 6:21">It is very good for you who are grieving now, because God will someday make you laugh with joy.
 
 <ms style="ts"/>
 <verse eid="LUK 6:21"/></para>
@@ -681,7 +681,7 @@
 <verse eid="LUK 6:24"/><verse number="25" style="v" sid="LUK 6:25"/>How sad it is for you who can stuff yourselves with food now. Later you will go hungry.
 
 </para>
-  <para style="p">Woe to the ones who are laughing now. Later you will be very unhappy.
+  <para style="p" vid="LUK 6:25">Woe to the ones who are laughing now. Later you will be very unhappy.
 
 <ms style="ts"/>
 <verse eid="LUK 6:25"/><verse number="26" style="v" sid="LUK 6:26"/>How sad it is for you when everyone says good things about you. In the same way, their ancestors used to say good things about people who falsely claimed to be God’s prophets.
@@ -743,7 +743,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 6:49"/><verse eid="LUK 6:49"/></para>
+<verse eid="LUK 6:49"/></para>
   <chapter eid="LUK 6"/>
   <chapter number="7" style="c" sid="LUK 7"/>
   <para style="p"><verse number="1" style="v" sid="LUK 7:1"/>After Jesus finished saying all these things to the people who were listening, he went to the town of Capernaum.
@@ -842,7 +842,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LUK 7:50"/><verse eid="LUK 7:50"/></para>
+<verse eid="LUK 7:50"/></para>
   <chapter eid="LUK 7"/>
   <chapter number="8" style="c" sid="LUK 8"/>
   <para style="p"><verse number="1" style="v" sid="LUK 8:1"/>After that, Jesus and his 12 representatives traveled around through various cities and villages. As they went, Jesus preached to people, telling them the good news that they could have God rule their lives.
@@ -864,7 +864,7 @@
   <para style="p"><verse number="9" style="v" sid="LUK 8:9"/>Then Jesus’ disciples asked him, “What does that story mean?”
 <verse eid="LUK 8:9"/><verse number="10" style="v" sid="LUK 8:10"/>And he said, “God has given you the privilege of knowing hidden things about how God will rule as king. But {I speak} to everyone else only in parables, so that,
 </para>
-  <para style="q1">‘Although they see, they may not perceive, and although they hear, they may not understand.’
+  <para style="q1" vid="LUK 8:10">‘Although they see, they may not perceive, and although they hear, they may not understand.’
 
 <ms style="ts"/>
 <verse eid="LUK 8:10"/></para>
@@ -935,7 +935,7 @@
 <verse eid="LUK 8:41"/><verse number="42" style="v" sid="LUK 8:42"/>He did this because he had an only daughter, who was about 12 years old, and she was dying. {He wanted Jesus to heal her.}
 
 </para>
-  <para style="p">Now as Jesus went {with him}, many people were crowding around him.
+  <para style="p" vid="LUK 8:42">Now as Jesus went {with him}, many people were crowding around him.
 
 <ms style="ts"/>
 <verse eid="LUK 8:42"/><verse number="43" style="v" sid="LUK 8:43"/>Now in the crowd there was a woman who had been suffering for 12 years from a disease that caused continual bleeding. She had spent all her money<note style="f" caller="+"> <char style="ft" closed="false">Scholars are divided whether the phrase</char><char style="fqa" closed="true">[She] had spent all her money</char> should be included here.</note>
@@ -967,7 +967,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 8:56"/><verse eid="LUK 8:56"/></para>
+<verse eid="LUK 8:56"/></para>
   <chapter eid="LUK 8"/>
   <chapter number="9" style="c" sid="LUK 9"/>
   <para style="p"><verse number="1" style="v" sid="LUK 9:1"/>Then Jesus called together his 12 representatives and gave them the right and power to drive out all kinds of demons and to heal {people’s} diseases.
@@ -1056,7 +1056,7 @@ to pay doctors to help her, but none of them was able to heal her.
 <verse eid="LUK 9:42"/><verse number="43" style="v" sid="LUK 9:43"/>Then all the people there were completely amazed at the great power God had shown.
 
 </para>
-  <para style="p">While they were all still marveling at all the miracles Jesus was doing, he said to his disciples,
+  <para style="p" vid="LUK 9:43">While they were all still marveling at all the miracles Jesus was doing, he said to his disciples,
 <verse eid="LUK 9:43"/><verse number="44" style="v" sid="LUK 9:44"/>“Listen carefully to what I am about to tell you, because someone will soon hand me, the Son of Man, over to my enemies.”
 <verse eid="LUK 9:44"/><verse number="45" style="v" sid="LUK 9:45"/>But the disciples did not understand what he meant by this. God prevented them from understanding it so that they would not know yet what he meant, and they were afraid to ask him about what he had said.
 
@@ -1097,7 +1097,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 9:62"/><verse eid="LUK 9:62"/></para>
+<verse eid="LUK 9:62"/></para>
   <chapter eid="LUK 9"/>
   <chapter number="10" style="c" sid="LUK 10"/>
   <para style="p"><verse number="1" style="v" sid="LUK 10:1"/>After that, Jesus appointed 72 other disciples {to go and prepare people to hear him}. He sent them out in pairs to go ahead of him to every town and village where he was intending to go himself.
@@ -1187,7 +1187,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 10:42"/><verse eid="LUK 10:42"/></para>
+<verse eid="LUK 10:42"/></para>
   <chapter eid="LUK 10"/>
   <chapter number="11" style="c" sid="LUK 11"/>
   <para style="p"><verse number="1" style="v" sid="LUK 11:1"/>One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us how to pray. John the Baptist did that for his own disciples, and we would like you to do that for us.”
@@ -1306,7 +1306,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 11:54"/><verse eid="LUK 11:54"/></para>
+<verse eid="LUK 11:54"/></para>
   <chapter eid="LUK 11"/>
   <chapter number="12" style="c" sid="LUK 12"/>
   <para style="p"><verse number="1" style="v" sid="LUK 12:1"/>Meanwhile, many thousands of people gathered {around Jesus}. There were so many that they were stepping on each other. The first thing he said to his disciples was, “Be careful that you do not become like the Pharisees, who act religious in public but do evil things in secret.
@@ -1433,7 +1433,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 12:59"/><verse eid="LUK 12:59"/></para>
+<verse eid="LUK 12:59"/></para>
   <chapter eid="LUK 12"/>
   <chapter number="13" style="c" sid="LUK 13"/>
   <para style="p"><verse number="1" style="v" sid="LUK 13:1"/>At that time, some people who were there in the crowd told Jesus about what had recently happened to some Galileans. Pilate, the Roman governor, had ordered soldiers to kill the Galileans while they were offering sacrifices in the temple in Jerusalem.
@@ -1509,7 +1509,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 13:35"/><verse eid="LUK 13:35"/></para>
+<verse eid="LUK 13:35"/></para>
   <chapter eid="LUK 13"/>
   <chapter number="14" style="c" sid="LUK 14"/>
   <para style="p"><verse number="1" style="v" sid="LUK 14:1"/>One day, which was a day of rest, Jesus went to eat at the house of one of the leaders of the Pharisees. {This leader had invited other Pharisees to the same meal.} They were all watching Jesus carefully {to try to find grounds to accuse him}.
@@ -1581,7 +1581,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 14:35"/><verse eid="LUK 14:35"/></para>
+<verse eid="LUK 14:35"/></para>
   <chapter eid="LUK 14"/>
   <chapter number="15" style="c" sid="LUK 15"/>
   <para style="p"><verse number="1" style="v" sid="LUK 15:1"/>Now, many tax collectors and other people whom the religious leaders considered to be sinners kept coming to Jesus to listen to him teach.
@@ -1646,7 +1646,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 15:32"/><verse eid="LUK 15:32"/></para>
+<verse eid="LUK 15:32"/></para>
   <chapter eid="LUK 15"/>
   <chapter number="16" style="c" sid="LUK 16"/>
   <para style="p"><verse number="1" style="v" sid="LUK 16:1"/>Jesus also said to his disciples, “Once there was a rich man who had a household manager. One day someone informed the rich man that the manager was doing such a bad job that the rich man was losing lots of money.
@@ -1715,7 +1715,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 16:31"/><verse eid="LUK 16:31"/></para>
+<verse eid="LUK 16:31"/></para>
   <chapter eid="LUK 16"/>
   <chapter number="17" style="c" sid="LUK 17"/>
   <para style="p"><verse number="1" style="v" sid="LUK 17:1"/>Jesus said to his disciples, “Things that tempt people to sin will certainly happen. But how terrible it will be for anyone who causes those things to happen!
@@ -1793,7 +1793,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 17:37"/><verse eid="LUK 17:37"/></para>
+<verse eid="LUK 17:37"/></para>
   <chapter eid="LUK 17"/>
   <chapter number="18" style="c" sid="LUK 18"/>
   <para style="p"><verse number="1" style="v" sid="LUK 18:1"/>Jesus told his disciples another story to teach them that they should pray continually and not become discouraged {if God did not immediately answer their prayers}.
@@ -1883,7 +1883,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 18:43"/><verse eid="LUK 18:43"/></para>
+<verse eid="LUK 18:43"/></para>
   <chapter eid="LUK 18"/>
   <chapter number="19" style="c" sid="LUK 19"/>
   <para style="p"><verse number="1" style="v" sid="LUK 19:1"/>Jesus entered Jericho and was going through the city.
@@ -1982,7 +1982,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 19:48"/><verse eid="LUK 19:48"/></para>
+<verse eid="LUK 19:48"/></para>
   <chapter eid="LUK 19"/>
   <chapter number="20" style="c" sid="LUK 20"/>
   <para style="p"><verse number="1" style="v" sid="LUK 20:1"/>One day during that week, Jesus was teaching the people at the temple and telling them God’s good message. As he was doing that, the chief priests, the teachers of the Jewish laws, and some other elders came to him.
@@ -2020,7 +2020,7 @@ to pay doctors to help her, but none of them was able to heal her.
 <ms style="ts"/>
 <verse eid="LUK 20:16"/><verse number="17" style="v" sid="LUK 20:17"/>But Jesus looked directly at them and said, “You can say that, but think about the meaning of these words that are written in the Scriptures.
 </para>
-  <para style="q1">‘The stone that the builders rejected has become the most important stone in the building.
+  <para style="q1" vid="LUK 20:17">‘The stone that the builders rejected has become the most important stone in the building.
 
 <verse eid="LUK 20:17"/></para>
   <para style="p"><verse number="18" style="v" sid="LUK 20:18"/>This stone will break to pieces everyone who falls on it, and it will crush anyone on whom it falls.’”
@@ -2073,9 +2073,9 @@ to pay doctors to help her, but none of them was able to heal her.
   <para style="p"><verse number="41" style="v" sid="LUK 20:41"/>So in return, {Jesus asked them a difficult question of his own.} He said, “Why do people say that the Messiah is {only} a descendant of King David?
 <verse eid="LUK 20:41"/><verse number="42" style="v" sid="LUK 20:42"/>Consider that David himself wrote in the Book of Psalms {about the Messiah},
 </para>
-  <para style="q1">‘God said to my Lord,
+  <para style="q1" vid="LUK 20:42">‘God said to my Lord,
 </para>
-  <para style="q1">“Sit here next to me on my right side{, in that position of great honor}.
+  <para style="q1" vid="LUK 20:42">“Sit here next to me on my right side{, in that position of great honor}.
 <verse eid="LUK 20:42"/></para>
   <para style="q1"><verse number="43" style="v" sid="LUK 20:43"/>{Sit here} while I completely defeat your enemies.”’
 
@@ -2090,7 +2090,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 20:47"/><verse eid="LUK 20:47"/></para>
+<verse eid="LUK 20:47"/></para>
   <chapter eid="LUK 20"/>
   <chapter number="21" style="c" sid="LUK 21"/>
   <para style="p"><verse number="1" style="v" sid="LUK 21:1"/>Then Jesus looked up {from where he was sitting} and saw rich people putting their gifts {of money} into the offering boxes {in the temple courtyard}.
@@ -2172,7 +2172,7 @@ to pay doctors to help her, but none of them was able to heal her.
 
 <ms style="ts"/>
 
-<verse eid="LUK 21:38"/><verse eid="LUK 21:38"/></para>
+<verse eid="LUK 21:38"/></para>
   <chapter eid="LUK 21"/>
   <chapter number="22" style="c" sid="LUK 22"/>
   <para style="p"><verse number="1" style="v" sid="LUK 22:1"/>It was now almost time for the Celebration of Unleavened Bread, which people also called the Passover.
@@ -2322,7 +2322,7 @@ He was suffering greatly. So he prayed very intensely. His sweat was falling to 
 
 <ms style="ts"/>
 
-<verse eid="LUK 22:71"/><verse eid="LUK 22:71"/></para>
+<verse eid="LUK 22:71"/></para>
   <chapter eid="LUK 22"/>
   <chapter number="23" style="c" sid="LUK 23"/>
   <para style="p"><verse number="1" style="v" sid="LUK 23:1"/>Then the whole group got up and took Jesus to Pilate{, the Roman governor}.
@@ -2441,7 +2441,7 @@ He was suffering greatly. So he prayed very intensely. His sweat was falling to 
 
 <ms style="ts"/>
 
-<verse eid="LUK 23:56"/><verse eid="LUK 23:56"/></para>
+<verse eid="LUK 23:56"/></para>
   <chapter eid="LUK 23"/>
   <chapter number="24" style="c" sid="LUK 24"/>
   <para style="p"><verse number="1" style="v" sid="LUK 24:1"/>Very early in the morning on Sunday, those women went to the burial chamber. They brought with them the spices that they had prepared {to put on the body of Jesus}.

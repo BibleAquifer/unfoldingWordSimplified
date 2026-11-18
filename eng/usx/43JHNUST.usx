@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JHN" style="id">EN_UST en_English_ltr Thu Jun 02 2022 11:56:30 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -121,7 +121,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 1:51"/><verse eid="JHN 1:51"/></para>
+<verse eid="JHN 1:51"/></para>
   <chapter eid="JHN 1"/>
   <chapter number="2" style="c" sid="JHN 2"/>
   <para style="p"><verse number="1" style="v" sid="JHN 2:1"/>Two days later, there was a wedding in Cana, which is a town in the region of Galilee, and Jesus’ mother was there.
@@ -177,7 +177,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 2:25"/><verse eid="JHN 2:25"/></para>
+<verse eid="JHN 2:25"/></para>
   <chapter eid="JHN 2"/>
   <chapter number="3" style="c" sid="JHN 3"/>
   <para style="p"><verse number="1" style="v" sid="JHN 3:1"/>Now there was a man named Nicodemus. He was a member of {a strict Jewish religious group called} the Pharisees. He was a member of the highest Jewish governing council.
@@ -252,7 +252,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 3:36"/><verse eid="JHN 3:36"/></para>
+<verse eid="JHN 3:36"/></para>
   <chapter eid="JHN 3"/>
   <chapter number="4" style="c" sid="JHN 4"/>
   <para style="p"><verse number="1" style="v" sid="JHN 4:1"/>Later, {the religious group called} the Pharisees heard that Jesus was gaining more disciples than John the Baptizer and that he was baptizing more people than John was baptizing. Jesus also found out that the Pharisees had heard this.
@@ -368,7 +368,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 4:54"/><verse eid="JHN 4:54"/></para>
+<verse eid="JHN 4:54"/></para>
   <chapter eid="JHN 4"/>
   <chapter number="5" style="c" sid="JHN 5"/>
   <para style="p"><verse number="1" style="v" sid="JHN 5:1"/>After those things happened, the time came for another Jewish festival, and Jesus walked up to the city of Jerusalem {to celebrate the festival}.
@@ -388,7 +388,7 @@
 <verse eid="JHN 5:8"/><verse number="9" style="v" sid="JHN 5:9"/>Then Jesus healed the man at once, and the man picked up the mat {that he had been lying on} and walked.
 
 </para>
-  <para style="p">(Now this happened on {the Jewish day for rest known as} the Sabbath.)
+  <para style="p" vid="JHN 5:9">(Now this happened on {the Jewish day for rest known as} the Sabbath.)
 
 <ms style="ts"/>
 <verse eid="JHN 5:9"/><verse number="10" style="v" sid="JHN 5:10"/>Because {it was the Jewish day for rest}, the Jewish leaders said to the man whom Jesus had healed, “Today is a day for rest. You are not allowed to carry your mat {on this day, because it is work}.”
@@ -471,7 +471,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 5:47"/><verse eid="JHN 5:47"/></para>
+<verse eid="JHN 5:47"/></para>
   <chapter eid="JHN 5"/>
   <chapter number="6" style="c" sid="JHN 6"/>
   <para style="p"><verse number="1" style="v" sid="JHN 6:1"/>After those things happened, Jesus crossed over to the opposite side of the Sea of Galilee, which some people also call the Sea of Tiberias.
@@ -618,7 +618,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 6:71"/><verse eid="JHN 6:71"/></para>
+<verse eid="JHN 6:71"/></para>
   <chapter eid="JHN 6"/>
   <chapter number="7" style="c" sid="JHN 7"/>
   <para style="p"><verse number="1" style="v" sid="JHN 7:1"/>After those things happened, Jesus walked around in the region of Galilee because he did not want to walk around in the region of Judea. {He avoided Judea} because the Jewish leaders there were trying to find a way to kill him.
@@ -736,7 +736,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 7:53"/><verse eid="JHN 7:53"/></para>
+<verse eid="JHN 7:53"/></para>
   <chapter eid="JHN 7"/>
   <chapter number="8" style="c" sid="JHN 8"/>
   <para style="p"><verse number="1" style="v" sid="JHN 8:1"/><note style="f" caller="+"> <char style="ft" closed="false">See the note about John 7:53-8:11 on 7:53 above.</char></note>
@@ -857,7 +857,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 8:59"/><verse eid="JHN 8:59"/></para>
+<verse eid="JHN 8:59"/></para>
   <chapter eid="JHN 8"/>
   <chapter number="9" style="c" sid="JHN 9"/>
   <para style="p"><verse number="1" style="v" sid="JHN 9:1"/>While Jesus was walking along the path, he saw a man who had been blind since the day he was born.
@@ -941,7 +941,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 9:41"/><verse eid="JHN 9:41"/></para>
+<verse eid="JHN 9:41"/></para>
   <chapter eid="JHN 9"/>
   <chapter number="10" style="c" sid="JHN 10"/>
   <para style="p"><verse number="1" style="v" sid="JHN 10:1"/>“I am telling you the truth: Anyone who enters into the sheep pen by any way other than the pen’s gate is a thief or bandit {who has come to steal the sheep}.
@@ -1031,7 +1031,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 10:42"/><verse eid="JHN 10:42"/></para>
+<verse eid="JHN 10:42"/></para>
   <chapter eid="JHN 10"/>
   <chapter number="11" style="c" sid="JHN 11"/>
   <para style="p"><verse number="1" style="v" sid="JHN 11:1"/>A man named Lazarus became very ill. He lived in the village of Bethany where his sisters Mary and Martha also lived.
@@ -1154,7 +1154,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 11:57"/><verse eid="JHN 11:57"/></para>
+<verse eid="JHN 11:57"/></para>
   <chapter eid="JHN 11"/>
   <chapter number="12" style="c" sid="JHN 12"/>
   <para style="p"><verse number="1" style="v" sid="JHN 12:1"/>Jesus arrived in the village of Bethany six days before the Jewish Passover celebration began. {Bethany was the village} where Lazarus dwelled. He was the man whom Jesus made alive again after he had died.
@@ -1187,9 +1187,9 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 <verse eid="JHN 12:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="JHN 12:15"/>“Do not be afraid, you who live in Jerusalem.
 </para>
-  <para style="q1">Look! Your King is coming.
+  <para style="q1" vid="JHN 12:15">Look! Your King is coming.
 </para>
-  <para style="q1">He is riding on a donkey’s colt!”
+  <para style="q1" vid="JHN 12:15">He is riding on a donkey’s colt!”
 
 <ms style="ts"/>
 <verse eid="JHN 12:15"/></para>
@@ -1221,7 +1221,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 <verse eid="JHN 12:27"/><verse number="28" style="v" sid="JHN 12:28"/>Father, show how great you are!”
 
 </para>
-  <para style="p">Then God spoke from heaven, “I have already shown how great I am; I will do it again!”
+  <para style="p" vid="JHN 12:28">Then God spoke from heaven, “I have already shown how great I am; I will do it again!”
 <verse eid="JHN 12:28"/><verse number="29" style="v" sid="JHN 12:29"/>The crowd of people that was standing there heard the voice of God as well. Some of them said it was just the sound of thunder. Some other people said that an angel had spoken to Jesus.
 
 <ms style="ts"/>
@@ -1239,27 +1239,27 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 <verse eid="JHN 12:35"/><verse number="36" style="v" sid="JHN 12:36"/>Trust in me, the light {that reveals God’s truth and goodness}, while I am still with you. {Do this} in order to be God’s people, {those who know his truth and goodness}.”
 
 </para>
-  <para style="p">After he said those things, Jesus left them and hid himself from the people.
+  <para style="p" vid="JHN 12:36">After he said those things, Jesus left them and hid himself from the people.
 
 <ms style="ts"/>
 <verse eid="JHN 12:36"/><verse number="37" style="v" sid="JHN 12:37"/>Even though Jesus had done many miraculous signs in front of the people, most of them did not trust in him.
 <verse eid="JHN 12:37"/><verse number="38" style="v" sid="JHN 12:38"/>Their unbelief happened in order to make come true what Isaiah the prophet had written {long ago}:
 </para>
-  <para style="q1">“Lord, no one has believed what we said!
+  <para style="q1" vid="JHN 12:38">“Lord, no one has believed what we said!
 </para>
-  <para style="q1">{It seems like} no one has seen the power that the Lord has revealed!”
+  <para style="q1" vid="JHN 12:38">{It seems like} no one has seen the power that the Lord has revealed!”
 
 <ms style="ts"/>
 <verse eid="JHN 12:38"/><verse number="39" style="v" sid="JHN 12:39"/>They could not trust in Jesus for this reason: Isaiah had also written,
 <verse eid="JHN 12:39"/><verse number="40" style="v" sid="JHN 12:40"/>“The Lord has made them unable to perceive what they see,
 </para>
-  <para style="q1">and he has made them stubborn.
+  <para style="q1" vid="JHN 12:40">and he has made them stubborn.
 </para>
-  <para style="q1">{He has done this} in order that they would not perceive what they see,
+  <para style="q1" vid="JHN 12:40">{He has done this} in order that they would not perceive what they see,
 </para>
-  <para style="q1">and would not truly understand,
+  <para style="q1" vid="JHN 12:40">and would not truly understand,
 </para>
-  <para style="q1">and would not turn away from sin to God, and I would not forgive them.”
+  <para style="q1" vid="JHN 12:40">and would not turn away from sin to God, and I would not forgive them.”
 
 <ms style="ts"/>
 <verse eid="JHN 12:40"/></para>
@@ -1287,7 +1287,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 12:50"/><verse eid="JHN 12:50"/></para>
+<verse eid="JHN 12:50"/></para>
   <chapter eid="JHN 12"/>
   <chapter number="13" style="c" sid="JHN 13"/>
   <para style="p"><verse number="1" style="v" sid="JHN 13:1"/>On the day before the Passover celebration would begin, Jesus knew that it was the time for him to leave this world and to return to his Father. He always loved his disciples who were with him in this world, and he loved them to the uttermost.
@@ -1367,7 +1367,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 13:38"/><verse eid="JHN 13:38"/></para>
+<verse eid="JHN 13:38"/></para>
   <chapter eid="JHN 13"/>
   <chapter number="14" style="c" sid="JHN 14"/>
   <para style="p"><verse number="1" style="v" sid="JHN 14:1"/>“Do not be distressed. Trust God. Trust me as well.
@@ -1433,7 +1433,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 14:31"/><verse eid="JHN 14:31"/></para>
+<verse eid="JHN 14:31"/></para>
   <chapter eid="JHN 14"/>
   <chapter number="15" style="c" sid="JHN 15"/>
   <para style="p"><verse number="1" style="v" sid="JHN 15:1"/>“I am like a genuine vine {that grows fruit}. My Father is like a gardener {who takes care of it}.
@@ -1493,7 +1493,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 15:27"/><verse eid="JHN 15:27"/></para>
+<verse eid="JHN 15:27"/></para>
   <chapter eid="JHN 15"/>
   <chapter number="16" style="c" sid="JHN 16"/>
   <para style="p"><verse number="1" style="v" sid="JHN 16:1"/>I told you about these things that will happen so that you would continue trusting in me {when they do happen}.
@@ -1565,7 +1565,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 16:33"/><verse eid="JHN 16:33"/></para>
+<verse eid="JHN 16:33"/></para>
   <chapter eid="JHN 16"/>
   <chapter number="17" style="c" sid="JHN 17"/>
   <para style="p"><verse number="1" style="v" sid="JHN 17:1"/>After Jesus told his disciples about these things that would happen, he looked up toward heaven and said, “Father, it is now time {for me to suffer and die}. Show everyone how great I, your Son, am in order that I may show everyone how great you are.
@@ -1623,7 +1623,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 17:26"/><verse eid="JHN 17:26"/></para>
+<verse eid="JHN 17:26"/></para>
   <chapter eid="JHN 17"/>
   <chapter number="18" style="c" sid="JHN 18"/>
   <para style="p"><verse number="1" style="v" sid="JHN 18:1"/>After Jesus finished praying, he left with his disciples and crossed the Kidron Valley. On the other side of the valley they entered into a grove {of olive trees}.
@@ -1705,13 +1705,13 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 <verse eid="JHN 18:37"/><verse number="38" style="v" sid="JHN 18:38"/>Pilate said to him, “Nobody knows what is really true!”
 
 </para>
-  <para style="p">After Pilate said that, he went outside and talked to the Jewish leaders again. He told them, “I have found no evidence that this man has broken a law.
+  <para style="p" vid="JHN 18:38">After Pilate said that, he went outside and talked to the Jewish leaders again. He told them, “I have found no evidence that this man has broken a law.
 <verse eid="JHN 18:38"/><verse number="39" style="v" sid="JHN 18:39"/>However, you Jews have a custom: Every year during the Passover celebration you ask me, and I release to you someone who is in prison. So do you want me to release your king to you?”
 <verse eid="JHN 18:39"/><verse number="40" style="v" sid="JHN 18:40"/>The Jewish leaders then shouted again, “No, do not release this man, but release Barabbas!” (Barabbas was a revolutionary.)
 
 <ms style="ts"/>
 
-<verse eid="JHN 18:40"/><verse eid="JHN 18:40"/></para>
+<verse eid="JHN 18:40"/></para>
   <chapter eid="JHN 18"/>
   <chapter number="19" style="c" sid="JHN 19"/>
   <para style="p"><verse number="1" style="v" sid="JHN 19:1"/>So at that time Pilate {ordered his soldiers to} take Jesus and beat him with whips.
@@ -1761,12 +1761,12 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 <verse eid="JHN 19:22"/><verse number="23" style="v" sid="JHN 19:23"/>After the soldiers had put Jesus on the cross, they took his clothes and divided them into four equal parts, one part was for each soldier. {However, they kept his} tunic {separate}. The weaver had woven this tunic from top to bottom from one piece of cloth that did not have any seams.
 <verse eid="JHN 19:23"/><verse number="24" style="v" sid="JHN 19:24"/>So the soldiers said to each other, “Let us not tear this tunic. Instead, let us decide who will keep it by gambling {and giving it to the winner}.” That occurred in order to make this scripture come true:
 </para>
-  <para style="q1">“They divided my clothes among them.
+  <para style="q1" vid="JHN 19:24">“They divided my clothes among them.
 </para>
-  <para style="q1">They gambled for my clothing.”
+  <para style="q1" vid="JHN 19:24">They gambled for my clothing.”
 
 </para>
-  <para style="m">That is why the soldiers did those things.
+  <para style="m" vid="JHN 19:24">That is why the soldiers did those things.
 
 <ms style="ts"/>
 <verse eid="JHN 19:24"/></para>
@@ -1808,7 +1808,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 19:42"/><verse eid="JHN 19:42"/></para>
+<verse eid="JHN 19:42"/></para>
   <chapter eid="JHN 19"/>
   <chapter number="20" style="c" sid="JHN 20"/>
   <para style="p"><verse number="1" style="v" sid="JHN 20:1"/>Early on Sunday morning, while it was still dark, Mary Magdalene came to the tomb {where they had buried Jesus}. She saw that someone had moved the stone away from the entrance to the tomb.
@@ -1875,7 +1875,7 @@ Jesus went to the Mount of Olives {and stayed near there that night}.
 
 <ms style="ts"/>
 
-<verse eid="JHN 20:31"/><verse eid="JHN 20:31"/></para>
+<verse eid="JHN 20:31"/></para>
   <chapter eid="JHN 20"/>
   <chapter number="21" style="c" sid="JHN 21"/>
   <para style="p"><verse number="1" style="v" sid="JHN 21:1"/>After those things happened, Jesus appeared again to his disciples by the Sea of Tiberias, {which is also known as the Sea of Galilee}. This is how he appeared to them:

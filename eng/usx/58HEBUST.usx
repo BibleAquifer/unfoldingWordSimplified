@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="HEB" style="id">EN_UST en_English_ltr Wed Aug 31 2022 16:22:00 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -24,38 +24,38 @@
 <verse eid="HEB 1:4"/></para>
   <para style="p"><verse number="5" style="v" sid="HEB 1:5"/>{You can tell that God’s Son is greater than the spiritual beings} because God did not at any time say these words to any spiritual being:
 </para>
-  <para style="q1">“On this day, I have declared to everyone that I am your father,
+  <para style="q1" vid="HEB 1:5">“On this day, I have declared to everyone that I am your father,
 </para>
-  <para style="q1">and you are my son!”
+  <para style="q1" vid="HEB 1:5">and you are my son!”
 
 </para>
-  <para style="p">{He did not say these words about any spiritual being} either:
+  <para style="p" vid="HEB 1:5">{He did not say these words about any spiritual being} either:
 </para>
-  <para style="q1">“I will be his father,
+  <para style="q1" vid="HEB 1:5">“I will be his father,
 </para>
-  <para style="q1">and he will be my son.”
+  <para style="q1" vid="HEB 1:5">and he will be my son.”
 
 </para>
-  <para style="p">{However, he did say these words to his own Son.}
+  <para style="p" vid="HEB 1:5">{However, he did say these words to his own Son.}
 
 <ms style="ts"/>
 <verse eid="HEB 1:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 1:6"/>More than that, when God raised his Son into the heavenly world, he commanded:
 </para>
-  <para style="q1">“All the spiritual beings who serve God must honor and praise him.”
+  <para style="q1" vid="HEB 1:6">“All the spiritual beings who serve God must honor and praise him.”
 
 <verse eid="HEB 1:6"/></para>
   <para style="p"><verse number="7" style="v" sid="HEB 1:7"/>God says this about the spiritual beings:
 </para>
-  <para style="q1">“I have caused the spiritual beings who serve me to be {like} the wind and {like} burning fire.”
+  <para style="q1" vid="HEB 1:7">“I have caused the spiritual beings who serve me to be {like} the wind and {like} burning fire.”
 
 <ms style="ts"/>
 <verse eid="HEB 1:7"/></para>
   <para style="p"><verse number="8" style="v" sid="HEB 1:8"/>On the other hand, {God says this} about his Son:
 </para>
-  <para style="q1">“You who are God will rule forever,
+  <para style="q1" vid="HEB 1:8">“You who are God will rule forever,
 </para>
-  <para style="q1">and you will reign justly over your kingdom.
+  <para style="q1" vid="HEB 1:8">and you will reign justly over your kingdom.
 <verse eid="HEB 1:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HEB 1:9"/>You loved whatever is just, and you hated whatever breaks God’s law. Because of that, I, your God, have caused you to be more powerful and joyful than anyone else who is with you.”
 
@@ -63,37 +63,37 @@
 <verse eid="HEB 1:9"/></para>
   <para style="p"><verse number="10" style="v" sid="HEB 1:10"/>And {God also says this about his Son:}
 </para>
-  <para style="q1">“You are the Lord, who powerfully created everything that exists when it all began.
+  <para style="q1" vid="HEB 1:10">“You are the Lord, who powerfully created everything that exists when it all began.
 <verse eid="HEB 1:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HEB 1:11"/>All those things will eventually fall apart,
 </para>
-  <para style="q1">but you keep on living forever.
+  <para style="q1" vid="HEB 1:11">but you keep on living forever.
 </para>
-  <para style="q1">They are like clothing that becomes old and wears out,
+  <para style="q1" vid="HEB 1:11">They are like clothing that becomes old and wears out,
 <verse eid="HEB 1:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="HEB 1:12"/>and you will {remove them and} roll them up as if they were old clothes.
 </para>
-  <para style="q1">In the same way that a person changes clothes, you will change the things that you created.
+  <para style="q1" vid="HEB 1:12">In the same way that a person changes clothes, you will change the things that you created.
 </para>
-  <para style="q1">In contrast, you are the one who stays the same and lives at all times!”
+  <para style="q1" vid="HEB 1:12">In contrast, you are the one who stays the same and lives at all times!”
 
 <ms style="ts"/>
 <verse eid="HEB 1:12"/></para>
   <para style="p"><verse number="13" style="v" sid="HEB 1:13"/>God did not at any time say these words to any spiritual being:
 </para>
-  <para style="q1">“Rule with me
+  <para style="q1" vid="HEB 1:13">“Rule with me
 </para>
-  <para style="q1">while I defeat all of your enemies!”
+  <para style="q1" vid="HEB 1:13">while I defeat all of your enemies!”
 
 </para>
-  <para style="p">{However, he did say these words to his own Son.}
+  <para style="p" vid="HEB 1:13">{However, he did say these words to his own Son.}
 
 <verse eid="HEB 1:13"/></para>
   <para style="p"><verse number="14" style="v" sid="HEB 1:14"/>The spiritual beings are all powerful beings who serve God, and God has sent them to help those whom he will soon save.
 
 <ms style="ts"/>
 
-<verse eid="HEB 1:14"/><verse eid="HEB 1:14"/></para>
+<verse eid="HEB 1:14"/></para>
   <chapter eid="HEB 1"/>
   <chapter number="2" style="c" sid="HEB 2"/>
   <para style="p"><verse number="1" style="v" sid="HEB 2:1"/>Because {God did say those things to his Son}, we need to focus most of all on {the good news} that we learned. That way, we do not stop believing it.
@@ -108,20 +108,20 @@
   <para style="p"><verse number="5" style="v" sid="HEB 2:5"/>Now God has not put the spiritual beings in charge of the heavenly world that he will bring to earth. It is that world about which I am talking.
 <verse eid="HEB 2:5"/><verse number="6" style="v" sid="HEB 2:6"/>Someone confirmed {what I have said} when he wrote in the Scriptures,
 </para>
-  <para style="q1">“No humans are worthy enough for you to think about them{, God}!
+  <para style="q1" vid="HEB 2:6">“No humans are worthy enough for you to think about them{, God}!
 </para>
-  <para style="q1">No human beings are important enough for you to take care of them!
+  <para style="q1" vid="HEB 2:6">No human beings are important enough for you to take care of them!
 
 <ms style="ts"/>
 <verse eid="HEB 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="HEB 2:7"/>{Despite that,} you created humans to be only slightly less powerful than the spiritual beings,
 </para>
-  <para style="q1">and you have greatly honored and empowered them.
+  <para style="q1" vid="HEB 2:7">and you have greatly honored and empowered them.
 <verse eid="HEB 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="HEB 2:8"/>You have put them in charge of everything {that you created}.”
 
 </para>
-  <para style="p">When he wrote, “put them in charge of everything,” that means that there is nothing over which they are not in charge. However, at this present time, we do not observe that humans are in charge of everything.
+  <para style="p" vid="HEB 2:8">When he wrote, “put them in charge of everything,” that means that there is nothing over which they are not in charge. However, at this present time, we do not observe that humans are in charge of everything.
 
 <ms style="ts"/>
 <verse eid="HEB 2:8"/><verse number="9" style="v" sid="HEB 2:9"/>However, we do observe Jesus. He is the one who was less powerful than the spiritual beings for a short time, and God has {now} greatly honored and empowered him. God did this because Jesus died. In this way, God graciously had him die for all people {who believe in him}.
@@ -133,20 +133,20 @@
 <verse eid="HEB 2:10"/><verse number="11" style="v" sid="HEB 2:11"/>Jesus, who sets his people apart for God, and those same people whom he set apart for God, all come from God himself. So, Jesus does not hesitate to refer to them as his own siblings.
 <verse eid="HEB 2:11"/><verse number="12" style="v" sid="HEB 2:12"/>{Jesus calls them his siblings} when he says,
 </para>
-  <para style="q1">“I will declare to my siblings what you are like{, God};
+  <para style="q1" vid="HEB 2:12">“I will declare to my siblings what you are like{, God};
 </para>
-  <para style="q1">I will praise you when people gather together {to worship you}.”
+  <para style="q1" vid="HEB 2:12">I will praise you when people gather together {to worship you}.”
 
 <ms style="ts"/>
 <verse eid="HEB 2:12"/></para>
   <para style="p"><verse number="13" style="v" sid="HEB 2:13"/>{Jesus says} further:
 </para>
-  <para style="q1">“I will rely on him.”
+  <para style="q1" vid="HEB 2:13">“I will rely on him.”
 
 </para>
-  <para style="p">And {Jesus says} further,
+  <para style="p" vid="HEB 2:13">And {Jesus says} further,
 </para>
-  <para style="q1">“Look at me and God’s children whom he has entrusted to me.”
+  <para style="q1" vid="HEB 2:13">“Look at me and God’s children whom he has entrusted to me.”
 
 <verse eid="HEB 2:13"/></para>
   <para style="p"><verse number="14" style="v" sid="HEB 2:14"/>So, because God’s children are human beings, Jesus also became a human being just like them. {He did that} so that he, by dying, could defeat Satan, who uses the fact that people die to control them.
@@ -159,7 +159,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 2:18"/><verse eid="HEB 2:18"/></para>
+<verse eid="HEB 2:18"/></para>
   <chapter eid="HEB 2"/>
   <chapter number="3" style="c" sid="HEB 3"/>
   <para style="p"><verse number="1" style="v" sid="HEB 3:1"/>My fellow believers, God has set you apart for himself, and he has summoned us together from heaven. Since {I have told you what Jesus has done,} you should think about him. God sent him to us, and he is the ruling priest in whom we say we believe.
@@ -174,7 +174,7 @@
 <verse eid="HEB 3:6"/></para>
   <para style="p"><verse number="7" style="v" sid="HEB 3:7"/>Since {we are God’s people}, {we should do} what the Holy Spirit says:
 </para>
-  <para style="q1">“This day, when you hear the Father speak {to you},
+  <para style="q1" vid="HEB 3:7">“This day, when you hear the Father speak {to you},
 <verse eid="HEB 3:7"/><verse number="8" style="v" sid="HEB 3:8"/>do not stubbornly disobey him. {That is what your ancestors did} when they rebelled against God and provoked him while they lived in the wild places.
 
 <ms style="ts"/>
@@ -182,7 +182,7 @@
 <verse eid="HEB 3:9"/><verse number="10" style="v" sid="HEB 3:10"/>during a period of 40 years.
 
 </para>
-  <para style="p">So, he was angry with those people, and he said about them, ‘They want to do what is wrong all the time. They do not understand how I want them to behave.’
+  <para style="p" vid="HEB 3:10">So, he was angry with those people, and he said about them, ‘They want to do what is wrong all the time. They do not understand how I want them to behave.’
 
 <verse eid="HEB 3:10"/></para>
   <para style="p"><verse number="11" style="v" sid="HEB 3:11"/>So then, because he was angry with them, he solemnly declared, ‘They will never participate in how I rest!’”
@@ -196,7 +196,7 @@
 <verse eid="HEB 3:13"/><verse number="14" style="v" sid="HEB 3:14"/>{You should encourage each other,} because we share {in everything} with the Messiah. {That is true} as long as we persist in trusting him, from when we began to do so until we die.
 <verse eid="HEB 3:14"/><verse number="15" style="v" sid="HEB 3:15"/>{You should encourage each other} while the Holy Spirit says,
 </para>
-  <para style="q1">“This day, when you hear God speak {to you}, do not stubbornly disobey him. {That is what your ancestors did} when they rebelled against God.”
+  <para style="q1" vid="HEB 3:15">“This day, when you hear God speak {to you}, do not stubbornly disobey him. {That is what your ancestors did} when they rebelled against God.”
 
 <ms style="ts"/>
 <verse eid="HEB 3:15"/></para>
@@ -207,7 +207,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 3:19"/><verse eid="HEB 3:19"/></para>
+<verse eid="HEB 3:19"/></para>
   <chapter eid="HEB 3"/>
   <chapter number="4" style="c" sid="HEB 4"/>
   <para style="p"><verse number="1" style="v" sid="HEB 4:1"/>So, {we can tell that} God still promises that his people will participate in how he rests. Because of that, we need to make sure that every one of you really receives {what God has promised}.
@@ -217,22 +217,22 @@
 <verse eid="HEB 4:2"/><verse number="3" style="v" sid="HEB 4:3"/>{That is} because {only} we who believe {in the good news} participate in how God rests, {but those who do not believe do not participate in it}. As the Holy Spirit says, “So then, because he was angry with them, he solemnly declared, ‘They will never participate in how I rest!’”
 
 </para>
-  <para style="p">{God said this} even though he stopped working {and rested} after he created the world.
+  <para style="p" vid="HEB 4:3">{God said this} even though he stopped working {and rested} after he created the world.
 <verse eid="HEB 4:3"/><verse number="4" style="v" sid="HEB 4:4"/>{You know that God rested} because of what the Holy Spirit says elsewhere about the seventh {day of the week}. {He says,}
 </para>
-  <para style="q1">“Then, when {it was} the seventh day {of the week}, God finished working {to create everything}, and he rested.”
+  <para style="q1" vid="HEB 4:4">“Then, when {it was} the seventh day {of the week}, God finished working {to create everything}, and he rested.”
 
 <verse eid="HEB 4:4"/></para>
   <para style="p"><verse number="5" style="v" sid="HEB 4:5"/>But {note} again {what God says about the Israelite ancestors} in the words that I already quoted:
 </para>
-  <para style="q1">“They will never participate in how I rest!”
+  <para style="q1" vid="HEB 4:5">“They will never participate in how I rest!”
 
 <ms style="ts"/>
 <verse eid="HEB 4:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 4:6"/>So then, the Israelite ancestors who heard the good news in the past did not obey God, and so they did not participate in how God rests. However, God still wants some people to participate in how he rests.
 <verse eid="HEB 4:6"/><verse number="7" style="v" sid="HEB 4:7"/>{Because of that,} the Holy Spirit once more picked a time {when we can participate in how God rests}. {That time is} what we call “this day.” {He did this} when he spoke through David a long time after {the Israelite ancestors disobeyed}. He said, as I have already quoted,
 </para>
-  <para style="q1">“This day, when you hear God speak {to you}, do not stubbornly disobey him.”
+  <para style="q1" vid="HEB 4:7">“This day, when you hear God speak {to you}, do not stubbornly disobey him.”
 
 <ms style="ts"/>
 <verse eid="HEB 4:7"/></para>
@@ -254,7 +254,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 4:16"/><verse eid="HEB 4:16"/></para>
+<verse eid="HEB 4:16"/></para>
   <chapter eid="HEB 4"/>
   <chapter number="5" style="c" sid="HEB 5"/>
   <para style="p"><verse number="1" style="v" sid="HEB 5:1"/>When God appoints a person to be a ruling priest, he selects that person from a group of people in order to serve God for that group. The ruling priest then presents {to God} what people give or sacrifice to take away sins.
@@ -267,12 +267,12 @@
 <verse eid="HEB 5:4"/></para>
   <para style="p"><verse number="5" style="v" sid="HEB 5:5"/>Similarly, the Messiah too did not decide to become a glorious ruling priest on his own. Rather, God the Father {chose him to be a ruling priest} when he said to him,
 </para>
-  <para style="q1">“On this day, I have declared to everyone that I am your father, and you are my son!”
+  <para style="q1" vid="HEB 5:5">“On this day, I have declared to everyone that I am your father, and you are my son!”
 
 <ms style="ts"/>
 <verse eid="HEB 5:5"/><verse number="6" style="v" sid="HEB 5:6"/>Similarly, {as you can read} in another Psalm, God the Father said {to the Messiah}:
 </para>
-  <para style="q1">“You will never stop being a priest in the same way that Melchizedek was a priest.”
+  <para style="q1" vid="HEB 5:6">“You will never stop being a priest in the same way that Melchizedek was a priest.”
 
 <ms style="ts"/>
 <verse eid="HEB 5:6"/></para>
@@ -293,7 +293,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 5:14"/><verse eid="HEB 5:14"/></para>
+<verse eid="HEB 5:14"/></para>
   <chapter eid="HEB 5"/>
   <chapter number="6" style="c" sid="HEB 6"/>
   <para style="p"><verse number="1" style="v" sid="HEB 6:1"/>Therefore, we need to learn more so that we become mature. We should not continue to focus on only the most basic things about the Messiah. {In other words,} we do not need to learn again about how to stop doing useless things or about how to trust in God.
@@ -337,7 +337,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 6:20"/><verse eid="HEB 6:20"/></para>
+<verse eid="HEB 6:20"/></para>
   <chapter eid="HEB 6"/>
   <chapter number="7" style="c" sid="HEB 7"/>
   <para style="p"><verse number="1" style="v" sid="HEB 7:1"/>{Now I will say more about} Melchizedek. He ruled {the city of} Salem, and he served the greatest God as a priest. When Abraham was going home after defeating some of his enemies, Melchizedek met with him and blessed him.
@@ -370,7 +370,7 @@
 <verse eid="HEB 7:15"/><verse number="16" style="v" sid="HEB 7:16"/>He serves as a priest because nothing can keep him from living, which makes him a powerful {priest}. {As this kind of priest,} he does not depend on what God commanded in Moses’ law about how human priests {are descendants of Levi}.
 <verse eid="HEB 7:16"/><verse number="17" style="v" sid="HEB 7:17"/>{You can tell that this is true about him}, because God the Father said {to him}:
 </para>
-  <para style="q1">“You will never stop being a priest in the same way that Melchizedek was a priest.”
+  <para style="q1" vid="HEB 7:17">“You will never stop being a priest in the same way that Melchizedek was a priest.”
 
 <ms style="ts"/>
 <verse eid="HEB 7:17"/></para>
@@ -381,11 +381,11 @@
 <verse eid="HEB 7:19"/></para>
   <para style="p"><verse number="20-21" style="v" sid="HEB 7:20-21"/>Now God did not guarantee what he said when he made some of the descendants of Levi to be priests. However, he did guarantee what he said {when he made} the Messiah {to be a priest}. Here is what God said to him:
 </para>
-  <para style="q1">“The Lord has guaranteed what he says,
+  <para style="q1" vid="HEB 7:20-21">“The Lord has guaranteed what he says,
 </para>
-  <para style="q1">and he will not do something else:
+  <para style="q1" vid="HEB 7:20-21">and he will not do something else:
 </para>
-  <para style="q1">‘You will never stop being a priest!’” So, just as {Jesus serves as a greater priest because} God guaranteed what he said {when he made him a priest},
+  <para style="q1" vid="HEB 7:20-21">‘You will never stop being a priest!’” So, just as {Jesus serves as a greater priest because} God guaranteed what he said {when he made him a priest},
 
 <ms style="ts"/>
 <verse eid="HEB 7:20-21"/></para>
@@ -407,7 +407,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 7:28"/><verse eid="HEB 7:28"/></para>
+<verse eid="HEB 7:28"/></para>
   <chapter eid="HEB 7"/>
   <chapter number="8" style="c" sid="HEB 8"/>
   <para style="p"><verse number="1" style="v" sid="HEB 8:1"/>Here is the main idea that I am writing about: a ruling priest like the one I have described is serving for us. He has gone to be with God {the Father} in the heavenly places, and he has begun to rule.
@@ -428,55 +428,55 @@
 <ms style="ts"/>
 <verse eid="HEB 8:7"/><verse number="8" style="v" sid="HEB 8:8"/>{You can tell that the first agreement was not perfect,} because God declared that the Israelites did not perfectly keep that agreement when he said,
 </para>
-  <para style="q1">“Here is what I say to you: Pay attention!
+  <para style="q1" vid="HEB 8:8">“Here is what I say to you: Pay attention!
 </para>
-  <para style="q1">Soon I will make a new agreement
+  <para style="q1" vid="HEB 8:8">Soon I will make a new agreement
 </para>
-  <para style="q1">with all my people from both the kingdom of Israel and the kingdom of Judah.
+  <para style="q1" vid="HEB 8:8">with all my people from both the kingdom of Israel and the kingdom of Judah.
 <verse eid="HEB 8:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HEB 8:9"/>{That agreement will} not be like the agreement
 </para>
-  <para style="q1">that I made with their ancestors
+  <para style="q1" vid="HEB 8:9">that I made with their ancestors
 </para>
-  <para style="q1">when I lovingly delivered them
+  <para style="q1" vid="HEB 8:9">when I lovingly delivered them
 </para>
-  <para style="q1">from the land of Egypt.
+  <para style="q1" vid="HEB 8:9">from the land of Egypt.
 </para>
-  <para style="q1">Here is what I say:
+  <para style="q1" vid="HEB 8:9">Here is what I say:
 </para>
-  <para style="q1">{It will not be like that agreement,} because they did not keep it,
+  <para style="q1" vid="HEB 8:9">{It will not be like that agreement,} because they did not keep it,
 </para>
-  <para style="q1">so I abandoned them.
+  <para style="q1" vid="HEB 8:9">so I abandoned them.
 
 <ms style="ts"/>
 <verse eid="HEB 8:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="HEB 8:10"/>This is the kind of agreement
 </para>
-  <para style="q1">that I will make with my people, the Israelites,
+  <para style="q1" vid="HEB 8:10">that I will make with my people, the Israelites,
 </para>
-  <para style="q1">very soon.
+  <para style="q1" vid="HEB 8:10">very soon.
 </para>
-  <para style="q1">Here is what I say:
+  <para style="q1" vid="HEB 8:10">Here is what I say:
 </para>
-  <para style="q1">I will enable them to understand and obey my laws.
+  <para style="q1" vid="HEB 8:10">I will enable them to understand and obey my laws.
 </para>
-  <para style="q1">I will be the God whom they worship,
+  <para style="q1" vid="HEB 8:10">I will be the God whom they worship,
 </para>
-  <para style="q1">and they will be the people whom I care for.
+  <para style="q1" vid="HEB 8:10">and they will be the people whom I care for.
 
 <ms style="ts"/>
 <verse eid="HEB 8:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HEB 8:11"/>No one will ever have to instruct another Israelite,
 </para>
-  <para style="q1">‘Trust and worship the Lord God.’
+  <para style="q1" vid="HEB 8:11">‘Trust and worship the Lord God.’
 </para>
-  <para style="q1">{That is} because all my people will trust and worship me,
+  <para style="q1" vid="HEB 8:11">{That is} because all my people will trust and worship me,
 </para>
-  <para style="q1">no matter how important or unimportant they are.
+  <para style="q1" vid="HEB 8:11">no matter how important or unimportant they are.
 <verse eid="HEB 8:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="HEB 8:12"/>{That will happen} because I will mercifully forgive them for the wrong things that they have done.
 </para>
-  <para style="q1">I will never again punish them for the sins that they have committed.”
+  <para style="q1" vid="HEB 8:12">I will never again punish them for the sins that they have committed.”
 
 <ms style="ts"/>
 <verse eid="HEB 8:12"/></para>
@@ -484,7 +484,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 8:13"/><verse eid="HEB 8:13"/></para>
+<verse eid="HEB 8:13"/></para>
   <chapter eid="HEB 8"/>
   <chapter number="9" style="c" sid="HEB 9"/>
   <para style="p"><verse number="1" style="v" sid="HEB 9:1"/>As for the earlier {agreement that God made with Israel}, it required people to worship God in a specific way in a sanctuary on earth.
@@ -546,7 +546,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 9:28"/><verse eid="HEB 9:28"/></para>
+<verse eid="HEB 9:28"/></para>
   <chapter eid="HEB 9"/>
   <chapter number="10" style="c" sid="HEB 10"/>
   <para style="p"><verse number="1" style="v" sid="HEB 10:1"/>The law {that God gave through Moses} is not itself one of the wonderful things that God will give to his people. Rather, it only points to those wonderful things. So, even though the people who go closer to God always present offerings year after year, doing so never enables them to be what God wants them to be.
@@ -558,19 +558,19 @@
 <verse eid="HEB 10:4"/></para>
   <para style="p"><verse number="5" style="v" sid="HEB 10:5"/>That is why, when the Messiah came to earth, he spoke {to his Father},
 </para>
-  <para style="q1">“You did not want {people to present} offerings.
+  <para style="q1" vid="HEB 10:5">“You did not want {people to present} offerings.
 </para>
-  <para style="q1">Instead, you made a human body ready for me.
+  <para style="q1" vid="HEB 10:5">Instead, you made a human body ready for me.
 <verse eid="HEB 10:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="HEB 10:6"/>You did not enjoy the sacrifices
 </para>
-  <para style="q1">that people present to take away their sins.
+  <para style="q1" vid="HEB 10:6">that people present to take away their sins.
 <verse eid="HEB 10:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="HEB 10:7"/>So, I spoke {these words}: ‘Here I am!
 </para>
-  <para style="q1">Someone wrote about me in the Scriptures.
+  <para style="q1" vid="HEB 10:7">Someone wrote about me in the Scriptures.
 </para>
-  <para style="q1">I will do what you want {me to do}, my God.’”
+  <para style="q1" vid="HEB 10:7">I will do what you want {me to do}, my God.’”
 
 <ms style="ts"/>
 <verse eid="HEB 10:7"/></para>
@@ -591,19 +591,19 @@
 <verse eid="HEB 10:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="HEB 10:16"/>“This is the kind of agreement that I will make with them,
 </para>
-  <para style="q1">very soon. Here is what I say:
+  <para style="q1" vid="HEB 10:16">very soon. Here is what I say:
 </para>
-  <para style="q1">I will enable them to obey
+  <para style="q1" vid="HEB 10:16">I will enable them to obey
 </para>
-  <para style="q1">and understand my laws.”
+  <para style="q1" vid="HEB 10:16">and understand my laws.”
 
 <ms style="ts"/>
 <verse eid="HEB 10:16"/></para>
   <para style="p"><verse number="17" style="v" sid="HEB 10:17"/>Then{, God’s Spirit said this second in the words I have already quoted}:
 </para>
-  <para style="q1">“I will never again punish them
+  <para style="q1" vid="HEB 10:17">“I will never again punish them
 </para>
-  <para style="q1">for the sinful and disobedient things that they have done.”
+  <para style="q1" vid="HEB 10:17">for the sinful and disobedient things that they have done.”
 
 <verse eid="HEB 10:17"/></para>
   <para style="p"><verse number="18" style="v" sid="HEB 10:18"/>When God forgives people for the {sinful and disobedient} things that they have done, no one again presents sacrifices to take away sins.
@@ -646,24 +646,24 @@
   <para style="p"><verse number="36" style="v" sid="HEB 10:36"/>As you can see, you need to continue {to trust God}. That way, once you have done what God desires, you will receive what he has promised {to give to you}.
 <verse eid="HEB 10:36"/><verse number="37" style="v" sid="HEB 10:37"/>Here is what a prophet wrote:
 </para>
-  <para style="q1">“Very soon, the person who is going to arrive will arrive.
+  <para style="q1" vid="HEB 10:37">“Very soon, the person who is going to arrive will arrive.
 </para>
-  <para style="q1">He will not wait a long time.
+  <para style="q1" vid="HEB 10:37">He will not wait a long time.
 
 <ms style="ts"/>
 <verse eid="HEB 10:37"/></para>
   <para style="q1"><verse number="38" style="v" sid="HEB 10:38"/>Further, those who serve me righteously will trust {in me} while they are alive.
 </para>
-  <para style="q1">But suppose they stop {trusting in me}.
+  <para style="q1" vid="HEB 10:38">But suppose they stop {trusting in me}.
 </para>
-  <para style="q1">Then, they will not please me.”
+  <para style="q1" vid="HEB 10:38">Then, they will not please me.”
 
 <verse eid="HEB 10:38"/></para>
   <para style="p"><verse number="39" style="v" sid="HEB 10:39"/>However, we are not those who stop {trusting in God}, whom he will destroy. Rather, we are those who trust {in God}, so he saves us.
 
 <ms style="ts"/>
 
-<verse eid="HEB 10:39"/><verse eid="HEB 10:39"/></para>
+<verse eid="HEB 10:39"/></para>
   <chapter eid="HEB 10"/>
   <chapter number="11" style="c" sid="HEB 11"/>
   <para style="p"><verse number="1" style="v" sid="HEB 11:1"/>When people trust God, it makes them sure that they will receive what they confidently expect. {When people trust God,} it makes them certain about things that they do not see.
@@ -760,7 +760,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 11:40"/><verse eid="HEB 11:40"/></para>
+<verse eid="HEB 11:40"/></para>
   <chapter eid="HEB 11"/>
   <chapter number="12" style="c" sid="HEB 12"/>
   <para style="p"><verse number="1" style="v" sid="HEB 12:1"/>So then, because all those people who trusted God are watching us, we need to persevere in trusting God too. To do that, we need to stop sinning and avoid anything else that could hinder us.
@@ -773,13 +773,13 @@
 <verse eid="HEB 12:3"/><verse number="4" style="v" sid="HEB 12:4"/>So far, you have not died while you oppose {what is evil} and work hard not to sin.
 <verse eid="HEB 12:4"/><verse number="5" style="v" sid="HEB 12:5"/>Further, you have failed to remember what {Solomon} encouraged his children to do, which also applies to you. {Here is what Solomon wrote}:
 </para>
-  <para style="q1">“My child, learn carefully when the Lord trains you.
+  <para style="q1" vid="HEB 12:5">“My child, learn carefully when the Lord trains you.
 </para>
-  <para style="q1">Indeed, persevere when he corrects you.
+  <para style="q1" vid="HEB 12:5">Indeed, persevere when he corrects you.
 <verse eid="HEB 12:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="HEB 12:6"/>{You should do that,} because the Lord {God} trains everyone he loves.
 </para>
-  <para style="q1">Indeed, he severely corrects every child he calls his own.”
+  <para style="q1" vid="HEB 12:6">Indeed, he severely corrects every child he calls his own.”
 
 <ms style="ts"/>
 <verse eid="HEB 12:6"/></para>
@@ -826,7 +826,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HEB 12:29"/><verse eid="HEB 12:29"/></para>
+<verse eid="HEB 12:29"/></para>
   <chapter eid="HEB 12"/>
   <chapter number="13" style="c" sid="HEB 13"/>
   <para style="p"><verse number="1" style="v" sid="HEB 13:1"/>Persist in loving your fellow believers.
@@ -841,18 +841,18 @@
 <ms style="ts"/>
 <verse eid="HEB 13:4"/><verse number="5" style="v" sid="HEB 13:5"/>You should always avoid desiring money. {You can do that} by being happy with whatever you have. {You should behave in this way,} because God has spoken {these words to each of you}:
 </para>
-  <para style="q1">“I will definitely not abandon you.
+  <para style="q1" vid="HEB 13:5">“I will definitely not abandon you.
 </para>
-  <para style="q1">Yes, I will always be with you.”
+  <para style="q1" vid="HEB 13:5">Yes, I will always be with you.”
 
 <verse eid="HEB 13:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 13:6"/>Because {God says that,} we boldly speak {these words}:
 </para>
-  <para style="q1">“The Lord {God} is the one who supports me.
+  <para style="q1" vid="HEB 13:6">“The Lord {God} is the one who supports me.
 </para>
-  <para style="q1">Because of that, I do not fear anyone.
+  <para style="q1" vid="HEB 13:6">Because of that, I do not fear anyone.
 </para>
-  <para style="q1">No one can do anything to {hurt} me.”
+  <para style="q1" vid="HEB 13:6">No one can do anything to {hurt} me.”
 
 <ms style="ts"/>
 <verse eid="HEB 13:6"/></para>

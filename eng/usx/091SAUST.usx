@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1SA" style="id">EN_UST en_English_ltr Tue Mar 11 2025 07:13:21 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -82,7 +82,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1SA 1:28"/><verse eid="1SA 1:28"/></para>
+<verse eid="1SA 1:28"/></para>
   <chapter eid="1SA 1"/>
   <chapter number="2" style="c" sid="1SA 2"/>
   <para style="p"><verse number="1" style="v" sid="1SA 2:1"/>Then Hannah prayed.
@@ -90,95 +90,95 @@
 <ms style="ts"/>
 She said,
 </para>
-  <para style="q1">“In my inner being I am so happy about what you, Yahweh, have done!
+  <para style="q1" vid="1SA 2:1">“In my inner being I am so happy about what you, Yahweh, have done!
 </para>
-  <para style="q2">I am strong because I belong to you.
+  <para style="q2" vid="1SA 2:1">I am strong because I belong to you.
 </para>
-  <para style="q1">I laugh at my enemies
+  <para style="q1" vid="1SA 2:1">I laugh at my enemies
 </para>
-  <para style="q2">because I am celebrating the way that you, Yahweh, have helped me.
+  <para style="q2" vid="1SA 2:1">because I am celebrating the way that you, Yahweh, have helped me.
 <verse eid="1SA 2:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="1SA 2:2"/>No one else is holy as you are, Yahweh.
 
 <ms style="ts"/>
 </para>
-  <para style="q2">You are the only real God.
+  <para style="q2" vid="1SA 2:2">You are the only real God.
 </para>
-  <para style="q1">You, our God, are the only one who can protect us
+  <para style="q1" vid="1SA 2:2">You, our God, are the only one who can protect us
 </para>
-  <para style="q2">as if you were a huge rock that we could stand atop and be safe from danger.
+  <para style="q2" vid="1SA 2:2">as if you were a huge rock that we could stand atop and be safe from danger.
 <verse eid="1SA 2:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="1SA 2:3"/>{You people who oppose God,} stop making so many boasts!
 </para>
-  <para style="q2">Yahweh is a God who knows everything,
+  <para style="q2" vid="1SA 2:3">Yahweh is a God who knows everything,
 </para>
-  <para style="q2">and he will evaluate what each person does.
+  <para style="q2" vid="1SA 2:3">and he will evaluate what each person does.
 </para>
-  <para style="q1">So do not speak so arrogantly!
+  <para style="q1" vid="1SA 2:3">So do not speak so arrogantly!
 <verse eid="1SA 2:3"/><verse number="4" style="v" sid="1SA 2:4"/>Yahweh, you destroy the weapons of mighty soldiers,
 </para>
-  <para style="q2">but you give strength to those who totter because they are so weak.
+  <para style="q2" vid="1SA 2:4">but you give strength to those who totter because they are so weak.
 
 <ms style="ts"/>
 <verse eid="1SA 2:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="1SA 2:5"/>Many people who previously had plenty to eat now have to work for other people to earn money to buy food,
 </para>
-  <para style="q2">but many who were always hungry are not hungry anymore.
+  <para style="q2" vid="1SA 2:5">but many who were always hungry are not hungry anymore.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">Women who could not have any children before have now given birth to many children,
+  <para style="q1" vid="1SA 2:5">Women who could not have any children before have now given birth to many children,
 </para>
-  <para style="q2">but women who had many children before are not able to have any more.
+  <para style="q2" vid="1SA 2:5">but women who had many children before are not able to have any more.
 <verse eid="1SA 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="1SA 2:6"/>You, Yahweh, cause some people to die,
 </para>
-  <para style="q2">and you cause other people to live.
+  <para style="q2" vid="1SA 2:6">and you cause other people to live.
 </para>
-  <para style="q1">It seems that some people will soon go to where dead people go,
+  <para style="q1" vid="1SA 2:6">It seems that some people will soon go to where dead people go,
 </para>
-  <para style="q2">but you make them healthy again.
+  <para style="q2" vid="1SA 2:6">but you make them healthy again.
 <verse eid="1SA 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="1SA 2:7"/>Yahweh, you cause some people to be poor,
 </para>
-  <para style="q2">but you cause others to become rich.
+  <para style="q2" vid="1SA 2:7">but you cause others to become rich.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">You humble some people,
+  <para style="q1" vid="1SA 2:7">You humble some people,
 </para>
-  <para style="q2">but you honor other people.
+  <para style="q2" vid="1SA 2:7">but you honor other people.
 <verse eid="1SA 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="1SA 2:8"/>Needy people often do not have homes,
 </para>
-  <para style="q2">but Yahweh gives those poor people places to live in.
+  <para style="q2" vid="1SA 2:8">but Yahweh gives those poor people places to live in.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">People then treat them respectfully,
+  <para style="q1" vid="1SA 2:8">People then treat them respectfully,
 </para>
-  <para style="q2">and they even sit with community leaders.
+  <para style="q2" vid="1SA 2:8">and they even sit with community leaders.
 </para>
-  <para style="q1">After all, it was Yahweh who created a place
+  <para style="q1" vid="1SA 2:8">After all, it was Yahweh who created a place
 </para>
-  <para style="q2">on which the world itself rests.
+  <para style="q2" vid="1SA 2:8">on which the world itself rests.
 <verse eid="1SA 2:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="1SA 2:9"/>You protect from harm people who are loyal to you,
 </para>
-  <para style="q2">but you cause wicked people to die and go to the dark place where dead people go.
+  <para style="q2" vid="1SA 2:9">but you cause wicked people to die and go to the dark place where dead people go.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">People do not defeat their enemies by their own strength.
+  <para style="q1" vid="1SA 2:9">People do not defeat their enemies by their own strength.
 <verse eid="1SA 2:9"/><verse number="10" style="v" sid="1SA 2:10"/>Yahweh, you will break into pieces those who fight against you.
 </para>
-  <para style="q2">You will come powerfully to punish them.
+  <para style="q2" vid="1SA 2:10">You will come powerfully to punish them.
 </para>
-  <para style="q1">You, Yahweh, will judge people everywhere.
+  <para style="q1" vid="1SA 2:10">You, Yahweh, will judge people everywhere.
 </para>
-  <para style="q1">When you choose a king for us Israelites, you will make him strong.
+  <para style="q1" vid="1SA 2:10">When you choose a king for us Israelites, you will make him strong.
 </para>
-  <para style="q2">Yes, when you have a leader anoint someone as our king, you will make him powerful.”
+  <para style="q2" vid="1SA 2:10">Yes, when you have a leader anoint someone as our king, you will make him powerful.”
 
 <ms style="ts"/>
 <verse eid="1SA 2:10"/></para>
@@ -246,7 +246,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 2:36"/><verse eid="1SA 2:36"/></para>
+<verse eid="1SA 2:36"/></para>
   <chapter eid="1SA 2"/>
   <chapter number="3" style="c" sid="1SA 3"/>
   <para style="p"><verse number="1" style="v" sid="1SA 3:1"/>While he was still a boy, Samuel was working for Yahweh while Eli supervised him. At that time, Yahweh did not often speak messages to people, and Yahweh did not often give visions to people.
@@ -271,7 +271,7 @@ She said,
   <para style="p"><verse number="8" style="v" sid="1SA 3:8"/>After he lay down again, Yahweh called out to Samuel yet again. So Samuel got up yet again and went to Eli. He said, “I have come because you called me. I am ready to do whatever you ask.”
 
 </para>
-  <para style="p">Then Eli realized that it was Yahweh who had been calling Samuel.
+  <para style="p" vid="1SA 3:8">Then Eli realized that it was Yahweh who had been calling Samuel.
 
 <ms style="ts"/>
 <verse eid="1SA 3:8"/><verse number="9" style="v" sid="1SA 3:9"/>So Eli told Samuel, “Go and lie down again. If the same person calls you again, say, ‘I am ready to obey you, Yahweh, so please tell me what you want me to do.’” So Samuel went back to bed and lay down.
@@ -307,13 +307,13 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 3:21"/><verse eid="1SA 3:21"/></para>
+<verse eid="1SA 3:21"/></para>
   <chapter eid="1SA 3"/>
   <chapter number="4" style="c" sid="1SA 4"/>
   <para style="p"><verse number="1" style="v" sid="1SA 4:1"/>Samuel told all the people of Israel the messages that God gave him.
 
 </para>
-  <para style="p">At that time the Israelite army went to fight against the army of the Philistine people. The Israelite army set up their tents at the place that people would later call Ebenezer. The Philistine army set up their tents near the city of Aphek.
+  <para style="p" vid="1SA 4:1">At that time the Israelite army went to fight against the army of the Philistine people. The Israelite army set up their tents at the place that people would later call Ebenezer. The Philistine army set up their tents near the city of Aphek.
 <verse eid="1SA 4:1"/><verse number="2" style="v" sid="1SA 4:2"/>The Philistine army formed a battle line, and the Israelites came and fought with them. In a great battle, the Philistines defeated the Israelites. In combat, they killed about 4, 000 of the soldiers in their battle line.
 
 <ms style="ts"/>
@@ -371,7 +371,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 4:22"/><verse eid="1SA 4:22"/></para>
+<verse eid="1SA 4:22"/></para>
   <chapter eid="1SA 4"/>
   <chapter number="5" style="c" sid="1SA 5"/>
   <para style="p"><verse number="1" style="v" sid="1SA 5:1"/>When the Philistine soldiers captured God’s sacred chest, they took it from the area of Ebenezer{, where they had fought the Israelites,} to their city of Ashdod.
@@ -391,14 +391,14 @@ She said,
 <verse eid="1SA 5:7"/><verse number="8" style="v" sid="1SA 5:8"/>They summoned the five rulers of the Philistines and asked them, “What should we do with the sacred chest of the God of the Israelites?”
 
 </para>
-  <para style="p">The rulers replied, “Send the sacred chest to the city of Gath.” So they moved it to Gath.
+  <para style="p" vid="1SA 5:8">The rulers replied, “Send the sacred chest to the city of Gath.” So they moved it to Gath.
 <verse eid="1SA 5:8"/><verse number="9" style="v" sid="1SA 5:9"/>But when they took the sacred chest to Gath, Yahweh made the people of that city suffer as well. This caused very great distress. Throughout the city, people of all ages died, and many others got unhealthy skin growths.
 
 <ms style="ts"/>
 <verse eid="1SA 5:9"/><verse number="10" style="v" sid="1SA 5:10"/>So the people of Gath moved the sacred chest to the city of Ekron.
 
 </para>
-  <para style="p">But when some men from Gath carried the sacred chest into Ekron, the people there protested. They told the men, “You are going to cause us and our families to die by bringing the sacred chest of the god of the Israelites here!”
+  <para style="p" vid="1SA 5:10">But when some men from Gath carried the sacred chest into Ekron, the people there protested. They told the men, “You are going to cause us and our families to die by bringing the sacred chest of the god of the Israelites here!”
 
 <ms style="ts"/>
 <verse eid="1SA 5:10"/><verse number="11" style="v" sid="1SA 5:11"/>So the people of Ekron also summoned the Philistine rulers. When they came, the people said to them, “Send this sacred chest of the god of the Israelites back to its own place! Otherwise, it will cause us and our families to die!” There was great distress throughout the city because so many people were dying. God was punishing them very severely.
@@ -406,7 +406,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 5:12"/><verse eid="1SA 5:12"/></para>
+<verse eid="1SA 5:12"/></para>
   <chapter eid="1SA 5"/>
   <chapter number="6" style="c" sid="1SA 6"/>
   <para style="p"><verse number="1" style="v" sid="1SA 6:1"/>The people of Philistia kept Yahweh’s sacred chest in their area for seven months.
@@ -420,7 +420,7 @@ She said,
   <para style="p"><verse number="4" style="v" sid="1SA 6:4"/>The people of Philistia asked, “What kind of gift should we send?”
 
 </para>
-  <para style="p">Those men replied, “Since you people and your five rulers have suffered in the same ways, send the same number of gifts as the number of your rulers. Make five gold models of the unhealthy growths on your skin and five gold models of mice.
+  <para style="p" vid="1SA 6:4">Those men replied, “Since you people and your five rulers have suffered in the same ways, send the same number of gifts as the number of your rulers. Make five gold models of the unhealthy growths on your skin and five gold models of mice.
 
 <ms style="ts"/>
 <verse eid="1SA 6:4"/><verse number="5" style="v" sid="1SA 6:5"/>Make models that represent the unhealthy skin growths and the mice that have been devouring your crops. Make them in order to honor the God of the Israelite people. If you do that, perhaps he will stop punishing you, your gods, and your land.
@@ -464,7 +464,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 6:21"/><verse eid="1SA 6:21"/></para>
+<verse eid="1SA 6:21"/></para>
   <chapter eid="1SA 6"/>
   <chapter number="7" style="c" sid="1SA 7"/>
   <para style="p"><verse number="1" style="v" sid="1SA 7:1"/>When the men of Kiriath Jearim received the message, they came to Beth Shemesh and took the sacred chest of Yahweh. They took it to the house of a man whose name was Abinadab. He lived on a hill. They gave Abinadab’s son Eleazar the special duty of taking care of the chest.
@@ -513,7 +513,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 7:17"/><verse eid="1SA 7:17"/></para>
+<verse eid="1SA 7:17"/></para>
   <chapter eid="1SA 7"/>
   <chapter number="8" style="c" sid="1SA 8"/>
   <para style="p"><verse number="1" style="v" sid="1SA 8:1"/>When Samuel became old, he appointed his sons to lead the people of Israel.
@@ -562,7 +562,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 8:22"/><verse eid="1SA 8:22"/></para>
+<verse eid="1SA 8:22"/></para>
   <chapter eid="1SA 8"/>
   <chapter number="9" style="c" sid="1SA 9"/>
   <para style="p"><verse number="1" style="v" sid="1SA 9:1"/>Now there was a rich and influential man whose name was Kish. He belonged to the tribe of Benjamin. Kish was the son of Abiel, the grandson of Zeror, the great-grandson of Becorath, and the great-great-grandson of Aphiah. Kish lived within the territory of the tribe of Benjamin.
@@ -642,7 +642,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 9:27"/><verse eid="1SA 9:27"/></para>
+<verse eid="1SA 9:27"/></para>
   <chapter eid="1SA 9"/>
   <chapter number="10" style="c" sid="1SA 10"/>
   <para style="p"><verse number="1" style="v" sid="1SA 10:1"/>Then Samuel took a small jar of olive oil and poured some of it on Saul’s head. Then he kissed Saul {on the cheek}. He told him, “I am doing this because Yahweh has chosen you to be the leader of his Israelite people.
@@ -717,7 +717,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 10:27"/><verse eid="1SA 10:27"/></para>
+<verse eid="1SA 10:27"/></para>
   <chapter eid="1SA 10"/>
   <chapter number="11" style="c" sid="1SA 11"/>
   <para style="p"><verse number="1" style="v" sid="1SA 11:1"/>Then Nahash king of the Ammonites led his army to attack the city of Jabesh in the region of Gilead. The leaders of the people who lived in that city went to speak with Nahash. They told him, “We want to make a peace treaty with you. We are all willing to become your subjects.”
@@ -763,7 +763,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 11:15"/><verse eid="1SA 11:15"/></para>
+<verse eid="1SA 11:15"/></para>
   <chapter eid="1SA 11"/>
   <chapter number="12" style="c" sid="1SA 12"/>
   <para style="p"><verse number="1" style="v" sid="1SA 12:1"/>Then Samuel told all the Israelite people, “Now listen. I have given you a king to rule you. So I have now done everything you asked me to do.
@@ -830,7 +830,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 12:25"/><verse eid="1SA 12:25"/></para>
+<verse eid="1SA 12:25"/></para>
   <chapter eid="1SA 12"/>
   <chapter number="13" style="c" sid="1SA 13"/>
   <para style="p"><verse number="1" style="v" sid="1SA 13:1"/>Saul was 30 years old when he began to rule the Israelites as their king, and he ruled them for 42 years.
@@ -852,7 +852,7 @@ She said,
 <verse eid="1SA 13:6"/><verse number="7" style="v" sid="1SA 13:7"/>Some of them crossed the Jordan River and went to the area where the descendants of Gad lived and to the region of Gilead.
 
 </para>
-  <para style="p">But Saul stayed at Gilgal. All the soldiers who were with him were shaking because they were so afraid.
+  <para style="p" vid="1SA 13:7">But Saul stayed at Gilgal. All the soldiers who were with him were shaking because they were so afraid.
 
 <ms style="ts"/>
 <verse eid="1SA 13:7"/><verse number="8" style="v" sid="1SA 13:8"/>Samuel had told Saul to wait seven days for him to come and offer sacrifices, and so he did. But Samuel did not come to Gilgal during that time, and meanwhile many of the soldiers in Saul’s remaining army were leaving him and running away.
@@ -897,7 +897,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 13:23"/><verse eid="1SA 13:23"/></para>
+<verse eid="1SA 13:23"/></para>
   <chapter eid="1SA 13"/>
   <chapter number="14" style="c" sid="1SA 14"/>
   <para style="p"><verse number="1" style="v" sid="1SA 14:1"/>One day, Saul’s son Jonathan said to the young man who carried his weapons, “I want to attack the Philistine soldiers who are staying on the other side of the valley from us, and I want you to help me do that.” But Jonathan did not tell his father what he wanted to do.
@@ -908,7 +908,7 @@ She said,
 <verse eid="1SA 14:2"/><verse number="3" style="v" sid="1SA 14:3"/>Ahijah the priest was also there, wearing a sacred apron.
 
 </para>
-  <para style="p">Ahijah’s father Ahitub was the older brother of Ichabod. Ahijah’s grandfather was Phinehas, and his great-grandfather was Eli. Eli had been Yahweh’s priest at Shiloh. None of the soldiers knew that Jonathan had left the Israelite camp.
+  <para style="p" vid="1SA 14:3">Ahijah’s father Ahitub was the older brother of Ichabod. Ahijah’s grandfather was Phinehas, and his great-grandfather was Eli. Eli had been Yahweh’s priest at Shiloh. None of the soldiers knew that Jonathan had left the Israelite camp.
 
 <ms style="ts"/>
 <verse eid="1SA 14:3"/></para>
@@ -934,7 +934,7 @@ She said,
 <verse eid="1SA 14:11"/><verse number="12" style="v" sid="1SA 14:12"/>Then some Philistine soldiers called out to Jonathan and the young man who carried his weapons, “Come up here, and we will show you how real soldiers fight!”
 
 </para>
-  <para style="p">Jonathan said to the young man who was with him, “{Because they said that,} now we know that Yahweh is going to help us to defeat them! So let us climb up and fight them. I will go first.”
+  <para style="p" vid="1SA 14:12">Jonathan said to the young man who was with him, “{Because they said that,} now we know that Yahweh is going to help us to defeat them! So let us climb up and fight them. I will go first.”
 
 <ms style="ts"/>
 <verse eid="1SA 14:12"/><verse number="13" style="v" sid="1SA 14:13"/>So Jonathan climbed up out of the valley to the Philistine camp. He had to use both his hands and his feet because the ground was so steep. The young man climbed up after him. When Jonathan got to the top, he fought all the Philistine soldiers who approached him, and he killed them. The young man followed Jonathan into the camp of the Philistines, and he also fought and killed their soldiers.
@@ -990,7 +990,7 @@ She said,
 <verse eid="1SA 14:32"/><verse number="33" style="v" sid="1SA 14:33"/>One of the soldiers told Saul, “Look! The soldiers are eating meat that still has blood in it. Yahweh told us not to do that, so they are sinning!”
 
 </para>
-  <para style="p">Saul told all the soldiers, “You are breaking a law that Yahweh gave us when he made his agreement with us! Roll a large stone over here right now!”
+  <para style="p" vid="1SA 14:33">Saul told all the soldiers, “You are breaking a law that Yahweh gave us when he made his agreement with us! Roll a large stone over here right now!”
 
 <verse eid="1SA 14:33"/></para>
   <para style="p"><verse number="34" style="v" sid="1SA 14:34"/>{Some soldiers rolled over a large stone, and then} Saul told his officers, “Go around and tell all of our soldiers that each of them must bring any ox or sheep that they wish to eat here where I am. Each one must slaughter it on this large stone {and drain the blood. Then} he can eat the meat. They must not sin against Yahweh by eating meat from an animal without draining its blood.” So that evening each of the soldiers led the animals they wanted to eat over to the great stone, and there they slaughtered them {and drained the blood before eating them}.
@@ -1003,10 +1003,10 @@ She said,
   <para style="p"><verse number="36" style="v" sid="1SA 14:36"/>Then Saul said to the Israelite soldiers, “We should chase the Philistine soldiers tonight. We can attack them all night long. We will not allow any of them to escape alive.”
 
 </para>
-  <para style="p">The Israelite soldiers answered, “We will do whatever you think is the best thing for us to do.”
+  <para style="p" vid="1SA 14:36">The Israelite soldiers answered, “We will do whatever you think is the best thing for us to do.”
 
 </para>
-  <para style="p">But Ahijah the priest said, “We should ask God what he wants us to.”
+  <para style="p" vid="1SA 14:36">But Ahijah the priest said, “We should ask God what he wants us to.”
 <verse eid="1SA 14:36"/><verse number="37" style="v" sid="1SA 14:37"/>So {with Ahijah’s help,} Saul asked God, “Should we keep chasing the Philistine soldiers? Will you enable us Israelites to defeat them?” But God did not answer Saul when he asked this.
 
 <ms style="ts"/>
@@ -1027,7 +1027,7 @@ She said,
   <para style="p"><verse number="43" style="v" sid="1SA 14:43"/>Then Saul said to Jonathan, “Tell me how you sinned.”
 
 </para>
-  <para style="p">Jonathan replied, “I ate some honey. It was only a little bit that was on the end of the spear that I was holding. If you feel that you must execute me for doing that, then go ahead.”
+  <para style="p" vid="1SA 14:43">Jonathan replied, “I ate some honey. It was only a little bit that was on the end of the spear that I was holding. If you feel that you must execute me for doing that, then go ahead.”
 <verse eid="1SA 14:43"/><verse number="44" style="v" sid="1SA 14:44"/>Saul replied, “Yes, I must certainly execute you, Jonathan! I ask God to kill me and do further bad things to me {if I do not execute you for committing this sin}!”
 
 <ms style="ts"/>
@@ -1054,7 +1054,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 14:52"/><verse eid="1SA 14:52"/></para>
+<verse eid="1SA 14:52"/></para>
   <chapter eid="1SA 14"/>
   <chapter number="15" style="c" sid="1SA 15"/>
   <para style="p"><verse number="1" style="v" sid="1SA 15:1"/>One day Samuel said to Saul, “It was Yahweh who sent me to appoint you as king of the Israelite people. So he expects you to obey this message that he has given me for you.
@@ -1099,7 +1099,7 @@ She said,
   <para style="p"><verse number="16" style="v" sid="1SA 15:16"/>Samuel said to Saul, “Stop talking! Allow me to tell you what Yahweh said to me last night.”
 
 </para>
-  <para style="p">Saul replied, “Tell me what he said.”
+  <para style="p" vid="1SA 15:16">Saul replied, “Tell me what he said.”
 
 <ms style="ts"/>
 <verse eid="1SA 15:16"/><verse number="17" style="v" sid="1SA 15:17"/>Samuel said, “Previously you did not think that you were important. But Yahweh appointed you to be the king of Israel, so now you have become the leader of all the tribes of Israel.
@@ -1115,21 +1115,21 @@ She said,
 <verse eid="1SA 15:21"/></para>
   <para style="p"><verse number="22" style="v" sid="1SA 15:22"/>But Samuel replied,
 </para>
-  <para style="q1">“It pleases Yahweh more when people do what he tells them to do
+  <para style="q1" vid="1SA 15:22">“It pleases Yahweh more when people do what he tells them to do
 </para>
-  <para style="q2">than when they completely burn animals as sacrifices to him and offer him other kinds of sacrifices.
+  <para style="q2" vid="1SA 15:22">than when they completely burn animals as sacrifices to him and offer him other kinds of sacrifices.
 </para>
-  <para style="q1">It is much better to obey Yahweh than to offer sacrifices to him.
+  <para style="q1" vid="1SA 15:22">It is much better to obey Yahweh than to offer sacrifices to him.
 </para>
-  <para style="q2">It is better to pay attention to what he says {and do it} than to burn the fat of rams as a sacrifice to him.
+  <para style="q2" vid="1SA 15:22">It is better to pay attention to what he says {and do it} than to burn the fat of rams as a sacrifice to him.
 <verse eid="1SA 15:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="1SA 15:23"/>To rebel against God is as sinful as doing sorcery,
 </para>
-  <para style="q2">and stubbornly resisting his correction is as sinful as worshiping idols.
+  <para style="q2" vid="1SA 15:23">and stubbornly resisting his correction is as sinful as worshiping idols.
 </para>
-  <para style="q1">You have disobeyed what Yahweh told you to do,
+  <para style="q1" vid="1SA 15:23">You have disobeyed what Yahweh told you to do,
 </para>
-  <para style="q2">and as a result, he has decided that you will no longer be king.”
+  <para style="q2" vid="1SA 15:23">and as a result, he has decided that you will no longer be king.”
 
 <ms style="ts"/>
 <verse eid="1SA 15:23"/></para>
@@ -1158,12 +1158,12 @@ She said,
 <verse eid="1SA 15:32"/></para>
   <para style="p"><verse number="33" style="v" sid="1SA 15:33"/>But Samuel said to him,
 </para>
-  <para style="q1">“You have led armies that have killed the sons of many women with their swords.
+  <para style="q1" vid="1SA 15:33">“You have led armies that have killed the sons of many women with their swords.
 </para>
-  <para style="q2">So now your mother will no longer have a son as other women do.”
+  <para style="q2" vid="1SA 15:33">So now your mother will no longer have a son as other women do.”
 
 </para>
-  <para style="m">Then Samuel chopped Agag into pieces with his sword. He did that at Gilgal, where the Israelites worshiped Yahweh.
+  <para style="m" vid="1SA 15:33">Then Samuel chopped Agag into pieces with his sword. He did that at Gilgal, where the Israelites worshiped Yahweh.
 
 <ms style="ts"/>
 <verse eid="1SA 15:33"/></para>
@@ -1172,7 +1172,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 15:35"/><verse eid="1SA 15:35"/></para>
+<verse eid="1SA 15:35"/></para>
   <chapter eid="1SA 15"/>
   <chapter number="16" style="c" sid="1SA 16"/>
   <para style="p"><verse number="1" style="v" sid="1SA 16:1"/>Finally, Yahweh said to Samuel, “You know that I have decided not to allow Saul to continue to be the king of Israel. So you should not keep feeling sad for him. I have recognized that one of the sons of the man whose name is Jesse who lives in the town of Bethlehem will make a good king. So I am sending you there {to pour oil on the head of that son to show this}. Now put some olive oil in a small container and go there.”
@@ -1246,7 +1246,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 16:23"/><verse eid="1SA 16:23"/></para>
+<verse eid="1SA 16:23"/></para>
   <chapter eid="1SA 16"/>
   <chapter number="17" style="c" sid="1SA 17"/>
   <para style="p"><verse number="1" style="v" sid="1SA 17:1"/>The Philistines brought their soldiers to fight against the Israelite army. They assembled near the town of Socoh within the territory of the tribe of Judah. They set up their tents in the area that people called Ephes Dammim, which is between Socoh and the town of Azekah.
@@ -1374,7 +1374,7 @@ She said,
   <para style="p"><verse number="50-51" style="v" sid="1SA 17:50-51"/>Then David ran and stood over Goliath. He pulled Goliath’s sword from its sheath and killed him with it, and then he cut off his head. In that way David defeated that great Philistine soldier. He was able to attack him and kill him even though he did not have a sword. He used only a sling and a stone!
 
 </para>
-  <para style="p">When the other Philistines saw that their great soldier was dead, they ran away.
+  <para style="p" vid="1SA 17:50-51">When the other Philistines saw that their great soldier was dead, they ran away.
 
 <ms style="ts"/>
 <verse eid="1SA 17:50-51"/><verse number="52" style="v" sid="1SA 17:52"/>The Israelite soldiers rushed out of their battle line and ran after them, shouting. They chased them all the way back down the Valley of Elah and all the way to the city of Ekron. The Philistines fled for safety inside the city walls and shut the gates behind them. The Israelites killed Philistine soldiers as they went, so that dead Philistines were lying on the road all the way from the city of Shaaraim to the cities of Gath and Ekron.
@@ -1397,7 +1397,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 17:58"/><verse eid="1SA 17:58"/></para>
+<verse eid="1SA 17:58"/></para>
   <chapter eid="1SA 17"/>
   <chapter number="18" style="c" sid="1SA 18"/>
   <para style="p"><verse number="1" style="v" sid="1SA 18:1"/>After David finished speaking with Saul{, he met Saul’s son Jonathan.} Jonathan immediately felt a strong friendship for David. He loved him as much as he loved himself.
@@ -1416,9 +1416,9 @@ She said,
   <para style="p"><verse number="6" style="v" sid="1SA 18:6"/>One time, David and the troops he was commanding defeated a Philistine army and killed many of its soldiers. Then he returned to Israel with the rest of the Israelite army. Women came out from many Israelite cities and towns to greet King Saul {and all the soldiers}. They were singing and dancing very happily, and they were playing tambourines and lyres.
 <verse eid="1SA 18:6"/><verse number="7" style="v" sid="1SA 18:7"/>To celebrate, the women sang this song:
 </para>
-  <para style="q1">“Saul has killed thousands of enemy soldiers,
+  <para style="q1" vid="1SA 18:7">“Saul has killed thousands of enemy soldiers,
 </para>
-  <para style="q2">And David has killed tens of thousands of them!”
+  <para style="q2" vid="1SA 18:7">And David has killed tens of thousands of them!”
 
 <ms style="ts"/>
 <verse eid="1SA 18:7"/></para>
@@ -1486,7 +1486,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 18:30"/><verse eid="1SA 18:30"/></para>
+<verse eid="1SA 18:30"/></para>
   <chapter eid="1SA 18"/>
   <chapter number="19" style="c" sid="1SA 19"/>
   <para style="p"><verse number="1" style="v" sid="1SA 19:1"/>Then Saul urged all his officers and his son Jonathan to kill David. But Jonathan liked David very much.
@@ -1536,7 +1536,7 @@ She said,
   <para style="p"><verse number="17" style="v" sid="1SA 19:17"/>{When they reported that to Saul, he summoned Michal to come to him.} Saul said to her, “Why did you trick me like that? You allowed my enemy to escape!”
 
 </para>
-  <para style="p">Michal replied to Saul, “David told me that if I did not let him escape, he would kill me! {So I had to let him escape.}”
+  <para style="p" vid="1SA 19:17">Michal replied to Saul, “David told me that if I did not let him escape, he would kill me! {So I had to let him escape.}”
 
 <ms style="ts"/>
 <verse eid="1SA 19:17"/></para>
@@ -1549,7 +1549,7 @@ She said,
 <verse eid="1SA 19:21"/><verse number="22" style="v" sid="1SA 19:22"/>Finally Saul himself went to Ramah. He went to the big well at the place that people call Secu, and he asked {the people who had gathered there to draw water}, “Where are Samuel and David?”
 
 </para>
-  <para style="p">The people replied, “You will find them at Naioth, near Ramah.”
+  <para style="p" vid="1SA 19:22">The people replied, “You will find them at Naioth, near Ramah.”
 
 <ms style="ts"/>
 <verse eid="1SA 19:22"/><verse number="23" style="v" sid="1SA 19:23"/>So Saul started walking toward Ramah to go to Naioth. While he was still on his way there, the Spirit of God influenced him as well, and he spoke and sang all the way to Naioth near Ramah.
@@ -1557,7 +1557,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 19:24"/><verse eid="1SA 19:24"/></para>
+<verse eid="1SA 19:24"/></para>
   <chapter eid="1SA 19"/>
   <chapter number="20" style="c" sid="1SA 20"/>
   <para style="p"><verse number="1" style="v" sid="1SA 20:1"/>David ran away from Naioth. He went to meet with Jonathan and told him, “I have done nothing wrong. I have not harmed your father. Nevertheless, he is trying to kill me!”
@@ -1665,7 +1665,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 20:42"/><verse eid="1SA 20:42"/></para>
+<verse eid="1SA 20:42"/></para>
   <chapter eid="1SA 20"/>
   <chapter number="21" style="c" sid="1SA 21"/>
   <para style="p"><verse number="1" style="v" sid="1SA 21:1"/>David fled from there and went to the city of Nob. Ahimelech, the high priest, was there with the sacred chest. Ahimelech shook with fear when he saw David coming. He asked David, “Why have you not brought any soldiers with you?”
@@ -1696,15 +1696,15 @@ She said,
   <para style="p"><verse number="9" style="v" sid="1SA 21:9"/>Ahimelech replied, “The only sword I have here is the sword that belonged to Goliath, that great Philistine soldier. You killed him in the Valley of Elah. You will find that sword behind the sacred apron in the sacred tent. It has a cloth around it. If you want it, you may take it.”
 
 </para>
-  <para style="p">David replied, “There is certainly no other sword that is as good as that one! Please give it to me.”
+  <para style="p" vid="1SA 21:9">David replied, “There is certainly no other sword that is as good as that one! Please give it to me.”
 
 <ms style="ts"/>
 <verse eid="1SA 21:9"/><verse number="10" style="v" sid="1SA 21:10"/>{So Ahimelech gave it to him, and} David left that same day so that Saul would not capture him. He ran away to the Philistine city of Gath. He offered to work for Achish, the king of that city.
 <verse eid="1SA 21:10"/><verse number="11" style="v" sid="1SA 21:11"/>But the officers of King Achish {did not approve of David’s coming. They} said to King Achish, “This man David is the king of Israel! The women in Israel sing about him as they dance,
 </para>
-  <para style="q1">‘Saul has killed thousands of enemy soldiers,
+  <para style="q1" vid="1SA 21:11">‘Saul has killed thousands of enemy soldiers,
 </para>
-  <para style="q2">And David has killed tens of thousands of them!’”
+  <para style="q2" vid="1SA 21:11">And David has killed tens of thousands of them!’”
 
 <ms style="ts"/>
 <verse eid="1SA 21:11"/></para>
@@ -1718,7 +1718,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 21:15"/><verse eid="1SA 21:15"/></para>
+<verse eid="1SA 21:15"/></para>
   <chapter eid="1SA 21"/>
   <chapter number="22" style="c" sid="1SA 22"/>
   <para style="p"><verse number="1" style="v" sid="1SA 22:1"/>So David fled from Gath and went to hide in a cave on a hill near the town of Adullam. When his older brothers and his other relatives heard about this, they came and stayed with him there.
@@ -1751,7 +1751,7 @@ She said,
 <verse eid="1SA 22:11"/><verse number="12" style="v" sid="1SA 22:12"/>Saul said to Ahimelech, “You son of Ahitub, listen to me!”
 
 </para>
-  <para style="p">Ahimelech answered, “Yes, sir?”
+  <para style="p" vid="1SA 22:12">Ahimelech answered, “Yes, sir?”
 <verse eid="1SA 22:12"/><verse number="13" style="v" sid="1SA 22:13"/>Saul said, “You are conspiring against me with that son of Jesse! You gave him some bread and a sword, and you asked God to tell him what he should do. You helped him to revolt against me, and at this very moment he is hiding somewhere, hoping to surprise me and kill me!”
 
 <ms style="ts"/>
@@ -1767,7 +1767,7 @@ She said,
   <para style="p"><verse number="17" style="v" sid="1SA 22:17"/>Then Saul commanded his bodyguards, who were standing around him, “These priests of Yahweh are conspiring with David against me! They knew that David was trying to run away from me, but they did not tell me! So I want you to kill them right away!”
 
 </para>
-  <para style="p">But Saul’s bodyguards refused to kill Yahweh’s priests.
+  <para style="p" vid="1SA 22:17">But Saul’s bodyguards refused to kill Yahweh’s priests.
 
 <ms style="ts"/>
 <verse eid="1SA 22:17"/></para>
@@ -1785,14 +1785,14 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 22:23"/><verse eid="1SA 22:23"/></para>
+<verse eid="1SA 22:23"/></para>
   <chapter eid="1SA 22"/>
   <chapter number="23" style="c" sid="1SA 23"/>
   <para style="p"><verse number="1" style="v" sid="1SA 23:1"/>One day messengers came and told David, “We have important news! The Philistine army is attacking the town of Keilah! They are stealing the grain from where the people are threshing it!”
 <verse eid="1SA 23:1"/><verse number="2" style="v" sid="1SA 23:2"/>So David asked Yahweh, “Should I lead my men to fight against these Philistine soldiers?”
 
 </para>
-  <para style="p">Yahweh told David, “Yes, go and attack them and rescue the people of Keilah.”
+  <para style="p" vid="1SA 23:2">Yahweh told David, “Yes, go and attack them and rescue the people of Keilah.”
 
 <ms style="ts"/>
 <verse eid="1SA 23:2"/><verse number="3" style="v" sid="1SA 23:3"/>But David’s men said to him, “Listen, we are afraid here in Judah that Saul might attack us. We will be even more afraid if we go to Keilah where we know the Philistine army is!”
@@ -1821,13 +1821,13 @@ She said,
 <verse eid="1SA 23:10"/><verse number="11" style="v" sid="1SA 23:11"/>Will Saul actually come here to Keilah, as people have reported to me? Will the leaders of Keilah let Saul capture me? Yahweh, God of us Israelites, please tell me!”
 
 </para>
-  <para style="p">{By means of the stones in the sacred apron,} Yahweh replied, “Yes, Saul will come here.”
+  <para style="p" vid="1SA 23:11">{By means of the stones in the sacred apron,} Yahweh replied, “Yes, Saul will come here.”
 
 <ms style="ts"/>
 <verse eid="1SA 23:11"/><verse number="12" style="v" sid="1SA 23:12"/>Then David asked, “{If we stay here,} will the leaders of Keilah let Saul’s army capture me and my men?”
 
 </para>
-  <para style="p">Yahweh replied, “Yes, they will.”
+  <para style="p" vid="1SA 23:12">Yahweh replied, “Yes, they will.”
 
 <ms style="ts"/>
 <verse eid="1SA 23:12"/><verse number="13" style="v" sid="1SA 23:13"/>So David and his men left Keilah. By this time, he had 600 men with him. They continued to move around from one place to another, wherever they thought that Saul would not find them. And when Saul found out that David had gotten away from Keilah, he did not go there.
@@ -1871,7 +1871,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 23:29"/><verse eid="1SA 23:29"/></para>
+<verse eid="1SA 23:29"/></para>
   <chapter eid="1SA 23"/>
   <chapter number="24" style="c" sid="1SA 24"/>
   <para style="p"><verse number="1" style="v" sid="1SA 24:1"/>After Saul and his soldiers returned home from fighting against the Philistine army, someone reported to Saul that David and his men had gone into the desolate area near En Gedi.
@@ -1886,13 +1886,13 @@ She said,
 <verse eid="1SA 24:4"/><verse number="5" style="v" sid="1SA 24:5"/>David then he returned to his men.
 
 </para>
-  <para style="p">But he felt guilty for having cut off a piece of Saul’s robe.
+  <para style="p" vid="1SA 24:5">But he felt guilty for having cut off a piece of Saul’s robe.
 <verse eid="1SA 24:5"/><verse number="6" style="v" sid="1SA 24:6"/>David told his men, “Yahweh is very displeased with me for doing that to my master, the man Yahweh appointed as king! Because Yahweh chose him to be the king, I should not have done anything hostile to him.”
 <verse eid="1SA 24:6"/><verse number="7" style="v" sid="1SA 24:7"/>By saying that, David made his men move farther back into the cave away from Saul.
 
 <ms style="ts"/>
 </para>
-  <para style="p">He did not allow them to kill him. After Saul left the cave and started to search for David again,
+  <para style="p" vid="1SA 24:7">He did not allow them to kill him. After Saul left the cave and started to search for David again,
 <verse eid="1SA 24:7"/><verse number="8" style="v" sid="1SA 24:8"/>David then came out of the cave and shouted to Saul, “King Saul, my lord!” Saul turned around and looked, and David humbly bowed down with his face touching the ground.
 
 <verse eid="1SA 24:8"/><verse number="9" style="v" sid="1SA 24:9"/>Then he said to Saul, “You should not pay any attention to people who tell you that I actually want to hurt you!
@@ -1930,13 +1930,13 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 24:22"/><verse eid="1SA 24:22"/></para>
+<verse eid="1SA 24:22"/></para>
   <chapter eid="1SA 24"/>
   <chapter number="25" style="c" sid="1SA 25"/>
   <para style="p"><verse number="1" style="v" sid="1SA 25:1"/>Soon after that, Samuel died, and people from throughout Israel gathered and mourned for him.
 
 </para>
-  <para style="p">They buried his body outside his home in Ramah. Then David and his men moved to the desolate area of Paran.
+  <para style="p" vid="1SA 25:1">They buried his body outside his home in Ramah. Then David and his men moved to the desolate area of Paran.
 
 <ms style="ts"/>
 <verse eid="1SA 25:1"/><verse number="2" style="v" sid="1SA 25:2"/>In the town of Maon there lived a man who kept his flocks at the nearby village of Carmel. He was very rich. He owned 3, 000 sheep and 1, 000 goats. He was shearing his sheep at Carmel at this time.
@@ -2030,7 +2030,7 @@ She said,
   <para style="p"><verse number="39" style="v" sid="1SA 25:39"/>When David heard that Nabal had died, he said, “I praise Yahweh! Nabal insulted me, but Yahweh has shown that I was right. He has prevented me from doing anything wrong, and he has punished Nabal for the wrong that he did to me.”
 
 </para>
-  <para style="p">Then David sent messengers to Abigail to ask her if she would become his wife.
+  <para style="p" vid="1SA 25:39">Then David sent messengers to Abigail to ask her if she would become his wife.
 <verse eid="1SA 25:39"/><verse number="40" style="v" sid="1SA 25:40"/>David’s servants went to Abigail at Carmel and told her, “David sent us to bring you to him so that you could become his wife.”
 
 <ms style="ts"/>
@@ -2043,7 +2043,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 25:44"/><verse eid="1SA 25:44"/></para>
+<verse eid="1SA 25:44"/></para>
   <chapter eid="1SA 25"/>
   <chapter number="26" style="c" sid="1SA 26"/>
   <para style="p"><verse number="1" style="v" sid="1SA 26:1"/>One day people who lived in the region of Ziph once again went to Saul while he was at Gibeah. They told him, “David is hiding somewhere on the hill of Hakilah, near the desolate area that people call Jeshimon.”
@@ -2064,7 +2064,7 @@ She said,
   <para style="p"><verse number="6" style="v" sid="1SA 26:6"/>When David saw this, he spoke with two of his men who were with him. These men were Ahimelech, who was from the Hittite people group, and Abishai, who was the son of Zeruiah and the brother of Joab. David asked them, “Which of you will go with me down into the camp where Saul is sleeping?”
 
 </para>
-  <para style="p">Abishai replied, “I will go with you.”
+  <para style="p" vid="1SA 26:6">Abishai replied, “I will go with you.”
 <verse eid="1SA 26:6"/><verse number="7" style="v" sid="1SA 26:7"/>So that night David and Abishai crept into Saul’s camp. They saw that Saul was asleep in the middle of the camp. Saul had stuck his spear into the ground near his head. Abner and the other soldiers were sleeping around Saul.
 
 <verse eid="1SA 26:7"/></para>
@@ -2089,7 +2089,7 @@ She said,
   <para style="p"><verse number="14" style="v" sid="1SA 26:14"/>Then David shouted in the direction of Saul’s army. He shouted to Abner, “I want to speak with you, Abner!”
 
 </para>
-  <para style="p">Abner replied “Who are you? You should not be waking up the king by calling out like this!”
+  <para style="p" vid="1SA 26:14">Abner replied “Who are you? You should not be waking up the king by calling out like this!”
 
 <ms style="ts"/>
 <verse eid="1SA 26:14"/><verse number="15" style="v" sid="1SA 26:15"/>David replied, “You are a better soldier than any other man in Israel. So you should have protected the king whom you serve. Someone came into your camp tonight, and he could have killed your king.
@@ -2100,7 +2100,7 @@ She said,
   <para style="p"><verse number="17" style="v" sid="1SA 26:17"/>Saul {woke up and recognized} David by his voice. He called out, “Is that really you speaking to me, David my son?”
 
 </para>
-  <para style="p">David replied, “Yes, your majesty, I am the one speaking.”
+  <para style="p" vid="1SA 26:17">David replied, “Yes, your majesty, I am the one speaking.”
 
 <verse eid="1SA 26:17"/></para>
   <para style="p"><verse number="18" style="v" sid="1SA 26:18"/>Then David added, “Sir, there is no reason for you to be chasing me. I have done nothing at all to harm you!
@@ -2125,11 +2125,11 @@ She said,
   <para style="p"><verse number="25" style="v" sid="1SA 26:25"/>Then Saul said to David, “My son David, I want Yahweh to do good things for you. I know that you will do great things very successfully.”
 
 </para>
-  <para style="p">Then David left that place, and Saul went back home.
+  <para style="p" vid="1SA 26:25">Then David left that place, and Saul went back home.
 
 <ms style="ts"/>
 
-<verse eid="1SA 26:25"/><verse eid="1SA 26:25"/></para>
+<verse eid="1SA 26:25"/></para>
   <chapter eid="1SA 26"/>
   <chapter number="27" style="c" sid="1SA 27"/>
   <para style="p"><verse number="1" style="v" sid="1SA 27:1"/>But David thought, “Some day Saul will capture me and kill me {if I stay here in Israel}. So the best thing that I can do is certainly to flee to the region of Philistia. If I do that, Saul will stop searching for me here in Israel, and I will be safe from him.”
@@ -2164,7 +2164,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 27:12"/><verse eid="1SA 27:12"/></para>
+<verse eid="1SA 27:12"/></para>
   <chapter eid="1SA 27"/>
   <chapter number="28" style="c" sid="1SA 28"/>
   <para style="p"><verse number="1" style="v" sid="1SA 28:1"/>During the time when David was living near Gath, the people of Philistia gathered their army to attack the Israelites. King Achish told David, “You must understand that you and your men have to join my men to attack the Israelites.”
@@ -2173,7 +2173,7 @@ She said,
   <para style="p"><verse number="2" style="v" sid="1SA 28:2"/>David replied, “We will go with you, and then you will see for yourself how well we will fight for you!”
 
 </para>
-  <para style="p">Achish told him, “Very well, I will make you my personal bodyguard from now on.”
+  <para style="p" vid="1SA 28:2">Achish told him, “Very well, I will make you my personal bodyguard from now on.”
 
 <ms style="ts"/>
 <verse eid="1SA 28:2"/></para>
@@ -2202,7 +2202,7 @@ She said,
   <para style="p"><verse number="11" style="v" sid="1SA 28:11"/>So the woman asked, “Whom do you want me to make appear?”
 
 </para>
-  <para style="p">Saul replied, “Make Samuel appear.”
+  <para style="p" vid="1SA 28:11">Saul replied, “Make Samuel appear.”
 
 <verse eid="1SA 28:11"/></para>
   <para style="p"><verse number="12" style="v" sid="1SA 28:12"/>{So she did that. But} when the woman saw Samuel, she screamed. She said, “You have tricked me! You are Saul! {You will execute me for doing this!}”
@@ -2212,20 +2212,20 @@ She said,
   <para style="p"><verse number="13" style="v" sid="1SA 28:13"/>Saul said to her, “Do not be afraid{, I am not going to execute you}. But tell me what you see.”
 
 </para>
-  <para style="p">The woman said, “I see a spirit being coming up out of the ground.”
+  <para style="p" vid="1SA 28:13">The woman said, “I see a spirit being coming up out of the ground.”
 <verse eid="1SA 28:13"/><verse number="14" style="v" sid="1SA 28:14"/>Saul said, “What does he look like?”
 
 </para>
-  <para style="p">The woman replied, “An old man wearing a robe is appearing.”
+  <para style="p" vid="1SA 28:14">The woman replied, “An old man wearing a robe is appearing.”
 
 </para>
-  <para style="p">Then Saul knew that it was Samuel. To honor him, Saul humbly bowed down with his face touching the ground.
+  <para style="p" vid="1SA 28:14">Then Saul knew that it was Samuel. To honor him, Saul humbly bowed down with his face touching the ground.
 
 <ms style="ts"/>
 <verse eid="1SA 28:14"/><verse number="15" style="v" sid="1SA 28:15"/>Samuel said to Saul, “Why have you bothered me by bringing me back to earth from the place where dead people go?”
 
 </para>
-  <para style="p">Saul said, “I am in great danger. The Philistine army is about to attack my army, but God is no longer helping me. He no longer tells me what I should do by giving a message for me to any prophet or by giving me a dream. That is why wanted to speak with you. I want you tell me what I should do!”
+  <para style="p" vid="1SA 28:15">Saul said, “I am in great danger. The Philistine army is about to attack my army, but God is no longer helping me. He no longer tells me what I should do by giving a message for me to any prophet or by giving me a dream. That is why wanted to speak with you. I want you tell me what I should do!”
 
 <ms style="ts"/>
 <verse eid="1SA 28:15"/><verse number="16" style="v" sid="1SA 28:16"/>Samuel said, “Since Yahweh himself is no longer helping you and has become your enemy, you should not ask me what you should do!
@@ -2255,7 +2255,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 28:25"/><verse eid="1SA 28:25"/></para>
+<verse eid="1SA 28:25"/></para>
   <chapter eid="1SA 28"/>
   <chapter number="29" style="c" sid="1SA 29"/>
   <para style="p"><verse number="1" style="v" sid="1SA 29:1"/>The Philistine army assembled at a place that people called Aphek. The Israelites set up their tents {nearby} around a spring in the city of Jezreel.
@@ -2265,7 +2265,7 @@ She said,
 <verse eid="1SA 29:2"/><verse number="3" style="v" sid="1SA 29:3"/>But {on the way to the battlefield} the Philistine rulers asked, “These Hebrews should not be here, marching with us to battle!”
 
 </para>
-  <para style="p">Achish replied, “Their leader is David. He previously served King Saul of Israel, but now he has been living near me for more than a year. During all the time since he left Saul, he has been completely loyal to me.”
+  <para style="p" vid="1SA 29:3">Achish replied, “Their leader is David. He previously served King Saul of Israel, but now he has been living near me for more than a year. During all the time since he left Saul, he has been completely loyal to me.”
 
 <ms style="ts"/>
 <verse eid="1SA 29:3"/><verse number="4" style="v" sid="1SA 29:4"/>But the Philistine rulers became angry with Achish. They said to him, “You must send David and his men back to the city that you gave him! We do not want him to go with us into the battle. If he goes with us, we will have an enemy within our own army! He would make Saul happy with him again by killing our own soldiers!
@@ -2273,9 +2273,9 @@ She said,
 <ms style="ts"/>
 <verse eid="1SA 29:4"/><verse number="5" style="v" sid="1SA 29:5"/>Do not forget that David is the one about whom the Israelite women sing as they dance. They sing,
 </para>
-  <para style="q1">‘Saul has killed thousands of our enemies,
+  <para style="q1" vid="1SA 29:5">‘Saul has killed thousands of our enemies,
 </para>
-  <para style="q2">but David has killed tens of thousands of them!’”
+  <para style="q2" vid="1SA 29:5">but David has killed tens of thousands of them!’”
 
 <ms style="ts"/>
 <verse eid="1SA 29:5"/></para>
@@ -2297,7 +2297,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 29:11"/><verse eid="1SA 29:11"/></para>
+<verse eid="1SA 29:11"/></para>
   <chapter eid="1SA 29"/>
   <chapter number="30" style="c" sid="1SA 30"/>
   <para style="p"><verse number="1" style="v" sid="1SA 30:1"/>David and his men got back to Ziklag after marching for two whole days and part of another day. When they arrived, they discovered that the Amalekites, who had been raiding towns in the southern Judean wilderness, had also raided Ziklag. When the Amalekites had attacked Ziklag, they had burned down all the buildings.
@@ -2318,7 +2318,7 @@ She said,
 <verse eid="1SA 30:7"/><verse number="8" style="v" sid="1SA 30:8"/>Then David asked Yahweh, “Should I and my men pursue the men who took our families? Will we be able to catch up with them?”
 
 </para>
-  <para style="p">Yahweh answered David {by means of the stones in the sacred apron}: “Yes, pursue them. Yes, you will catch up with them. Yes, you will be able to rescue your families.”
+  <para style="p" vid="1SA 30:8">Yahweh answered David {by means of the stones in the sacred apron}: “Yes, pursue them. Yes, you will catch up with them. Yes, you will be able to rescue your families.”
 
 <ms style="ts"/>
 <verse eid="1SA 30:8"/><verse number="9" style="v" sid="1SA 30:9"/>So David and the 600 men who were with him set out from Ziklag {in pursuit of the Amalekites}. When they came to the Besor Ravine, some of men stayed there {with their supplies}.
@@ -2334,7 +2334,7 @@ She said,
   <para style="p"><verse number="13" style="v" sid="1SA 30:13"/>David asked him, “Who is your master? And where do you come from?”
 
 </para>
-  <para style="p">He replied, “I am a youth from Egypt. I am a slave of an Amalekite man. But I became sick{, and it was difficult for me to keep traveling with the raiding band}. So the day before yesterday, my master left me here.
+  <para style="p" vid="1SA 30:13">He replied, “I am a youth from Egypt. I am a slave of an Amalekite man. But I became sick{, and it was difficult for me to keep traveling with the raiding band}. So the day before yesterday, my master left me here.
 <verse eid="1SA 30:13"/><verse number="14" style="v" sid="1SA 30:14"/>We had raided the southern Judean wilderness where the Kerethites live. We also raided some other towns in Judah and the southern Judean wilderness where the descendants of Caleb live. We also {attacked the city of} Ziklag and burned it down.”
 
 <ms style="ts"/>
@@ -2342,7 +2342,7 @@ She said,
   <para style="p"><verse number="15" style="v" sid="1SA 30:15"/>David asked him, “Can you lead us to this group of raiders?”
 
 </para>
-  <para style="p">He replied, “Swear to me by God that you will not kill me or give me back to my master. If you promise that, I will take you to them.”
+  <para style="p" vid="1SA 30:15">He replied, “Swear to me by God that you will not kill me or give me back to my master. If you promise that, I will take you to them.”
 
 <ms style="ts"/>
 <verse eid="1SA 30:15"/><verse number="16" style="v" sid="1SA 30:16"/>{David agreed, so} the Egyptian man led David and his men to where the Amalekites were. Those men had captured many things from the regions of Philistia and Judah, and they had spread out around their camp eating and drinking and celebrating.
@@ -2381,7 +2381,7 @@ She said,
 
 <ms style="ts"/>
 
-<verse eid="1SA 30:31"/><verse eid="1SA 30:31"/></para>
+<verse eid="1SA 30:31"/></para>
   <chapter eid="1SA 30"/>
   <chapter number="31" style="c" sid="1SA 31"/>
   <para style="p"><verse number="1" style="v" sid="1SA 31:1"/>Meanwhile, the Philistine army attacked the Israelite army. The Israelites ran away from them to Mount Gilboa. But the Philistines killed many of them there.
@@ -2393,7 +2393,7 @@ She said,
   <para style="p"><verse number="4" style="v" sid="1SA 31:4"/>Saul told the man who was carrying his weapons, “Take out your sword and kill me with it! That way these pagan Philistines will not come and kill me slowly with many small wounds and make fun of me while I am dying.”
 
 </para>
-  <para style="p">But the man who was carrying Saul’s weapons was too afraid to do that. So Saul took out his own sword and threw himself on it. {The sword went deep into his body and killed him.}
+  <para style="p" vid="1SA 31:4">But the man who was carrying Saul’s weapons was too afraid to do that. So Saul took out his own sword and threw himself on it. {The sword went deep into his body and killed him.}
 <verse eid="1SA 31:4"/><verse number="5" style="v" sid="1SA 31:5"/>When the man carrying his weapons saw that Saul had died, he also threw himself on his own sword. He died next to Saul.
 <verse eid="1SA 31:5"/><verse number="6" style="v" sid="1SA 31:6"/>So Saul, three of his sons, and the soldier who carried Saul’s weapons all died on that same day. So did all of the other Israelite soldiers who fought around Saul and protected him.
 

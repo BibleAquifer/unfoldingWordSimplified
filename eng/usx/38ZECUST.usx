@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="ZEC" style="id">EN_UST en_English_ltr Wed Sep 09 2020 11:55:46 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -22,9 +22,13 @@
 <verse eid="ZEC 1:2"/><verse number="3" style="v" sid="ZEC 1:3"/>So tell the people this: ‘Yahweh, the commander of the heavenly armies, says, “Come back to me”—this is what Yahweh, the commander of the heavenly armies, solemnly declares—“and I will help you again, says Yahweh, the commander of the heavenly armies.
 
 <ms style="ts"/>
-<verse eid="ZEC 1:3"/><verse number="4" style="v" sid="ZEC 1:4"/>Do not be like your ancestors. The prophets who lived before you continually told your ancestors that Yahweh, the commander of the heavenly armies, said, ‘Stop doing the evil things that you are doing!’ However, they refused to listen to me or pay attention to me,” solemnly declares Yahweh. <verse eid="ZEC 1:4"/><verse number="5" style="v" sid="ZEC 1:5"/>“Your ancestors have all died. The prophets also did not live forever. <verse eid="ZEC 1:5"/><verse number="6" style="v" sid="ZEC 1:6"/>However, the warnings and decrees that I commanded my servants the prophets to tell your ancestors did come true. So your ancestors repented and said, ‘Yahweh, the commander of the heavenly armies, has punished us for the way we behaved and for the things we did, just as he said he would do.’”’”
+<verse eid="ZEC 1:3"/><verse number="4" style="v" sid="ZEC 1:4"/>Do not be like your ancestors. The prophets who lived before you continually told your ancestors that Yahweh, the commander of the heavenly armies, said, ‘Stop doing the evil things that you are doing!’ However, they refused to listen to me or pay attention to me,” solemnly declares Yahweh.
+<verse eid="ZEC 1:4"/><verse number="5" style="v" sid="ZEC 1:5"/>“Your ancestors have all died. The prophets also did not live forever.
+<verse eid="ZEC 1:5"/><verse number="6" style="v" sid="ZEC 1:6"/>However, the warnings and decrees that I commanded my servants the prophets to tell your ancestors did come true.
 
-<ms style="ts"/>
+</para>
+  <para style="p" vid="ZEC 1:6">So your ancestors repented and said, ‘Yahweh, the commander of the heavenly armies, has punished us for the way we behaved and for the things we did, just as he said he would do.’”
+
 <verse eid="ZEC 1:6"/></para>
   <para style="p"><verse number="7" style="v" sid="ZEC 1:7"/>Three months later, on the twenty-fourth day of the eleventh month, the month of Shebat, when Darius had been emperor for almost two years, Yahweh gave another message to me, Zechariah the son of Berechiah the son of Iddo, the prophet.
 <verse eid="ZEC 1:7"/><verse number="8" style="v" sid="ZEC 1:8"/>During the night I had a vision. In the vision I saw a man riding a red horse. He stood among the myrtle trees in a deep valley, and behind him other riders sat on red, reddish-brown, and white horses.
@@ -42,12 +46,14 @@
 <verse eid="ZEC 1:12"/><verse number="13" style="v" sid="ZEC 1:13"/>So Yahweh spoke kind and encouraging words to the angel who had been talking to me.
 
 <ms style="ts"/>
-<verse eid="ZEC 1:13"/><verse number="14" style="v" sid="ZEC 1:14"/>Then the angel who had been talking to me said to me, “Proclaim this message: ‘Yahweh, the commander of the heavenly armies, says, “I care very deeply about the people of Jerusalem and of Zion.  <verse eid="ZEC 1:14"/><verse number="15" style="v" sid="ZEC 1:15"/>I am extremely angry with the nations that feel so secure. I was only a little angry with my people, but those nations made things much worse by harming them so much.”
+<verse eid="ZEC 1:13"/><verse number="14" style="v" sid="ZEC 1:14"/>Then the angel who had been talking to me said to me, “Proclaim this message: ‘Yahweh, the commander of the heavenly armies, says, “I care very deeply about the people of Jerusalem and of Zion.
+<verse eid="ZEC 1:14"/><verse number="15" style="v" sid="ZEC 1:15"/>I am extremely angry with the nations that feel so secure. I was only a little angry with my people, but those nations made things much worse by harming them so much.”
 
 <ms style="ts"/>
 <verse eid="ZEC 1:15"/></para>
   <para style="p"><verse number="16" style="v" sid="ZEC 1:16"/>Therefore,  this is what Yahweh says, “I have once again chosen to show mercy to the people of Jerusalem.  They will rebuild my temple there,”  solemnly declares Yahweh,  the commander of the heavenly armies, “and workers will stretch out a measuring line to rebuild Jerusalem.”
 <verse eid="ZEC 1:16"/><verse number="17" style="v" sid="ZEC 1:17"/>Therefore, this is what Yahweh says, “I have once again chosen to show mercy to the people of Jerusalem. They will rebuild my temple there,” solemnly declares Yahweh, the commander of the heavenly armies, “and workers will stretch out a measuring line to rebuild Jerusalem.”
+
 <verse eid="ZEC 1:17"/></para>
   <para style="p"><verse number="18" style="v" sid="ZEC 1:18"/>Then I looked up and in front of me I saw four horns.
 <verse eid="ZEC 1:18"/><verse number="19" style="v" sid="ZEC 1:19"/>I asked the angel who had been talking to me, “What are those?” He replied, “Those horns represent the powerful nations that used their military power to scatter the people of Judah, Israel, and Jerusalem.”
@@ -58,7 +64,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 1:21"/><verse eid="ZEC 1:21"/></para>
+<verse eid="ZEC 1:21"/></para>
   <chapter eid="ZEC 1"/>
   <chapter number="2" style="c" sid="ZEC 2"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 2:1"/>Then I looked up and saw a man who was holding a measuring line.
@@ -94,7 +100,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 2:13"/><verse eid="ZEC 2:13"/></para>
+<verse eid="ZEC 2:13"/></para>
   <chapter eid="ZEC 2"/>
   <chapter number="3" style="c" sid="ZEC 3"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 3:1"/>Then Yahweh showed me a vision. I saw Joshua, the high priest, standing in the presence of an angel representing Yahweh. The accuser was standing at the place where an accuser stands in a court, ready to bring charges against Joshua.
@@ -121,7 +127,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 3:10"/><verse eid="ZEC 3:10"/></para>
+<verse eid="ZEC 3:10"/></para>
   <chapter eid="ZEC 3"/>
   <chapter number="4" style="c" sid="ZEC 4"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 4:1"/>Then the angel who had been talking with me came back and woke me up. I had been thinking deeply, as though I had fallen asleep.
@@ -163,7 +169,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 4:14"/><verse eid="ZEC 4:14"/></para>
+<verse eid="ZEC 4:14"/></para>
   <chapter eid="ZEC 4"/>
   <chapter number="5" style="c" sid="ZEC 5"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 5:1"/>I looked up again and saw a scroll flying through the air.
@@ -201,7 +207,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 5:11"/><verse eid="ZEC 5:11"/></para>
+<verse eid="ZEC 5:11"/></para>
   <chapter eid="ZEC 5"/>
   <chapter number="6" style="c" sid="ZEC 6"/>
   <para style="s1">The vision of four chariots
@@ -228,11 +234,11 @@
   <para style="p"><verse number="8" style="v" sid="ZEC 6:8"/>Then the angel called out to me,
 “Look, the chariots that went north have satisfied my anger in the land of the north.”
 
+<ms style="ts"/>
 <verse eid="ZEC 6:8"/></para>
-  <para style="s1">Yahweh commands Zechariah to crown Joshua
+  <para style="s1" vid="ZEC 6:8">Yahweh commands Zechariah to crown Joshua
 
 </para>
-  <ms style="ts"/>
   <para style="p"><verse number="9" style="v" sid="ZEC 6:9"/>Then Yahweh gave me another message.
 <verse eid="ZEC 6:9"/><verse number="10" style="v" sid="ZEC 6:10"/>He said,
 “Heldai, Tobijah, and Jedaiah will bring silver and gold from the people who returned from exile in Babylon. On the day they arrive, go to the house of Josiah son of Zephaniah.
@@ -242,13 +248,13 @@
 <verse eid="ZEC 6:11"/><verse number="12" style="v" sid="ZEC 6:12"/>Tell him, ‘This is what Yahweh, the commander of the heavenly armies, says, There is a man whose title is the Branch, because he will grow up like a new branch from the stump of David’s family. He will emerge from where he is, and he will build the temple of Yahweh.
 <verse eid="ZEC 6:12"/><verse number="13" style="v" sid="ZEC 6:13"/>Yes, he will build Yahweh’s temple.
 </para>
-  <para style="q2">He will receive great honor,
+  <para style="q2" vid="ZEC 6:13">He will receive great honor,
 </para>
-  <para style="q2">and he will sit on his throne and rule.
+  <para style="q2" vid="ZEC 6:13">and he will sit on his throne and rule.
 </para>
-  <para style="q1">He will also serve as a priest while he sits on his throne,
+  <para style="q1" vid="ZEC 6:13">He will also serve as a priest while he sits on his throne,
 </para>
-  <para style="q2">and there will be peace because he is both king and priest.’
+  <para style="q2" vid="ZEC 6:13">and there will be peace because he is both king and priest.’
 
 <ms style="ts"/>
 <verse eid="ZEC 6:13"/></para>
@@ -256,7 +262,7 @@
 <verse eid="ZEC 6:14"/><verse number="15" style="v" sid="ZEC 6:15"/>People who live far away will come and help build Yahweh’s temple. When that happens, you will know that Yahweh, the commander of the heavenly armies, has sent me to you. This will happen if you truly obey what Yahweh your God commands.”
 
 
-<verse eid="ZEC 6:15"/><verse eid="ZEC 6:15"/></para>
+<verse eid="ZEC 6:15"/></para>
   <chapter eid="ZEC 6"/>
   <chapter number="7" style="c" sid="ZEC 7"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 7:1"/>When Darius had been the emperor for almost four years, on the fourth day of Kislev (which was the ninth month in their calendar), Yahweh gave me another message.
@@ -288,7 +294,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 7:14"/><verse eid="ZEC 7:14"/></para>
+<verse eid="ZEC 7:14"/></para>
   <chapter eid="ZEC 7"/>
   <chapter number="8" style="c" sid="ZEC 8"/>
   <para style="s1">Yahweh promises to bless Jerusalem
@@ -353,162 +359,162 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 8:23"/><verse eid="ZEC 8:23"/></para>
+<verse eid="ZEC 8:23"/></para>
   <chapter eid="ZEC 8"/>
   <chapter number="9" style="c" sid="ZEC 9"/>
   <para style="q1"><verse number="1" style="v" sid="ZEC 9:1"/>This is another message that Yahweh gave to me:
 </para>
-  <para style="q1">He pays close attention to all people everywhere,
+  <para style="q1" vid="ZEC 9:1">He pays close attention to all people everywhere,
 </para>
-  <para style="q2">and especially to all the Israelite tribes.
+  <para style="q2" vid="ZEC 9:1">and especially to all the Israelite tribes.
 </para>
-  <para style="q1">This message is about the region of Hadrach
+  <para style="q1" vid="ZEC 9:1">This message is about the region of Hadrach
 </para>
-  <para style="q2">and the city of Damascus, where he is staying.
+  <para style="q2" vid="ZEC 9:1">and the city of Damascus, where he is staying.
 <verse eid="ZEC 9:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="ZEC 9:2"/>Hamath also is a nearby city,
 </para>
-  <para style="q2">as are the cities of Tyre and Sidon,
+  <para style="q2" vid="ZEC 9:2">as are the cities of Tyre and Sidon,
 </para>
-  <para style="q2">whose people think that they are very wise.
+  <para style="q2" vid="ZEC 9:2">whose people think that they are very wise.
 
 <ms style="ts"/>
 <verse eid="ZEC 9:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="ZEC 9:3"/>The people of Tyre have built a strong wall around their city,
 </para>
-  <para style="q2">and they have piled up as much silver and gold
+  <para style="q2" vid="ZEC 9:3">and they have piled up as much silver and gold
 </para>
-  <para style="q2">as if it were dust and mud in the streets.
+  <para style="q2" vid="ZEC 9:3">as if it were dust and mud in the streets.
 <verse eid="ZEC 9:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="ZEC 9:4"/>But look out! The Lord will take away everything that the people of Tyre own
 </para>
-  <para style="q2">and destroy their merchant ships out at sea,
+  <para style="q2" vid="ZEC 9:4">and destroy their merchant ships out at sea,
 </para>
-  <para style="q2">and an enemy army will burn their city down.
+  <para style="q2" vid="ZEC 9:4">and an enemy army will burn their city down.
 
 <ms style="ts"/>
 <verse eid="ZEC 9:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="ZEC 9:5"/>When the people of the city of Ashkelon see that happen, they will be scared.
 </para>
-  <para style="q2">The people of the city of Gaza will also tremble in great anguish,
+  <para style="q2" vid="ZEC 9:5">The people of the city of Gaza will also tremble in great anguish,
 </para>
-  <para style="q2">and the people of the city of Ekron will tremble too, because they will no longer expect anything good to happen.
+  <para style="q2" vid="ZEC 9:5">and the people of the city of Ekron will tremble too, because they will no longer expect anything good to happen.
 </para>
-  <para style="q1">There will no longer be a king ruling in Gaza,
+  <para style="q1" vid="ZEC 9:5">There will no longer be a king ruling in Gaza,
 </para>
-  <para style="q2">and no one will live in Ashkelon anymore.
+  <para style="q2" vid="ZEC 9:5">and no one will live in Ashkelon anymore.
 <verse eid="ZEC 9:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="ZEC 9:6"/>People of mixed descent will live in the city of Ashdod,
 </para>
-  <para style="q2">and so I will cause the Philistine people to no longer be proud.
+  <para style="q2" vid="ZEC 9:6">and so I will cause the Philistine people to no longer be proud.
 <verse eid="ZEC 9:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="ZEC 9:7"/>I will no longer allow them to eat meat that still has blood in it,
 </para>
-  <para style="q2">and I will no longer allow them to eat the disgusting food that they offered to their idols.
+  <para style="q2" vid="ZEC 9:7">and I will no longer allow them to eat the disgusting food that they offered to their idols.
 </para>
-  <para style="q1">Then the Philistine people who survive will worship me and become my people,
+  <para style="q1" vid="ZEC 9:7">Then the Philistine people who survive will worship me and become my people,
 </para>
-  <para style="q2">like one of the clans in Judah.
+  <para style="q2" vid="ZEC 9:7">like one of the clans in Judah.
 </para>
-  <para style="q2">The people of the city of Ekron will become my people, just as the people of the city of Jebus did.
+  <para style="q2" vid="ZEC 9:7">The people of the city of Ekron will become my people, just as the people of the city of Jebus did.
 
 <ms style="ts"/>
 <verse eid="ZEC 9:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="ZEC 9:8"/>I will protect my temple like an army that guards it,
 </para>
-  <para style="q2">so that no enemy soldiers can march through it or come back to attack it.
+  <para style="q2" vid="ZEC 9:8">so that no enemy soldiers can march through it or come back to attack it.
 </para>
-  <para style="q1">No one who oppresses my people will ever invade them again,
+  <para style="q1" vid="ZEC 9:8">No one who oppresses my people will ever invade them again,
 </para>
-  <para style="q2">because now I am watching over my people carefully.
+  <para style="q2" vid="ZEC 9:8">because now I am watching over my people carefully.
 
 <verse eid="ZEC 9:8"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="9" style="v" sid="ZEC 9:9"/>You people of Jerusalem, rejoice very much!
 </para>
-  <para style="q2">Shout joyfully, everyone in Jerusalem!
+  <para style="q2" vid="ZEC 9:9">Shout joyfully, everyone in Jerusalem!
 </para>
-  <para style="q1">Look! Your king is coming to you.
+  <para style="q1" vid="ZEC 9:9">Look! Your king is coming to you.
 </para>
-  <para style="q2">He does what is right, and God will give him victory.
+  <para style="q2" vid="ZEC 9:9">He does what is right, and God will give him victory.
 </para>
-  <para style="q2">He is humble, and he will ride into the city on a donkey,
+  <para style="q2" vid="ZEC 9:9">He is humble, and he will ride into the city on a donkey,
 </para>
-  <para style="q2">on a young donkey.
+  <para style="q2" vid="ZEC 9:9">on a young donkey.
 <verse eid="ZEC 9:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="ZEC 9:10"/>I will take away the chariots from the region of Ephraim
 </para>
-  <para style="q2">and the war horses from the city of Jerusalem,
+  <para style="q2" vid="ZEC 9:10">and the war horses from the city of Jerusalem,
 </para>
-  <para style="q2">and I will destroy the bows that soldiers use in war.
+  <para style="q2" vid="ZEC 9:10">and I will destroy the bows that soldiers use in war.
 </para>
-  <para style="q1">Your king will tell the nations that they will now live peacefully.
+  <para style="q1" vid="ZEC 9:10">Your king will tell the nations that they will now live peacefully.
 </para>
-  <para style="q1">He will rule over all the earth,
+  <para style="q1" vid="ZEC 9:10">He will rule over all the earth,
 </para>
-  <para style="q2">from one sea to the farthest sea,
+  <para style="q2" vid="ZEC 9:10">from one sea to the farthest sea,
 </para>
-  <para style="q2">and from the Euphrates River to the most distant places on the earth.
+  <para style="q2" vid="ZEC 9:10">and from the Euphrates River to the most distant places on the earth.
 
 <ms style="ts"/>
 <verse eid="ZEC 9:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="ZEC 9:11"/>As for you people of Jerusalem,
 </para>
-  <para style="q2">because of the blood of the animals that the priests killed when I made my covenant with you, I will set your people free,
+  <para style="q2" vid="ZEC 9:11">because of the blood of the animals that the priests killed when I made my covenant with you, I will set your people free,
 </para>
-  <para style="q2">the ones who suffer like prisoners stuck in a dry pit.
+  <para style="q2" vid="ZEC 9:11">the ones who suffer like prisoners stuck in a dry pit.
 <verse eid="ZEC 9:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="ZEC 9:12"/>You people who are like prisoners but who still confidently expect me to help you,
 </para>
-  <para style="q1">return to your land, where you will be safe.
+  <para style="q1" vid="ZEC 9:12">return to your land, where you will be safe.
 </para>
-  <para style="q2">Today I am telling you that I will give back to you twice as much as you have lost.
+  <para style="q2" vid="ZEC 9:12">Today I am telling you that I will give back to you twice as much as you have lost.
 <verse eid="ZEC 9:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="ZEC 9:13"/>I will use the people of Judah to fight for me as a warrior uses a bow,
 </para>
-  <para style="q2">and I will use the people of Ephraim like the arrows in that bow.
+  <para style="q2" vid="ZEC 9:13">and I will use the people of Ephraim like the arrows in that bow.
 </para>
-  <para style="q1">People of Jerusalem, I will stir up your young men to fight against the army of Greece,
+  <para style="q1" vid="ZEC 9:13">People of Jerusalem, I will stir up your young men to fight against the army of Greece,
 </para>
-  <para style="q2">and I will make you as powerful as a warrior’s sword.
+  <para style="q2" vid="ZEC 9:13">and I will make you as powerful as a warrior’s sword.
 
 <verse eid="ZEC 9:13"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="14" style="v" sid="ZEC 9:14"/>Then Yahweh will appear above his people,
 </para>
-  <para style="q2">and the arrows that he shoots will flash like lightning.
+  <para style="q2" vid="ZEC 9:14">and the arrows that he shoots will flash like lightning.
 </para>
-  <para style="q1">Yahweh my Lord will blow a trumpet to signal the attack,
+  <para style="q1" vid="ZEC 9:14">Yahweh my Lord will blow a trumpet to signal the attack,
 </para>
-  <para style="q2">and he will advance fiercely, like a storm blowing from the south.
+  <para style="q2" vid="ZEC 9:14">and he will advance fiercely, like a storm blowing from the south.
 <verse eid="ZEC 9:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="ZEC 9:15"/>Yahweh, the commander of the heavenly armies, will protect his people.
 </para>
-  <para style="q1">His soldiers will completely defeat their enemies who attack them with slingstones.
+  <para style="q1" vid="ZEC 9:15">His soldiers will completely defeat their enemies who attack them with slingstones.
 </para>
-  <para style="q1">Those soldiers will shout in victory and celebrate as noisily as men who have drunk much wine.
+  <para style="q1" vid="ZEC 9:15">Those soldiers will shout in victory and celebrate as noisily as men who have drunk much wine.
 </para>
-  <para style="q2">They will be as full of joy as the bowls that the priests fill with blood and pour out on the corners of the altar.
+  <para style="q2" vid="ZEC 9:15">They will be as full of joy as the bowls that the priests fill with blood and pour out on the corners of the altar.
 
 <ms style="ts"/>
 <verse eid="ZEC 9:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="ZEC 9:16"/>On that day, Yahweh, the God his people worship, will rescue them
 </para>
-  <para style="q2">just as a shepherd rescues his flock of sheep from danger.
+  <para style="q2" vid="ZEC 9:16">just as a shepherd rescues his flock of sheep from danger.
 </para>
-  <para style="q1">They will be as precious to him as sparkling jewels in a crown shining over his land.
+  <para style="q1" vid="ZEC 9:16">They will be as precious to him as sparkling jewels in a crown shining over his land.
 <verse eid="ZEC 9:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="ZEC 9:17"/>How wonderful and how beautiful everything will be!
 </para>
-  <para style="q2">The young men will grow strong from eating plenty of grain,
+  <para style="q2" vid="ZEC 9:17">The young men will grow strong from eating plenty of grain,
 </para>
-  <para style="q2">and the young women will grow strong from drinking plenty of new wine.
+  <para style="q2" vid="ZEC 9:17">and the young women will grow strong from drinking plenty of new wine.
 
 <ms style="ts"/>
 
-<verse eid="ZEC 9:17"/><verse eid="ZEC 9:17"/></para>
+<verse eid="ZEC 9:17"/></para>
   <chapter eid="ZEC 9"/>
   <chapter number="10" style="c" sid="ZEC 10"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 10:1"/>Ask Yahweh to send rain in the springtime, because he is the one who makes the storm clouds. He gives people showers of rain, and he makes plants grow in their fields.
@@ -541,28 +547,28 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 10:12"/><verse eid="ZEC 10:12"/></para>
+<verse eid="ZEC 10:12"/></para>
   <chapter eid="ZEC 10"/>
   <chapter number="11" style="c" sid="ZEC 11"/>
   <para style="q1"><verse number="1" style="v" sid="ZEC 11:1"/>Open your gates, people living in Lebanon,
 </para>
-  <para style="q2">because you will not be able to stop the fire from burning up your cedar trees!
+  <para style="q2" vid="ZEC 11:1">because you will not be able to stop the fire from burning up your cedar trees!
 <verse eid="ZEC 11:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="ZEC 11:2"/>The cypress trees will be like people who are wailing
 </para>
-  <para style="q2">because the mighty cedar trees have fallen; enemies have destroyed those magnificent trees!
+  <para style="q2" vid="ZEC 11:2">because the mighty cedar trees have fallen; enemies have destroyed those magnificent trees!
 </para>
-  <para style="q1">The oak trees in the region of Bashan will also be like people wailing
+  <para style="q1" vid="ZEC 11:2">The oak trees in the region of Bashan will also be like people wailing
 </para>
-  <para style="q2">because enemies have cut down the trees of their thick forest!
+  <para style="q2" vid="ZEC 11:2">because enemies have cut down the trees of their thick forest!
 <verse eid="ZEC 11:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="ZEC 11:3"/>Listen to the shepherds crying
 </para>
-  <para style="q2">because enemies have ruined the rich pastures where they fed their flocks!
+  <para style="q2" vid="ZEC 11:3">because enemies have ruined the rich pastures where they fed their flocks!
 </para>
-  <para style="q1">Listen to the young lions roaring
+  <para style="q1" vid="ZEC 11:3">Listen to the young lions roaring
 </para>
-  <para style="q2">because enemies have destroyed the thickets along the Jordan River where they lived!
+  <para style="q2" vid="ZEC 11:3">because enemies have destroyed the thickets along the Jordan River where they lived!
 
 <ms style="ts"/>
 <verse eid="ZEC 11:3"/></para>
@@ -576,7 +582,7 @@
 <verse eid="ZEC 11:7"/><verse number="8" style="v" sid="ZEC 11:8"/>In one month I got rid of the three other shepherds.
 
 </para>
-  <para style="p">I became impatient with them, and they also hated me.
+  <para style="p" vid="ZEC 11:8">I became impatient with them, and they also hated me.
 <verse eid="ZEC 11:8"/><verse number="9" style="v" sid="ZEC 11:9"/>So I said,
 “I will no longer be your shepherd. Let the sheep that are dying die, and let the sheep that are perishing perish. And let those that remain destroy each other.”
 
@@ -603,17 +609,17 @@
 <verse eid="ZEC 11:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="ZEC 11:17"/>Terrible things will happen to that worthless shepherd
 </para>
-  <para style="q2">who abandons the flock that he should care for!
+  <para style="q2" vid="ZEC 11:17">who abandons the flock that he should care for!
 </para>
-  <para style="q1">Enemies will attack his arm and his right eye with a sword!
+  <para style="q1" vid="ZEC 11:17">Enemies will attack his arm and his right eye with a sword!
 </para>
-  <para style="q2">As a result, his arm will lose all its strength
+  <para style="q2" vid="ZEC 11:17">As a result, his arm will lose all its strength
 </para>
-  <para style="q2">and his right eye will become completely blind!”
+  <para style="q2" vid="ZEC 11:17">and his right eye will become completely blind!”
 
 <ms style="ts"/>
 
-<verse eid="ZEC 11:17"/><verse eid="ZEC 11:17"/></para>
+<verse eid="ZEC 11:17"/></para>
   <chapter eid="ZEC 11"/>
   <chapter number="12" style="c" sid="ZEC 12"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 12:1"/>This is a message that Yahweh gave concerning Israel. Yahweh, the one who created the sky, who formed the earth, and who breathed life into humanity, solemnly declares this:
@@ -649,7 +655,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ZEC 12:14"/><verse eid="ZEC 12:14"/></para>
+<verse eid="ZEC 12:14"/></para>
   <chapter eid="ZEC 12"/>
   <chapter number="13" style="c" sid="ZEC 13"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 13:1"/>At that time, Yahweh will continually cleanse the descendants of King David and the people who live in Jerusalem; he will forgive the sins that they have committed and take away everything that has made them impure.
@@ -673,36 +679,36 @@
   <para style="q1"><verse number="7" style="v" sid="ZEC 13:7"/>Yahweh, the commander of the heavenly armies, says this:
 “I command that someone kill with a sword the leader who cares for my people,
 </para>
-  <para style="q2">the man who is my close associate.
+  <para style="q2" vid="ZEC 13:7">the man who is my close associate.
 </para>
-  <para style="q1">When someone strikes that leader down,
+  <para style="q1" vid="ZEC 13:7">When someone strikes that leader down,
 </para>
-  <para style="q2">the people whom he led will scatter in every direction,
+  <para style="q2" vid="ZEC 13:7">the people whom he led will scatter in every direction,
 </para>
-  <para style="q2">and I myself will attack even the lowliest people among them.”
+  <para style="q2" vid="ZEC 13:7">and I myself will attack even the lowliest people among them.”
 
 <ms style="ts"/>
 <verse eid="ZEC 13:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="ZEC 13:8"/>Yahweh declares,
 “Throughout the whole land, two out of every three people will certainly die,
 </para>
-  <para style="q2">and only one third of the people will remain alive.
+  <para style="q2" vid="ZEC 13:8">and only one third of the people will remain alive.
 <verse eid="ZEC 13:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="ZEC 13:9"/>I will cause that remaining third to suffer greatly in order to purify them,
 </para>
-  <para style="q2">just as a person refines silver and tests gold by heating them in a fire.
+  <para style="q2" vid="ZEC 13:9">just as a person refines silver and tests gold by heating them in a fire.
 </para>
-  <para style="q1">Then they will call out to me for help,
+  <para style="q1" vid="ZEC 13:9">Then they will call out to me for help,
 </para>
-  <para style="q2">and I will answer them.
+  <para style="q2" vid="ZEC 13:9">and I will answer them.
 </para>
-  <para style="q1">I will tell them that they are my people,
+  <para style="q1" vid="ZEC 13:9">I will tell them that they are my people,
 </para>
-  <para style="q2">and they will declare that I, Yahweh, am their God.”
+  <para style="q2" vid="ZEC 13:9">and they will declare that I, Yahweh, am their God.”
 
 <ms style="ts"/>
 
-<verse eid="ZEC 13:9"/><verse eid="ZEC 13:9"/></para>
+<verse eid="ZEC 13:9"/></para>
   <chapter eid="ZEC 13"/>
   <chapter number="14" style="c" sid="ZEC 14"/>
   <para style="p"><verse number="1" style="v" sid="ZEC 14:1"/>Pay attention! Yahweh has appointed a time when enemies will plunder the city of Jerusalem, deciding who will take what valuables while they are still in the city where you have to watch them.
@@ -732,7 +738,7 @@
 <verse eid="ZEC 14:12"/><verse number="13" style="v" sid="ZEC 14:13"/>At that time, Yahweh will cause those people to panic completely. They will grab one another by the hand, and they will attack each other.
 
 <ms style="ts"/>
-<verse eid="ZEC 14:13"/><verse number="14" style="v" sid="ZEC 14:14"/>The people of Judah will also fight with Jerusalem. They will gather the wealth of all the surrounding nations—huge amounts of gold, silver, and clothing.
+<verse eid="ZEC 14:13"/><verse number="14" style="v" sid="ZEC 14:14"/>The people of Judah will also fight with Jerusalem. They will gather the wealth of all the surrounding nations— huge amounts of gold, silver, and clothing.
 <verse eid="ZEC 14:14"/><verse number="15" style="v" sid="ZEC 14:15"/>The horses, mules, camels, donkeys, and all the other animals in the camps of those enemies will suffer from that same disease.
 
 <ms style="ts"/>

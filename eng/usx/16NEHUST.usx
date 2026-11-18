@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="NEH" style="id">EN_UST en_English_ltr Wed Aug 25 2021 12:29:45 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -18,7 +18,7 @@
   <para style="p"><verse number="1" style="v" sid="NEH 1:1"/>I am Nehemiah, son of Hacaliah. {I am writing this account.}
 
 </para>
-  <para style="p">My story begins in the month of Kislev during the twentieth year of the reign of King Artaxerxes {over the Persian Empire}. I was in the capital city of Susa.
+  <para style="p" vid="NEH 1:1">My story begins in the month of Kislev during the twentieth year of the reign of King Artaxerxes {over the Persian Empire}. I was in the capital city of Susa.
 <verse eid="NEH 1:1"/><verse number="2" style="v" sid="NEH 1:2"/>Hanani, one of my brothers, came to see me, along with some other people from the province of Judah. I asked them about the Jews who had escaped and remained in Judah {many years earlier} when soldiers had forced many Jews to go {to Babylon}. I also asked about {the condition of} the city of Jerusalem.
 
 <verse eid="NEH 1:2"/></para>
@@ -47,7 +47,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 1:11"/><verse eid="NEH 1:11"/></para>
+<verse eid="NEH 1:11"/></para>
   <chapter eid="NEH 1"/>
   <chapter number="2" style="c" sid="NEH 2"/>
   <para style="p"><verse number="1" style="v" sid="NEH 2:1"/>I prayed like this for four months. Then one day in the month of Nisan, still in the twentieth year of the reign of Artaxerxes, something happened. {When it was time to serve} the wine, I took some and gave it to the king. I had never before looked sad in his presence.
@@ -75,7 +75,7 @@
 <verse eid="NEH 2:7"/><verse number="8" style="v" sid="NEH 2:8"/>{Please} also {write} a letter {for me} to Asaph, the man who takes care of your royal forest {in that area}. {Please tell} him to give me timber to make the beams to support the gates of the fortress that is near the temple. {Please} also {tell him to give me timber} for the city wall and for the house that I will live in.”
 
 </para>
-  <para style="p">God was with me and helping me, and so the king agreed to {all of} my {requests}.
+  <para style="p" vid="NEH 2:8">God was with me and helping me, and so the king agreed to {all of} my {requests}.
 
 <verse eid="NEH 2:8"/></para>
   <para style="p"><verse number="9" style="v" sid="NEH 2:9"/>{When I left to travel to Judah,} the king sent along some army officers and soldiers riding on horses {to protect me}. When I reached {the province} Beyond the River, I went {to see} its governors. I showed them the letters the king had given me, {and they gave me safe passage}.
@@ -106,7 +106,7 @@
 <verse eid="NEH 2:17"/><verse number="18" style="v" sid="NEH 2:18"/>Then I told them how God had been with me and had been helping me. I also told them how the king had given me permission to come.
 
 </para>
-  <para style="p">{When they heard this,} they said, “Let’s get going and start building!” They encouraged one another {and committed themselves} to the project.
+  <para style="p" vid="NEH 2:18">{When they heard this,} they said, “Let’s get going and start building!” They encouraged one another {and committed themselves} to the project.
 
 <ms style="ts"/>
 <verse eid="NEH 2:18"/></para>
@@ -117,7 +117,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 2:20"/><verse eid="NEH 2:20"/></para>
+<verse eid="NEH 2:20"/></para>
   <chapter eid="NEH 2"/>
   <chapter number="3" style="c" sid="NEH 3"/>
   <para style="p"><verse number="1" style="v" sid="NEH 3:1"/>{These are the names of the people who helped to rebuild the wall around Jerusalem.} Eliashib the Supreme Priest and his fellow priests began by rebuilding the Sheep Gate. They dedicated this gate {to God, as a symbolic way of dedicating the entire wall.} Then they set the doors of the Sheep Gate in place. They rebuilt the wall as far as the Tower of 100 Soldiers and {beyond that} to the Tower of Hananel. Then they dedicated that part of the wall {to God} as well.
@@ -126,7 +126,7 @@
   <para style="p"><verse number="2" style="v" sid="NEH 3:2"/>Next to them, people from Jericho rebuilt {part of the wall}.
 
 </para>
-  <para style="p">Next to them, Zaccur, the son of Imri, rebuilt {part of the wall}.
+  <para style="p" vid="NEH 3:2">Next to them, Zaccur, the son of Imri, rebuilt {part of the wall}.
 
 <verse eid="NEH 3:2"/></para>
   <para style="p"><verse number="3" style="v" sid="NEH 3:3"/>The sons of Hassenaah rebuilt the Fish Gate. They framed it with {wooden} beams, they set its doors in place, and they installed bolts and bars {for locking the gate}.
@@ -136,10 +136,10 @@
   <para style="p"><verse number="4" style="v" sid="NEH 3:4"/>Next to them, Meremoth, the son of Uriah and grandson of Hakkoz, repaired {part of the wall}.
 
 </para>
-  <para style="p">Next to him, Meshullam, the son of Berekiah and grandson of Meshezabel, repaired {part of the wall}.
+  <para style="p" vid="NEH 3:4">Next to him, Meshullam, the son of Berekiah and grandson of Meshezabel, repaired {part of the wall}.
 
 </para>
-  <para style="p">Next to him, Zadok the son of Baana repaired {part of the wall}.
+  <para style="p" vid="NEH 3:4">Next to him, Zadok the son of Baana repaired {part of the wall}.
 
 <verse eid="NEH 3:4"/></para>
   <para style="p"><verse number="5" style="v" sid="NEH 3:5"/>Next to him, some people from Tekoa repaired {part of the wall}. But the leading citizens of Tekoa were too proud to do the work that the leaders {of Judah had asked them to do}.
@@ -155,7 +155,7 @@
   <para style="p"><verse number="8" style="v" sid="NEH 3:8"/>Next to them, Uzziel the son of Harhaiah repaired {part of the wall}. He was one of the goldsmiths, {the workers who made jewelry and other objects from gold}.
 
 </para>
-  <para style="p">Next to him, Hananiah repaired {part of the wall}. He was one of the workers who made perfumes. They rebuilt the wall of Jerusalem as far as the Broad Wall.
+  <para style="p" vid="NEH 3:8">Next to him, Hananiah repaired {part of the wall}. He was one of the workers who made perfumes. They rebuilt the wall of Jerusalem as far as the Broad Wall.
 
 <verse eid="NEH 3:8"/></para>
   <para style="p"><verse number="9" style="v" sid="NEH 3:9"/>Next to them, Rephaiah the son of Hur repaired {part of the wall}. Rephaiah ruled half of the district of Jerusalem.
@@ -165,7 +165,7 @@
   <para style="p"><verse number="10" style="v" sid="NEH 3:10"/>Next to him, Jedaiah the son of Harumaph repaired {the part of the wall} near his house.
 
 </para>
-  <para style="p">Next to him, Hattush the son of Hashabneiah repaired {part of the wall}.
+  <para style="p" vid="NEH 3:10">Next to him, Hattush the son of Hashabneiah repaired {part of the wall}.
 
 <verse eid="NEH 3:10"/></para>
   <para style="p"><verse number="11" style="v" sid="NEH 3:11"/>Malkijah the son of Harim and Hashub the son of Pahath-Moab repaired another section {of the wall}, along with the Tower of the Ovens.
@@ -211,7 +211,7 @@
   <para style="p"><verse number="23" style="v" sid="NEH 3:23"/>Next to them, Benjamin and Hasshub repaired {a section} opposite their house.
 
 </para>
-  <para style="p">Azariah, the son of Maaseiah and grandson of Ananiah, repaired the next {section}, beside his house.
+  <para style="p" vid="NEH 3:23">Azariah, the son of Maaseiah and grandson of Ananiah, repaired the next {section}, beside his house.
 
 <verse eid="NEH 3:23"/></para>
   <para style="p"><verse number="24" style="v" sid="NEH 3:24"/>Next to him, Binnui the son of Henadad repaired another section, from the house of Azariah to the bend in the wall as far as the bulwark.
@@ -235,14 +235,14 @@
   <para style="p"><verse number="29" style="v" sid="NEH 3:29"/>Next to them, Zadok the son of Immer repaired {the section} in front of his house.
 
 </para>
-  <para style="p">Then Shemaiah the son of Shecaniah, who was the gatekeeper at the East Gate, repaired the next {section}.
+  <para style="p" vid="NEH 3:29">Then Shemaiah the son of Shecaniah, who was the gatekeeper at the East Gate, repaired the next {section}.
 
 <ms style="ts"/>
 <verse eid="NEH 3:29"/></para>
   <para style="p"><verse number="30" style="v" sid="NEH 3:30"/>Next to him, Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, repaired another section.
 
 </para>
-  <para style="p">Next to them, Meshullam the son of Berechiah repaired {the section} opposite the rooms {where} he {lived}.
+  <para style="p" vid="NEH 3:30">Next to them, Meshullam the son of Berechiah repaired {the section} opposite the rooms {where} he {lived}.
 
 <verse eid="NEH 3:30"/></para>
   <para style="p"><verse number="31" style="v" sid="NEH 3:31"/>Malkijah, who was {another} one of the goldsmiths, repaired the next {section}, as far as the building used by the temple servants and the merchants. That building was opposite the Appointment Gate. He {rebuilt the wall} as far as the upper apartments {of this building}, which were on the corner.
@@ -252,7 +252,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 3:32"/><verse eid="NEH 3:32"/></para>
+<verse eid="NEH 3:32"/></para>
   <chapter eid="NEH 3"/>
   <chapter number="4" style="c" sid="NEH 4"/>
   <para style="p"><verse number="1" style="v" sid="NEH 4:1"/>When Sanballat heard that we were rebuilding the {city} wall, he became furious, and he mocked the Jews.
@@ -314,7 +314,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 4:23"/><verse eid="NEH 4:23"/></para>
+<verse eid="NEH 4:23"/></para>
   <chapter eid="NEH 4"/>
   <chapter number="5" style="c" sid="NEH 5"/>
   <para style="p"><verse number="1" style="v" sid="NEH 5:1"/>{Around this same time,} many of the men and their wives complained bitterly about what their fellow Jews were doing to them.
@@ -348,11 +348,11 @@
   <para style="p"><verse number="12" style="v" sid="NEH 5:12"/>These leaders replied, “Yes, we will do what you say. We will give back {their fields, vineyards, olive orchards, and houses}. And we will stop {charging} them {interest}.”
 
 </para>
-  <para style="p">Then I called the priests, and I made the leaders swear {to God in front of them} that they would do what they had promised.
+  <para style="p" vid="NEH 5:12">Then I called the priests, and I made the leaders swear {to God in front of them} that they would do what they had promised.
 <verse eid="NEH 5:12"/><verse number="13" style="v" sid="NEH 5:13"/>I also shook out the folds of my robe and said to them, “In this same way, may God fling anyone who does not keep this oath away from everything he owns. Yes, may that person lose everything!”
 
 </para>
-  <para style="p">Then everyone who was there said, “We agree!” And they praised Yahweh. After that none of the Jews took houses or fields to guarantee loans, and none of them charged interest any more.
+  <para style="p" vid="NEH 5:13">Then everyone who was there said, “We agree!” And they praised Yahweh. After that none of the Jews took houses or fields to guarantee loans, and none of them charged interest any more.
 
 <ms style="ts"/>
 <verse eid="NEH 5:13"/></para>
@@ -372,7 +372,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 5:19"/><verse eid="NEH 5:19"/></para>
+<verse eid="NEH 5:19"/></para>
   <chapter eid="NEH 5"/>
   <chapter number="6" style="c" sid="NEH 6"/>
   <para style="p"><verse number="1" style="v" sid="NEH 6:1"/>Sanballat, Tobiah, Geshem the Arabian, and our other enemies learned that we had finished rebuilding the wall, and that there were now no more gaps in it. (However, we had not yet put the doors in the gates.)
@@ -424,7 +424,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 6:19"/><verse eid="NEH 6:19"/></para>
+<verse eid="NEH 6:19"/></para>
   <chapter eid="NEH 6"/>
   <chapter number="7" style="c" sid="NEH 7"/>
   <para style="p"><verse number="1" style="v" sid="NEH 7:1"/>Once we had finished rebuilding the wall and we had put the doors in the gates, we assigned the gatekeepers and singers and Levites to their tasks.
@@ -446,7 +446,7 @@
   <para style="p"><verse number="7" style="v" sid="NEH 7:7"/>The people who came back were following Zerubbabel, Joshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah.
 
 </para>
-  <para style="p">{This is a list of} the number of men from {each} Israelite {clan who returned}:
+  <para style="p" vid="NEH 7:7">{This is a list of} the number of men from {each} Israelite {clan who returned}:
 
 <ms style="ts"/>
 <verse eid="NEH 7:7"/></para>
@@ -510,7 +510,7 @@
   <para style="p"><verse number="26" style="v" sid="NEH 7:26"/>{Some other} men {also returned, whose ancestors had lived in these towns}:
 
 </para>
-  <para style="p">188 men from Bethlehem and Netophah;
+  <para style="p" vid="NEH 7:26">188 men from Bethlehem and Netophah;
 
 <verse eid="NEH 7:26"/></para>
   <para style="p"><verse number="27" style="v" sid="NEH 7:27"/>128 men from Anathoth;
@@ -555,7 +555,7 @@
   <para style="p"><verse number="39" style="v" sid="NEH 7:39"/>These priests also returned:
 
 </para>
-  <para style="p">973 men from {the clan of} Jedaiah who are descendants of Jeshua;
+  <para style="p" vid="NEH 7:39">973 men from {the clan of} Jedaiah who are descendants of Jeshua;
 
 <verse eid="NEH 7:39"/></para>
   <para style="p"><verse number="40" style="v" sid="NEH 7:40"/>1052 men from {the clan of} Immer;
@@ -571,7 +571,7 @@
   <para style="p"><verse number="43" style="v" sid="NEH 7:43"/>These Levites also returned:
 
 </para>
-  <para style="p">74 men from the clan of Jeshua and {the clan of} Kadmiel, all of them descendants of Hodevah.
+  <para style="p" vid="NEH 7:43">74 men from the clan of Jeshua and {the clan of} Kadmiel, all of them descendants of Hodevah.
 
 <verse eid="NEH 7:43"/></para>
   <para style="p"><verse number="44" style="v" sid="NEH 7:44"/>148 members of the {sacred} choir {also returned}. All of them were from the clan of Asaph.
@@ -600,7 +600,7 @@
   <para style="p"><verse number="57" style="v" sid="NEH 7:57"/>Some descendants of the laborers that King Solomon {first conscripted also returned}.
 
 </para>
-  <para style="p">These were from the clan of Sotai, the clan of Sophereth, the clan of Perida,
+  <para style="p" vid="NEH 7:57">These were from the clan of Sotai, the clan of Sophereth, the clan of Perida,
 <verse eid="NEH 7:57"/><verse number="58" style="v" sid="NEH 7:58"/>the clan of Jaalah, the clan of Darkon, the clan of Giddel,
 <verse eid="NEH 7:58"/><verse number="59" style="v" sid="NEH 7:59"/>the clan of Shephatiah, the clan of Hattil, the clan of Pochereth-Hazzebaim, and the clan of Amon.
 <verse eid="NEH 7:59"/><verse number="60" style="v" sid="NEH 7:60"/>Altogether, there were 392 descendants of the {temple} workers and {conscripted} laborers {who returned}.
@@ -631,7 +631,7 @@
   <para style="p"><verse number="70" style="v" sid="NEH 7:70"/>Some of the leaders of the ancestral clans gave {gifts} for the work {of rebuilding the temple}.
 
 </para>
-  <para style="p">The governor gave into the treasury more than 8 kilograms of gold, 50 bowls {to be used in the temple}, and 530 robes for the priests.
+  <para style="p" vid="NEH 7:70">The governor gave into the treasury more than 8 kilograms of gold, 50 bowls {to be used in the temple}, and 530 robes for the priests.
 
 <verse eid="NEH 7:70"/></para>
   <para style="p"><verse number="71" style="v" sid="NEH 7:71"/>Some of the leaders of the ancestral clans also gave into the {temple} treasury for the work {of rebuilding the temple a total of} 153 kilograms of gold, and 1460 kilograms of silver.
@@ -642,7 +642,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 7:73"/><verse eid="NEH 7:73"/></para>
+<verse eid="NEH 7:73"/></para>
   <chapter eid="NEH 7"/>
   <chapter number="8" style="c" sid="NEH 8"/>
   <para style="p"><verse number="1" style="v" sid="NEH 8:1"/>A huge crowd of people gathered together in the plaza that was near the Water Gate. They asked Ezra the scribe to bring out the scroll of the law that Moses {had written down}, and which Yahweh had given to the people of Israel {for them to obey its rules and commands}.
@@ -686,7 +686,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 8:18"/><verse eid="NEH 8:18"/></para>
+<verse eid="NEH 8:18"/></para>
   <chapter eid="NEH 8"/>
   <chapter number="9" style="c" sid="NEH 9"/>
   <para style="p"><verse number="1" style="v" sid="NEH 9:1"/>Two days later, the Israelite people gathered together again. {To show that they were sorry for their sins,} they went without food, they wore {clothes made from} rough cloth, and they put dirt on their {heads}.
@@ -699,7 +699,7 @@
 <verse eid="NEH 9:4"/><verse number="5" style="v" sid="NEH 9:5"/>Then some Levites spoke. They were named Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah.
 
 </para>
-  <para style="p">They said, “Stand up and praise Yahweh your God, who has always {lived} and will {live} forever! Yahweh, we praise your glorious name! Your name is more important than everything else that is good and wonderful!
+  <para style="p" vid="NEH 9:5">They said, “Stand up and praise Yahweh your God, who has always {lived} and will {live} forever! Yahweh, we praise your glorious name! Your name is more important than everything else that is good and wonderful!
 <verse eid="NEH 9:5"/><verse number="6" style="v" sid="NEH 9:6"/>You are Yahweh, and no one else. You made the heavens that are above everything, and all that lives in the heavens {above the earth}. You made the earth and everything that is on it, and you made the seas and everything that is in them. You are the one who causes all living things to be alive. Everything that {lives} in the heavens {above the earth} worships you.
 
 <ms style="ts"/>
@@ -773,19 +773,19 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 9:38"/><verse eid="NEH 9:38"/></para>
+<verse eid="NEH 9:38"/></para>
   <chapter eid="NEH 9"/>
   <chapter number="10" style="c" sid="NEH 10"/>
   <para style="p"><verse number="1" style="v" sid="NEH 10:1"/>These are {the names of} the people who signed the agreement:
 
 </para>
-  <para style="p">Nehemiah the governor, the son of Hacaliah; Zedekiah the scribe.
+  <para style="p" vid="NEH 10:1">Nehemiah the governor, the son of Hacaliah; Zedekiah the scribe.
 
 <verse eid="NEH 10:1"/></para>
   <para style="p"><verse number="2" style="v" sid="NEH 10:2"/>{The priests who signed the agreement included:}
 
 </para>
-  <para style="p">Seraiah, Azariah, Jeremiah,
+  <para style="p" vid="NEH 10:2">Seraiah, Azariah, Jeremiah,
 <verse eid="NEH 10:2"/><verse number="3" style="v" sid="NEH 10:3"/>Pashhur, Amariah, Malkijah,
 <verse eid="NEH 10:3"/><verse number="4" style="v" sid="NEH 10:4"/>Hattush, Shebaniah, Malluk,
 
@@ -800,7 +800,7 @@
   <para style="p"><verse number="9" style="v" sid="NEH 10:9"/>The Levites {who signed the agreement} were:
 
 </para>
-  <para style="p">Jeshua the son of Azaniah, Binnui from the clan of Henadad, Kadmiel,
+  <para style="p" vid="NEH 10:9">Jeshua the son of Azaniah, Binnui from the clan of Henadad, Kadmiel,
 
 <verse eid="NEH 10:9"/></para>
   <para style="p"><verse number="10" style="v" sid="NEH 10:10"/>{Some of} their associates also {signed the agreement, including}: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
@@ -816,7 +816,7 @@
   <para style="p"><verse number="14" style="v" sid="NEH 10:14"/>The Israelite leaders {who signed the agreement} were:
 
 </para>
-  <para style="p">Parosh, Pahath-Moab, Elam, Zattu, and Bani,
+  <para style="p" vid="NEH 10:14">Parosh, Pahath-Moab, Elam, Zattu, and Bani,
 <verse eid="NEH 10:14"/><verse number="15" style="v" sid="NEH 10:15"/>Bunni, Azgad, Bebai,
 <verse eid="NEH 10:15"/><verse number="16" style="v" sid="NEH 10:16"/>Adonijah, Bigvai, Adin,
 <verse eid="NEH 10:16"/><verse number="17" style="v" sid="NEH 10:17"/>Ater, Hezekiah, Azzur,
@@ -862,27 +862,26 @@
 <verse eid="NEH 10:38"/><verse number="39" style="v" sid="NEH 10:39"/>That is how it will work. The Israelites and the Levites will bring their offerings of grain, wine, and olive oil to those storerooms. That is where {the priests} will store the equipment for the temple. And that is where {they will keep the food supplies} for the priests, the gatekeepers, and the singers who are serving at that time.
 
 </para>
-  <para style="p">We promise that we will keep taking care of the temple.”
+  <para style="p" vid="NEH 10:39">We promise that we will keep taking care of the temple.”
 
 <ms style="ts"/>
 
-<verse eid="NEH 10:39"/><verse eid="NEH 10:39"/></para>
+<verse eid="NEH 10:39"/></para>
   <chapter eid="NEH 10"/>
   <chapter number="11" style="c" sid="NEH 11"/>
   <para style="p"><verse number="1" style="v" sid="NEH 11:1"/>So the {Israelite} leaders settled in Jerusalem {with their families}. The rest of the people cast lots to select one family out of ten to live in Jerusalem. That was the city set apart {for God}. The remaining nine families lived in the {other} towns.
 <verse eid="NEH 11:1"/><verse number="2" style="v" sid="NEH 11:2"/>The people {asked God to} bless all those who volunteered to live in Jerusalem.
 
+<ms style="ts"/>
 <verse eid="NEH 11:2"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="3" style="v" sid="NEH 11:3"/>These are {the names of} the provincial officials who settled in Jerusalem. But in the towns of Judah, everyone lived on his own family property in their towns. This included the Israelites, the priests, the Levites, the temple servants, and the descendants of the servants of Solomon.
 <verse eid="NEH 11:3"/><verse number="4" style="v" sid="NEH 11:4"/>But some of the people of Judah and some of the people of Benjamin stayed and lived in Jerusalem.
 
 </para>
-  <para style="p">Here are {the names of} the leaders who lived in Jerusalem.
+  <para style="p" vid="NEH 11:4">Here are {the names of} the leaders who lived in Jerusalem.
 
 </para>
-  <para style="p">From the descendants of Judah, one of them was Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez.
+  <para style="p" vid="NEH 11:4">From the descendants of Judah, one of them was Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez.
 
 <verse eid="NEH 11:4"/></para>
   <para style="p"><verse number="5" style="v" sid="NEH 11:5"/>Another one was Maaseiah the son of Baruch, the son of Kol-Hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, who was one of the descendants of Shelah.
@@ -894,7 +893,7 @@
   <para style="p"><verse number="7" style="v" sid="NEH 11:7"/>These are the descendants of Benjamin {who decided to live in Jerusalem}.
 
 </para>
-  <para style="p">One of them was Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah.
+  <para style="p" vid="NEH 11:7">One of them was Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah.
 
 <verse eid="NEH 11:7"/></para>
   <para style="p"><verse number="8" style="v" sid="NEH 11:8"/>Two men who assisted him were Gabbai and Sallai. Altogether 928 people {from the tribe of Benjamin settled in Jerusalem}.
@@ -945,7 +944,7 @@
 <verse eid="NEH 11:29"/><verse number="30" style="v" sid="NEH 11:30"/>{the towns of} Zanoah and Adullam and the nearby villages, {the city of} Lachish and the nearby farms, and {the town of} Azekah and the nearby villages.
 
 </para>
-  <para style="p">{All of} those people settled {in the territory of Judah, in the area} between Beersheba {in the south} and the Valley of Hinnom {in the north}.
+  <para style="p" vid="NEH 11:30">{All of} those people settled {in the territory of Judah, in the area} between Beersheba {in the south} and the Valley of Hinnom {in the north}.
 
 <ms style="ts"/>
 <verse eid="NEH 11:30"/><verse number="31" style="v" sid="NEH 11:31"/>Some people who were descendants of Benjamin {settled in these cities and towns}: Geba, Michmas, Aija, Bethel and its neighboring villages,
@@ -959,7 +958,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 11:36"/><verse eid="NEH 11:36"/></para>
+<verse eid="NEH 11:36"/></para>
   <chapter eid="NEH 11"/>
   <chapter number="12" style="c" sid="NEH 12"/>
   <para style="p"><verse number="1" style="v" sid="NEH 12:1"/>These are {the names of} the priests and Levites who returned {from Babylonia} with Zerubbabel the son of Shealtiel and with Joshua {the Supreme Priest}. The priests included Seraiah, Jeremiah, Ezra,
@@ -973,7 +972,7 @@
 <verse eid="NEH 12:6"/><verse number="7" style="v" sid="NEH 12:7"/>Sallu, Amok, Hilkiah, and Jedaiah.
 
 </para>
-  <para style="m">All those men were leaders of the priests, their associates, during the time when Joshua {was the Supreme Priest}.
+  <para style="m" vid="NEH 12:7">All those men were leaders of the priests, their associates, during the time when Joshua {was the Supreme Priest}.
 
 <ms style="ts"/>
 <verse eid="NEH 12:7"/></para>
@@ -989,7 +988,7 @@
   <para style="p"><verse number="12" style="v" sid="NEH 12:12"/>When Joiakim was {the Supreme Priest}, these priests were the leaders of their clans. Meraiah was the leader of the clan of Seraiah. Hananiah was the leader of the clan of Jeremiah.
 <verse eid="NEH 12:12"/><verse number="13" style="v" sid="NEH 12:13"/>Meshullam was {the leader of the clan} of Ezra.
 </para>
-  <para style="q1">Jehohanan was {the leader of the clan} of Amariah.
+  <para style="q1" vid="NEH 12:13">Jehohanan was {the leader of the clan} of Amariah.
 <verse eid="NEH 12:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="NEH 12:14"/>Jonathan was {the leader of the clan} of Malluchi. Joseph was {the leader of the clan} of Shecaniah.
 
@@ -1003,7 +1002,7 @@
 <ms style="ts"/>
 <verse eid="NEH 12:19"/><verse number="20" style="v" sid="NEH 12:20"/>Kallai was the {leader of the clan} of Sallai.
 </para>
-  <para style="q1">Eber was {the leader of the clan} of Amok.
+  <para style="q1" vid="NEH 12:20">Eber was {the leader of the clan} of Amok.
 <verse eid="NEH 12:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="NEH 12:21"/>Hashabiah was {the leader of the clan} of Hilkiah. Nethanel was {the leader of the clan} of Jedaiah.
 
@@ -1060,7 +1059,7 @@
 
 <ms style="ts"/>
 
-<verse eid="NEH 12:47"/><verse eid="NEH 12:47"/></para>
+<verse eid="NEH 12:47"/></para>
   <chapter eid="NEH 12"/>
   <chapter number="13" style="c" sid="NEH 13"/>
   <para style="p"><verse number="1" style="v" sid="NEH 13:1"/>Then someone read out loud to the people from a scroll {that contained the law that God gave to} Moses. They learned that the {law} said that no Ammonites or Moabites should ever join the {Israelite} people {when they gathered together to worship God}.
@@ -1112,7 +1111,7 @@
   <para style="p"><verse number="22" style="v" sid="NEH 13:22"/>I also commanded the Levites to {perform a ritual to} purify themselves and then {take up stations} to guard the city gates. I wanted them to ensure that Sabbath days were kept holy {by not allowing merchants to enter the city on that holy day}.
 
 </para>
-  <para style="p">“My God, please bless me for doing this too! And be kind to me, because you faithfully love us so abundantly.”
+  <para style="p" vid="NEH 13:22">“My God, please bless me for doing this too! And be kind to me, because you faithfully love us so abundantly.”
 
 <ms style="ts"/>
 <verse eid="NEH 13:22"/></para>
@@ -1137,7 +1136,7 @@
 <verse eid="NEH 13:30"/><verse number="31" style="v" sid="NEH 13:31"/>{I} also {arranged} for the people to bring their offerings of wood at the set times {to burn on the altar}, and to bring the first part of what they harvested {of each crop during the year}.
 
 </para>
-  <para style="p">“My God, please consider that I {have done all these things}, and bless me {for doing them}.”
+  <para style="p" vid="NEH 13:31">“My God, please consider that I {have done all these things}, and bless me {for doing them}.”
 <verse eid="NEH 13:31"/></para>
   <chapter eid="NEH 13"/>
 </usx>

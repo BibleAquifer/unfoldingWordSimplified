@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="GAL" style="id">EN_UST en_English_ltr Wed Jan 11 2023 13:14:06 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -61,7 +61,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 1:24"/><verse eid="GAL 1:24"/></para>
+<verse eid="GAL 1:24"/></para>
   <chapter eid="GAL 1"/>
   <chapter number="2" style="c" sid="GAL 2"/>
   <para style="p"><verse number="1" style="v" sid="GAL 2:1"/>After fourteen years passed, I went up again to Jerusalem with Barnabas. I also took Titus.
@@ -103,7 +103,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 2:21"/><verse eid="GAL 2:21"/></para>
+<verse eid="GAL 2:21"/></para>
   <chapter eid="GAL 2"/>
   <chapter number="3" style="c" sid="GAL 3"/>
   <para style="p"><verse number="1" style="v" sid="GAL 3:1"/>You {fellow believers} who live in Galatia are acting mindlessly! Someone must have put an evil spell on you! I clearly explained to you what Jesus the Messiah accomplished when he died on the cross.
@@ -165,7 +165,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 3:29"/><verse eid="GAL 3:29"/></para>
+<verse eid="GAL 3:29"/></para>
   <chapter eid="GAL 3"/>
   <chapter number="4" style="c" sid="GAL 4"/>
   <para style="p"><verse number="1" style="v" sid="GAL 4:1"/>Now, I will further discuss children and heirs. An heir is a person who will later possess and control all that his father has. But as long as that heir is a child, others control him, with the result that he is just like a slave.
@@ -230,7 +230,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 4:31"/><verse eid="GAL 4:31"/></para>
+<verse eid="GAL 4:31"/></para>
   <chapter eid="GAL 4"/>
   <chapter number="5" style="c" sid="GAL 5"/>
   <para style="p"><verse number="1" style="v" sid="GAL 5:1"/>The Messiah freed us {believers} {from having to obey the laws God gave the Jews} in order that we would not have to obey {them}. So continue to be steadfastly committed {to the Lord}. Do not let anyone force you to obey {those laws} again as if you were slaves {to those laws}.
@@ -286,7 +286,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 5:26"/><verse eid="GAL 5:26"/></para>
+<verse eid="GAL 5:26"/></para>
   <chapter eid="GAL 5"/>
   <chapter number="6" style="c" sid="GAL 6"/>
   <para style="p"><verse number="1" style="v" sid="GAL 6:1"/>Fellow believers, if you discover that another believer does something wrong, those of you who are spiritually mature should gently correct that person. {While doing so,} you should be very careful so that you do not sin as well.

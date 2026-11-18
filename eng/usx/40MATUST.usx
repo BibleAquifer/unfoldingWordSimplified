@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="MAT" style="id">EN_UST en_English_ltr Thu Apr 06 2023 12:13:49 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -27,7 +27,7 @@
 <verse eid="MAT 1:5"/><verse number="6" style="v" sid="MAT 1:6"/>Jesse was the father of King David.
 
 </para>
-  <para style="p">David was the father of Solomon. Solomon’s mother was {Bathsheba, who had been} Uriah’s wife.
+  <para style="p" vid="MAT 1:6">David was the father of Solomon. Solomon’s mother was {Bathsheba, who had been} Uriah’s wife.
 
 <ms style="ts"/>
 <verse eid="MAT 1:6"/><verse number="7" style="v" sid="MAT 1:7"/>Solomon was the father of Rehoboam. Rehoboam was the father of Abijah. Abijah was the father of Asaph.
@@ -69,8 +69,7 @@
   <para style="pm"><verse number="23" style="v" sid="MAT 1:23"/>“A young woman who has never had sex will become pregnant! She will give birth to a male child. People will name him ‘Immanuel.’”
 
 </para>
-  <para style="b"/>
-  <para style="p">The name Immanuel means, “God is with us.”
+  <para style="p" vid="MAT 1:23">The name Immanuel means, “God is with us.”
 
 <ms style="ts"/>
 <verse eid="MAT 1:23"/><verse number="24" style="v" sid="MAT 1:24"/>After Joseph woke up, he married Mary, which is what the angel from the Lord had told him to do.
@@ -78,7 +77,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 1:25"/><verse eid="MAT 1:25"/></para>
+<verse eid="MAT 1:25"/></para>
   <chapter eid="MAT 1"/>
   <chapter number="2" style="c" sid="MAT 2"/>
   <para style="p"><verse number="1" style="v" sid="MAT 2:1"/>{Mary} gave birth to Jesus in the town of Bethlehem in the region of Judea. During that time, Herod was the king there. {Some time after Mary gave birth to Jesus,} some scholars who studied the stars traveled from eastern countries to the city of Jerusalem!
@@ -95,11 +94,11 @@
 <verse eid="MAT 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="MAT 2:6"/>‘You who live in the town of Bethlehem in the land of Judah,
 </para>
-  <para style="q1">your town is one of the important towns in Judah.
+  <para style="q1" vid="MAT 2:6">your town is one of the important towns in Judah.
 </para>
-  <para style="q1">{That is} because someone from your town will become a leader.
+  <para style="q1" vid="MAT 2:6">{That is} because someone from your town will become a leader.
 </para>
-  <para style="q1">That person will rule God’s people, the Israelites.’”
+  <para style="q1" vid="MAT 2:6">That person will rule God’s people, the Israelites.’”
 
 <ms style="ts"/>
 <verse eid="MAT 2:6"/></para>
@@ -123,7 +122,7 @@
   <para style="p"><verse number="14" style="v" sid="MAT 2:14"/>Then Joseph woke up. During that night, he left for the land of Egypt with the child and the child’s mother{, his wife}.
 <verse eid="MAT 2:14"/><verse number="15" style="v" sid="MAT 2:15"/>They lived in the land of Egypt while King Herod ruled. So, what the Lord said by speaking through the prophet {Hosea} came true:
 </para>
-  <para style="q1">“I have told my son to leave Egypt.”
+  <para style="q1" vid="MAT 2:15">“I have told my son to leave Egypt.”
 
 <ms style="ts"/>
 <verse eid="MAT 2:15"/></para>
@@ -134,9 +133,9 @@
 <verse eid="MAT 2:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="MAT 2:18"/>“People heard women in the town of Ramah lamenting loudly.
 </para>
-  <para style="q1">It was the descendants of Rachel mourning for their children.
+  <para style="q1" vid="MAT 2:18">It was the descendants of Rachel mourning for their children.
 </para>
-  <para style="q1">Because their children were dead, they would not stop mourning.”
+  <para style="q1" vid="MAT 2:18">Because their children were dead, they would not stop mourning.”
 
 <ms style="ts"/>
 <verse eid="MAT 2:18"/></para>
@@ -149,22 +148,22 @@
   <para style="p"><verse number="22" style="v" sid="MAT 2:22"/>However, Joseph heard that Archelaus had succeeded his father, King Herod, as king over the region of Judea. So, he was afraid to live there. Further, while Joseph was sleeping, God instructed him {to live somewhere else}. So, Joseph decided to live in the region of Galilee.
 <verse eid="MAT 2:22"/><verse number="23" style="v" sid="MAT 2:23"/>When he and his family arrived {in Galilee}, they lived in the town of Nazareth. In that way, what God said by speaking through the prophets came true:
 </para>
-  <para style="pm">“People will say that the Messiah is from Nazareth.”
+  <para style="pm" vid="MAT 2:23">“People will say that the Messiah is from Nazareth.”
 
 <ms style="ts"/>
 
-<verse eid="MAT 2:23"/><verse eid="MAT 2:23"/></para>
+<verse eid="MAT 2:23"/></para>
   <chapter eid="MAT 2"/>
   <chapter number="3" style="c" sid="MAT 3"/>
   <para style="p"><verse number="1" style="v" sid="MAT 3:1"/>While Jesus was living in Galilee, a man whom people called John the Baptizer went to a desolate area in the region of Judea. He proclaimed,
 <verse eid="MAT 3:1"/><verse number="2" style="v" sid="MAT 3:2"/>“Stop doing what is wrong! {You should do that} because God is about to establish his heavenly kingdom here.”
 <verse eid="MAT 3:2"/><verse number="3" style="v" sid="MAT 3:3"/>That man is the one about whom the Lord said, by speaking through the prophet Isaiah,
 </para>
-  <para style="q1">“In the desolate place, someone will be calling out {to the people}:
+  <para style="q1" vid="MAT 3:3">“In the desolate place, someone will be calling out {to the people}:
 </para>
-  <para style="q1">‘Prepare yourselves to receive the Lord!
+  <para style="q1" vid="MAT 3:3">‘Prepare yourselves to receive the Lord!
 </para>
-  <para style="q1">Make yourselves ready for when he comes!’”
+  <para style="q1" vid="MAT 3:3">Make yourselves ready for when he comes!’”
 
 <ms style="ts"/>
 <verse eid="MAT 3:3"/></para>
@@ -200,7 +199,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 3:17"/><verse eid="MAT 3:17"/></para>
+<verse eid="MAT 3:17"/></para>
   <chapter eid="MAT 3"/>
   <chapter number="4" style="c" sid="MAT 4"/>
   <para style="p"><verse number="1" style="v" sid="MAT 4:1"/>After that, the Holy Spirit took Jesus into a desolate area. That way, the ruling evil spirit could try to make him sin.
@@ -215,11 +214,11 @@
   <para style="p"><verse number="5" style="v" sid="MAT 4:5"/>After that, the ruling evil spirit transported Jesus to {Jerusalem,} the sacred city. He made him stand on the highest part of the temple.
 <verse eid="MAT 4:5"/><verse number="6" style="v" sid="MAT 4:6"/>Then, he said to Jesus, “Show me that you really are God’s Son. Jump from here! {You will not hurt yourself,} because it says in the Scriptures,
 </para>
-  <para style="q1">‘God will tell his angels {to protect} you.
+  <para style="q1" vid="MAT 4:6">‘God will tell his angels {to protect} you.
 </para>
-  <para style="q1">They will carry you,
+  <para style="q1" vid="MAT 4:6">They will carry you,
 </para>
-  <para style="q1">and you will not hurt yourself at all.’”
+  <para style="q1" vid="MAT 4:6">and you will not hurt yourself at all.’”
 
 <ms style="ts"/>
 <verse eid="MAT 4:6"/></para>
@@ -246,17 +245,17 @@
 <verse eid="MAT 4:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="MAT 4:15"/>“{I am speaking about people in} the regions that belong to the tribe of Zebulun and to the tribe of Naphtali.
 </para>
-  <para style="q1">{These regions are} by the Sea {of Galilee}, on the other side of the Jordan River.
+  <para style="q1" vid="MAT 4:15">{These regions are} by the Sea {of Galilee}, on the other side of the Jordan River.
 </para>
-  <para style="q1">{We call these regions} Galilee, where many non-Jewish people live.
+  <para style="q1" vid="MAT 4:15">{We call these regions} Galilee, where many non-Jewish people live.
 <verse eid="MAT 4:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="MAT 4:16"/>The people {who live in those regions} sin and despair. They are like people who sit in dark places.
 </para>
-  <para style="q1">However, God will rescue them. They will be like people who see a bright light.
+  <para style="q1" vid="MAT 4:16">However, God will rescue them. They will be like people who see a bright light.
 </para>
-  <para style="q1">Again, {the people in those regions} suffer and die. They are like people who sit in a dangerous place without any light.
+  <para style="q1" vid="MAT 4:16">Again, {the people in those regions} suffer and die. They are like people who sit in a dangerous place without any light.
 </para>
-  <para style="q1">However, God will save them. It will be as if a light shines on them.”
+  <para style="q1" vid="MAT 4:16">However, God will save them. It will be as if a light shines on them.”
 
 <ms style="ts"/>
 <verse eid="MAT 4:16"/></para>
@@ -280,7 +279,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 4:25"/><verse eid="MAT 4:25"/></para>
+<verse eid="MAT 4:25"/></para>
   <chapter eid="MAT 4"/>
   <chapter number="5" style="c" sid="MAT 5"/>
   <para style="p"><verse number="1" style="v" sid="MAT 5:1"/>When Jesus saw these large groups of people, he went up on a hill. He sat down there, {ready to teach,} and his apprentices gathered around him {to listen}.
@@ -288,39 +287,39 @@
 <verse eid="MAT 5:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="MAT 5:3"/>“It is very good for those who do not have spiritual strength.
 </para>
-  <para style="q2">{That is} because they are part of God’s heavenly kingdom.
+  <para style="q2" vid="MAT 5:3">{That is} because they are part of God’s heavenly kingdom.
 <verse eid="MAT 5:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="MAT 5:4"/>It is very good for those who grieve.
 </para>
-  <para style="q2">{That is} because God will encourage them.
+  <para style="q2" vid="MAT 5:4">{That is} because God will encourage them.
 
 <ms style="ts"/>
 <verse eid="MAT 5:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="MAT 5:5"/>It is very good for those who are gentle.
 </para>
-  <para style="q2">{That is} because God will give them the world {when he renews it}.
+  <para style="q2" vid="MAT 5:5">{That is} because God will give them the world {when he renews it}.
 <verse eid="MAT 5:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="MAT 5:6"/>It is very good for those who greatly desire to do what is right.
 </para>
-  <para style="q2">{That is} because God will enable them to do what they desire to do.
+  <para style="q2" vid="MAT 5:6">{That is} because God will enable them to do what they desire to do.
 <verse eid="MAT 5:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="MAT 5:7"/>It is very good for those who are merciful {to other people}.
 </para>
-  <para style="q2">{That is} because God will be merciful to them.
+  <para style="q2" vid="MAT 5:7">{That is} because God will be merciful to them.
 <verse eid="MAT 5:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="MAT 5:8"/>It is very good for those who desire what is good.
 </para>
-  <para style="q2">{That is} because they will be with God.
+  <para style="q2" vid="MAT 5:8">{That is} because they will be with God.
 
 <ms style="ts"/>
 <verse eid="MAT 5:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="MAT 5:9"/>It is very good for those who enable people to be peaceful {with each other}.
 </para>
-  <para style="q2">{That is} because God will regard them as his own children.
+  <para style="q2" vid="MAT 5:9">{That is} because God will regard them as his own children.
 <verse eid="MAT 5:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="MAT 5:10"/>It is very good for those whom others mistreat because they do what is right.
 </para>
-  <para style="q2">{That is} because they are part of God’s heavenly kingdom.
+  <para style="q2" vid="MAT 5:10">{That is} because they are part of God’s heavenly kingdom.
 
 <ms style="ts"/>
 <verse eid="MAT 5:10"/></para>
@@ -407,7 +406,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 5:48"/><verse eid="MAT 5:48"/></para>
+<verse eid="MAT 5:48"/></para>
   <chapter eid="MAT 5"/>
   <chapter number="6" style="c" sid="MAT 6"/>
   <para style="p"><verse number="1" style="v" sid="MAT 6:1"/>When you do what God desires, make sure that you are not doing it so that people praise you for it. When you do what God desires so that others praise you, God your Father, who rules from heaven, will not reward you.
@@ -431,15 +430,15 @@
 <verse eid="MAT 6:8"/></para>
   <para style="p"><verse number="9" style="v" sid="MAT 6:9"/>Here is how you should pray to God:
 </para>
-  <para style="q1">‘{I pray to} God our Father, who rules from heaven.
+  <para style="q1" vid="MAT 6:9">‘{I pray to} God our Father, who rules from heaven.
 </para>
-  <para style="q1">May all people glorify you.
+  <para style="q1" vid="MAT 6:9">May all people glorify you.
 <verse eid="MAT 6:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="MAT 6:10"/>May you establish your kingdom.
 </para>
-  <para style="q1">May everyone do what you want
+  <para style="q1" vid="MAT 6:10">May everyone do what you want
 </para>
-  <para style="q2">here on earth, just as {they already do} in heaven.
+  <para style="q2" vid="MAT 6:10">here on earth, just as {they already do} in heaven.
 
 <ms style="ts"/>
 <verse eid="MAT 6:10"/></para>
@@ -447,11 +446,11 @@
 <verse eid="MAT 6:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="MAT 6:12"/>We have forgiven people for when they did not treat us rightly.
 </para>
-  <para style="q2">In the same way, please forgive us for when we do not act rightly.
+  <para style="q2" vid="MAT 6:12">In the same way, please forgive us for when we do not act rightly.
 <verse eid="MAT 6:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="MAT 6:13"/>Please protect us from everything that tries to make us sin.
 </para>
-  <para style="q2">Please rescue us when Satan tries to harm us.’
+  <para style="q2" vid="MAT 6:13">Please rescue us when Satan tries to harm us.’
 
 <ms style="ts"/>
 <verse eid="MAT 6:13"/></para>
@@ -503,7 +502,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 6:34"/><verse eid="MAT 6:34"/></para>
+<verse eid="MAT 6:34"/></para>
   <chapter eid="MAT 6"/>
   <chapter number="7" style="c" sid="MAT 7"/>
   <para style="p"><verse number="1" style="v" sid="MAT 7:1"/>Do not harshly criticize {other people}. That way, God will not harshly criticize you.
@@ -568,7 +567,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 7:29"/><verse eid="MAT 7:29"/></para>
+<verse eid="MAT 7:29"/></para>
   <chapter eid="MAT 7"/>
   <chapter number="8" style="c" sid="MAT 8"/>
   <para style="p"><verse number="1" style="v" sid="MAT 8:1"/>When Jesus went down from the hill, large groups of people went wherever he went.
@@ -656,7 +655,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 8:34"/><verse eid="MAT 8:34"/></para>
+<verse eid="MAT 8:34"/></para>
   <chapter eid="MAT 8"/>
   <chapter number="9" style="c" sid="MAT 9"/>
   <para style="p"><verse number="1" style="v" sid="MAT 9:1"/>After that, Jesus and his apprentices got into a boat. They sailed across the Sea of Galilee and arrived back in the city of Capernaum, where Jesus was living.
@@ -730,7 +729,7 @@
   <para style="p"><verse number="28" style="v" sid="MAT 9:28"/>After Jesus entered the house {where he was staying}, the blind men approached him. Jesus asked them, “Do you believe that I can heal you?”
 
 </para>
-  <para style="p">They answered, “Yes, Lord, we do!”
+  <para style="p" vid="MAT 9:28">They answered, “Yes, Lord, we do!”
 
 <ms style="ts"/>
 <verse eid="MAT 9:28"/></para>
@@ -757,7 +756,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 9:38"/><verse eid="MAT 9:38"/></para>
+<verse eid="MAT 9:38"/></para>
   <chapter eid="MAT 9"/>
   <chapter number="10" style="c" sid="MAT 10"/>
   <para style="p"><verse number="1" style="v" sid="MAT 10:1"/>Then, Jesus told his 12 apprentices to come to him. He authorized them to drive demons out of people and to cure people who were sick in any way.
@@ -845,7 +844,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 10:42"/><verse eid="MAT 10:42"/></para>
+<verse eid="MAT 10:42"/></para>
   <chapter eid="MAT 10"/>
   <chapter number="11" style="c" sid="MAT 11"/>
   <para style="p"><verse number="1" style="v" sid="MAT 11:1"/>So, Jesus completed instructing his 12 apprentices {about what they should do}. Then, he left that place in order to proclaim {the good news to people} in the towns throughout the area.
@@ -869,7 +868,7 @@
 <verse eid="MAT 11:8"/><verse number="9" style="v" sid="MAT 11:9"/>Surely you traveled {to the desolate area} to see a man who spoke for God. Yes{, that is who John is}! But I want to tell you that John is more significant than other people who speak for God.
 <verse eid="MAT 11:9"/><verse number="10" style="v" sid="MAT 11:10"/>He is the one about whom a prophet wrote in the Scriptures:
 </para>
-  <para style="pm">‘Listen, I am sending my messenger ahead of you. He will make things ready for when you come.’
+  <para style="pm" vid="MAT 11:10">‘Listen, I am sending my messenger ahead of you. He will make things ready for when you come.’
 
 <ms style="ts"/>
 <verse eid="MAT 11:10"/></para>
@@ -916,7 +915,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 11:30"/><verse eid="MAT 11:30"/></para>
+<verse eid="MAT 11:30"/></para>
   <chapter eid="MAT 11"/>
   <chapter number="12" style="c" sid="MAT 12"/>
   <para style="p"><verse number="1" style="v" sid="MAT 12:1"/>Some time later, Jesus {and his apprentices} were walking through grain fields during one of the Jewish days of rest. His apprentices became hungry, so they started to pick some grain and eat it.
@@ -959,24 +958,24 @@
 <verse eid="MAT 12:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="MAT 12:18"/>“Consider the one who serves me, whom I selected.
 </para>
-  <para style="q1">I love him, and what he does pleases me.
+  <para style="q1" vid="MAT 12:18">I love him, and what he does pleases me.
 </para>
-  <para style="q1">I will empower him with the Holy Spirit.
+  <para style="q1" vid="MAT 12:18">I will empower him with the Holy Spirit.
 </para>
-  <para style="q1">He will declare to the non-Jews that I do what is right.
+  <para style="q1" vid="MAT 12:18">He will declare to the non-Jews that I do what is right.
 
 <ms style="ts"/>
 <verse eid="MAT 12:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="MAT 12:19"/>He will not quarrel with people. He will not shout loudly.
 </para>
-  <para style="q1">He will not speak to many people in public areas.
+  <para style="q1" vid="MAT 12:19">He will not speak to many people in public areas.
 
 <verse eid="MAT 12:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="MAT 12:20"/>He will be gentle with weak people.
 </para>
-  <para style="q1">He will be kind to feeble people.
+  <para style="q1" vid="MAT 12:20">He will be kind to feeble people.
 </para>
-  <para style="q1">{He will do those things} until he successfully completes doing what is right.
+  <para style="q1" vid="MAT 12:20">{He will do those things} until he successfully completes doing what is right.
 <verse eid="MAT 12:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="MAT 12:21"/>Non-Jewish people will confidently trust in him.”
 
@@ -1051,7 +1050,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 12:50"/><verse eid="MAT 12:50"/></para>
+<verse eid="MAT 12:50"/></para>
   <chapter eid="MAT 12"/>
   <chapter number="13" style="c" sid="MAT 13"/>
   <para style="p"><verse number="1" style="v" sid="MAT 13:1"/>That same day, Jesus left the house {where he had been teaching}. He {walked to the Sea of Galilee and} sat down {to teach} next to it.
@@ -1081,25 +1080,25 @@
 <verse eid="MAT 13:12"/><verse number="13" style="v" sid="MAT 13:13"/>I use stories to instruct these people because they can look at things, but they do not really see them. They can hear what people say, but they do not really listen to it or learn from it.
 <verse eid="MAT 13:13"/><verse number="14" style="v" sid="MAT 13:14"/>What God said by speaking through the prophet Isaiah has come true for them:
 </para>
-  <para style="q1">‘You will hear things, but you will not learn from them.
+  <para style="q1" vid="MAT 13:14">‘You will hear things, but you will not learn from them.
 </para>
-  <para style="q1">You will look at things, but you will not really see them.
+  <para style="q1" vid="MAT 13:14">You will look at things, but you will not really see them.
 
 <ms style="ts"/>
 <verse eid="MAT 13:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="MAT 13:15"/>{These people do not understand} because they have become stubborn;
 </para>
-  <para style="q1">their ears are almost deaf;
+  <para style="q1" vid="MAT 13:15">their ears are almost deaf;
 </para>
-  <para style="q1">and they have closed their eyes because they do not want to see.
+  <para style="q1" vid="MAT 13:15">and they have closed their eyes because they do not want to see.
 </para>
-  <para style="q1">They do not want to listen
+  <para style="q1" vid="MAT 13:15">They do not want to listen
 </para>
-  <para style="q1">or try to understand,
+  <para style="q1" vid="MAT 13:15">or try to understand,
 </para>
-  <para style="q1">for then they would come back to me,
+  <para style="q1" vid="MAT 13:15">for then they would come back to me,
 </para>
-  <para style="q1">and I would welcome and forgive them.’
+  <para style="q1" vid="MAT 13:15">and I would welcome and forgive them.’
 
 <ms style="ts"/>
 <verse eid="MAT 13:15"/></para>
@@ -1132,7 +1131,7 @@
   <para style="p"><verse number="28" style="v" sid="MAT 13:28"/>The farmer replied, ‘A person who hates me planted these weed plants.’
 
 </para>
-  <para style="p">Then his servants asked him, ‘Do you want us to go {to the field} and remove all the weeds plants?’
+  <para style="p" vid="MAT 13:28">Then his servants asked him, ‘Do you want us to go {to the field} and remove all the weeds plants?’
 
 <ms style="ts"/>
 <verse eid="MAT 13:28"/></para>
@@ -1153,9 +1152,9 @@
   <para style="p"><verse number="34" style="v" sid="MAT 13:34"/>Jesus used stories to teach all these things to the large groups of people {who were standing on the shore of the sea}. In fact, he taught them by using stories only.
 <verse eid="MAT 13:34"/><verse number="35" style="v" sid="MAT 13:35"/>So, what God said by speaking through one of the prophets came true:
 </para>
-  <para style="q1">“I will speak by using stories.
+  <para style="q1" vid="MAT 13:35">“I will speak by using stories.
 </para>
-  <para style="q1">I will reveal things that have been secret since {God} created everything.”
+  <para style="q1" vid="MAT 13:35">I will reveal things that have been secret since {God} created everything.”
 
 <ms style="ts"/>
 <verse eid="MAT 13:35"/></para>
@@ -1194,7 +1193,7 @@
   <para style="p"><verse number="51" style="v" sid="MAT 13:51"/>Do you know what all these things {that I have taught you} mean?”
 
 </para>
-  <para style="p">The apprentices answered, “Yes{, we know what they mean}.”
+  <para style="p" vid="MAT 13:51">The apprentices answered, “Yes{, we know what they mean}.”
 
 <verse eid="MAT 13:51"/></para>
   <para style="p"><verse number="52" style="v" sid="MAT 13:52"/>Jesus responded, “So then, consider teachers whose leader has trained them to participate in God’s heavenly kingdom. They are like people who manage households. {That is because} both the teachers and the people who manage households offer old and new things that are valuable.”
@@ -1214,7 +1213,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 13:58"/><verse eid="MAT 13:58"/></para>
+<verse eid="MAT 13:58"/></para>
   <chapter eid="MAT 13"/>
   <chapter number="14" style="c" sid="MAT 14"/>
   <para style="p"><verse number="1" style="v" sid="MAT 14:1"/>While Jesus was teaching and doing powerful things, King Herod Antipas{, the ruler over the region of Galilee,} learned what he was doing.
@@ -1282,7 +1281,7 @@
   <para style="p"><verse number="29" style="v" sid="MAT 14:29"/>Jesus said {to Peter}, “Walk to me!”
 
 </para>
-  <para style="p">So, Peter stepped out of the boat and walked on top of the water toward Jesus.
+  <para style="p" vid="MAT 14:29">So, Peter stepped out of the boat and walked on top of the water toward Jesus.
 <verse eid="MAT 14:29"/><verse number="30" style="v" sid="MAT 14:30"/>However, Peter realized how powerful the storm was, and he was afraid. Then he started to sink into the water. He shouted {to Jesus}, “My Lord, please rescue me!”
 
 <ms style="ts"/>
@@ -1301,7 +1300,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 14:36"/><verse eid="MAT 14:36"/></para>
+<verse eid="MAT 14:36"/></para>
   <chapter eid="MAT 14"/>
   <chapter number="15" style="c" sid="MAT 15"/>
   <para style="p"><verse number="1" style="v" sid="MAT 15:1"/>After that, some Pharisees and teachers of the Jewish law who were from the city of Jerusalem visited Jesus. They told him,
@@ -1320,11 +1319,11 @@
 <verse eid="MAT 15:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="MAT 15:8"/>‘You people treat me respectfully when you talk,
 </para>
-  <para style="q1">but you do not really care about me.
+  <para style="q1" vid="MAT 15:8">but you do not really care about me.
 <verse eid="MAT 15:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="MAT 15:9"/>When you worship me, it is useless.
 </para>
-  <para style="q1">{That is because} you use only what humans have commanded to instruct others.’”
+  <para style="q1" vid="MAT 15:9">{That is because} you use only what humans have commanded to instruct others.’”
 
 <ms style="ts"/>
 <verse eid="MAT 15:9"/></para>
@@ -1392,7 +1391,7 @@
   <para style="p"><verse number="34" style="v" sid="MAT 15:34"/>Jesus asked them, “How many loaves of bread do you have with you?”
 
 </para>
-  <para style="p">They replied, “We have with us seven loaves of bread and a few little fish.”
+  <para style="p" vid="MAT 15:34">They replied, “We have with us seven loaves of bread and a few little fish.”
 
 <verse eid="MAT 15:34"/></para>
   <para style="p"><verse number="35" style="v" sid="MAT 15:35"/>Then Jesus told the large group of people to sit down on the ground.
@@ -1405,7 +1404,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 15:39"/><verse eid="MAT 15:39"/></para>
+<verse eid="MAT 15:39"/></para>
   <chapter eid="MAT 15"/>
   <chapter number="16" style="c" sid="MAT 16"/>
   <para style="p"><verse number="1" style="v" sid="MAT 16:1"/>Some Pharisees and Sadducees came to Jesus in order to investigate him. They said to him, “We want you to perform a miracle that shows that God sent you.”
@@ -1480,7 +1479,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 16:28"/><verse eid="MAT 16:28"/></para>
+<verse eid="MAT 16:28"/></para>
   <chapter eid="MAT 16"/>
   <chapter number="17" style="c" sid="MAT 17"/>
   <para style="p"><verse number="1" style="v" sid="MAT 17:1"/>Six days later, Jesus climbed up a tall mountain. He had Peter, James, and James’ {younger} brother John go with him. No one else was with them.
@@ -1546,19 +1545,19 @@
   <para style="p"><verse number="25" style="v" sid="MAT 17:25"/>Peter answered, “Yes, he does pay it.”
 
 </para>
-  <para style="p">Then Peter went into the house {where Jesus was staying}. Before Peter could say anything, Jesus said to him, “Simon, tell me what you think. Who has to pay taxes to the kings who rule in this world? Do their own children have to pay taxes? Or do people whom the kings do not know have to pay taxes?”
+  <para style="p" vid="MAT 17:25">Then Peter went into the house {where Jesus was staying}. Before Peter could say anything, Jesus said to him, “Simon, tell me what you think. Who has to pay taxes to the kings who rule in this world? Do their own children have to pay taxes? Or do people whom the kings do not know have to pay taxes?”
 
 <ms style="ts"/>
 <verse eid="MAT 17:25"/></para>
   <para style="p"><verse number="26" style="v" sid="MAT 17:26"/>Peter replied, “People whom the kings do not know {have to pay taxes}.”
 
 </para>
-  <para style="p">Then Jesus said to him, “So then, the children of kings do not have to pay anything. {That means that we do not have to pay anything either.}
+  <para style="p" vid="MAT 17:26">Then Jesus said to him, “So then, the children of kings do not have to pay anything. {That means that we do not have to pay anything either.}
 <verse eid="MAT 17:26"/><verse number="27" style="v" sid="MAT 17:27"/>However, we do not want to upset the people who collect taxes. So, go to the Sea of Galilee and prepare your fishing tools. Pick up the first fish that you capture. Look in its mouth, and you will see a silver coin {that is worth about twice the tax}. Take the coin to the people who collect taxes to pay for my tax and your tax.”
 
 <ms style="ts"/>
 
-<verse eid="MAT 17:27"/><verse eid="MAT 17:27"/></para>
+<verse eid="MAT 17:27"/></para>
   <chapter eid="MAT 17"/>
   <chapter number="18" style="c" sid="MAT 18"/>
   <para style="p"><verse number="1" style="v" sid="MAT 18:1"/>Immediately after that, the apprentices came to Jesus. They asked him, “So then, who will be the most important people in God’s heavenly kingdom?”
@@ -1645,7 +1644,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 18:35"/><verse eid="MAT 18:35"/></para>
+<verse eid="MAT 18:35"/></para>
   <chapter eid="MAT 18"/>
   <chapter number="19" style="c" sid="MAT 19"/>
   <para style="p"><verse number="1" style="v" sid="MAT 19:1"/>So, Jesus completed saying those things. Then, he {and his apprentices} left the region of Galilee. They traveled to the region of Judea on the other side of the Jordan River.
@@ -1696,7 +1695,7 @@
   <para style="p"><verse number="18" style="v" sid="MAT 19:18"/>The man replied, “Which {things that God has commanded do you mean}?”
 
 </para>
-  <para style="p">Jesus answered him, “Here are the ones I mean: Do not murder others. Do not be sexually unfaithful to your spouse. Do not steal things. Do not say what is untrue.
+  <para style="p" vid="MAT 19:18">Jesus answered him, “Here are the ones I mean: Do not murder others. Do not be sexually unfaithful to your spouse. Do not steal things. Do not say what is untrue.
 <verse eid="MAT 19:18"/><verse number="19" style="v" sid="MAT 19:19"/>Treat your parents respectfully. Care for people you know as much as you care for yourself.”
 
 <ms style="ts"/>
@@ -1732,7 +1731,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 19:30"/><verse eid="MAT 19:30"/></para>
+<verse eid="MAT 19:30"/></para>
   <chapter eid="MAT 19"/>
   <chapter number="20" style="c" sid="MAT 20"/>
   <para style="p"><verse number="1" style="v" sid="MAT 20:1"/>In fact, here is what God’s heavenly kingdom is like: a man who managed a household left his house in the morning {to go to the town’s open area}. He wanted to hire people to take care of his grape vines.
@@ -1750,7 +1749,7 @@
   <para style="p"><verse number="7" style="v" sid="MAT 20:7"/>They replied, ‘{We are waiting here} because nobody has hired us.’
 
 </para>
-  <para style="p">Then the man said, ‘Join the other people who are taking care of my grape vines.’ {They agreed to do so.}
+  <para style="p" vid="MAT 20:7">Then the man said, ‘Join the other people who are taking care of my grape vines.’ {They agreed to do so.}
 
 <ms style="ts"/>
 <verse eid="MAT 20:7"/></para>
@@ -1784,14 +1783,14 @@
 <verse eid="MAT 20:20"/><verse number="21" style="v" sid="MAT 20:21"/>Jesus replied, “What do you want {me to do for you}?”
 
 </para>
-  <para style="p">She said, “Please promise me that, when you rule, you will greatly honor my two sons by having one of them sit at your right side and the other one sit at your left side.”
+  <para style="p" vid="MAT 20:21">She said, “Please promise me that, when you rule, you will greatly honor my two sons by having one of them sit at your right side and the other one sit at your left side.”
 
 <ms style="ts"/>
 <verse eid="MAT 20:21"/></para>
   <para style="p"><verse number="22" style="v" sid="MAT 20:22"/>Then Jesus responded by speaking {to her two sons}, “You do not realize what you have actually requested. Are you willing to suffer as I will soon suffer?”
 
 </para>
-  <para style="p">{Her two sons, James and John,} replied, “Yes, we are willing {to suffer}.”
+  <para style="p" vid="MAT 20:22">{Her two sons, James and John,} replied, “Yes, we are willing {to suffer}.”
 
 <verse eid="MAT 20:22"/></para>
   <para style="p"><verse number="23" style="v" sid="MAT 20:23"/>Then Jesus said to them, “You will certainly suffer as I will soon suffer. However, I am not the one who chooses whom to honor by having them sit at my right side and at my left side. Rather, God my Father has already chosen who {will sit in those places}.”
@@ -1811,7 +1810,7 @@
 <verse eid="MAT 20:29"/><verse number="30" style="v" sid="MAT 20:30"/>Now two men who were blind were sitting down next to the path! Someone told them, “Jesus is walking by.”
 
 </para>
-  <para style="p">So, they were shouting, “Our Lord, you who are a descendant of King David, please help us!”
+  <para style="p" vid="MAT 20:30">So, they were shouting, “Our Lord, you who are a descendant of King David, please help us!”
 
 <verse eid="MAT 20:30"/></para>
   <para style="p"><verse number="31" style="v" sid="MAT 20:31"/>Some people from the large group of people scolded them to keep them quiet. However, the men who were blind yelled even louder, “Our Lord, you who are a descendant of King David, please help us!”
@@ -1826,7 +1825,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 20:34"/><verse eid="MAT 20:34"/></para>
+<verse eid="MAT 20:34"/></para>
   <chapter eid="MAT 20"/>
   <chapter number="21" style="c" sid="MAT 21"/>
   <para style="p"><verse number="1" style="v" sid="MAT 21:1"/>After that, Jesus and his apprentices continued to walk toward the city of Jerusalem, and they were getting closer. They were near the Mount of Olives, just outside the village of Bethphage. Then, Jesus told two of his apprentices to go {ahead of them}.
@@ -1838,11 +1837,11 @@
 <verse eid="MAT 21:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="MAT 21:5"/>“Say to the people who live in the city of Jerusalem,
 </para>
-  <para style="q1">‘Your king will soon be with you!
+  <para style="q1" vid="MAT 21:5">‘Your king will soon be with you!
 </para>
-  <para style="q1">He is gentle. He sits on a donkey,
+  <para style="q1" vid="MAT 21:5">He is gentle. He sits on a donkey,
 </para>
-  <para style="q1">on a colt, {which is} a donkey’s offspring.’”
+  <para style="q1" vid="MAT 21:5">on a colt, {which is} a donkey’s offspring.’”
 
 <ms style="ts"/>
 <verse eid="MAT 21:5"/></para>
@@ -1853,11 +1852,11 @@
 <ms style="ts"/>
 <verse eid="MAT 21:8"/><verse number="9" style="v" sid="MAT 21:9"/>Large groups of people walked in front of Jesus and behind him. They were shouting,
 </para>
-  <para style="q1">“Praise this descendant of King David!
+  <para style="q1" vid="MAT 21:9">“Praise this descendant of King David!
 </para>
-  <para style="q1">May God bless him who is here to represent the Lord!
+  <para style="q1" vid="MAT 21:9">May God bless him who is here to represent the Lord!
 </para>
-  <para style="q1">May everything in heaven praise him!”
+  <para style="q1" vid="MAT 21:9">May everything in heaven praise him!”
 
 <verse eid="MAT 21:9"/></para>
   <para style="p"><verse number="10" style="v" sid="MAT 21:10"/>{How people welcomed Jesus} when he went into the city of Jerusalem unsettled many people who lived there. They asked, “Who is this man?”
@@ -1880,11 +1879,11 @@
   <para style="p"><verse number="16" style="v" sid="MAT 21:16"/>They asked him, “Do you realize what those young children are saying {about you}?”
 
 </para>
-  <para style="p">Jesus replied, “Yes, {I realize it}! {What they are doing fits with what} you have read {in the Scriptures}:
+  <para style="p" vid="MAT 21:16">Jesus replied, “Yes, {I realize it}! {What they are doing fits with what} you have read {in the Scriptures}:
 </para>
-  <para style="q1">‘You have appointed young children and little babies
+  <para style="q1" vid="MAT 21:16">‘You have appointed young children and little babies
 </para>
-  <para style="q1">to honor you.’”
+  <para style="q1" vid="MAT 21:16">to honor you.’”
 
 <verse eid="MAT 21:16"/></para>
   <para style="p"><verse number="17" style="v" sid="MAT 21:17"/>Then Jesus {and his apprentices} went away from the ruling priests and the teachers of the Jewish law. They left the city of Jerusalem and stayed overnight in the village of Bethany.
@@ -1913,14 +1912,14 @@
 <verse eid="MAT 21:24"/><verse number="25" style="v" sid="MAT 21:25"/>Who authorized John the Baptizer to baptize people? Did God {authorize him} from heaven, or did people {authorize him}?”
 
 </para>
-  <para style="p">Then the ruling priests and the Jewish leaders told each other, “Suppose that we answer that {God authorized John} from heaven. Then, he will tell us that we should have listened to John.
+  <para style="p" vid="MAT 21:25">Then the ruling priests and the Jewish leaders told each other, “Suppose that we answer that {God authorized John} from heaven. Then, he will tell us that we should have listened to John.
 <verse eid="MAT 21:25"/><verse number="26" style="v" sid="MAT 21:26"/>On the other hand, suppose that we answer that people {authorized John}. Then, since the large group of people believe that John spoke for God, we are afraid of how they would react.”
 
 <verse eid="MAT 21:26"/></para>
   <para style="p"><verse number="27" style="v" sid="MAT 21:27"/>So, they answered Jesus, “We do not know {who authorized John}.”
 
 </para>
-  <para style="p">Jesus responded, “Because you did not answer my question, I will not tell you in what way someone authorized me to do what I have done.
+  <para style="p" vid="MAT 21:27">Jesus responded, “Because you did not answer my question, I will not tell you in what way someone authorized me to do what I have done.
 
 <ms style="ts"/>
 <verse eid="MAT 21:27"/><verse number="28" style="v" sid="MAT 21:28"/>Think about this situation: There was a man with two children. He went to the older one and told him, ‘My child, go {to where my grape vines are} and take care of them today.’
@@ -1932,17 +1931,17 @@
   <para style="p"><verse number="30" style="v" sid="MAT 21:30"/>After {speaking with the older child}, the man went to the younger child and told him to take care of his grape vines.
 
 </para>
-  <para style="p">His child replied, ‘I will {do that}, my father!’ However, he did not take care of the grape vines.
+  <para style="p" vid="MAT 21:30">His child replied, ‘I will {do that}, my father!’ However, he did not take care of the grape vines.
 
 <ms style="ts"/>
 <verse eid="MAT 21:30"/></para>
   <para style="p"><verse number="31" style="v" sid="MAT 21:31"/>Which of these two children did what their father wanted?”
 
 </para>
-  <para style="p">The ruling priests and the Jewish leaders answered, “The older one.”
+  <para style="p" vid="MAT 21:31">The ruling priests and the Jewish leaders answered, “The older one.”
 
 </para>
-  <para style="p">Jesus replied, “Prostitutes and people who collect taxes are participating in God’s kingdom before you are. What I have said is true.
+  <para style="p" vid="MAT 21:31">Jesus replied, “Prostitutes and people who collect taxes are participating in God’s kingdom before you are. What I have said is true.
 <verse eid="MAT 21:31"/><verse number="32" style="v" sid="MAT 21:32"/>{I say that} because, when John the Baptizer was with you, he did what was right. However, you did not trust him. In contrast, prostitutes and people who collect taxes did trust him. When you realized {that even they trusted John}, you did not regret how you were acting and trust him after all.
 
 <ms style="ts"/>
@@ -1970,13 +1969,13 @@
 <verse eid="MAT 21:41"/></para>
   <para style="p"><verse number="42" style="v" sid="MAT 21:42"/>Jesus responded, “{What I have said fits with what} you have read in the Scriptures:
 </para>
-  <para style="q1">‘The people who were constructing a building refused to use a certain stone.
+  <para style="q1" vid="MAT 21:42">‘The people who were constructing a building refused to use a certain stone.
 </para>
-  <para style="q1">However, that stone is now the most important one in the building.
+  <para style="q1" vid="MAT 21:42">However, that stone is now the most important one in the building.
 </para>
-  <para style="q1">The Lord {God} did that,
+  <para style="q1" vid="MAT 21:42">The Lord {God} did that,
 </para>
-  <para style="q1">and we think it is amazing.’
+  <para style="q1" vid="MAT 21:42">and we think it is amazing.’
 
 <ms style="ts"/>
 <verse eid="MAT 21:42"/></para>
@@ -1990,7 +1989,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 21:46"/><verse eid="MAT 21:46"/></para>
+<verse eid="MAT 21:46"/></para>
   <chapter eid="MAT 21"/>
   <chapter number="22" style="c" sid="MAT 22"/>
   <para style="p"><verse number="1" style="v" sid="MAT 22:1"/>Then Jesus used more stories to teach the chief priests and the Jewish leaders. He said,
@@ -2037,7 +2036,7 @@
   <para style="p"><verse number="21" style="v" sid="MAT 22:21"/>They replied, “{It is} Caesar’s {picture and name}.”
 
 </para>
-  <para style="p">Then Jesus said, “In that case, give to the Roman government what belongs to it, and give to God what belongs to him.”
+  <para style="p" vid="MAT 22:21">Then Jesus said, “In that case, give to the Roman government what belongs to it, and give to God what belongs to him.”
 <verse eid="MAT 22:21"/><verse number="22" style="v" sid="MAT 22:22"/>What Jesus said impressed the Pharisees’ apprentices and the people who supported King Herod. They left where he was.
 
 <ms style="ts"/>
@@ -2082,16 +2081,16 @@
 <verse eid="MAT 22:41"/><verse number="42" style="v" sid="MAT 22:42"/>“I want you to answer a question about the Messiah. Who is his ancestor?”
 
 </para>
-  <para style="p">They replied, “His ancestor is King David.”
+  <para style="p" vid="MAT 22:42">They replied, “His ancestor is King David.”
 
 <ms style="ts"/>
 <verse eid="MAT 22:42"/></para>
   <para style="p"><verse number="43" style="v" sid="MAT 22:43"/>Jesus replied, “In that case, why did the Holy Spirit cause King David to write that the Messiah was his Lord? {People do not describe their descendants as their lords. However,} King David wrote
 <verse eid="MAT 22:43"/><verse number="44" style="v" sid="MAT 22:44"/>that the Lord God said to David’s Lord,
 </para>
-  <para style="q1">‘Rule with me
+  <para style="q1" vid="MAT 22:44">‘Rule with me
 </para>
-  <para style="q1">while I defeat all of your enemies!’
+  <para style="q1" vid="MAT 22:44">while I defeat all of your enemies!’
 
 <ms style="ts"/>
 <verse eid="MAT 22:44"/></para>
@@ -2100,7 +2099,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 22:46"/><verse eid="MAT 22:46"/></para>
+<verse eid="MAT 22:46"/></para>
   <chapter eid="MAT 22"/>
   <chapter number="23" style="c" sid="MAT 23"/>
   <para style="p"><verse number="1" style="v" sid="MAT 23:1"/>After that, Jesus said to the large groups of people and to his apprentices,
@@ -2188,7 +2187,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 23:39"/><verse eid="MAT 23:39"/></para>
+<verse eid="MAT 23:39"/></para>
   <chapter eid="MAT 23"/>
   <chapter number="24" style="c" sid="MAT 24"/>
   <para style="p"><verse number="1" style="v" sid="MAT 24:1"/>After that, Jesus left the temple area. As he was walking, his apprentices came to him and pointed out the impressive structures that were in the temple area.
@@ -2291,7 +2290,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 24:51"/><verse eid="MAT 24:51"/></para>
+<verse eid="MAT 24:51"/></para>
   <chapter eid="MAT 24"/>
   <chapter number="25" style="c" sid="MAT 25"/>
   <para style="p"><verse number="1" style="v" sid="MAT 25:1"/>Here is what God’s heavenly kingdom will be like at that time: Ten young women each took an oil lamp and prepared to escort a bridegroom {to his wedding celebration}.
@@ -2401,7 +2400,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 25:46"/><verse eid="MAT 25:46"/></para>
+<verse eid="MAT 25:46"/></para>
   <chapter eid="MAT 25"/>
   <chapter number="26" style="c" sid="MAT 26"/>
   <para style="p"><verse number="1" style="v" sid="MAT 26:1"/>So, Jesus completed saying all those things. Then, he told his apprentices,
@@ -2460,7 +2459,7 @@
   <para style="p"><verse number="25" style="v" sid="MAT 26:25"/>Judas, the one who was going to help {his enemies} arrest him, replied, “Teacher, I will not do that!”
 
 </para>
-  <para style="p">Jesus replied, “Yes you will.”
+  <para style="p" vid="MAT 26:25">Jesus replied, “Yes you will.”
 
 <ms style="ts"/>
 <verse eid="MAT 26:25"/></para>
@@ -2478,12 +2477,12 @@
 <verse eid="MAT 26:30"/></para>
   <para style="p"><verse number="31" style="v" sid="MAT 26:31"/>After that, Jesus told them, “{God had Zechariah} write in the Scriptures,
 </para>
-  <para style="q1">‘I will kill the one who is like a shepherd.
+  <para style="q1" vid="MAT 26:31">‘I will kill the one who is like a shepherd.
 </para>
-  <para style="q1">Then, the people who are like sheep in his flock will flee.’
+  <para style="q1" vid="MAT 26:31">Then, the people who are like sheep in his flock will flee.’
 
 </para>
-  <para style="m">So, tonight all of you will reject me!
+  <para style="m" vid="MAT 26:31">So, tonight all of you will reject me!
 <verse eid="MAT 26:31"/><verse number="32" style="v" sid="MAT 26:32"/>However, once God has made me alive again, I will go ahead of you to the region of Galilee {and meet you there}.”
 
 <ms style="ts"/>
@@ -2531,7 +2530,7 @@
   <para style="p"><verse number="50" style="v" sid="MAT 26:50"/>Jesus told him, “My friend, I know why you are really here.”
 
 </para>
-  <para style="p">After that, the large group of people arrested Jesus.
+  <para style="p" vid="MAT 26:50">After that, the large group of people arrested Jesus.
 
 <ms style="ts"/>
 <verse eid="MAT 26:50"/><verse number="51" style="v" sid="MAT 26:51"/>Then one of the men who were with Jesus pulled his sword {out of its sheath}! He attacked a man who served the ruling priest, but he {only} cut off that man’s ear.
@@ -2569,7 +2568,7 @@
 <verse eid="MAT 26:65"/><verse number="66" style="v" sid="MAT 26:66"/>What should we decide to do?”
 
 </para>
-  <para style="p">The Jewish council replied, “Someone should execute him because of what he has said!”
+  <para style="p" vid="MAT 26:66">The Jewish council replied, “Someone should execute him because of what he has said!”
 
 <ms style="ts"/>
 <verse eid="MAT 26:66"/></para>
@@ -2602,7 +2601,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 26:75"/><verse eid="MAT 26:75"/></para>
+<verse eid="MAT 26:75"/></para>
   <chapter eid="MAT 26"/>
   <chapter number="27" style="c" sid="MAT 27"/>
   <para style="p"><verse number="1" style="v" sid="MAT 27:1"/>When it was morning, all the ruling priests and the Jewish leaders planned how they could have someone execute Jesus.
@@ -2614,7 +2613,7 @@
 <verse eid="MAT 27:3"/><verse number="4" style="v" sid="MAT 27:4"/>He told them, “I have done what is wrong by helping you arrest someone who is not guilty.”
 
 </para>
-  <para style="p">They replied, “We do not care {what you think}! That is your problem.”
+  <para style="p" vid="MAT 27:4">They replied, “We do not care {what you think}! That is your problem.”
 
 <verse eid="MAT 27:4"/></para>
   <para style="p"><verse number="5" style="v" sid="MAT 27:5"/>So Judas took the silver coins {that they had paid him} and threw them into the temple. Then he left {the temple area}. After that, he hanged himself and died.
@@ -2630,7 +2629,7 @@
 <ms style="ts"/>
 <verse eid="MAT 27:8"/><verse number="9" style="v" sid="MAT 27:9"/>At that time, what God said by speaking through the prophet Jeremiah came true:
 </para>
-  <para style="pm">“They took the 30 silver coins, which was what some of the Israelites had decided that he was worth.
+  <para style="pm" vid="MAT 27:9">“They took the 30 silver coins, which was what some of the Israelites had decided that he was worth.
 <verse eid="MAT 27:9"/><verse number="10" style="v" sid="MAT 27:10"/>Then, the Israelites did what the Lord {God} had commanded me {to do}. They used those coins to buy the Potter’s Field.”
 
 <ms style="ts"/>
@@ -2638,7 +2637,7 @@
   <para style="p"><verse number="11" style="v" sid="MAT 27:11"/>As for Jesus, {the Jewish council} had him stand in front of {Pilate,} the {Roman} local ruler. Pilate asked him, “Do you claim to be king over the Jewish people?”
 
 </para>
-  <para style="p">Jesus replied, “What you are calling me is right.”
+  <para style="p" vid="MAT 27:11">Jesus replied, “What you are calling me is right.”
 
 <verse eid="MAT 27:11"/></para>
   <para style="p"><verse number="12" style="v" sid="MAT 27:12"/>Then the ruling priests and the {Jewish} leaders claimed that Jesus had done {many bad things}. However, Jesus did not respond.
@@ -2663,20 +2662,20 @@
 <verse eid="MAT 27:20"/><verse number="21" style="v" sid="MAT 27:21"/>Then the {Roman} local ruler{, Pilate,} told the groups of people {who were there}, “Choose one of these two men, and I will set that man free.”
 
 </para>
-  <para style="p">They replied, “{We want you to set} Barabbas {free}!”
+  <para style="p" vid="MAT 27:21">They replied, “{We want you to set} Barabbas {free}!”
 
 <verse eid="MAT 27:21"/></para>
   <para style="p"><verse number="22" style="v" sid="MAT 27:22"/>Pilate replied, “So what do you want me to do with Jesus, whom people call the Messiah?”
 
 </para>
-  <para style="p">All the people {who were there} replied, “{Have your soldiers} kill him by nailing him to a cross!”
+  <para style="p" vid="MAT 27:22">All the people {who were there} replied, “{Have your soldiers} kill him by nailing him to a cross!”
 
 <ms style="ts"/>
 <verse eid="MAT 27:22"/></para>
   <para style="p"><verse number="23" style="v" sid="MAT 27:23"/>Pilate replied, “But he has not done anything wrong!”
 
 </para>
-  <para style="p">But they shouted even louder, “{Have your soldiers} kill him by nailing him to a cross!”
+  <para style="p" vid="MAT 27:23">But they shouted even louder, “{Have your soldiers} kill him by nailing him to a cross!”
 
 <verse eid="MAT 27:23"/></para>
   <para style="p"><verse number="24" style="v" sid="MAT 27:24"/>Then Pilate realized that he was not accomplishing anything {by asking those questions}. Rather, the group of people {who were there} were starting to riot. So, while they were watching, he washed his hands in water {to indicate that he was not guilty}. He declared, “I am not guilty of killing this man! That is your problem.”
@@ -2773,7 +2772,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 27:66"/><verse eid="MAT 27:66"/></para>
+<verse eid="MAT 27:66"/></para>
   <chapter eid="MAT 27"/>
   <chapter number="28" style="c" sid="MAT 28"/>
   <para style="p"><verse number="1" style="v" sid="MAT 28:1"/>When the Sabbath ended, at dawn on Sunday morning, Mary from the town of Magdala and the other woman whose name was Mary went to observe Jesus’ tomb.

@@ -4,7 +4,7 @@
 "resource_type": "Bible",
 "title": "unfoldingWord Simplified Text",
 "aquifer_name": "unfoldingWord Simplified Text",
-"version": "1.1.0",
+"version": "1.0.2",
 "collection_title": "unfoldingWord Simplified Text",
 "short_name": "UST",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "unfoldingWordSimplified",
-"date_created": "2026-09-28",
+"date_created": "2026-11-18",
 "language": "eng",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-28T15:12:16.637965"
+"dateCreated": "2026-11-18T09:17:02.211361"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "unfoldingWordSimplified": {
-"timestamp": "2026-09-28T15:12:16.637965"
+"timestamp": "2026-11-18T09:17:02.211361"
 }
 }
 },
@@ -87,7 +87,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 656275,
+"size": 656272,
 "scope": {
 "GEN": [
 "Genesis 1:1",
@@ -3704,6 +3704,1289 @@
 "Leviticus 27:32",
 "Leviticus 27:33",
 "Leviticus 27:34"
+]
+}
+},
+"json/04.content.json": {
+"mimeType": "text/json",
+"size": 537226,
+"scope": {
+"NUM": [
+"Numbers 1:1",
+"Numbers 1:2",
+"Numbers 1:3",
+"Numbers 1:4",
+"Numbers 1:5",
+"Numbers 1:6",
+"Numbers 1:7",
+"Numbers 1:8",
+"Numbers 1:9",
+"Numbers 1:10",
+"Numbers 1:11",
+"Numbers 1:12",
+"Numbers 1:13",
+"Numbers 1:14",
+"Numbers 1:15",
+"Numbers 1:16",
+"Numbers 1:17",
+"Numbers 1:18",
+"Numbers 1:19",
+"Numbers 1:20-21",
+"Numbers 1:22-23",
+"Numbers 1:24-25",
+"Numbers 1:26-27",
+"Numbers 1:28-29",
+"Numbers 1:30-31",
+"Numbers 1:32-33",
+"Numbers 1:34-35",
+"Numbers 1:36-37",
+"Numbers 1:38-39",
+"Numbers 1:40-41",
+"Numbers 1:42-43",
+"Numbers 1:44",
+"Numbers 1:45",
+"Numbers 1:46",
+"Numbers 1:47",
+"Numbers 1:48",
+"Numbers 1:49",
+"Numbers 1:50",
+"Numbers 1:51",
+"Numbers 1:52",
+"Numbers 1:53",
+"Numbers 1:54",
+"Numbers 2:1",
+"Numbers 2:2",
+"Numbers 2:3",
+"Numbers 2:4",
+"Numbers 2:5",
+"Numbers 2:6",
+"Numbers 2:7",
+"Numbers 2:8",
+"Numbers 2:9",
+"Numbers 2:10",
+"Numbers 2:11",
+"Numbers 2:12",
+"Numbers 2:13",
+"Numbers 2:14",
+"Numbers 2:15",
+"Numbers 2:16",
+"Numbers 2:17",
+"Numbers 2:18",
+"Numbers 2:19",
+"Numbers 2:20",
+"Numbers 2:21",
+"Numbers 2:22",
+"Numbers 2:23",
+"Numbers 2:24",
+"Numbers 2:25",
+"Numbers 2:26",
+"Numbers 2:27",
+"Numbers 2:28",
+"Numbers 2:29",
+"Numbers 2:30",
+"Numbers 2:31",
+"Numbers 2:32",
+"Numbers 2:33",
+"Numbers 2:34",
+"Numbers 3:1",
+"Numbers 3:2",
+"Numbers 3:3",
+"Numbers 3:4",
+"Numbers 3:5",
+"Numbers 3:6",
+"Numbers 3:7",
+"Numbers 3:8",
+"Numbers 3:9",
+"Numbers 3:10",
+"Numbers 3:11",
+"Numbers 3:12",
+"Numbers 3:13",
+"Numbers 3:14",
+"Numbers 3:15",
+"Numbers 3:16",
+"Numbers 3:17",
+"Numbers 3:18",
+"Numbers 3:19",
+"Numbers 3:20",
+"Numbers 3:21",
+"Numbers 3:22",
+"Numbers 3:23",
+"Numbers 3:24",
+"Numbers 3:25",
+"Numbers 3:26",
+"Numbers 3:27",
+"Numbers 3:28",
+"Numbers 3:29",
+"Numbers 3:30",
+"Numbers 3:31",
+"Numbers 3:32",
+"Numbers 3:33",
+"Numbers 3:34",
+"Numbers 3:35",
+"Numbers 3:36",
+"Numbers 3:37",
+"Numbers 3:38",
+"Numbers 3:39",
+"Numbers 3:40",
+"Numbers 3:41",
+"Numbers 3:42",
+"Numbers 3:43",
+"Numbers 3:44",
+"Numbers 3:45",
+"Numbers 3:46",
+"Numbers 3:47",
+"Numbers 3:48",
+"Numbers 3:49",
+"Numbers 3:50",
+"Numbers 3:51",
+"Numbers 4:1",
+"Numbers 4:2",
+"Numbers 4:3",
+"Numbers 4:4",
+"Numbers 4:5",
+"Numbers 4:6",
+"Numbers 4:7",
+"Numbers 4:8",
+"Numbers 4:9",
+"Numbers 4:10",
+"Numbers 4:11",
+"Numbers 4:12",
+"Numbers 4:13",
+"Numbers 4:14",
+"Numbers 4:15",
+"Numbers 4:16",
+"Numbers 4:17",
+"Numbers 4:18",
+"Numbers 4:19",
+"Numbers 4:20",
+"Numbers 4:21",
+"Numbers 4:22",
+"Numbers 4:23",
+"Numbers 4:24",
+"Numbers 4:25",
+"Numbers 4:26",
+"Numbers 4:27",
+"Numbers 4:28",
+"Numbers 4:29",
+"Numbers 4:30",
+"Numbers 4:31",
+"Numbers 4:32",
+"Numbers 4:33",
+"Numbers 4:34",
+"Numbers 4:35",
+"Numbers 4:36",
+"Numbers 4:37",
+"Numbers 4:38",
+"Numbers 4:39",
+"Numbers 4:40",
+"Numbers 4:41",
+"Numbers 4:42",
+"Numbers 4:43",
+"Numbers 4:44",
+"Numbers 4:45",
+"Numbers 4:46",
+"Numbers 4:47",
+"Numbers 4:48",
+"Numbers 4:49",
+"Numbers 5:1",
+"Numbers 5:2",
+"Numbers 5:3",
+"Numbers 5:4",
+"Numbers 5:5",
+"Numbers 5:6",
+"Numbers 5:7",
+"Numbers 5:8",
+"Numbers 5:9",
+"Numbers 5:10",
+"Numbers 5:11",
+"Numbers 5:12",
+"Numbers 5:13",
+"Numbers 5:14",
+"Numbers 5:15",
+"Numbers 5:16",
+"Numbers 5:17",
+"Numbers 5:18",
+"Numbers 5:19",
+"Numbers 5:20",
+"Numbers 5:21",
+"Numbers 5:22",
+"Numbers 5:23",
+"Numbers 5:24",
+"Numbers 5:25",
+"Numbers 5:26",
+"Numbers 5:27",
+"Numbers 5:28",
+"Numbers 5:29",
+"Numbers 5:30",
+"Numbers 5:31",
+"Numbers 6:1",
+"Numbers 6:2",
+"Numbers 6:3",
+"Numbers 6:4",
+"Numbers 6:5",
+"Numbers 6:6",
+"Numbers 6:7",
+"Numbers 6:8",
+"Numbers 6:9",
+"Numbers 6:10",
+"Numbers 6:11",
+"Numbers 6:12",
+"Numbers 6:13",
+"Numbers 6:14",
+"Numbers 6:15",
+"Numbers 6:16",
+"Numbers 6:17",
+"Numbers 6:18",
+"Numbers 6:19",
+"Numbers 6:20",
+"Numbers 6:21",
+"Numbers 6:22",
+"Numbers 6:23",
+"Numbers 6:24",
+"Numbers 6:25",
+"Numbers 6:26",
+"Numbers 6:27",
+"Numbers 7:1",
+"Numbers 7:2",
+"Numbers 7:3",
+"Numbers 7:4",
+"Numbers 7:5",
+"Numbers 7:6",
+"Numbers 7:7",
+"Numbers 7:8",
+"Numbers 7:9",
+"Numbers 7:10",
+"Numbers 7:11",
+"Numbers 7:12",
+"Numbers 7:13",
+"Numbers 7:14",
+"Numbers 7:15",
+"Numbers 7:16",
+"Numbers 7:17",
+"Numbers 7:18",
+"Numbers 7:19",
+"Numbers 7:20",
+"Numbers 7:21",
+"Numbers 7:22",
+"Numbers 7:23",
+"Numbers 7:24",
+"Numbers 7:25",
+"Numbers 7:26",
+"Numbers 7:27",
+"Numbers 7:28",
+"Numbers 7:29",
+"Numbers 7:30",
+"Numbers 7:31",
+"Numbers 7:32",
+"Numbers 7:33",
+"Numbers 7:34",
+"Numbers 7:35",
+"Numbers 7:36",
+"Numbers 7:37",
+"Numbers 7:38",
+"Numbers 7:39",
+"Numbers 7:40",
+"Numbers 7:41",
+"Numbers 7:42",
+"Numbers 7:43",
+"Numbers 7:44",
+"Numbers 7:45",
+"Numbers 7:46",
+"Numbers 7:47",
+"Numbers 7:48",
+"Numbers 7:49",
+"Numbers 7:50",
+"Numbers 7:51",
+"Numbers 7:52",
+"Numbers 7:53",
+"Numbers 7:54",
+"Numbers 7:55",
+"Numbers 7:56",
+"Numbers 7:57",
+"Numbers 7:58",
+"Numbers 7:59",
+"Numbers 7:60",
+"Numbers 7:61",
+"Numbers 7:62",
+"Numbers 7:63",
+"Numbers 7:64",
+"Numbers 7:65",
+"Numbers 7:66",
+"Numbers 7:67",
+"Numbers 7:68",
+"Numbers 7:69",
+"Numbers 7:70",
+"Numbers 7:71",
+"Numbers 7:72",
+"Numbers 7:73",
+"Numbers 7:74",
+"Numbers 7:75",
+"Numbers 7:76",
+"Numbers 7:77",
+"Numbers 7:78",
+"Numbers 7:79",
+"Numbers 7:80",
+"Numbers 7:81",
+"Numbers 7:82",
+"Numbers 7:83",
+"Numbers 7:84",
+"Numbers 7:85",
+"Numbers 7:86",
+"Numbers 7:87",
+"Numbers 7:88",
+"Numbers 7:89",
+"Numbers 8:1",
+"Numbers 8:2",
+"Numbers 8:3",
+"Numbers 8:4",
+"Numbers 8:5",
+"Numbers 8:6",
+"Numbers 8:7",
+"Numbers 8:8",
+"Numbers 8:9",
+"Numbers 8:10",
+"Numbers 8:11",
+"Numbers 8:12",
+"Numbers 8:13",
+"Numbers 8:14",
+"Numbers 8:15",
+"Numbers 8:16",
+"Numbers 8:17",
+"Numbers 8:18",
+"Numbers 8:19",
+"Numbers 8:20",
+"Numbers 8:21",
+"Numbers 8:22",
+"Numbers 8:23",
+"Numbers 8:24",
+"Numbers 8:25",
+"Numbers 8:26",
+"Numbers 9:1",
+"Numbers 9:2",
+"Numbers 9:3",
+"Numbers 9:4",
+"Numbers 9:5",
+"Numbers 9:6",
+"Numbers 9:7",
+"Numbers 9:8",
+"Numbers 9:9",
+"Numbers 9:10",
+"Numbers 9:11",
+"Numbers 9:12",
+"Numbers 9:13",
+"Numbers 9:14",
+"Numbers 9:15",
+"Numbers 9:16",
+"Numbers 9:17",
+"Numbers 9:18",
+"Numbers 9:19",
+"Numbers 9:20",
+"Numbers 9:21",
+"Numbers 9:22",
+"Numbers 9:23",
+"Numbers 10:1",
+"Numbers 10:2",
+"Numbers 10:3",
+"Numbers 10:4",
+"Numbers 10:5",
+"Numbers 10:6",
+"Numbers 10:7",
+"Numbers 10:8",
+"Numbers 10:9",
+"Numbers 10:10",
+"Numbers 10:11",
+"Numbers 10:12",
+"Numbers 10:13",
+"Numbers 10:14",
+"Numbers 10:15",
+"Numbers 10:16",
+"Numbers 10:17",
+"Numbers 10:18",
+"Numbers 10:19",
+"Numbers 10:20",
+"Numbers 10:21",
+"Numbers 10:22",
+"Numbers 10:23",
+"Numbers 10:24",
+"Numbers 10:25",
+"Numbers 10:26",
+"Numbers 10:27",
+"Numbers 10:28",
+"Numbers 10:29",
+"Numbers 10:30",
+"Numbers 10:31",
+"Numbers 10:32",
+"Numbers 10:33",
+"Numbers 10:34",
+"Numbers 10:35",
+"Numbers 10:36",
+"Numbers 11:1",
+"Numbers 11:2",
+"Numbers 11:3",
+"Numbers 11:4",
+"Numbers 11:5",
+"Numbers 11:6",
+"Numbers 11:7",
+"Numbers 11:8-9",
+"Numbers 11:10",
+"Numbers 11:11",
+"Numbers 11:12",
+"Numbers 11:13",
+"Numbers 11:14",
+"Numbers 11:15",
+"Numbers 11:16",
+"Numbers 11:17",
+"Numbers 11:18",
+"Numbers 11:19",
+"Numbers 11:20",
+"Numbers 11:21",
+"Numbers 11:22",
+"Numbers 11:23",
+"Numbers 11:24",
+"Numbers 11:25",
+"Numbers 11:26",
+"Numbers 11:27",
+"Numbers 11:28",
+"Numbers 11:29",
+"Numbers 11:30",
+"Numbers 11:31",
+"Numbers 11:32",
+"Numbers 11:33",
+"Numbers 11:34",
+"Numbers 11:35",
+"Numbers 12:1",
+"Numbers 12:2",
+"Numbers 12:3",
+"Numbers 12:4",
+"Numbers 12:5",
+"Numbers 12:6",
+"Numbers 12:7",
+"Numbers 12:8",
+"Numbers 12:9",
+"Numbers 12:10",
+"Numbers 12:11",
+"Numbers 12:12",
+"Numbers 12:13",
+"Numbers 12:14",
+"Numbers 12:15",
+"Numbers 12:16",
+"Numbers 13:1",
+"Numbers 13:2",
+"Numbers 13:3",
+"Numbers 13:4",
+"Numbers 13:5",
+"Numbers 13:6",
+"Numbers 13:7",
+"Numbers 13:8",
+"Numbers 13:9",
+"Numbers 13:10",
+"Numbers 13:11",
+"Numbers 13:12",
+"Numbers 13:13",
+"Numbers 13:14",
+"Numbers 13:15",
+"Numbers 13:16",
+"Numbers 13:17",
+"Numbers 13:18",
+"Numbers 13:19",
+"Numbers 13:20",
+"Numbers 13:21",
+"Numbers 13:22",
+"Numbers 13:23",
+"Numbers 13:24",
+"Numbers 13:25",
+"Numbers 13:26",
+"Numbers 13:27",
+"Numbers 13:28",
+"Numbers 13:29",
+"Numbers 13:30",
+"Numbers 13:31",
+"Numbers 13:32",
+"Numbers 13:33",
+"Numbers 14:1",
+"Numbers 14:2",
+"Numbers 14:3",
+"Numbers 14:4",
+"Numbers 14:5",
+"Numbers 14:6",
+"Numbers 14:7",
+"Numbers 14:8",
+"Numbers 14:9",
+"Numbers 14:10",
+"Numbers 14:11",
+"Numbers 14:12",
+"Numbers 14:13",
+"Numbers 14:14",
+"Numbers 14:15",
+"Numbers 14:16",
+"Numbers 14:17",
+"Numbers 14:18",
+"Numbers 14:19",
+"Numbers 14:20",
+"Numbers 14:21",
+"Numbers 14:22",
+"Numbers 14:23",
+"Numbers 14:24",
+"Numbers 14:25",
+"Numbers 14:26",
+"Numbers 14:27",
+"Numbers 14:28",
+"Numbers 14:29",
+"Numbers 14:30",
+"Numbers 14:31",
+"Numbers 14:32",
+"Numbers 14:33",
+"Numbers 14:34",
+"Numbers 14:35",
+"Numbers 14:36",
+"Numbers 14:37",
+"Numbers 14:38",
+"Numbers 14:39",
+"Numbers 14:40",
+"Numbers 14:41",
+"Numbers 14:42",
+"Numbers 14:43",
+"Numbers 14:44",
+"Numbers 14:45",
+"Numbers 15:1",
+"Numbers 15:2",
+"Numbers 15:3",
+"Numbers 15:4",
+"Numbers 15:5",
+"Numbers 15:6",
+"Numbers 15:7",
+"Numbers 15:8",
+"Numbers 15:9",
+"Numbers 15:10",
+"Numbers 15:11",
+"Numbers 15:12",
+"Numbers 15:13",
+"Numbers 15:14",
+"Numbers 15:15",
+"Numbers 15:16",
+"Numbers 15:17",
+"Numbers 15:18",
+"Numbers 15:19",
+"Numbers 15:20",
+"Numbers 15:21",
+"Numbers 15:22",
+"Numbers 15:23",
+"Numbers 15:24",
+"Numbers 15:25",
+"Numbers 15:26",
+"Numbers 15:27",
+"Numbers 15:28",
+"Numbers 15:29",
+"Numbers 15:30",
+"Numbers 15:31",
+"Numbers 15:32",
+"Numbers 15:33",
+"Numbers 15:34",
+"Numbers 15:35",
+"Numbers 15:36",
+"Numbers 15:37",
+"Numbers 15:38",
+"Numbers 15:39",
+"Numbers 15:40",
+"Numbers 15:41",
+"Numbers 16:1",
+"Numbers 16:2",
+"Numbers 16:3",
+"Numbers 16:4",
+"Numbers 16:5",
+"Numbers 16:6",
+"Numbers 16:7",
+"Numbers 16:8",
+"Numbers 16:9",
+"Numbers 16:10",
+"Numbers 16:11",
+"Numbers 16:12",
+"Numbers 16:13",
+"Numbers 16:14",
+"Numbers 16:15",
+"Numbers 16:16",
+"Numbers 16:17",
+"Numbers 16:18",
+"Numbers 16:19",
+"Numbers 16:20",
+"Numbers 16:21",
+"Numbers 16:22",
+"Numbers 16:23",
+"Numbers 16:24",
+"Numbers 16:25",
+"Numbers 16:26",
+"Numbers 16:27",
+"Numbers 16:28",
+"Numbers 16:29",
+"Numbers 16:30",
+"Numbers 16:31",
+"Numbers 16:32",
+"Numbers 16:33",
+"Numbers 16:34",
+"Numbers 16:35",
+"Numbers 16:36",
+"Numbers 16:37",
+"Numbers 16:38",
+"Numbers 16:39",
+"Numbers 16:40",
+"Numbers 16:41",
+"Numbers 16:42",
+"Numbers 16:43",
+"Numbers 16:44",
+"Numbers 16:45",
+"Numbers 16:46",
+"Numbers 16:47",
+"Numbers 16:48",
+"Numbers 16:49",
+"Numbers 16:50",
+"Numbers 17:1",
+"Numbers 17:2",
+"Numbers 17:3",
+"Numbers 17:4",
+"Numbers 17:5",
+"Numbers 17:6",
+"Numbers 17:7",
+"Numbers 17:8",
+"Numbers 17:9",
+"Numbers 17:10",
+"Numbers 17:11",
+"Numbers 17:12",
+"Numbers 17:13",
+"Numbers 18:1",
+"Numbers 18:2",
+"Numbers 18:3",
+"Numbers 18:4",
+"Numbers 18:5",
+"Numbers 18:6",
+"Numbers 18:7",
+"Numbers 18:8",
+"Numbers 18:9",
+"Numbers 18:10",
+"Numbers 18:11",
+"Numbers 18:12",
+"Numbers 18:13",
+"Numbers 18:14",
+"Numbers 18:15",
+"Numbers 18:16",
+"Numbers 18:17",
+"Numbers 18:18",
+"Numbers 18:19",
+"Numbers 18:20",
+"Numbers 18:21",
+"Numbers 18:22",
+"Numbers 18:23",
+"Numbers 18:24",
+"Numbers 18:25",
+"Numbers 18:26",
+"Numbers 18:27",
+"Numbers 18:28",
+"Numbers 18:29",
+"Numbers 18:30",
+"Numbers 18:31",
+"Numbers 18:32",
+"Numbers 19:1",
+"Numbers 19:2",
+"Numbers 19:3",
+"Numbers 19:4",
+"Numbers 19:5",
+"Numbers 19:6",
+"Numbers 19:7",
+"Numbers 19:8",
+"Numbers 19:9",
+"Numbers 19:10",
+"Numbers 19:11",
+"Numbers 19:12",
+"Numbers 19:13",
+"Numbers 19:14",
+"Numbers 19:15",
+"Numbers 19:16",
+"Numbers 19:17",
+"Numbers 19:18",
+"Numbers 19:19",
+"Numbers 19:20",
+"Numbers 19:21",
+"Numbers 19:22",
+"Numbers 20:1",
+"Numbers 20:2",
+"Numbers 20:3",
+"Numbers 20:4",
+"Numbers 20:5",
+"Numbers 20:6",
+"Numbers 20:7",
+"Numbers 20:8",
+"Numbers 20:9",
+"Numbers 20:10",
+"Numbers 20:11",
+"Numbers 20:12",
+"Numbers 20:13",
+"Numbers 20:14",
+"Numbers 20:15",
+"Numbers 20:16",
+"Numbers 20:17",
+"Numbers 20:18",
+"Numbers 20:19",
+"Numbers 20:20",
+"Numbers 20:21",
+"Numbers 20:22",
+"Numbers 20:23",
+"Numbers 20:24",
+"Numbers 20:25",
+"Numbers 20:26",
+"Numbers 20:27",
+"Numbers 20:28",
+"Numbers 20:29",
+"Numbers 21:1",
+"Numbers 21:2",
+"Numbers 21:3",
+"Numbers 21:4",
+"Numbers 21:5",
+"Numbers 21:6",
+"Numbers 21:7",
+"Numbers 21:8",
+"Numbers 21:9",
+"Numbers 21:10",
+"Numbers 21:11",
+"Numbers 21:12",
+"Numbers 21:13",
+"Numbers 21:14",
+"Numbers 21:15",
+"Numbers 21:16",
+"Numbers 21:17",
+"Numbers 21:18",
+"Numbers 21:19",
+"Numbers 21:20",
+"Numbers 21:21",
+"Numbers 21:22",
+"Numbers 21:23",
+"Numbers 21:24",
+"Numbers 21:25",
+"Numbers 21:26",
+"Numbers 21:27",
+"Numbers 21:28",
+"Numbers 21:29",
+"Numbers 21:30",
+"Numbers 21:31",
+"Numbers 21:32",
+"Numbers 21:33",
+"Numbers 21:34",
+"Numbers 21:35",
+"Numbers 22:1",
+"Numbers 22:2",
+"Numbers 22:3",
+"Numbers 22:4",
+"Numbers 22:5",
+"Numbers 22:6",
+"Numbers 22:7",
+"Numbers 22:8",
+"Numbers 22:9",
+"Numbers 22:10",
+"Numbers 22:11",
+"Numbers 22:12",
+"Numbers 22:13",
+"Numbers 22:14",
+"Numbers 22:15",
+"Numbers 22:16",
+"Numbers 22:17",
+"Numbers 22:18",
+"Numbers 22:19",
+"Numbers 22:20",
+"Numbers 22:21",
+"Numbers 22:22",
+"Numbers 22:23",
+"Numbers 22:24",
+"Numbers 22:25",
+"Numbers 22:26",
+"Numbers 22:27",
+"Numbers 22:28",
+"Numbers 22:29",
+"Numbers 22:30",
+"Numbers 22:31",
+"Numbers 22:32",
+"Numbers 22:33",
+"Numbers 22:34",
+"Numbers 22:35",
+"Numbers 22:36",
+"Numbers 22:37",
+"Numbers 22:38",
+"Numbers 22:39",
+"Numbers 22:40",
+"Numbers 22:41",
+"Numbers 23:1",
+"Numbers 23:2",
+"Numbers 23:3",
+"Numbers 23:4",
+"Numbers 23:5",
+"Numbers 23:6",
+"Numbers 23:7",
+"Numbers 23:8",
+"Numbers 23:9",
+"Numbers 23:10",
+"Numbers 23:11",
+"Numbers 23:12",
+"Numbers 23:13",
+"Numbers 23:14",
+"Numbers 23:15",
+"Numbers 23:16",
+"Numbers 23:17",
+"Numbers 23:18",
+"Numbers 23:19",
+"Numbers 23:20",
+"Numbers 23:21",
+"Numbers 23:22",
+"Numbers 23:23",
+"Numbers 23:24",
+"Numbers 23:25",
+"Numbers 23:26",
+"Numbers 23:27",
+"Numbers 23:28",
+"Numbers 23:29",
+"Numbers 23:30",
+"Numbers 24:1",
+"Numbers 24:2",
+"Numbers 24:3",
+"Numbers 24:4",
+"Numbers 24:5",
+"Numbers 24:6",
+"Numbers 24:7",
+"Numbers 24:8",
+"Numbers 24:9",
+"Numbers 24:10",
+"Numbers 24:11",
+"Numbers 24:12",
+"Numbers 24:13",
+"Numbers 24:14",
+"Numbers 24:15",
+"Numbers 24:16",
+"Numbers 24:17",
+"Numbers 24:18",
+"Numbers 24:19",
+"Numbers 24:20",
+"Numbers 24:21",
+"Numbers 24:22",
+"Numbers 24:23",
+"Numbers 24:24",
+"Numbers 24:25",
+"Numbers 25:1",
+"Numbers 25:2",
+"Numbers 25:3",
+"Numbers 25:4",
+"Numbers 25:5",
+"Numbers 25:6",
+"Numbers 25:7",
+"Numbers 25:8",
+"Numbers 25:9",
+"Numbers 25:10",
+"Numbers 25:11",
+"Numbers 25:12",
+"Numbers 25:13",
+"Numbers 25:14",
+"Numbers 25:15",
+"Numbers 25:16",
+"Numbers 25:17",
+"Numbers 25:18",
+"Numbers 26:1",
+"Numbers 26:2",
+"Numbers 26:3",
+"Numbers 26:4",
+"Numbers 26:5",
+"Numbers 26:6",
+"Numbers 26:7",
+"Numbers 26:8",
+"Numbers 26:9",
+"Numbers 26:10",
+"Numbers 26:11",
+"Numbers 26:12",
+"Numbers 26:13",
+"Numbers 26:14",
+"Numbers 26:15",
+"Numbers 26:16",
+"Numbers 26:17",
+"Numbers 26:18",
+"Numbers 26:19",
+"Numbers 26:20",
+"Numbers 26:21",
+"Numbers 26:22",
+"Numbers 26:23",
+"Numbers 26:24",
+"Numbers 26:25",
+"Numbers 26:26",
+"Numbers 26:27",
+"Numbers 26:28",
+"Numbers 26:29",
+"Numbers 26:30",
+"Numbers 26:31",
+"Numbers 26:32",
+"Numbers 26:33",
+"Numbers 26:34",
+"Numbers 26:35",
+"Numbers 26:36",
+"Numbers 26:37",
+"Numbers 26:38",
+"Numbers 26:39",
+"Numbers 26:40",
+"Numbers 26:41",
+"Numbers 26:42",
+"Numbers 26:43",
+"Numbers 26:44",
+"Numbers 26:45",
+"Numbers 26:46",
+"Numbers 26:47",
+"Numbers 26:48",
+"Numbers 26:49",
+"Numbers 26:50",
+"Numbers 26:51",
+"Numbers 26:52",
+"Numbers 26:53",
+"Numbers 26:54",
+"Numbers 26:55",
+"Numbers 26:56",
+"Numbers 26:57",
+"Numbers 26:58",
+"Numbers 26:59",
+"Numbers 26:60",
+"Numbers 26:61",
+"Numbers 26:62",
+"Numbers 26:63",
+"Numbers 26:64",
+"Numbers 26:65",
+"Numbers 27:1",
+"Numbers 27:2",
+"Numbers 27:3",
+"Numbers 27:4",
+"Numbers 27:5",
+"Numbers 27:6",
+"Numbers 27:7",
+"Numbers 27:8",
+"Numbers 27:9",
+"Numbers 27:10",
+"Numbers 27:11",
+"Numbers 27:12",
+"Numbers 27:13",
+"Numbers 27:14",
+"Numbers 27:15",
+"Numbers 27:16",
+"Numbers 27:17",
+"Numbers 27:18",
+"Numbers 27:19",
+"Numbers 27:20",
+"Numbers 27:21",
+"Numbers 27:22",
+"Numbers 27:23",
+"Numbers 28:1",
+"Numbers 28:2",
+"Numbers 28:3",
+"Numbers 28:4",
+"Numbers 28:5",
+"Numbers 28:6",
+"Numbers 28:7",
+"Numbers 28:8",
+"Numbers 28:9",
+"Numbers 28:10",
+"Numbers 28:11",
+"Numbers 28:12",
+"Numbers 28:13",
+"Numbers 28:14",
+"Numbers 28:15",
+"Numbers 28:16",
+"Numbers 28:17",
+"Numbers 28:18",
+"Numbers 28:19",
+"Numbers 28:20",
+"Numbers 28:21",
+"Numbers 28:22",
+"Numbers 28:23",
+"Numbers 28:24",
+"Numbers 28:25",
+"Numbers 28:26",
+"Numbers 28:27",
+"Numbers 28:28",
+"Numbers 28:29",
+"Numbers 28:30",
+"Numbers 28:31",
+"Numbers 29:1",
+"Numbers 29:2",
+"Numbers 29:3",
+"Numbers 29:4",
+"Numbers 29:5",
+"Numbers 29:6",
+"Numbers 29:7",
+"Numbers 29:8",
+"Numbers 29:9",
+"Numbers 29:10",
+"Numbers 29:11",
+"Numbers 29:12",
+"Numbers 29:13",
+"Numbers 29:14",
+"Numbers 29:15",
+"Numbers 29:16",
+"Numbers 29:17",
+"Numbers 29:18",
+"Numbers 29:19",
+"Numbers 29:20",
+"Numbers 29:21",
+"Numbers 29:22",
+"Numbers 29:23",
+"Numbers 29:24",
+"Numbers 29:25",
+"Numbers 29:26",
+"Numbers 29:27",
+"Numbers 29:28",
+"Numbers 29:29",
+"Numbers 29:30",
+"Numbers 29:31",
+"Numbers 29:32",
+"Numbers 29:33",
+"Numbers 29:34",
+"Numbers 29:35",
+"Numbers 29:36",
+"Numbers 29:37",
+"Numbers 29:38",
+"Numbers 29:39",
+"Numbers 29:40",
+"Numbers 30:1",
+"Numbers 30:2",
+"Numbers 30:3",
+"Numbers 30:4",
+"Numbers 30:5",
+"Numbers 30:6",
+"Numbers 30:7",
+"Numbers 30:8",
+"Numbers 30:9",
+"Numbers 30:10",
+"Numbers 30:11",
+"Numbers 30:12",
+"Numbers 30:13",
+"Numbers 30:14",
+"Numbers 30:15",
+"Numbers 30:16",
+"Numbers 31:1",
+"Numbers 31:2",
+"Numbers 31:3",
+"Numbers 31:4",
+"Numbers 31:5",
+"Numbers 31:6",
+"Numbers 31:7",
+"Numbers 31:8",
+"Numbers 31:9",
+"Numbers 31:10",
+"Numbers 31:11",
+"Numbers 31:12",
+"Numbers 31:13",
+"Numbers 31:14",
+"Numbers 31:15",
+"Numbers 31:16",
+"Numbers 31:17",
+"Numbers 31:18",
+"Numbers 31:19",
+"Numbers 31:20",
+"Numbers 31:21",
+"Numbers 31:22",
+"Numbers 31:23",
+"Numbers 31:24",
+"Numbers 31:25",
+"Numbers 31:26",
+"Numbers 31:27",
+"Numbers 31:28",
+"Numbers 31:29",
+"Numbers 31:30",
+"Numbers 31:31",
+"Numbers 31:32",
+"Numbers 31:33",
+"Numbers 31:34",
+"Numbers 31:35",
+"Numbers 31:36",
+"Numbers 31:37",
+"Numbers 31:38",
+"Numbers 31:39",
+"Numbers 31:40",
+"Numbers 31:41",
+"Numbers 31:42",
+"Numbers 31:43",
+"Numbers 31:44",
+"Numbers 31:45",
+"Numbers 31:46",
+"Numbers 31:47",
+"Numbers 31:48",
+"Numbers 31:49",
+"Numbers 31:50",
+"Numbers 31:51",
+"Numbers 31:52",
+"Numbers 31:53",
+"Numbers 31:54",
+"Numbers 32:1",
+"Numbers 32:2",
+"Numbers 32:3",
+"Numbers 32:4",
+"Numbers 32:5",
+"Numbers 32:6",
+"Numbers 32:7",
+"Numbers 32:8",
+"Numbers 32:9",
+"Numbers 32:10",
+"Numbers 32:11",
+"Numbers 32:12",
+"Numbers 32:13",
+"Numbers 32:14",
+"Numbers 32:15",
+"Numbers 32:16",
+"Numbers 32:17",
+"Numbers 32:18",
+"Numbers 32:19",
+"Numbers 32:20",
+"Numbers 32:21",
+"Numbers 32:22",
+"Numbers 32:23",
+"Numbers 32:24",
+"Numbers 32:25",
+"Numbers 32:26",
+"Numbers 32:27",
+"Numbers 32:28",
+"Numbers 32:29",
+"Numbers 32:30",
+"Numbers 32:31",
+"Numbers 32:32",
+"Numbers 32:33",
+"Numbers 32:34",
+"Numbers 32:35",
+"Numbers 32:36",
+"Numbers 32:37",
+"Numbers 32:38",
+"Numbers 32:39",
+"Numbers 32:40",
+"Numbers 32:41",
+"Numbers 32:42",
+"Numbers 33:1",
+"Numbers 33:2",
+"Numbers 33:3",
+"Numbers 33:4",
+"Numbers 33:5",
+"Numbers 33:6",
+"Numbers 33:7",
+"Numbers 33:8",
+"Numbers 33:9",
+"Numbers 33:10",
+"Numbers 33:11",
+"Numbers 33:12",
+"Numbers 33:13",
+"Numbers 33:14",
+"Numbers 33:15",
+"Numbers 33:16",
+"Numbers 33:17",
+"Numbers 33:18",
+"Numbers 33:19",
+"Numbers 33:20",
+"Numbers 33:21",
+"Numbers 33:22",
+"Numbers 33:23",
+"Numbers 33:24",
+"Numbers 33:25",
+"Numbers 33:26",
+"Numbers 33:27",
+"Numbers 33:28",
+"Numbers 33:29",
+"Numbers 33:30",
+"Numbers 33:31",
+"Numbers 33:32",
+"Numbers 33:33",
+"Numbers 33:34",
+"Numbers 33:35",
+"Numbers 33:36",
+"Numbers 33:37",
+"Numbers 33:38",
+"Numbers 33:39",
+"Numbers 33:40",
+"Numbers 33:41",
+"Numbers 33:42",
+"Numbers 33:43",
+"Numbers 33:44",
+"Numbers 33:45",
+"Numbers 33:46",
+"Numbers 33:47",
+"Numbers 33:48",
+"Numbers 33:49",
+"Numbers 33:50",
+"Numbers 33:51",
+"Numbers 33:52",
+"Numbers 33:53",
+"Numbers 33:54",
+"Numbers 33:55",
+"Numbers 33:56",
+"Numbers 34:1",
+"Numbers 34:2",
+"Numbers 34:3",
+"Numbers 34:4",
+"Numbers 34:5",
+"Numbers 34:6",
+"Numbers 34:7",
+"Numbers 34:8",
+"Numbers 34:9",
+"Numbers 34:10",
+"Numbers 34:11",
+"Numbers 34:12",
+"Numbers 34:13",
+"Numbers 34:14",
+"Numbers 34:15",
+"Numbers 34:16",
+"Numbers 34:17",
+"Numbers 34:18",
+"Numbers 34:19",
+"Numbers 34:20",
+"Numbers 34:21",
+"Numbers 34:22",
+"Numbers 34:23",
+"Numbers 34:24",
+"Numbers 34:25",
+"Numbers 34:26",
+"Numbers 34:27",
+"Numbers 34:28",
+"Numbers 34:29",
+"Numbers 35:1",
+"Numbers 35:2",
+"Numbers 35:3",
+"Numbers 35:4",
+"Numbers 35:5",
+"Numbers 35:6",
+"Numbers 35:7",
+"Numbers 35:8",
+"Numbers 35:9",
+"Numbers 35:10",
+"Numbers 35:11",
+"Numbers 35:12",
+"Numbers 35:13",
+"Numbers 35:14",
+"Numbers 35:15",
+"Numbers 35:16",
+"Numbers 35:17",
+"Numbers 35:18",
+"Numbers 35:19",
+"Numbers 35:20",
+"Numbers 35:21",
+"Numbers 35:22",
+"Numbers 35:23",
+"Numbers 35:24",
+"Numbers 35:25",
+"Numbers 35:26",
+"Numbers 35:27",
+"Numbers 35:28",
+"Numbers 35:29",
+"Numbers 35:30",
+"Numbers 35:31",
+"Numbers 35:32",
+"Numbers 35:33",
+"Numbers 35:34",
+"Numbers 36:1",
+"Numbers 36:2",
+"Numbers 36:3",
+"Numbers 36:4",
+"Numbers 36:5",
+"Numbers 36:6",
+"Numbers 36:7",
+"Numbers 36:8",
+"Numbers 36:9",
+"Numbers 36:10",
+"Numbers 36:11",
+"Numbers 36:12",
+"Numbers 36:13"
 ]
 }
 },
@@ -11064,7 +12347,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 960687,
+"size": 960685,
 "scope": {
 "PSA": [
 "Psalms 1:1",
@@ -14513,6 +15796,236 @@
 ]
 }
 },
+"json/21.content.json": {
+"mimeType": "text/json",
+"size": 107446,
+"scope": {
+"ECC": [
+"Ecclesiastes 1:1",
+"Ecclesiastes 1:2",
+"Ecclesiastes 1:3",
+"Ecclesiastes 1:4",
+"Ecclesiastes 1:5",
+"Ecclesiastes 1:6",
+"Ecclesiastes 1:7",
+"Ecclesiastes 1:8",
+"Ecclesiastes 1:9",
+"Ecclesiastes 1:10",
+"Ecclesiastes 1:11",
+"Ecclesiastes 1:12",
+"Ecclesiastes 1:13",
+"Ecclesiastes 1:14",
+"Ecclesiastes 1:15",
+"Ecclesiastes 1:16",
+"Ecclesiastes 1:17",
+"Ecclesiastes 1:18",
+"Ecclesiastes 2:1",
+"Ecclesiastes 2:2",
+"Ecclesiastes 2:3",
+"Ecclesiastes 2:4",
+"Ecclesiastes 2:5",
+"Ecclesiastes 2:6",
+"Ecclesiastes 2:7",
+"Ecclesiastes 2:8",
+"Ecclesiastes 2:9",
+"Ecclesiastes 2:10",
+"Ecclesiastes 2:11",
+"Ecclesiastes 2:12",
+"Ecclesiastes 2:13",
+"Ecclesiastes 2:14",
+"Ecclesiastes 2:15",
+"Ecclesiastes 2:16",
+"Ecclesiastes 2:17",
+"Ecclesiastes 2:18",
+"Ecclesiastes 2:19",
+"Ecclesiastes 2:20",
+"Ecclesiastes 2:21",
+"Ecclesiastes 2:22",
+"Ecclesiastes 2:23",
+"Ecclesiastes 2:24",
+"Ecclesiastes 2:25",
+"Ecclesiastes 2:26",
+"Ecclesiastes 3:1",
+"Ecclesiastes 3:2",
+"Ecclesiastes 3:3",
+"Ecclesiastes 3:4",
+"Ecclesiastes 3:5",
+"Ecclesiastes 3:6",
+"Ecclesiastes 3:7",
+"Ecclesiastes 3:8",
+"Ecclesiastes 3:9",
+"Ecclesiastes 3:10",
+"Ecclesiastes 3:11",
+"Ecclesiastes 3:12",
+"Ecclesiastes 3:13",
+"Ecclesiastes 3:14",
+"Ecclesiastes 3:15",
+"Ecclesiastes 3:16",
+"Ecclesiastes 3:17",
+"Ecclesiastes 3:18",
+"Ecclesiastes 3:19",
+"Ecclesiastes 3:20",
+"Ecclesiastes 3:21",
+"Ecclesiastes 3:22",
+"Ecclesiastes 4:1",
+"Ecclesiastes 4:2",
+"Ecclesiastes 4:3",
+"Ecclesiastes 4:4",
+"Ecclesiastes 4:5",
+"Ecclesiastes 4:6",
+"Ecclesiastes 4:7",
+"Ecclesiastes 4:8",
+"Ecclesiastes 4:9",
+"Ecclesiastes 4:10",
+"Ecclesiastes 4:11",
+"Ecclesiastes 4:12",
+"Ecclesiastes 4:13",
+"Ecclesiastes 4:14",
+"Ecclesiastes 4:15",
+"Ecclesiastes 4:16",
+"Ecclesiastes 5:1",
+"Ecclesiastes 5:2",
+"Ecclesiastes 5:3",
+"Ecclesiastes 5:4",
+"Ecclesiastes 5:5",
+"Ecclesiastes 5:6",
+"Ecclesiastes 5:7",
+"Ecclesiastes 5:8",
+"Ecclesiastes 5:9",
+"Ecclesiastes 5:10",
+"Ecclesiastes 5:11",
+"Ecclesiastes 5:12",
+"Ecclesiastes 5:13",
+"Ecclesiastes 5:14",
+"Ecclesiastes 5:15",
+"Ecclesiastes 5:16",
+"Ecclesiastes 5:17",
+"Ecclesiastes 5:18",
+"Ecclesiastes 5:19",
+"Ecclesiastes 5:20",
+"Ecclesiastes 6:1",
+"Ecclesiastes 6:2",
+"Ecclesiastes 6:3",
+"Ecclesiastes 6:4",
+"Ecclesiastes 6:5",
+"Ecclesiastes 6:6",
+"Ecclesiastes 6:7",
+"Ecclesiastes 6:8",
+"Ecclesiastes 6:9",
+"Ecclesiastes 6:10",
+"Ecclesiastes 6:11",
+"Ecclesiastes 6:12",
+"Ecclesiastes 7:1",
+"Ecclesiastes 7:2",
+"Ecclesiastes 7:3",
+"Ecclesiastes 7:4",
+"Ecclesiastes 7:5",
+"Ecclesiastes 7:6",
+"Ecclesiastes 7:7",
+"Ecclesiastes 7:8",
+"Ecclesiastes 7:9",
+"Ecclesiastes 7:10",
+"Ecclesiastes 7:11",
+"Ecclesiastes 7:12",
+"Ecclesiastes 7:13",
+"Ecclesiastes 7:14",
+"Ecclesiastes 7:15",
+"Ecclesiastes 7:16",
+"Ecclesiastes 7:17",
+"Ecclesiastes 7:18",
+"Ecclesiastes 7:19",
+"Ecclesiastes 7:20",
+"Ecclesiastes 7:21",
+"Ecclesiastes 7:22",
+"Ecclesiastes 7:23",
+"Ecclesiastes 7:24",
+"Ecclesiastes 7:25",
+"Ecclesiastes 7:26",
+"Ecclesiastes 7:27",
+"Ecclesiastes 7:28",
+"Ecclesiastes 7:29",
+"Ecclesiastes 8:1",
+"Ecclesiastes 8:2",
+"Ecclesiastes 8:3",
+"Ecclesiastes 8:4",
+"Ecclesiastes 8:5",
+"Ecclesiastes 8:6",
+"Ecclesiastes 8:7",
+"Ecclesiastes 8:8",
+"Ecclesiastes 8:9",
+"Ecclesiastes 8:10",
+"Ecclesiastes 8:11",
+"Ecclesiastes 8:12",
+"Ecclesiastes 8:13",
+"Ecclesiastes 8:14",
+"Ecclesiastes 8:15",
+"Ecclesiastes 8:16",
+"Ecclesiastes 8:17",
+"Ecclesiastes 9:1",
+"Ecclesiastes 9:2",
+"Ecclesiastes 9:3",
+"Ecclesiastes 9:4",
+"Ecclesiastes 9:5",
+"Ecclesiastes 9:6",
+"Ecclesiastes 9:7",
+"Ecclesiastes 9:8",
+"Ecclesiastes 9:9",
+"Ecclesiastes 9:10",
+"Ecclesiastes 9:11",
+"Ecclesiastes 9:12",
+"Ecclesiastes 9:13",
+"Ecclesiastes 9:14",
+"Ecclesiastes 9:15",
+"Ecclesiastes 9:16",
+"Ecclesiastes 9:17",
+"Ecclesiastes 9:18",
+"Ecclesiastes 10:1",
+"Ecclesiastes 10:2",
+"Ecclesiastes 10:3",
+"Ecclesiastes 10:4",
+"Ecclesiastes 10:5",
+"Ecclesiastes 10:6",
+"Ecclesiastes 10:7",
+"Ecclesiastes 10:8",
+"Ecclesiastes 10:9",
+"Ecclesiastes 10:10",
+"Ecclesiastes 10:11",
+"Ecclesiastes 10:12",
+"Ecclesiastes 10:13",
+"Ecclesiastes 10:14",
+"Ecclesiastes 10:15",
+"Ecclesiastes 10:16",
+"Ecclesiastes 10:17",
+"Ecclesiastes 10:18",
+"Ecclesiastes 10:19",
+"Ecclesiastes 10:20",
+"Ecclesiastes 11:1",
+"Ecclesiastes 11:2",
+"Ecclesiastes 11:3",
+"Ecclesiastes 11:4",
+"Ecclesiastes 11:5",
+"Ecclesiastes 11:6",
+"Ecclesiastes 11:7",
+"Ecclesiastes 11:8",
+"Ecclesiastes 11:9",
+"Ecclesiastes 11:10",
+"Ecclesiastes 12:1",
+"Ecclesiastes 12:2",
+"Ecclesiastes 12:3",
+"Ecclesiastes 12:4",
+"Ecclesiastes 12:5",
+"Ecclesiastes 12:6",
+"Ecclesiastes 12:7",
+"Ecclesiastes 12:8",
+"Ecclesiastes 12:9",
+"Ecclesiastes 12:10",
+"Ecclesiastes 12:11",
+"Ecclesiastes 12:12",
+"Ecclesiastes 12:13",
+"Ecclesiastes 12:14"
+]
+}
+},
 "json/22.content.json": {
 "mimeType": "text/json",
 "size": 50569,
@@ -16028,7 +17541,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 95680,
+"size": 95675,
 "scope": {
 "ZEC": [
 "Zechariah 1:1",
@@ -24447,28 +25960,28 @@
 },
 "usfm/01GENUST.SFM": {
 "mimeType": "text/plain",
-"size": 282128,
+"size": 282122,
 "scope": {
 "GEN": []
 }
 },
 "usx/01GENUST.usx": {
 "mimeType": "application/xml",
-"size": 409991,
+"size": 412806,
 "scope": {
 "GEN": []
 }
 },
 "usfm/02EXOUST.SFM": {
 "mimeType": "text/plain",
-"size": 193315,
+"size": 193282,
 "scope": {
 "EXO": []
 }
 },
 "usx/02EXOUST.usx": {
 "mimeType": "application/xml",
-"size": 289611,
+"size": 289304,
 "scope": {
 "EXO": []
 }
@@ -24482,9 +25995,23 @@
 },
 "usx/03LEVUST.usx": {
 "mimeType": "application/xml",
-"size": 271083,
+"size": 270652,
 "scope": {
 "LEV": []
+}
+},
+"usfm/04NUMUST.SFM": {
+"mimeType": "text/plain",
+"size": 221704,
+"scope": {
+"NUM": []
+}
+},
+"usx/04NUMUST.usx": {
+"mimeType": "application/xml",
+"size": 323794,
+"scope": {
+"NUM": []
 }
 },
 "usfm/05DEUUST.SFM": {
@@ -24496,7 +26023,7 @@
 },
 "usx/05DEUUST.usx": {
 "mimeType": "application/xml",
-"size": 253504,
+"size": 255531,
 "scope": {
 "DEU": []
 }
@@ -24510,7 +26037,7 @@
 },
 "usx/06JOSUST.usx": {
 "mimeType": "application/xml",
-"size": 183432,
+"size": 183017,
 "scope": {
 "JOS": []
 }
@@ -24524,7 +26051,7 @@
 },
 "usx/07JDGUST.usx": {
 "mimeType": "application/xml",
-"size": 192518,
+"size": 193470,
 "scope": {
 "JDG": []
 }
@@ -24538,7 +26065,7 @@
 },
 "usx/08RUTUST.usx": {
 "mimeType": "application/xml",
-"size": 23783,
+"size": 23716,
 "scope": {
 "RUT": []
 }
@@ -24552,7 +26079,7 @@
 },
 "usx/091SAUST.usx": {
 "mimeType": "application/xml",
-"size": 251644,
+"size": 252263,
 "scope": {
 "1SA": []
 }
@@ -24566,7 +26093,7 @@
 },
 "usx/102SAUST.usx": {
 "mimeType": "application/xml",
-"size": 208528,
+"size": 208152,
 "scope": {
 "2SA": []
 }
@@ -24580,7 +26107,7 @@
 },
 "usx/111KIUST.usx": {
 "mimeType": "application/xml",
-"size": 236088,
+"size": 235595,
 "scope": {
 "1KI": []
 }
@@ -24594,35 +26121,35 @@
 },
 "usx/122KIUST.usx": {
 "mimeType": "application/xml",
-"size": 220081,
+"size": 219516,
 "scope": {
 "2KI": []
 }
 },
 "usfm/15EZRUST.SFM": {
 "mimeType": "text/plain",
-"size": 52689,
+"size": 52662,
 "scope": {
 "EZR": []
 }
 },
 "usx/15EZRUST.usx": {
 "mimeType": "application/xml",
-"size": 75833,
+"size": 75603,
 "scope": {
 "EZR": []
 }
 },
 "usfm/16NEHUST.SFM": {
 "mimeType": "text/plain",
-"size": 79306,
+"size": 79303,
 "scope": {
 "NEH": []
 }
 },
 "usx/16NEHUST.usx": {
 "mimeType": "application/xml",
-"size": 112873,
+"size": 113083,
 "scope": {
 "NEH": []
 }
@@ -24636,7 +26163,7 @@
 },
 "usx/17ESTUST.usx": {
 "mimeType": "application/xml",
-"size": 55661,
+"size": 55456,
 "scope": {
 "EST": []
 }
@@ -24650,21 +26177,21 @@
 },
 "usx/18JOBUST.usx": {
 "mimeType": "application/xml",
-"size": 289729,
+"size": 308736,
 "scope": {
 "JOB": []
 }
 },
 "usfm/19PSAUST.SFM": {
 "mimeType": "text/plain",
-"size": 361934,
+"size": 361911,
 "scope": {
 "PSA": []
 }
 },
 "usx/19PSAUST.usx": {
 "mimeType": "application/xml",
-"size": 683308,
+"size": 733470,
 "scope": {
 "PSA": []
 }
@@ -24678,9 +26205,23 @@
 },
 "usx/20PROUST.usx": {
 "mimeType": "application/xml",
-"size": 234734,
+"size": 248309,
 "scope": {
 "PRO": []
+}
+},
+"usfm/21ECCUST.SFM": {
+"mimeType": "text/plain",
+"size": 53514,
+"scope": {
+"ECC": []
+}
+},
+"usx/21ECCUST.usx": {
+"mimeType": "application/xml",
+"size": 84916,
+"scope": {
+"ECC": []
 }
 },
 "usfm/22SNGUST.SFM": {
@@ -24692,77 +26233,77 @@
 },
 "usx/22SNGUST.usx": {
 "mimeType": "application/xml",
-"size": 43737,
+"size": 48336,
 "scope": {
 "SNG": []
 }
 },
 "usfm/25LAMUST.SFM": {
 "mimeType": "text/plain",
-"size": 25793,
+"size": 25729,
 "scope": {
 "LAM": []
 }
 },
 "usx/25LAMUST.usx": {
 "mimeType": "application/xml",
-"size": 50360,
+"size": 56116,
 "scope": {
 "LAM": []
 }
 },
 "usfm/27DANUST.SFM": {
 "mimeType": "text/plain",
-"size": 75753,
+"size": 75752,
 "scope": {
 "DAN": []
 }
 },
 "usx/27DANUST.usx": {
 "mimeType": "application/xml",
-"size": 105071,
+"size": 105437,
 "scope": {
 "DAN": []
 }
 },
 "usfm/28HOSUST.SFM": {
 "mimeType": "text/plain",
-"size": 44347,
+"size": 44343,
 "scope": {
 "HOS": []
 }
 },
 "usx/28HOSUST.usx": {
 "mimeType": "application/xml",
-"size": 74223,
+"size": 80831,
 "scope": {
 "HOS": []
 }
 },
 "usfm/29JOLUST.SFM": {
 "mimeType": "text/plain",
-"size": 15058,
+"size": 15057,
 "scope": {
 "JOL": []
 }
 },
 "usx/29JOLUST.usx": {
 "mimeType": "application/xml",
-"size": 25720,
+"size": 28144,
 "scope": {
 "JOL": []
 }
 },
 "usfm/30AMOUST.SFM": {
 "mimeType": "text/plain",
-"size": 35792,
+"size": 35788,
 "scope": {
 "AMO": []
 }
 },
 "usx/30AMOUST.usx": {
 "mimeType": "application/xml",
-"size": 57090,
+"size": 61636,
 "scope": {
 "AMO": []
 }
@@ -24776,35 +26317,35 @@
 },
 "usx/31OBAUST.usx": {
 "mimeType": "application/xml",
-"size": 8567,
+"size": 9137,
 "scope": {
 "OBA": []
 }
 },
 "usfm/32JONUST.SFM": {
 "mimeType": "text/plain",
-"size": 10774,
+"size": 10765,
 "scope": {
 "JON": []
 }
 },
 "usx/32JONUST.usx": {
 "mimeType": "application/xml",
-"size": 15490,
+"size": 15536,
 "scope": {
 "JON": []
 }
 },
 "usfm/33MICUST.SFM": {
 "mimeType": "text/plain",
-"size": 24935,
+"size": 24926,
 "scope": {
 "MIC": []
 }
 },
 "usx/33MICUST.usx": {
 "mimeType": "application/xml",
-"size": 42005,
+"size": 46212,
 "scope": {
 "MIC": []
 }
@@ -24818,21 +26359,21 @@
 },
 "usx/34NAMUST.usx": {
 "mimeType": "application/xml",
-"size": 17966,
+"size": 19600,
 "scope": {
 "NAM": []
 }
 },
 "usfm/35HABUST.SFM": {
 "mimeType": "text/plain",
-"size": 11192,
+"size": 11187,
 "scope": {
 "HAB": []
 }
 },
 "usx/35HABUST.usx": {
 "mimeType": "application/xml",
-"size": 19786,
+"size": 21692,
 "scope": {
 "HAB": []
 }
@@ -24846,7 +26387,7 @@
 },
 "usx/36ZEPUST.usx": {
 "mimeType": "application/xml",
-"size": 23743,
+"size": 26023,
 "scope": {
 "ZEP": []
 }
@@ -24860,21 +26401,21 @@
 },
 "usx/37HAGUST.usx": {
 "mimeType": "application/xml",
-"size": 12312,
+"size": 12347,
 "scope": {
 "HAG": []
 }
 },
 "usfm/38ZECUST.SFM": {
 "mimeType": "text/plain",
-"size": 43879,
+"size": 43870,
 "scope": {
 "ZEC": []
 }
 },
 "usx/38ZECUST.usx": {
 "mimeType": "application/xml",
-"size": 63488,
+"size": 64336,
 "scope": {
 "ZEC": []
 }
@@ -24888,21 +26429,21 @@
 },
 "usx/39MALUST.usx": {
 "mimeType": "application/xml",
-"size": 17468,
+"size": 17401,
 "scope": {
 "MAL": []
 }
 },
 "usfm/40MATUST.SFM": {
 "mimeType": "text/plain",
-"size": 195388,
+"size": 195385,
 "scope": {
 "MAT": []
 }
 },
 "usx/40MATUST.usx": {
 "mimeType": "application/xml",
-"size": 282274,
+"size": 283136,
 "scope": {
 "MAT": []
 }
@@ -24916,7 +26457,7 @@
 },
 "usx/41MRKUST.usx": {
 "mimeType": "application/xml",
-"size": 176512,
+"size": 176896,
 "scope": {
 "MRK": []
 }
@@ -24930,7 +26471,7 @@
 },
 "usx/42LUKUST.usx": {
 "mimeType": "application/xml",
-"size": 283238,
+"size": 283241,
 "scope": {
 "LUK": []
 }
@@ -24944,7 +26485,7 @@
 },
 "usx/43JHNUST.usx": {
 "mimeType": "application/xml",
-"size": 213405,
+"size": 213174,
 "scope": {
 "JHN": []
 }
@@ -24958,7 +26499,7 @@
 },
 "usx/44ACTUST.usx": {
 "mimeType": "application/xml",
-"size": 287661,
+"size": 287557,
 "scope": {
 "ACT": []
 }
@@ -24972,21 +26513,21 @@
 },
 "usx/45ROMUST.usx": {
 "mimeType": "application/xml",
-"size": 124501,
+"size": 124152,
 "scope": {
 "ROM": []
 }
 },
 "usfm/461COUST.SFM": {
 "mimeType": "text/plain",
-"size": 91712,
+"size": 91709,
 "scope": {
 "1CO": []
 }
 },
 "usx/461COUST.usx": {
 "mimeType": "application/xml",
-"size": 125407,
+"size": 125354,
 "scope": {
 "1CO": []
 }
@@ -25000,7 +26541,7 @@
 },
 "usx/472COUST.usx": {
 "mimeType": "application/xml",
-"size": 73405,
+"size": 73423,
 "scope": {
 "2CO": []
 }
@@ -25014,7 +26555,7 @@
 },
 "usx/48GALUST.usx": {
 "mimeType": "application/xml",
-"size": 46388,
+"size": 46275,
 "scope": {
 "GAL": []
 }
@@ -25028,7 +26569,7 @@
 },
 "usx/49EPHUST.usx": {
 "mimeType": "application/xml",
-"size": 41290,
+"size": 41308,
 "scope": {
 "EPH": []
 }
@@ -25042,7 +26583,7 @@
 },
 "usx/50PHPUST.usx": {
 "mimeType": "application/xml",
-"size": 27815,
+"size": 27850,
 "scope": {
 "PHP": []
 }
@@ -25056,7 +26597,7 @@
 },
 "usx/51COLUST.usx": {
 "mimeType": "application/xml",
-"size": 28343,
+"size": 28276,
 "scope": {
 "COL": []
 }
@@ -25070,7 +26611,7 @@
 },
 "usx/521THUST.usx": {
 "mimeType": "application/xml",
-"size": 24927,
+"size": 24837,
 "scope": {
 "1TH": []
 }
@@ -25084,7 +26625,7 @@
 },
 "usx/532THUST.usx": {
 "mimeType": "application/xml",
-"size": 13946,
+"size": 13928,
 "scope": {
 "2TH": []
 }
@@ -25098,7 +26639,7 @@
 },
 "usx/541TIUST.usx": {
 "mimeType": "application/xml",
-"size": 32404,
+"size": 32410,
 "scope": {
 "1TI": []
 }
@@ -25112,7 +26653,7 @@
 },
 "usx/552TIUST.usx": {
 "mimeType": "application/xml",
-"size": 23825,
+"size": 23877,
 "scope": {
 "2TI": []
 }
@@ -25126,7 +26667,7 @@
 },
 "usx/56TITUST.usx": {
 "mimeType": "application/xml",
-"size": 13854,
+"size": 13810,
 "scope": {
 "TIT": []
 }
@@ -25140,7 +26681,7 @@
 },
 "usx/57PHMUST.usx": {
 "mimeType": "application/xml",
-"size": 6309,
+"size": 6311,
 "scope": {
 "PHM": []
 }
@@ -25154,7 +26695,7 @@
 },
 "usx/58HEBUST.usx": {
 "mimeType": "application/xml",
-"size": 89174,
+"size": 90100,
 "scope": {
 "HEB": []
 }
@@ -25168,7 +26709,7 @@
 },
 "usx/59JASUST.usx": {
 "mimeType": "application/xml",
-"size": 31183,
+"size": 31093,
 "scope": {
 "JAS": []
 }
@@ -25182,7 +26723,7 @@
 },
 "usx/601PEUST.usx": {
 "mimeType": "application/xml",
-"size": 31494,
+"size": 31684,
 "scope": {
 "1PE": []
 }
@@ -25196,7 +26737,7 @@
 },
 "usx/612PEUST.usx": {
 "mimeType": "application/xml",
-"size": 19650,
+"size": 19621,
 "scope": {
 "2PE": []
 }
@@ -25210,7 +26751,7 @@
 },
 "usx/621JNUST.usx": {
 "mimeType": "application/xml",
-"size": 31660,
+"size": 31570,
 "scope": {
 "1JN": []
 }
@@ -25224,7 +26765,7 @@
 },
 "usx/632JNUST.usx": {
 "mimeType": "application/xml",
-"size": 4246,
+"size": 4248,
 "scope": {
 "2JN": []
 }
@@ -25238,7 +26779,7 @@
 },
 "usx/643JNUST.usx": {
 "mimeType": "application/xml",
-"size": 4197,
+"size": 4199,
 "scope": {
 "3JN": []
 }
@@ -25252,7 +26793,7 @@
 },
 "usx/65JUDUST.usx": {
 "mimeType": "application/xml",
-"size": 8304,
+"size": 8306,
 "scope": {
 "JUD": []
 }
@@ -25266,7 +26807,7 @@
 },
 "usx/66REVUST.usx": {
 "mimeType": "application/xml",
-"size": 123349,
+"size": 123464,
 "scope": {
 "REV": []
 }
@@ -25301,7 +26842,7 @@
 },
 "md/19.content.md": {
 "mimeType": "text/markdown",
-"size": 409005,
+"size": 409003,
 "scope": {
 "PSA": []
 }
@@ -25392,7 +26933,7 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 321052,
+"size": 321049,
 "scope": {
 "GEN": []
 }
@@ -25472,6 +27013,13 @@
 "size": 226184,
 "scope": {
 "MAT": []
+}
+},
+"md/21.content.md": {
+"mimeType": "text/markdown",
+"size": 59243,
+"scope": {
+"ECC": []
 }
 },
 "md/61.content.md": {
@@ -25635,6 +27183,13 @@
 "TIT": []
 }
 },
+"md/04.content.md": {
+"mimeType": "text/markdown",
+"size": 258460,
+"scope": {
+"NUM": []
+}
+},
 "md/51.content.md": {
 "mimeType": "text/markdown",
 "size": 24256,
@@ -25658,7 +27213,7 @@
 },
 "md/38.content.md": {
 "mimeType": "text/markdown",
-"size": 49876,
+"size": 49871,
 "scope": {
 "ZEC": []
 }
@@ -25686,7 +27241,7 @@
 },
 "docx/01.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 143379,
+"size": 143377,
 "scope": {
 "GEN": []
 }
@@ -25703,6 +27258,13 @@
 "size": 98192,
 "scope": {
 "LEV": []
+}
+},
+"docx/04.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 105373,
+"scope": {
+"NUM": []
 }
 },
 "docx/05.content.docx": {
@@ -25791,7 +27353,7 @@
 },
 "docx/19.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 170587,
+"size": 170586,
 "scope": {
 "PSA": []
 }
@@ -25801,6 +27363,13 @@
 "size": 87350,
 "scope": {
 "PRO": []
+}
+},
+"docx/21.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 61627,
+"scope": {
+"ECC": []
 }
 },
 "docx/22.content.docx": {
@@ -25896,7 +27465,7 @@
 },
 "docx/38.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57540,
+"size": 57538,
 "scope": {
 "ZEC": []
 }
@@ -26099,7 +27668,7 @@
 },
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1031987,
+"size": 1031984,
 "scope": {
 "GEN": []
 }
@@ -26118,6 +27687,13 @@
 "LEV": []
 }
 },
+"pdf/04.content.pdf": {
+"mimeType": "application/pdf",
+"size": 827392,
+"scope": {
+"NUM": []
+}
+},
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
 "size": 650478,
@@ -26127,7 +27703,7 @@
 },
 "pdf/06.content.pdf": {
 "mimeType": "application/pdf",
-"size": 470024,
+"size": 470013,
 "scope": {
 "JOS": []
 }
@@ -26204,7 +27780,7 @@
 },
 "pdf/19.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1525005,
+"size": 1525009,
 "scope": {
 "PSA": []
 }
@@ -26214,6 +27790,13 @@
 "size": 549662,
 "scope": {
 "PRO": []
+}
+},
+"pdf/21.content.pdf": {
+"mimeType": "application/pdf",
+"size": 187555,
+"scope": {
+"ECC": []
 }
 },
 "pdf/22.content.pdf": {
@@ -26309,7 +27892,7 @@
 },
 "pdf/38.content.pdf": {
 "mimeType": "application/pdf",
-"size": 168957,
+"size": 168956,
 "scope": {
 "ZEC": []
 }
@@ -26509,379 +28092,6 @@
 "scope": {
 "REV": []
 }
-},
-"alignments/json/01.alignment.json": {
-"mimeType": "text/json",
-"size": 4403859,
-"scope": {
-"GEN": []
-}
-},
-"alignments/json/02.alignment.json": {
-"mimeType": "text/json",
-"size": 3552159,
-"scope": {
-"EXO": []
-}
-},
-"alignments/json/03.alignment.json": {
-"mimeType": "text/json",
-"size": 2331332,
-"scope": {
-"LEV": []
-}
-},
-"alignments/json/05.alignment.json": {
-"mimeType": "text/json",
-"size": 1836148,
-"scope": {
-"DEU": []
-}
-},
-"alignments/json/06.alignment.json": {
-"mimeType": "text/json",
-"size": 1914126,
-"scope": {
-"JOS": []
-}
-},
-"alignments/json/07.alignment.json": {
-"mimeType": "text/json",
-"size": 2024953,
-"scope": {
-"JDG": []
-}
-},
-"alignments/json/08.alignment.json": {
-"mimeType": "text/json",
-"size": 283644,
-"scope": {
-"RUT": []
-}
-},
-"alignments/json/09.alignment.json": {
-"mimeType": "text/json",
-"size": 2689555,
-"scope": {
-"1SA": []
-}
-},
-"alignments/json/11.alignment.json": {
-"mimeType": "text/json",
-"size": 2337513,
-"scope": {
-"1KI": []
-}
-},
-"alignments/json/12.alignment.json": {
-"mimeType": "text/json",
-"size": 2415050,
-"scope": {
-"2KI": []
-}
-},
-"alignments/json/15.alignment.json": {
-"mimeType": "text/json",
-"size": 849582,
-"scope": {
-"EZR": []
-}
-},
-"alignments/json/16.alignment.json": {
-"mimeType": "text/json",
-"size": 1250408,
-"scope": {
-"NEH": []
-}
-},
-"alignments/json/17.alignment.json": {
-"mimeType": "text/json",
-"size": 695823,
-"scope": {
-"EST": []
-}
-},
-"alignments/json/18.alignment.json": {
-"mimeType": "text/json",
-"size": 2031082,
-"scope": {
-"JOB": []
-}
-},
-"alignments/json/19.alignment.json": {
-"mimeType": "text/json",
-"size": 4477540,
-"scope": {
-"PSA": []
-}
-},
-"alignments/json/20.alignment.json": {
-"mimeType": "text/json",
-"size": 1597955,
-"scope": {
-"PRO": []
-}
-},
-"alignments/json/22.alignment.json": {
-"mimeType": "text/json",
-"size": 311576,
-"scope": {
-"SNG": []
-}
-},
-"alignments/json/25.alignment.json": {
-"mimeType": "text/json",
-"size": 227195,
-"scope": {
-"LAM": []
-}
-},
-"alignments/json/29.alignment.json": {
-"mimeType": "text/json",
-"size": 228343,
-"scope": {
-"JOL": []
-}
-},
-"alignments/json/31.alignment.json": {
-"mimeType": "text/json",
-"size": 70420,
-"scope": {
-"OBA": []
-}
-},
-"alignments/json/32.alignment.json": {
-"mimeType": "text/json",
-"size": 166558,
-"scope": {
-"JON": []
-}
-},
-"alignments/json/34.alignment.json": {
-"mimeType": "text/json",
-"size": 140046,
-"scope": {
-"NAM": []
-}
-},
-"alignments/json/35.alignment.json": {
-"mimeType": "text/json",
-"size": 145555,
-"scope": {
-"HAB": []
-}
-},
-"alignments/json/36.alignment.json": {
-"mimeType": "text/json",
-"size": 188626,
-"scope": {
-"ZEP": []
-}
-},
-"alignments/json/37.alignment.json": {
-"mimeType": "text/json",
-"size": 145054,
-"scope": {
-"HAG": []
-}
-},
-"alignments/json/39.alignment.json": {
-"mimeType": "text/json",
-"size": 70407,
-"scope": {
-"MAL": []
-}
-},
-"alignments/json/40.alignment.json": {
-"mimeType": "text/json",
-"size": 3032130,
-"scope": {
-"MAT": []
-}
-},
-"alignments/json/41.alignment.json": {
-"mimeType": "text/json",
-"size": 2052933,
-"scope": {
-"MRK": []
-}
-},
-"alignments/json/42.alignment.json": {
-"mimeType": "text/json",
-"size": 3783984,
-"scope": {
-"LUK": []
-}
-},
-"alignments/json/43.alignment.json": {
-"mimeType": "text/json",
-"size": 2898127,
-"scope": {
-"JHN": []
-}
-},
-"alignments/json/44.alignment.json": {
-"mimeType": "text/json",
-"size": 3700862,
-"scope": {
-"ACT": []
-}
-},
-"alignments/json/45.alignment.json": {
-"mimeType": "text/json",
-"size": 1344403,
-"scope": {
-"ROM": []
-}
-},
-"alignments/json/46.alignment.json": {
-"mimeType": "text/json",
-"size": 1348331,
-"scope": {
-"1CO": []
-}
-},
-"alignments/json/47.alignment.json": {
-"mimeType": "text/json",
-"size": 846970,
-"scope": {
-"2CO": []
-}
-},
-"alignments/json/48.alignment.json": {
-"mimeType": "text/json",
-"size": 483498,
-"scope": {
-"GAL": []
-}
-},
-"alignments/json/49.alignment.json": {
-"mimeType": "text/json",
-"size": 475301,
-"scope": {
-"EPH": []
-}
-},
-"alignments/json/50.alignment.json": {
-"mimeType": "text/json",
-"size": 306245,
-"scope": {
-"PHP": []
-}
-},
-"alignments/json/51.alignment.json": {
-"mimeType": "text/json",
-"size": 304069,
-"scope": {
-"COL": []
-}
-},
-"alignments/json/52.alignment.json": {
-"mimeType": "text/json",
-"size": 256853,
-"scope": {
-"1TH": []
-}
-},
-"alignments/json/53.alignment.json": {
-"mimeType": "text/json",
-"size": 158099,
-"scope": {
-"2TH": []
-}
-},
-"alignments/json/54.alignment.json": {
-"mimeType": "text/json",
-"size": 342435,
-"scope": {
-"1TI": []
-}
-},
-"alignments/json/55.alignment.json": {
-"mimeType": "text/json",
-"size": 240331,
-"scope": {
-"2TI": []
-}
-},
-"alignments/json/56.alignment.json": {
-"mimeType": "text/json",
-"size": 152688,
-"scope": {
-"TIT": []
-}
-},
-"alignments/json/57.alignment.json": {
-"mimeType": "text/json",
-"size": 70016,
-"scope": {
-"PHM": []
-}
-},
-"alignments/json/58.alignment.json": {
-"mimeType": "text/json",
-"size": 944964,
-"scope": {
-"HEB": []
-}
-},
-"alignments/json/59.alignment.json": {
-"mimeType": "text/json",
-"size": 356031,
-"scope": {
-"JAS": []
-}
-},
-"alignments/json/60.alignment.json": {
-"mimeType": "text/json",
-"size": 344594,
-"scope": {
-"1PE": []
-}
-},
-"alignments/json/61.alignment.json": {
-"mimeType": "text/json",
-"size": 208074,
-"scope": {
-"2PE": []
-}
-},
-"alignments/json/62.alignment.json": {
-"mimeType": "text/json",
-"size": 408297,
-"scope": {
-"1JN": []
-}
-},
-"alignments/json/64.alignment.json": {
-"mimeType": "text/json",
-"size": 44836,
-"scope": {
-"3JN": []
-}
-},
-"alignments/json/65.alignment.json": {
-"mimeType": "text/json",
-"size": 91835,
-"scope": {
-"JUD": []
-}
-},
-"alignments/json/66.alignment.json": {
-"mimeType": "text/json",
-"size": 1806674,
-"scope": {
-"REV": []
-}
-},
-"alignments/json/63-001.alignment.json": {
-"mimeType": "text/json",
-"size": 58398,
-"scope": {
-"2JN": [
-"1"
-]
-}
 }
 },
 "copyright": {
@@ -26899,18 +28109,5 @@
 ]
 }
 },
-"article_metadata": {},
-"alignment_metadata": {
-"alignment_source": "https://github.com/Clear-Bible/alignments-eng/tree/main/data/alignments/UST",
-"alignment_ot_basis": "WLCM",
-"alignment_nt_basis": "SBLGNT",
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/"
-}
-}
-]
-}
+"article_metadata": {}
 }

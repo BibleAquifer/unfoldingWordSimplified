@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="DAN" style="id">EN_UST en_English_ltr Tue Jun 02 2026 09:01:43 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -64,7 +64,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 1:21"/><verse eid="DAN 1:21"/></para>
+<verse eid="DAN 1:21"/></para>
   <chapter eid="DAN 1"/>
   <chapter number="2" style="c" sid="DAN 2"/>
   <para style="p"><verse number="1" style="v" sid="DAN 2:1"/>One night during the second year of his reign, Nebuchadnezzar had a dream. The dream worried him very much. As a result, he could not get back to sleep.
@@ -114,37 +114,37 @@
 <verse eid="DAN 2:18"/><verse number="19" style="v" sid="DAN 2:19"/>That night God revealed the dream and its meaning to Daniel in a vision. Then Daniel praised God.
 <verse eid="DAN 2:19"/><verse number="20" style="v" sid="DAN 2:20"/>He said,
 </para>
-  <para style="q1">“People should praise God forever!
+  <para style="q1" vid="DAN 2:20">“People should praise God forever!
 </para>
-  <para style="q2">He is the one who is truly wise and powerful.
+  <para style="q2" vid="DAN 2:20">He is the one who is truly wise and powerful.
 
 <ms style="ts"/>
 <verse eid="DAN 2:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="DAN 2:21"/>He controls the different things that happen at various times.
 </para>
-  <para style="q2">He stops some kings from reigning, and he makes other kings start reigning.
+  <para style="q2" vid="DAN 2:21">He stops some kings from reigning, and he makes other kings start reigning.
 </para>
-  <para style="q1">He is the one who enables people to be wise
+  <para style="q1" vid="DAN 2:21">He is the one who enables people to be wise
 </para>
-  <para style="q2">and to understand difficult things.
+  <para style="q2" vid="DAN 2:21">and to understand difficult things.
 <verse eid="DAN 2:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="DAN 2:22"/>He reveals things that are very mysterious.
 </para>
-  <para style="q2">Everything is light where he is,
+  <para style="q2" vid="DAN 2:22">Everything is light where he is,
 </para>
-  <para style="q2">but he also knows what happens where it is dark.
+  <para style="q2" vid="DAN 2:22">but he also knows what happens where it is dark.
 
 <ms style="ts"/>
 <verse eid="DAN 2:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="DAN 2:23"/>You are the God whom my ancestors worshiped.
 </para>
-  <para style="q2">I thank you and praise you
+  <para style="q2" vid="DAN 2:23">I thank you and praise you
 </para>
-  <para style="q2">because you have made me wise and strong.
+  <para style="q2" vid="DAN 2:23">because you have made me wise and strong.
 </para>
-  <para style="q1">You have revealed to us what the king dreamed and what it meant.
+  <para style="q1" vid="DAN 2:23">You have revealed to us what the king dreamed and what it meant.
 </para>
-  <para style="q2">So you have done just what we prayed you would do.”
+  <para style="q2" vid="DAN 2:23">So you have done just what we prayed you would do.”
 
 <ms style="ts"/>
 <verse eid="DAN 2:23"/></para>
@@ -212,7 +212,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 2:49"/><verse eid="DAN 2:49"/></para>
+<verse eid="DAN 2:49"/></para>
   <chapter eid="DAN 2"/>
   <chapter number="3" style="c" sid="DAN 3"/>
   <para style="p"><verse number="1" style="v" sid="DAN 3:1"/>King Nebuchadnezzar ordered his craftsmen to make a giant statue and cover it completely with gold. It was 27 meters high and 2. 7 meters wide. They set it up on the Plain of Dura in the province of Babylon.
@@ -257,8 +257,9 @@
 <ms style="ts"/>
 <verse eid="DAN 3:18"/></para>
   <para style="p"><verse number="19" style="v" sid="DAN 3:19"/>When Nebuchadnezzar heard that, he became extremely angry. He had been regarding Shadrach, Meshach, and Abednego with a generous expression, but now he looked at them with a very hostile expression. He ordered his soldiers to heat the furnace as hot as possible, hotter than it had ever been before.
-<verse eid="DAN 3:19"/><verse number="20" style="v" sid="DAN 3:20"/><ms style="ts"/>
-Then he commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into that extremely hot furnace.
+
+<ms style="ts"/>
+<verse eid="DAN 3:19"/><verse number="20" style="v" sid="DAN 3:20"/>Then he commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into that extremely hot furnace.
 
 <ms style="ts"/>
 <verse eid="DAN 3:20"/><verse number="21" style="v" sid="DAN 3:21"/>So those soldiers tied up the three men and threw them into the furnace. The men were still wearing their robes, tunics, turbans, and other clothes.
@@ -270,7 +271,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
   <para style="p"><verse number="24" style="v" sid="DAN 3:24"/>But then King Nebuchadnezzar saw something that amazed him. He quickly jumped up and asked his advisors, “Did we not tie up three men and throw them into the furnace?”
 
 </para>
-  <para style="p">The advisors replied, “Yes, Your Majesty, we did.”
+  <para style="p" vid="DAN 3:24">The advisors replied, “Yes, Your Majesty, we did.”
 
 <verse eid="DAN 3:24"/></para>
   <para style="p"><verse number="25" style="v" sid="DAN 3:25"/>Nebuchadnezzar responded, “But look! I see four men! They have no ropes around them, and they are walking around in the flames. The fire is not hurting them! And the fourth man looks like a divine being!”
@@ -294,7 +295,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 3:30"/><verse eid="DAN 3:30"/></para>
+<verse eid="DAN 3:30"/></para>
   <chapter eid="DAN 3"/>
   <chapter number="4" style="c" sid="DAN 4"/>
   <para style="p"><verse number="1" style="v" sid="DAN 4:1"/>I, King Nebuchadnezzar, am writing to all of you people who live in my empire. You come from many different nations and groups, and you speak many different languages. I hope that all is well with you.
@@ -302,11 +303,11 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 <verse eid="DAN 4:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="DAN 4:3"/>He performs great miracles;
 </para>
-  <para style="q2">yes, he does very wonderful things.
+  <para style="q2" vid="DAN 4:3">yes, he does very wonderful things.
 </para>
-  <para style="q1">His kingdom will last forever;
+  <para style="q1" vid="DAN 4:3">His kingdom will last forever;
 </para>
-  <para style="q2">indeed, he will rule over every generation of people.
+  <para style="q2" vid="DAN 4:3">indeed, he will rule over every generation of people.
 
 <verse eid="DAN 4:3"/></para>
   <para style="p"><verse number="4" style="v" sid="DAN 4:4"/>I, Nebuchadnezzar, was reigning firmly over my kingdom, and I was living comfortably in my palace.
@@ -369,25 +370,25 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 <ms style="ts"/>
 <verse eid="DAN 4:33"/><verse number="34" style="v" sid="DAN 4:34"/>But at the end of those seven years, I, Nebuchadnezzar, prayed to God, and he gave me a human mind again.
 </para>
-  <para style="q1">Then I worshiped the Supreme God,
+  <para style="q1" vid="DAN 4:34">Then I worshiped the Supreme God,
 </para>
-  <para style="q2">and I praised and honored him, who lives forever.
+  <para style="q2" vid="DAN 4:34">and I praised and honored him, who lives forever.
 </para>
-  <para style="q1">He will rule forever;
+  <para style="q1" vid="DAN 4:34">He will rule forever;
 </para>
-  <para style="q2">indeed, he will be the king of every generation of people.
+  <para style="q2" vid="DAN 4:34">indeed, he will be the king of every generation of people.
 
 <ms style="ts"/>
 <verse eid="DAN 4:34"/></para>
   <para style="q1"><verse number="35" style="v" sid="DAN 4:35"/>Compared with him, all the people in the world are insignificant.
 </para>
-  <para style="q1">He does whatever he wants with the angels in heaven
+  <para style="q1" vid="DAN 4:35">He does whatever he wants with the angels in heaven
 </para>
-  <para style="q2">and with us people who live on the earth.
+  <para style="q2" vid="DAN 4:35">and with us people who live on the earth.
 </para>
-  <para style="q1">No one can stop him from doing what he wants
+  <para style="q1" vid="DAN 4:35">No one can stop him from doing what he wants
 </para>
-  <para style="q2">or tell him, “You may not do that.”
+  <para style="q2" vid="DAN 4:35">or tell him, “You may not do that.”
 
 <verse eid="DAN 4:35"/></para>
   <para style="p"><verse number="36" style="v" sid="DAN 4:36"/>Then I was able to think reasonably again. I became the very powerful ruler of a glorious kingdom once more. My advisors and my nobles treated me respectfully again. Once more I ruled my kingdom firmly, and I became much more powerful than I had been before.
@@ -395,7 +396,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 4:37"/><verse eid="DAN 4:37"/></para>
+<verse eid="DAN 4:37"/></para>
   <chapter eid="DAN 4"/>
   <chapter number="5" style="c" sid="DAN 5"/>
   <para style="p"><verse number="1" style="v" sid="DAN 5:1"/>King Belshazzar {of Babylon} invited a thousand of his officials to a great feast. He drank a lot of wine with them.
@@ -462,7 +463,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
   <para style="p"><verse number="26" style="v" sid="DAN 5:26"/>This is what these words mean.
 
 </para>
-  <para style="p">‘Mene’ means ‘counted.’ This means that God has counted how many days you have been king, and he has decided that there should not be any more.
+  <para style="p" vid="DAN 5:26">‘Mene’ means ‘counted.’ This means that God has counted how many days you have been king, and he has decided that there should not be any more.
 
 <verse eid="DAN 5:26"/></para>
   <para style="p"><verse number="27" style="v" sid="DAN 5:27"/>‘Tekel’ means ‘weighed.’ It is as if God has weighed you on a scale and found that you do not weigh what you should.
@@ -480,7 +481,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 5:31"/><verse eid="DAN 5:31"/></para>
+<verse eid="DAN 5:31"/></para>
   <chapter eid="DAN 5"/>
   <chapter number="6" style="c" sid="DAN 6"/>
   <para style="p"><verse number="1" style="v" sid="DAN 6:1"/>King Darius decided to appoint 120 satraps to govern the different parts of his kingdom.
@@ -550,21 +551,21 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 <ms style="ts"/>
 <verse eid="DAN 6:25"/><verse number="26" style="v" sid="DAN 6:26"/>I am making a decree that throughout my empire, people should show great respect to the God whom Daniel worships.
 </para>
-  <para style="q1">He is the God who is really alive,
+  <para style="q1" vid="DAN 6:26">He is the God who is really alive,
 </para>
-  <para style="q2">and he lives forever.
+  <para style="q2" vid="DAN 6:26">and he lives forever.
 </para>
-  <para style="q1">No one will ever destroy his kingdom;
+  <para style="q1" vid="DAN 6:26">No one will ever destroy his kingdom;
 </para>
-  <para style="q2">he will rule forever.
+  <para style="q2" vid="DAN 6:26">he will rule forever.
 <verse eid="DAN 6:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="DAN 6:27"/>He certainly rescues {people who trust him}.
 </para>
-  <para style="q2">He performs great miracles
+  <para style="q2" vid="DAN 6:27">He performs great miracles
 </para>
-  <para style="q2">in heaven and on earth.
+  <para style="q2" vid="DAN 6:27">in heaven and on earth.
 </para>
-  <para style="q1">He rescued Daniel by keeping the lions from attacking him!”
+  <para style="q1" vid="DAN 6:27">He rescued Daniel by keeping the lions from attacking him!”
 
 <ms style="ts"/>
 <verse eid="DAN 6:27"/></para>
@@ -572,7 +573,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 6:28"/><verse eid="DAN 6:28"/></para>
+<verse eid="DAN 6:28"/></para>
   <chapter eid="DAN 6"/>
   <chapter number="7" style="c" sid="DAN 7"/>
   <para style="p"><verse number="1" style="v" sid="DAN 7:1"/>During the first year that Belshazzar was the king of Babylon, Daniel saw things in a dream one night as he was lying on his bed. The next morning, he wrote down the main points of what he had dreamed.
@@ -603,31 +604,31 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 <verse eid="DAN 7:8"/></para>
   <para style="p"><verse number="9" style="v" sid="DAN 7:9"/>Then, as I watched,
 </para>
-  <para style="q1">some beings brought in some thrones.
+  <para style="q1" vid="DAN 7:9">some beings brought in some thrones.
 </para>
-  <para style="q2">God, who has always existed, sat on one of the thrones.
+  <para style="q2" vid="DAN 7:9">God, who has always existed, sat on one of the thrones.
 </para>
-  <para style="q1">His clothes were as white as snow,
+  <para style="q1" vid="DAN 7:9">His clothes were as white as snow,
 </para>
-  <para style="q2">and his hair was as white as pure wool.
+  <para style="q2" vid="DAN 7:9">and his hair was as white as pure wool.
 </para>
-  <para style="q1">His throne {was like a chariot; it} was blazing with fire,
+  <para style="q1" vid="DAN 7:9">His throne {was like a chariot; it} was blazing with fire,
 </para>
-  <para style="q2">and its wheels were also blazing with fire.
+  <para style="q2" vid="DAN 7:9">and its wheels were also blazing with fire.
 
 <ms style="ts"/>
 <verse eid="DAN 7:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="DAN 7:10"/>A stream of fire
 </para>
-  <para style="q2">was rushing out in front of him.
+  <para style="q2" vid="DAN 7:10">was rushing out in front of him.
 </para>
-  <para style="q1">Many thousands of people were there serving him,
+  <para style="q1" vid="DAN 7:10">Many thousands of people were there serving him,
 </para>
-  <para style="q2">and millions of other people were standing in front of him {ready to serve him}.
+  <para style="q2" vid="DAN 7:10">and millions of other people were standing in front of him {ready to serve him}.
 </para>
-  <para style="q1">Judges began a court session,
+  <para style="q1" vid="DAN 7:10">Judges began a court session,
 </para>
-  <para style="q2">and they opened books {that recorded what people had done}.
+  <para style="q2" vid="DAN 7:10">and they opened books {that recorded what people had done}.
 
 <ms style="ts"/>
 <verse eid="DAN 7:10"/></para>
@@ -677,7 +678,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 7:28"/><verse eid="DAN 7:28"/></para>
+<verse eid="DAN 7:28"/></para>
   <chapter eid="DAN 7"/>
   <chapter number="8" style="c" sid="DAN 8"/>
   <para style="p"><verse number="1" style="v" sid="DAN 8:1"/>During the third year that Belshazzar was the king of Babylon, I, Daniel, had a vision, after the one that I had earlier.
@@ -751,7 +752,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 8:27"/><verse eid="DAN 8:27"/></para>
+<verse eid="DAN 8:27"/></para>
   <chapter eid="DAN 8"/>
   <chapter number="9" style="c" sid="DAN 9"/>
   <para style="p"><verse number="1" style="v" sid="DAN 9:1"/>Darius son of Ahasuerus, who was a Mede, became the next ruler of the Chaldean kingdom.
@@ -814,7 +815,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 9:27"/><verse eid="DAN 9:27"/></para>
+<verse eid="DAN 9:27"/></para>
   <chapter eid="DAN 9"/>
   <chapter number="10" style="c" sid="DAN 10"/>
   <para style="p"><verse number="1" style="v" sid="DAN 10:1"/>During the third year that Cyrus was the king of Persia, God revealed a message to Daniel. (The Babylonians had given him the name Belteshazzar.) The message was about a terrible war that was certainly going to happen. The message came in a vision, and Daniel understood what it meant.
@@ -866,7 +867,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
   <para style="p"><verse number="20-21" style="v" sid="DAN 10:20-21"/>Then he said, “Remember what I told you about why I have come to you. There is a book that reveals God’s truth, and I have come to tell you what it says. After that, I must return to fight against the evil spirit that influences the kingdom of Persia. After I have defeated him, the evil spirit that influences Javan will come. Michael, the angel who protects you Israelite people, is the only one who can help me defeat these spirits.
 
 
-<verse eid="DAN 10:20-21"/><verse eid="DAN 10:20-21"/></para>
+<verse eid="DAN 10:20-21"/></para>
   <chapter eid="DAN 10"/>
   <chapter number="11" style="c" sid="DAN 11"/>
   <para style="p"><verse number="1" style="v" sid="DAN 11:1"/>I myself helped and protected Michael during the first year that Darius the Mede was king.
@@ -976,7 +977,7 @@ Then he commanded some of the strongest soldiers in his army to tie up Shadrach,
 
 <ms style="ts"/>
 
-<verse eid="DAN 11:45"/><verse eid="DAN 11:45"/></para>
+<verse eid="DAN 11:45"/></para>
   <chapter eid="DAN 11"/>
   <chapter number="12" style="c" sid="DAN 12"/>
   <para style="p"><verse number="1" style="v" sid="DAN 12:1"/>When those things happen, the great angel Michael, who protects the Israelites, will help them. The Israelites will have more trouble than they have had since they became a nation until now. But at that time, God will rescue every one of his people whose name he has written in his book.
