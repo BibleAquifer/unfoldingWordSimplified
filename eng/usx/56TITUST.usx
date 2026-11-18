@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="TIT" style="id">EN_UST en_English_ltr Wed Jun 30 2021 14:06:22 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -49,7 +49,7 @@
 
 <ms style="ts"/>
 
-<verse eid="TIT 1:16"/><verse eid="TIT 1:16"/></para>
+<verse eid="TIT 1:16"/></para>
   <chapter eid="TIT 1"/>
   <chapter number="2" style="c" sid="TIT 2"/>
   <para style="p"><verse number="1" style="v" sid="TIT 2:1"/>But as for you, Titus, teach people the things that agree with what you know is true about God.
@@ -83,7 +83,7 @@
 
 <ms style="ts"/>
 
-<verse eid="TIT 2:15"/><verse eid="TIT 2:15"/></para>
+<verse eid="TIT 2:15"/></para>
   <chapter eid="TIT 2"/>
   <chapter number="3" style="c" sid="TIT 3"/>
   <para style="p"><verse number="1" style="v" sid="TIT 3:1"/>Titus, continue to tell our people again that they should obey the people who rule over them. They need to be ready to be helpful whenever they are able.

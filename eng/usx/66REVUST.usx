@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="REV" style="id">EN_UST en_English_ltr Wed Apr 19 2023 13:18:19 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -52,7 +52,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 1:20"/><verse eid="REV 1:20"/></para>
+<verse eid="REV 1:20"/></para>
   <chapter eid="REV 1"/>
   <chapter number="2" style="c" sid="REV 2"/>
   <para style="p"><verse number="1" style="v" sid="REV 2:1"/>Write {this message} to the angel of the group of believers in the city of Ephesus: ‘I am the one who holds the seven stars in his right hand and who walks among the seven golden lamp holders. This is what I say to you:
@@ -111,7 +111,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 2:29"/><verse eid="REV 2:29"/></para>
+<verse eid="REV 2:29"/></para>
   <chapter eid="REV 2"/>
   <chapter number="3" style="c" sid="REV 3"/>
   <para style="p"><verse number="1" style="v" sid="REV 3:1"/>Write {this message} to the angel of the group of believers in the city of Sardis: ‘I am the one who has the seven spirits of God and the seven stars. I have these things to say to you: “I am aware of what you are doing. You have a reputation for being spiritually vigorous. However, you are not really acting out of zeal for me.
@@ -157,7 +157,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 3:22"/><verse eid="REV 3:22"/></para>
+<verse eid="REV 3:22"/></para>
   <chapter eid="REV 3"/>
   <chapter number="4" style="c" sid="REV 4"/>
   <para style="p"><verse number="1" style="v" sid="REV 4:1"/>After these things, I, John, saw something remarkable: a door open in heaven! The one who had spoken to me previously, whose voice had been like a loud trumpet, spoke to me again. He said, “Come up here! I will show you events that must happen later.”
@@ -181,7 +181,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 4:11"/><verse eid="REV 4:11"/></para>
+<verse eid="REV 4:11"/></para>
   <chapter eid="REV 4"/>
   <chapter number="5" style="c" sid="REV 5"/>
   <para style="p"><verse number="1" style="v" sid="REV 5:1"/>Then I saw that the person who was sitting on the throne was holding a scroll in his right hand. He had written words on both sides of the scroll. But he had then sealed the scroll shut with seven pieces of wax{, so no one could read what he had written}.
@@ -214,7 +214,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 5:14"/><verse eid="REV 5:14"/></para>
+<verse eid="REV 5:14"/></para>
   <chapter eid="REV 5"/>
   <chapter number="6" style="c" sid="REV 6"/>
   <para style="p"><verse number="1" style="v" sid="REV 6:1"/>Then I saw the Lamb open the first of the seven pieces of wax that sealed the scroll. When he did, I heard one of the four living beings say as loudly as a clap of thunder, “Come forth!”
@@ -249,7 +249,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 6:17"/><verse eid="REV 6:17"/></para>
+<verse eid="REV 6:17"/></para>
   <chapter eid="REV 6"/>
   <chapter number="7" style="c" sid="REV 7"/>
   <para style="p"><verse number="1" style="v" sid="REV 7:1"/>After these events I saw four angels standing on the earth. One was standing to the north of me, one to the east, one to the south, and one to the west. They were keeping the winds from those directions from blowing on the land or on the sea or against any tree.
@@ -283,7 +283,7 @@
 <verse eid="REV 7:16"/><verse number="17" style="v" sid="REV 7:17"/>This is because the Lamb who is by the throne will care for them just as a shepherd cares for his sheep. The Lamb will enable them to receive everlasting life, as if they were drinking from springs where fresh, pure water flows. God will help them to stop crying and be joyful.”
 
 
-<verse eid="REV 7:17"/><verse eid="REV 7:17"/></para>
+<verse eid="REV 7:17"/></para>
   <chapter eid="REV 7"/>
   <chapter number="8" style="c" sid="REV 8"/>
   <para style="p"><verse number="1" style="v" sid="REV 8:1"/>Then the Lamb opened the seventh piece of wax that sealed the scroll. When he did, there was no sound at all in heaven for a short time.
@@ -314,7 +314,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 8:13"/><verse eid="REV 8:13"/></para>
+<verse eid="REV 8:13"/></para>
   <chapter eid="REV 8"/>
   <chapter number="9" style="c" sid="REV 9"/>
   <para style="p"><verse number="1" style="v" sid="REV 9:1"/>Then the fifth angel blew his trumpet, and I saw a star that had fallen from the sky to the earth. God gave it the key to the deep, dark pit.
@@ -360,7 +360,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 9:21"/><verse eid="REV 9:21"/></para>
+<verse eid="REV 9:21"/></para>
   <chapter eid="REV 9"/>
   <chapter number="10" style="c" sid="REV 10"/>
   <para style="p"><verse number="1" style="v" sid="REV 10:1"/>Then in the vision I saw another mighty angel come down out of heaven. A cloud surrounded him. There was a rainbow over his head. His face shone brightly like the sun. His legs glowed like columns of fire.
@@ -386,7 +386,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 10:11"/><verse eid="REV 10:11"/></para>
+<verse eid="REV 10:11"/></para>
   <chapter eid="REV 10"/>
   <chapter number="11" style="c" sid="REV 11"/>
   <para style="p"><verse number="1" style="v" sid="REV 11:1"/>Then an angel gave me a reed similar to a measuring stick. God said to me, “Go to my temple, measure it and the altar in it, and count the people who are worshiping there.
@@ -424,33 +424,33 @@
 <verse eid="REV 11:15"/><verse number="16" style="v" sid="REV 11:16"/>The 24 elders who sit on thrones around God’s throne bowed down with their faces on the ground and worshiped him.
 <verse eid="REV 11:16"/><verse number="17" style="v" sid="REV 11:17"/>They said:
 </para>
-  <para style="q1">“Lord God, you are the one who rules over everything!
+  <para style="q1" vid="REV 11:17">“Lord God, you are the one who rules over everything!
 </para>
-  <para style="q1">You are the one who exists now!
+  <para style="q1" vid="REV 11:17">You are the one who exists now!
 </para>
-  <para style="q1">You are the one who has always existed!
+  <para style="q1" vid="REV 11:17">You are the one who has always existed!
 </para>
-  <para style="q1">We thank you that you have so powerfully defeated
+  <para style="q1" vid="REV 11:17">We thank you that you have so powerfully defeated
 </para>
-  <para style="q1">everyone who has rebelled against you,
+  <para style="q1" vid="REV 11:17">everyone who has rebelled against you,
 </para>
-  <para style="q1">and you now rule over all the people in the world.
+  <para style="q1" vid="REV 11:17">and you now rule over all the people in the world.
 
 <ms style="ts"/>
 <verse eid="REV 11:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="REV 11:18"/>The unbelieving people of the nations were raging angrily at you.
 </para>
-  <para style="q1">As a result, you have punished them.
+  <para style="q1" vid="REV 11:18">As a result, you have punished them.
 </para>
-  <para style="q1">You have decided that this is the right time for you to judge all those who have died.
+  <para style="q1" vid="REV 11:18">You have decided that this is the right time for you to judge all those who have died.
 </para>
-  <para style="q1">You are rewarding your servants who spoke your message and the people who belong to you,
+  <para style="q1" vid="REV 11:18">You are rewarding your servants who spoke your message and the people who belong to you,
 </para>
-  <para style="q1">You are rewarding all those who honor you,
+  <para style="q1" vid="REV 11:18">You are rewarding all those who honor you,
 </para>
-  <para style="q1">whoever they are.
+  <para style="q1" vid="REV 11:18">whoever they are.
 </para>
-  <para style="q1">You have decided that it is time for you to destroy the people who have been destroying the earth.”
+  <para style="q1" vid="REV 11:18">You have decided that it is time for you to destroy the people who have been destroying the earth.”
 
 <ms style="ts"/>
 <verse eid="REV 11:18"/></para>
@@ -458,7 +458,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 11:19"/><verse eid="REV 11:19"/></para>
+<verse eid="REV 11:19"/></para>
   <chapter eid="REV 11"/>
   <chapter number="12" style="c" sid="REV 12"/>
   <para style="p"><verse number="1" style="v" sid="REV 12:1"/>Then something very significant appeared in the sky. It was a woman who was wearing the sun as her clothing. She was standing on the moon. On her head was a crown that was made of 12 stars.
@@ -481,29 +481,29 @@
 <ms style="ts"/>
 <verse eid="REV 12:9"/><verse number="10" style="v" sid="REV 12:10"/>Then I heard someone in heaven shout loudly,
 </para>
-  <para style="q1">“Now our God has saved his people by his power, and he rules all people!
+  <para style="q1" vid="REV 12:10">“Now our God has saved his people by his power, and he rules all people!
 </para>
-  <para style="q1">Now his Messiah has begun to rule!
+  <para style="q1" vid="REV 12:10">Now his Messiah has begun to rule!
 </para>
-  <para style="q1">This is because God has thrown the accuser of our fellow believers out of heaven.
+  <para style="q1" vid="REV 12:10">This is because God has thrown the accuser of our fellow believers out of heaven.
 </para>
-  <para style="q1">He was continually coming to God and accusing believers of doing wrong things.
+  <para style="q1" vid="REV 12:10">He was continually coming to God and accusing believers of doing wrong things.
 
 <ms style="ts"/>
 <verse eid="REV 12:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="REV 12:11"/>But our fellow believers overcame him. This is because the Lamb shed his blood as a sacrifice for them
 </para>
-  <para style="q1">and because they spoke the truth about him to other people.
+  <para style="q1" vid="REV 12:11">and because they spoke the truth about him to other people.
 </para>
-  <para style="q1">They did not want just to stay alive.
+  <para style="q1" vid="REV 12:11">They did not want just to stay alive.
 </para>
-  <para style="q1">They were willing to die if necessary for speaking the truth about him.
+  <para style="q1" vid="REV 12:11">They were willing to die if necessary for speaking the truth about him.
 <verse eid="REV 12:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="REV 12:12"/>So all of you living in heaven should rejoice!
 </para>
-  <para style="q1">But terrible things will happen to you people who live on the earth and travel on the ocean because the devil is now among you.
+  <para style="q1" vid="REV 12:12">But terrible things will happen to you people who live on the earth and travel on the ocean because the devil is now among you.
 </para>
-  <para style="q1">He is very angry because he knows that he has only a short time before God judges and punishes him.”
+  <para style="q1" vid="REV 12:12">He is very angry because he knows that he has only a short time before God judges and punishes him.”
 
 <ms style="ts"/>
 <verse eid="REV 12:12"/></para>
@@ -518,7 +518,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 12:18"/><verse eid="REV 12:18"/></para>
+<verse eid="REV 12:18"/></para>
   <chapter eid="REV 12"/>
   <chapter number="13" style="c" sid="REV 13"/>
   <para style="p"><verse number="1" style="v" sid="REV 13:1"/>Then I saw a beast come up out of the ocean. It had ten horns and seven heads. On each of its horns there was a royal crown. On each of its heads there was a name that insulted God.
@@ -559,7 +559,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 13:18"/><verse eid="REV 13:18"/></para>
+<verse eid="REV 13:18"/></para>
   <chapter eid="REV 13"/>
   <chapter number="14" style="c" sid="REV 14"/>
   <para style="p"><verse number="1" style="v" sid="REV 14:1"/>But then I saw the Lamb standing on Mount Zion in Jerusalem. With him were 144, 000 people. He had written his name and his Father’s name on their foreheads.
@@ -605,7 +605,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 14:20"/><verse eid="REV 14:20"/></para>
+<verse eid="REV 14:20"/></para>
   <chapter eid="REV 14"/>
   <chapter number="15" style="c" sid="REV 15"/>
   <para style="p"><verse number="1" style="v" sid="REV 15:1"/>Then something else very significant appeared in the sky. I saw seven angels. God had given them the duty to punish rebellious people in seven different ways. This is the last time that God will punish people this way, because through these punishments he will have given people on earth all of the punishment that they deserve.
@@ -617,19 +617,19 @@
 <ms style="ts"/>
 <verse eid="REV 15:2"/><verse number="3" style="v" sid="REV 15:3"/>They were singing a song such as God’s servant Moses sang long ago. It was the same kind of song that the Lamb now sings. They sang,
 </para>
-  <para style="q1">“Lord God, who rules over everything,
+  <para style="q1" vid="REV 15:3">“Lord God, who rules over everything,
 </para>
-  <para style="q1">all that you do is very marvelous!
+  <para style="q1" vid="REV 15:3">all that you do is very marvelous!
 </para>
-  <para style="q1">You always act entirely righteously.
+  <para style="q1" vid="REV 15:3">You always act entirely righteously.
 </para>
-  <para style="q1">You rule as King forever!
+  <para style="q1" vid="REV 15:3">You rule as King forever!
 <verse eid="REV 15:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="REV 15:4"/>O Lord, everyone will fear you and honor you because you alone are holy.
 </para>
-  <para style="q1">Yes, people from every group will come and bow down to you in worship
+  <para style="q1" vid="REV 15:4">Yes, people from every group will come and bow down to you in worship
 </para>
-  <para style="q1">because you have shown that you have judged everyone in the right way.”
+  <para style="q1" vid="REV 15:4">because you have shown that you have judged everyone in the right way.”
 
 <ms style="ts"/>
 <verse eid="REV 15:4"/></para>
@@ -642,7 +642,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 15:8"/><verse eid="REV 15:8"/></para>
+<verse eid="REV 15:8"/></para>
   <chapter eid="REV 15"/>
   <chapter number="16" style="c" sid="REV 16"/>
   <para style="p"><verse number="1" style="v" sid="REV 16:1"/>Next I heard someone in the temple speak in a loud voice to the angels who had the seven bowls. He told them, “Go from here and pour out what you have in your seven bowls onto the earth. This is how God will punish people for their sins.”
@@ -689,7 +689,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 16:21"/><verse eid="REV 16:21"/></para>
+<verse eid="REV 16:21"/></para>
   <chapter eid="REV 16"/>
   <chapter number="17" style="c" sid="REV 17"/>
   <para style="p"><verse number="1" style="v" sid="REV 17:1"/>One of the seven angels who had the bowls came over to me. He said, “Come with me. I want to show you how God will punish the evil prostitute whom you saw sitting near a great river.
@@ -734,7 +734,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 17:18"/><verse eid="REV 17:18"/></para>
+<verse eid="REV 17:18"/></para>
   <chapter eid="REV 17"/>
   <chapter number="18" style="c" sid="REV 18"/>
   <para style="p"><verse number="1" style="v" sid="REV 18:1"/>After this I saw another angel coming down from heaven. God had given great authority to this angel. The angel was shining so brightly that he lit up the earth.
@@ -771,7 +771,7 @@
 <verse eid="REV 18:16"/><verse number="17" style="v" sid="REV 18:17"/>But God has destroyed all these expensive things so quickly!”
 
 </para>
-  <para style="p">Every ship captain, every ship passenger, all sailors, and all others who do work involving the ocean will stand far away from the city.
+  <para style="p" vid="REV 18:17">Every ship captain, every ship passenger, all sailors, and all others who do work involving the ocean will stand far away from the city.
 
 <ms style="ts"/>
 <verse eid="REV 18:17"/><verse number="18" style="v" sid="REV 18:18"/>When they see the smoke of the fire that is burning there, they will shout, “No other city has ever been like that great city!”
@@ -791,55 +791,55 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 18:24"/><verse eid="REV 18:24"/></para>
+<verse eid="REV 18:24"/></para>
   <chapter eid="REV 18"/>
   <chapter number="19" style="c" sid="REV 19"/>
   <para style="p"><verse number="1" style="v" sid="REV 19:1"/>Next I heard what sounded like a huge crowd in heaven. They were shouting,
 </para>
-  <para style="q1">“Hallelujah! God has saved us!
+  <para style="q1" vid="REV 19:1">“Hallelujah! God has saved us!
 </para>
-  <para style="q1">Our God is glorious and mighty!
+  <para style="q1" vid="REV 19:1">Our God is glorious and mighty!
 <verse eid="REV 19:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="REV 19:2"/>Praise him because he judges completely fairly!
 </para>
-  <para style="q1">He has punished the evil city that was like a prostitute, because the people of that city persuaded many other people to act immorally as they did.
+  <para style="q1" vid="REV 19:2">He has punished the evil city that was like a prostitute, because the people of that city persuaded many other people to act immorally as they did.
 </para>
-  <para style="q1">Praise him because he has punished them for murdering his servants!”
+  <para style="q1" vid="REV 19:2">Praise him because he has punished them for murdering his servants!”
 
 <ms style="ts"/>
 <verse eid="REV 19:2"/></para>
   <para style="m"><verse number="3" style="v" sid="REV 19:3"/>The crowd shouted again, saying,
 </para>
-  <para style="q1">“Hallelujah! The smoke of the fire that is burning that city will go up forever!”
+  <para style="q1" vid="REV 19:3">“Hallelujah! The smoke of the fire that is burning that city will go up forever!”
 <verse eid="REV 19:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="REV 19:4"/>Then the 24 elders and the four living creatures prostrated themselves and worshiped God, who sits on the throne. They said:
 </para>
-  <para style="q1">“It is true! Hallelujah!”
+  <para style="q1" vid="REV 19:4">“It is true! Hallelujah!”
 
 <ms style="ts"/>
 <verse eid="REV 19:4"/></para>
   <para style="m"><verse number="5" style="v" sid="REV 19:5"/>Then someone spoke from the throne and said,
 </para>
-  <para style="q1">“All of you who are his servants, praise our God!
+  <para style="q1" vid="REV 19:5">“All of you who are his servants, praise our God!
 </para>
-  <para style="q1">All of you who honor him, praise him, every one of you!”
+  <para style="q1" vid="REV 19:5">All of you who honor him, praise him, every one of you!”
 
 <ms style="ts"/>
 <verse eid="REV 19:5"/></para>
   <para style="m"><verse number="6" style="v" sid="REV 19:6"/>Then I heard something like the noise of a huge crowd of people. They were making a loud sound like the sound of a huge waterfall or loud claps of thunder. They were shouting,
 </para>
-  <para style="q1">“Hallelujah! Our Lord God, who rules over everything, reigns!
+  <para style="q1" vid="REV 19:6">“Hallelujah! Our Lord God, who rules over everything, reigns!
 
 <ms style="ts"/>
 <verse eid="REV 19:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="REV 19:7"/>We should truly celebrate, and we should honor him
 </para>
-  <para style="q1">because now is the time for the Lamb to be united with the woman he is marrying. She has dressed for the wedding.
+  <para style="q1" vid="REV 19:7">because now is the time for the Lamb to be united with the woman he is marrying. She has dressed for the wedding.
 <verse eid="REV 19:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="REV 19:8"/>God has given her clean white clothes to wear. They are fine-linen clothes.”
 
 </para>
-  <para style="p">(That fabric represents the right things that God’s people do.)
+  <para style="p" vid="REV 19:8">(That fabric represents the right things that God’s people do.)
 
 <ms style="ts"/>
 <verse eid="REV 19:8"/></para>
@@ -871,7 +871,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 19:21"/><verse eid="REV 19:21"/></para>
+<verse eid="REV 19:21"/></para>
   <chapter eid="REV 19"/>
   <chapter number="20" style="c" sid="REV 20"/>
   <para style="p"><verse number="1" style="v" sid="REV 20:1"/>Then I saw an angel coming down from heaven. He had the key to the deep, dark pit and he was carrying a large chain in his hand.
@@ -907,7 +907,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 20:15"/><verse eid="REV 20:15"/></para>
+<verse eid="REV 20:15"/></para>
   <chapter eid="REV 20"/>
   <chapter number="21" style="c" sid="REV 21"/>
   <para style="p"><verse number="1" style="v" sid="REV 21:1"/>Then I saw a new heaven and a new earth. The first heaven and the first earth had disappeared, and the oceans no longer existed.
@@ -971,7 +971,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 21:27"/><verse eid="REV 21:27"/></para>
+<verse eid="REV 21:27"/></para>
   <chapter eid="REV 21"/>
   <chapter number="22" style="c" sid="REV 22"/>
   <para style="p"><verse number="1" style="v" sid="REV 22:1"/>Then the angel showed me the river that causes people who drink from it to live forever. The water was sparkling and clear like crystal. The river was flowing out from the thrones where God and the Lamb were sitting.

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="ACT" style="id">EN_UST en_English_ltr Wed Dec 14 2022 13:52:19 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -18,7 +18,7 @@
   <para style="p"><verse number="1" style="v" sid="ACT 1:1"/>Dear Theophilus,
 
 </para>
-  <para style="p">In the first book that I wrote for you, I told about many of Jesus’ actions and teachings.
+  <para style="p" vid="ACT 1:1">In the first book that I wrote for you, I told about many of Jesus’ actions and teachings.
 <verse eid="ACT 1:1"/><verse number="2" style="v" sid="ACT 1:2"/>{I told you about those things} up to the moment when God took Jesus up to heaven. Before Jesus went to heaven, he gave instructions to his chosen Representatives as the Holy Spirit guided him.
 <verse eid="ACT 1:2"/><verse number="3" style="v" sid="ACT 1:3"/>Even though the Romans executed Jesus on a cross, God made him alive again. Jesus then went to his Representatives {and other disciples} and proved to them in many convincing ways that he truly was alive again. He met with them at different times over a period of 40 days. He talked with them about how God would rule the lives of people everywhere.
 
@@ -76,7 +76,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 1:26"/><verse eid="ACT 1:26"/></para>
+<verse eid="ACT 1:26"/></para>
   <chapter eid="ACT 1"/>
   <chapter number="2" style="c" sid="ACT 2"/>
   <para style="p"><verse number="1" style="v" sid="ACT 2:1"/>On the day when the Jews were celebrating the Pentecost festival, the believers were all together in one place {in the city of Jerusalem}.
@@ -130,7 +130,7 @@
   <para style="p"><verse number="25" style="v" sid="ACT 2:25"/>Long ago King David wrote what the Messiah said:
 
 </para>
-  <para style="p">‘I knew that you, Lord God, would always be there to protect me. You are right beside me, so I will not be afraid of those who want to harm me.
+  <para style="p" vid="ACT 2:25">‘I knew that you, Lord God, would always be there to protect me. You are right beside me, so I will not be afraid of those who want to harm me.
 <verse eid="ACT 2:25"/><verse number="26" style="v" sid="ACT 2:26"/>Because of that, I am happy, and I joyfully praise you, O God. And I am completely confident {that you will cause me to become alive again after I die}.
 
 <ms style="ts"/>
@@ -151,7 +151,7 @@
 <ms style="ts"/>
 <verse eid="ACT 2:33"/><verse number="34" style="v" sid="ACT 2:34"/>We know that David was not speaking about himself, because David did not go up into heaven {as Jesus did}. Besides that, David himself said this about the Messiah:
 </para>
-  <para style="q1">‘The Lord God said to my Lord the Messiah, “I will honor you by giving you a position next to me
+  <para style="q1" vid="ACT 2:34">‘The Lord God said to my Lord the Messiah, “I will honor you by giving you a position next to me
 <verse eid="ACT 2:34"/><verse number="35" style="v" sid="ACT 2:35"/>while I completely defeat your enemies.”’”
 
 <verse eid="ACT 2:35"/></para>
@@ -184,7 +184,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 2:47"/><verse eid="ACT 2:47"/></para>
+<verse eid="ACT 2:47"/></para>
   <chapter eid="ACT 2"/>
   <chapter number="3" style="c" sid="ACT 3"/>
   <para style="p"><verse number="1" style="v" sid="ACT 3:1"/>One day Peter and John were going to the temple to pray. It was three o’clock in the afternoon, the time when people prayed there.
@@ -242,7 +242,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 3:26"/><verse eid="ACT 3:26"/></para>
+<verse eid="ACT 3:26"/></para>
   <chapter eid="ACT 3"/>
   <chapter number="4" style="c" sid="ACT 4"/>
   <para style="p"><verse number="1" style="v" sid="ACT 4:1"/>While Peter and John were still speaking to the people, several men walked up and confronted them. They included priests who served in the temple, the officer in charge of the temple guard, and some members of the Sadducee group.
@@ -266,11 +266,11 @@
 <verse eid="ACT 4:10"/></para>
   <para style="p"><verse number="11" style="v" sid="ACT 4:11"/>Jesus the Messiah of Nazareth is the one of whom the Scriptures say,
 </para>
-  <para style="q1">‘The stone that the builders threw away has become the most important stone in the building.’
+  <para style="q1" vid="ACT 4:11">‘The stone that the builders threw away has become the most important stone in the building.’
 
 </para>
   <para style="b"/>
-  <para style="q1">And you are those builders{, because you rejected Jesus}.
+  <para style="q1" vid="ACT 4:11">And you are those builders{, because you rejected Jesus}.
 <verse eid="ACT 4:11"/><verse number="12" style="v" sid="ACT 4:12"/>{So you should no longer reject him, because} only Jesus can save us. For God has given us no other person in the world who can save us {from the guilt of our sins}!”
 
 <ms style="ts"/>
@@ -301,17 +301,17 @@
 <verse eid="ACT 4:23"/><verse number="24" style="v" sid="ACT 4:24"/>When the others who believed in Jesus heard this, they prayed together aloud to God, “O Lord! You made the sky, the earth, the oceans, and everything in them.
 <verse eid="ACT 4:24"/><verse number="25" style="v" sid="ACT 4:25"/>Your Holy Spirit caused our ancestor, King David, who served you, to write these words:
 </para>
-  <para style="q1">‘Why did the people groups of the world become angry
+  <para style="q1" vid="ACT 4:25">‘Why did the people groups of the world become angry
 </para>
-  <para style="q1">and why did they plan uselessly {against God}?
+  <para style="q1" vid="ACT 4:25">and why did they plan uselessly {against God}?
 
 <ms style="ts"/>
 <verse eid="ACT 4:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="ACT 4:26"/>The kings in the world prepared to fight,
 </para>
-  <para style="q1">and the rulers joined with them
+  <para style="q1" vid="ACT 4:26">and the rulers joined with them
 </para>
-  <para style="q1">to oppose the Lord God and the one whom he had chosen to be the Messiah.’
+  <para style="q1" vid="ACT 4:26">to oppose the Lord God and the one whom he had chosen to be the Messiah.’
 
 <ms style="ts"/>
 <verse eid="ACT 4:26"/></para>
@@ -341,7 +341,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 4:37"/><verse eid="ACT 4:37"/></para>
+<verse eid="ACT 4:37"/></para>
   <chapter eid="ACT 4"/>
   <chapter number="5" style="c" sid="ACT 5"/>
   <para style="p"><verse number="1" style="v" sid="ACT 5:1"/>Now there was one of the believers whose name was Ananias. He was married, and his wife’s name was Sapphira. They also sold some land.
@@ -433,7 +433,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 5:42"/><verse eid="ACT 5:42"/></para>
+<verse eid="ACT 5:42"/></para>
   <chapter eid="ACT 5"/>
   <chapter number="6" style="c" sid="ACT 6"/>
   <para style="p"><verse number="1" style="v" sid="ACT 6:1"/>During that time, many more people were becoming believers. The Greek-speaking Jews began to complain about the Aramaic-speaking Jews because the widows among them were not receiving their fair share of food every day.
@@ -474,7 +474,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 6:15"/><verse eid="ACT 6:15"/></para>
+<verse eid="ACT 6:15"/></para>
   <chapter eid="ACT 6"/>
   <chapter number="7" style="c" sid="ACT 7"/>
   <para style="p"><verse number="1" style="v" sid="ACT 7:1"/>Then the high priest asked Stephen, “Are the things that these people are saying about you true?”
@@ -566,7 +566,7 @@
 <verse eid="ACT 7:40"/><verse number="41" style="v" sid="ACT 7:41"/>When the Israelites rejected Moses, they made an image that looked like a calf. Then they offered sacrifices to honor that idol. They sang and danced to worship something that they themselves had made.
 <verse eid="ACT 7:41"/><verse number="42" style="v" sid="ACT 7:42"/>So God stopped correcting them. He left them to worship the stars in the sky. This agrees with what one of the prophets wrote:
 </para>
-  <para style="q1">God said, ‘You Israelite people repeatedly killed animals and offered them to me with grain as sacrifices during those forty years that you were in the wilderness. But you certainly were not truly offering them to me!
+  <para style="q1" vid="ACT 7:42">God said, ‘You Israelite people repeatedly killed animals and offered them to me with grain as sacrifices during those forty years that you were in the wilderness. But you certainly were not truly offering them to me!
 
 <ms style="ts"/>
 <verse eid="ACT 7:42"/></para>
@@ -613,13 +613,13 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 7:60"/><verse eid="ACT 7:60"/></para>
+<verse eid="ACT 7:60"/></para>
   <chapter eid="ACT 7"/>
   <chapter number="8" style="c" sid="ACT 8"/>
   <para style="p"><verse number="1-2" style="v" sid="ACT 8:1-2"/>Then some men who honored God buried Stephen’s body in a tomb, and they mourned loudly for him.
 
 </para>
-  <para style="p">But Saul thought the Sanhedrin had done the right thing by stoning Stephen. On that same day, people {Saul was leading} started severely persecuting the believers who were living in Jerusalem. So most of the believers fled to other places throughout the provinces of Judea and Samaria. But the apostles remained in Jerusalem.
+  <para style="p" vid="ACT 8:1-2">But Saul thought the Sanhedrin had done the right thing by stoning Stephen. On that same day, people {Saul was leading} started severely persecuting the believers who were living in Jerusalem. So most of the believers fled to other places throughout the provinces of Judea and Samaria. But the apostles remained in Jerusalem.
 <verse eid="ACT 8:1-2"/><verse number="3" style="v" sid="ACT 8:3"/>Saul began trying to destroy the group of believers. He entered their houses one by one. He dragged away men and women {who believed in Jesus}, and he put them in prison.
 
 <ms style="ts"/>
@@ -703,7 +703,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 8:40"/><verse eid="ACT 8:40"/></para>
+<verse eid="ACT 8:40"/></para>
   <chapter eid="ACT 8"/>
   <chapter number="9" style="c" sid="ACT 9"/>
   <para style="p"><verse number="1" style="v" sid="ACT 9:1"/>Meanwhile, Saul continued angrily threatening to kill those who believed in the Lord Jesus. He went to the high priest in Jerusalem
@@ -794,7 +794,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 9:43"/><verse eid="ACT 9:43"/></para>
+<verse eid="ACT 9:43"/></para>
   <chapter eid="ACT 9"/>
   <chapter number="10" style="c" sid="ACT 10"/>
   <para style="p"><verse number="1" style="v" sid="ACT 10:1"/>There was a man whose name was Cornelius who lived in the city of Caesarea. He was an officer who commanded 100 men in a large group of Roman soldiers from Italy.
@@ -839,7 +839,7 @@
 <verse eid="ACT 10:22"/><verse number="23" style="v" sid="ACT 10:23"/>So Peter invited them into the house and told them that they should stay there that night.
 
 </para>
-  <para style="p">The next day Peter got ready and went with the men. Several of the believers from Joppa also went with him.
+  <para style="p" vid="ACT 10:23">The next day Peter got ready and went with the men. Several of the believers from Joppa also went with him.
 
 <ms style="ts"/>
 <verse eid="ACT 10:23"/><verse number="24" style="v" sid="ACT 10:24"/>The day after that, they arrived in the city of Caesarea. Cornelius was waiting for them. He had also invited his relatives and close friends to come, so they were there in his house too.
@@ -893,7 +893,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 10:48"/><verse eid="ACT 10:48"/></para>
+<verse eid="ACT 10:48"/></para>
   <chapter eid="ACT 10"/>
   <chapter number="11" style="c" sid="ACT 11"/>
   <para style="p"><verse number="1" style="v" sid="ACT 11:1"/>The apostles and other believers who lived in various towns in the province of Judea heard that some non-Jewish people had also believed the message of God about Jesus.
@@ -957,7 +957,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 11:30"/><verse eid="ACT 11:30"/></para>
+<verse eid="ACT 11:30"/></para>
   <chapter eid="ACT 11"/>
   <chapter number="12" style="c" sid="ACT 12"/>
   <para style="p"><verse number="1" style="v" sid="ACT 12:1"/>About this same time, King Herod Agrippa sent soldiers to arrest some of the leaders of the group of believers in Jerusalem. The soldiers put them in prison. The king did that because he wanted to hurt the believers and their community.
@@ -1018,7 +1018,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 12:25"/><verse eid="ACT 12:25"/></para>
+<verse eid="ACT 12:25"/></para>
   <chapter eid="ACT 12"/>
   <chapter number="13" style="c" sid="ACT 13"/>
   <para style="p"><verse number="1" style="v" sid="ACT 13:1"/>At that time in the group of believers in the city of Antioch there were prophets and teachers. They were: Barnabas; Simeon, whose other name was Niger; Lucius, who was from the city of Cyrene; Manaen, who had grown up with Herod Antipas when he was the ruler of Galilee; and Saul.
@@ -1062,7 +1062,7 @@
 
 <ms style="ts"/>
 </para>
-  <para style="p">“After that, God chose people to serve as judges and as leaders to rule the Israelite people. The prophet Samuel was the last of these judges to rule them.
+  <para style="p" vid="ACT 13:20">“After that, God chose people to serve as judges and as leaders to rule the Israelite people. The prophet Samuel was the last of these judges to rule them.
 <verse eid="ACT 13:20"/><verse number="21" style="v" sid="ACT 13:21"/>Then, while Samuel was still their leader, the people demanded that he choose a king to rule them. So God chose Saul, the son of Kish from the tribe of Benjamin, to be their king. He ruled them for 40 years.
 <verse eid="ACT 13:21"/><verse number="22" style="v" sid="ACT 13:22"/>After God had rejected Saul from being king, he chose David to be their king. God said about him, ‘I have seen that David, son of Jesse, is exactly the kind of man who desires what I desire. He will do everything that I want him to do.’”
 
@@ -1090,19 +1090,19 @@
   <para style="p"><verse number="32" style="v" sid="ACT 13:32"/>“Right now we are proclaiming this good news to you. God made a promise to our Jewish ancestors.
 <verse eid="ACT 13:32"/><verse number="33" style="v" sid="ACT 13:33"/>God has kept that promise for us who are their descendants, and also for you who are not Jews, by making Jesus alive again. It is just like what David wrote in the second Psalm{, when God was speaking about sending his Son}:
 </para>
-  <para style="q1">‘You are my Son;
+  <para style="q1" vid="ACT 13:33">‘You are my Son;
 </para>
-  <para style="q1">today I have become your Father.’
+  <para style="q1" vid="ACT 13:33">today I have become your Father.’
 
 <verse eid="ACT 13:33"/></para>
   <para style="p"><verse number="34" style="v" sid="ACT 13:34"/>God has made the Messiah alive after he was dead, and God will never let him die again. God promised that to the Messiah when he said in the Scriptures,
 </para>
-  <para style="q1">‘I will certainly help you, as I promised David that I would do.’
+  <para style="q1" vid="ACT 13:34">‘I will certainly help you, as I promised David that I would do.’
 
 <ms style="ts"/>
 <verse eid="ACT 13:34"/><verse number="35" style="v" sid="ACT 13:35"/>That is why, in another psalm, David also says:
 </para>
-  <para style="q1">‘You, God, will not allow the body of your Messiah to decay.’
+  <para style="q1" vid="ACT 13:35">‘You, God, will not allow the body of your Messiah to decay.’
 <verse eid="ACT 13:35"/><verse number="36" style="v" sid="ACT 13:36"/>While David was living, he did what God wanted him to do. Then when he died his body was buried where his ancestors’ bodies had been buried. Then David’s body decayed. {So he could not have been speaking about himself in this psalm.}
 <verse eid="ACT 13:36"/><verse number="37" style="v" sid="ACT 13:37"/>But God made Jesus alive again after he died, and his body did not decay.”
 
@@ -1115,7 +1115,7 @@
 <verse eid="ACT 13:39"/><verse number="40" style="v" sid="ACT 13:40"/>So then be careful that God does not judge you, as the prophets said that God would do!
 <verse eid="ACT 13:40"/><verse number="41" style="v" sid="ACT 13:41"/>{God said through the prophet Habakkuk,}
 </para>
-  <para style="q1">‘You who ridicule me, observe carefully what I am doing. You will certainly be amazed. Then you will die. You will be amazed because I plan to do something {terrible} while you are living. You would not believe that I would do that even if someone told you!’”
+  <para style="q1" vid="ACT 13:41">‘You who ridicule me, observe carefully what I am doing. You will certainly be amazed. Then you will die. You will be amazed because I plan to do something {terrible} while you are living. You would not believe that I would do that even if someone told you!’”
 
 <ms style="ts"/>
 <verse eid="ACT 13:41"/></para>
@@ -1144,7 +1144,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 13:52"/><verse eid="ACT 13:52"/></para>
+<verse eid="ACT 13:52"/></para>
   <chapter eid="ACT 13"/>
   <chapter number="14" style="c" sid="ACT 14"/>
   <para style="p"><verse number="1" style="v" sid="ACT 14:1"/>At Iconium, Paul and Barnabas went as usual into the Jewish meeting place. There they spoke very powerfully about the Lord Jesus. As a result, very many Jews and non-Jews believed in Jesus.
@@ -1189,7 +1189,7 @@
 
 <ms style="ts"/>
 </para>
-  <para style="p">The next day, Paul and Barnabas left the city of Lystra and traveled to the city of Derbe.
+  <para style="p" vid="ACT 14:20">The next day, Paul and Barnabas left the city of Lystra and traveled to the city of Derbe.
 <verse eid="ACT 14:20"/><verse number="21" style="v" sid="ACT 14:21"/>In the city of Derbe they spent several days telling the people about Jesus. Many people there became believers. After that, Paul and Barnabas started on their way back home. They went again to Lystra. Then they went from there to Iconium. Then they went to the city of Antioch in the province of Pisidia.
 <verse eid="ACT 14:21"/><verse number="22" style="v" sid="ACT 14:22"/>In each place, they urged the believers to keep trusting Jesus. They told the believers, “We suffer many hardships in this world when we are allowing God to rule over us.”
 
@@ -1207,7 +1207,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 14:28"/><verse eid="ACT 14:28"/></para>
+<verse eid="ACT 14:28"/></para>
   <chapter eid="ACT 14"/>
   <chapter number="15" style="c" sid="ACT 15"/>
   <para style="p"><verse number="1" style="v" sid="ACT 15:1"/>But then some Jewish believers from the province of Judea arrived in Antioch. They started telling the non-Jewish believers there, “You must receive circumcision {to show that you belong to God}, as Moses commanded in the laws that he received from God. If you do not do that, God will not save you.”
@@ -1263,7 +1263,7 @@
   <para style="p"><verse number="22" style="v" sid="ACT 15:22"/>The apostles and the elders, along with all the other believers in Jerusalem, agreed with what James said. So they decided that they should choose men from the church in Jerusalem and send them to Antioch with Paul and Barnabas. Those men would let the believers there know what the leaders at Jerusalem had decided. So they chose Judas the son of Sabbas and Silas. These were both leaders of the believers at Jerusalem.
 <verse eid="ACT 15:22"/><verse number="23" style="v" sid="ACT 15:23"/>They wrote the following letter, which they asked Judas and Silas to take to the believers at Antioch:
 </para>
-  <para style="q1">“We apostles and elders who are your fellow believers send our greetings to you. We are writing this to you non-Jewish believers who live in the city of Antioch and other places in the provinces of Syria and Cilicia.
+  <para style="q1" vid="ACT 15:23">“We apostles and elders who are your fellow believers send our greetings to you. We are writing this to you non-Jewish believers who live in the city of Antioch and other places in the provinces of Syria and Cilicia.
 
 <ms style="ts"/>
 <verse eid="ACT 15:23"/></para>
@@ -1281,14 +1281,14 @@
 <verse eid="ACT 15:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="ACT 15:29"/>You should not eat food that people have sacrificed to idols.
 </para>
-  <para style="q1">You should not eat or drink any blood.
+  <para style="q1" vid="ACT 15:29">You should not eat or drink any blood.
 </para>
-  <para style="q1">You should not eat meat from animals that people have killed by strangling them.
+  <para style="q1" vid="ACT 15:29">You should not eat meat from animals that people have killed by strangling them.
 </para>
-  <para style="q1">You should not have sexual relations with someone to whom you are not married.
+  <para style="q1" vid="ACT 15:29">You should not have sexual relations with someone to whom you are not married.
 
 </para>
-  <para style="p">If you avoid doing these things, you will be doing what is right. We wish you well.”
+  <para style="p" vid="ACT 15:29">If you avoid doing these things, you will be doing what is right. We wish you well.”
 
 <ms style="ts"/>
 <verse eid="ACT 15:29"/></para>
@@ -1315,7 +1315,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 15:41"/><verse eid="ACT 15:41"/></para>
+<verse eid="ACT 15:41"/></para>
   <chapter eid="ACT 15"/>
   <chapter number="16" style="c" sid="ACT 16"/>
   <para style="p"><verse number="1" style="v" sid="ACT 16:1"/>Paul and Silas went to the cities of Derbe and Lystra and visited the believers there. Now a believer whose name was Timothy lived in Lystra. His mother was a Jewish woman who believed in Jesus. His father, however, was a Greek man. {Because this man was not Jewish, he did not observe the law of Moses}.
@@ -1402,7 +1402,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 16:40"/><verse eid="ACT 16:40"/></para>
+<verse eid="ACT 16:40"/></para>
   <chapter eid="ACT 16"/>
   <chapter number="17" style="c" sid="ACT 17"/>
   <para style="p"><verse number="1" style="v" sid="ACT 17:1"/>Paul, Silas, and Timothy traveled through the cities of Amphipolis and Apollonia. Then they came to the city of Thessalonica. There was a Jewish meeting place there.
@@ -1482,7 +1482,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 17:34"/><verse eid="ACT 17:34"/></para>
+<verse eid="ACT 17:34"/></para>
   <chapter eid="ACT 17"/>
   <chapter number="18" style="c" sid="ACT 18"/>
   <para style="p"><verse number="1" style="v" sid="ACT 18:1"/>After that, Paul left the city of Athens and went to the city of Corinth.
@@ -1525,7 +1525,7 @@
 <verse eid="ACT 18:18"/><verse number="19" style="v" sid="ACT 18:19"/>They arrived at the city of Ephesus, and Priscilla and Aquila stayed there.
 
 </para>
-  <para style="p">Paul himself entered the Jewish meeting place and had conversations with the Jews there about Jesus.
+  <para style="p" vid="ACT 18:19">Paul himself entered the Jewish meeting place and had conversations with the Jews there about Jesus.
 
 <ms style="ts"/>
 <verse eid="ACT 18:19"/><verse number="20" style="v" sid="ACT 18:20"/>They asked him to stay longer, but he told them that he could not stay.
@@ -1551,7 +1551,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 18:28"/><verse eid="ACT 18:28"/></para>
+<verse eid="ACT 18:28"/></para>
   <chapter eid="ACT 18"/>
   <chapter number="19" style="c" sid="ACT 19"/>
   <para style="p"><verse number="1" style="v" sid="ACT 19:1"/>While Apollos was still in the city of Corinth, Paul {finished visiting the churches in Phrygia and Galatia. Then he} traveled through the province of Asia and came to the city of Ephesus. There he met some people who said that they were believers.
@@ -1641,7 +1641,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 19:41"/><verse eid="ACT 19:41"/></para>
+<verse eid="ACT 19:41"/></para>
   <chapter eid="ACT 19"/>
   <chapter number="20" style="c" sid="ACT 20"/>
   <para style="p"><verse number="1" style="v" sid="ACT 20:1"/>Then, after the people at Ephesus had stopped rioting, Paul called the believers together. He urged them to continue to trust in the Lord Jesus. Soon after that, he told them goodbye and left to go to the region of Macedonia.
@@ -1721,7 +1721,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 20:38"/><verse eid="ACT 20:38"/></para>
+<verse eid="ACT 20:38"/></para>
   <chapter eid="ACT 20"/>
   <chapter number="21" style="c" sid="ACT 21"/>
   <para style="p"><verse number="1" style="v" sid="ACT 21:1"/>Then, after we said goodbye to the elders from Ephesus, we got back onto the ship and sailed directly to the island of Cos. {There the ship stopped for the night.} The next day we sailed in the ship from Cos to the island of Rhodes. {There the ship stopped again.} The day after that, we went to the town of Patara. {The ship was going no farther than that.}
@@ -1811,7 +1811,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 21:40"/><verse eid="ACT 21:40"/></para>
+<verse eid="ACT 21:40"/></para>
   <chapter eid="ACT 21"/>
   <chapter number="22" style="c" sid="ACT 22"/>
   <para style="p"><verse number="1" style="v" sid="ACT 22:1"/>Paul said, “Jewish elders and my fellow Jews, please listen to me now while I answer your accusations.”
@@ -1873,7 +1873,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 22:30"/><verse eid="ACT 22:30"/></para>
+<verse eid="ACT 22:30"/></para>
   <chapter eid="ACT 22"/>
   <chapter number="23" style="c" sid="ACT 23"/>
   <para style="p"><verse number="1" style="v" sid="ACT 23:1"/>So Paul looked at the Jewish council members and said, “My fellow Jews, throughout my life I have lived respecting our God. I do not know of anything that I have done that I knew was wrong.”
@@ -1949,7 +1949,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 23:35"/><verse eid="ACT 23:35"/></para>
+<verse eid="ACT 23:35"/></para>
   <chapter eid="ACT 23"/>
   <chapter number="24" style="c" sid="ACT 24"/>
   <para style="p"><verse number="1" style="v" sid="ACT 24:1"/>Then, five days after the Roman soldiers brought Paul to Caesarea, the Jewish high priest Ananias traveled there from Jerusalem. He brought some other Jewish elders with him. They also brought a man who spoke well and knew the Roman laws well. His name was Tertullus. The Jewish leaders wanted him to persuade the governor that he should punish Paul.
@@ -2007,7 +2007,7 @@ sending us to you.] If you question him yourself about all these matters, you wi
 
 <ms style="ts"/>
 
-<verse eid="ACT 24:27"/><verse eid="ACT 24:27"/></para>
+<verse eid="ACT 24:27"/></para>
   <chapter eid="ACT 24"/>
   <chapter number="25" style="c" sid="ACT 25"/>
   <para style="p"><verse number="1" style="v" sid="ACT 25:1"/>Then Festus began to rule as the governor of the province of Judea. Three days later, he left the city of Caesarea and traveled to Jerusalem.
@@ -2061,7 +2061,7 @@ sending us to you.] If you question him yourself about all these matters, you wi
 
 <ms style="ts"/>
 
-<verse eid="ACT 25:27"/><verse eid="ACT 25:27"/></para>
+<verse eid="ACT 25:27"/></para>
   <chapter eid="ACT 25"/>
   <chapter number="26" style="c" sid="ACT 26"/>
   <para style="p"><verse number="1" style="v" sid="ACT 26:1"/>Then Agrippa said to Paul, “You may now speak on your own behalf.” Then Paul held out his hand to show that he was about to speak. He defended himself by saying,
@@ -2126,7 +2126,7 @@ sending us to you.] If you question him yourself about all these matters, you wi
 
 <ms style="ts"/>
 
-<verse eid="ACT 26:32"/><verse eid="ACT 26:32"/></para>
+<verse eid="ACT 26:32"/></para>
   <chapter eid="ACT 26"/>
   <chapter number="27" style="c" sid="ACT 27"/>
   <para style="p"><verse number="1" style="v" sid="ACT 27:1"/>Soon the governor decided it was time to send Paul by ship to Italy. {I, Luke, traveled with him.} He put Paul and some other prisoners under the control of a military officer whose name was Julius. This man was part of a group of soldiers who reported directly to the emperor.
@@ -2212,7 +2212,7 @@ sending us to you.] If you question him yourself about all these matters, you wi
 
 <ms style="ts"/>
 
-<verse eid="ACT 27:44"/><verse eid="ACT 27:44"/></para>
+<verse eid="ACT 27:44"/></para>
   <chapter eid="ACT 27"/>
   <chapter number="28" style="c" sid="ACT 28"/>
   <para style="p"><verse number="1" style="v" sid="ACT 28:1"/>After we had arrived safely on the shore, we learned that we were on an island whose name was Malta.
@@ -2270,26 +2270,26 @@ sending us to you.] If you question him yourself about all these matters, you wi
 <verse eid="ACT 28:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="ACT 28:26"/>He said, ‘Go to the people of Israel and say to them:
 </para>
-  <para style="q1">“You seem to be listening but you never really understand what God is saying.
+  <para style="q1" vid="ACT 28:26">“You seem to be listening but you never really understand what God is saying.
 </para>
-  <para style="q1">You seem to be looking but you never really recognize the things that God is doing.”
+  <para style="q1" vid="ACT 28:26">You seem to be looking but you never really recognize the things that God is doing.”
 
 <ms style="ts"/>
 <verse eid="ACT 28:26"/><verse number="27" style="v" sid="ACT 28:27"/>These people do not understand because they have become stubborn.
 </para>
-  <para style="q1">It is as if they have become deaf.
+  <para style="q1" vid="ACT 28:27">It is as if they have become deaf.
 </para>
-  <para style="q1">It is as if they have closed their eyes.
+  <para style="q1" vid="ACT 28:27">It is as if they have closed their eyes.
 </para>
-  <para style="q1">It is as if they have done this because they do not want to see well,
+  <para style="q1" vid="ACT 28:27">It is as if they have done this because they do not want to see well,
 </para>
-  <para style="q1">and they do not want to hear well,
+  <para style="q1" vid="ACT 28:27">and they do not want to hear well,
 </para>
-  <para style="q1">and they do not want to understand well.
+  <para style="q1" vid="ACT 28:27">and they do not want to understand well.
 </para>
-  <para style="q1">If they did pay attention to me and understand what I am telling them, they would stop sinning and live in the right way again.
+  <para style="q1" vid="ACT 28:27">If they did pay attention to me and understand what I am telling them, they would stop sinning and live in the right way again.
 </para>
-  <para style="q1">If they did that, I would restore them.’
+  <para style="q1" vid="ACT 28:27">If they did that, I would restore them.’
 
 <ms style="ts"/>
 <verse eid="ACT 28:27"/></para>

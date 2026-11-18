@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="COL" style="id">EN_UST en_English_ltr Wed Apr 19 2023 08:53:35 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -73,7 +73,7 @@
 
 <ms style="ts"/>
 
-<verse eid="COL 1:29"/><verse eid="COL 1:29"/></para>
+<verse eid="COL 1:29"/></para>
   <chapter eid="COL 1"/>
   <chapter number="2" style="c" sid="COL 2"/>
   <para style="p"><verse number="1" style="v" sid="COL 2:1"/>{I write these things} because I want to inform you about how hard I am working. {I work hard} for you, for the fellow-believers who live in {the city of} Laodicea, and for all fellow-believers who have not met me in person.
@@ -122,7 +122,7 @@
 
 <ms style="ts"/>
 
-<verse eid="COL 2:23"/><verse eid="COL 2:23"/></para>
+<verse eid="COL 2:23"/></para>
   <chapter eid="COL 2"/>
   <chapter number="3" style="c" sid="COL 3"/>
   <para style="p"><verse number="1" style="v" sid="COL 3:1"/>To return {to what I said before}, it is as if God brought you back to life {because he included you} when he brought the Messiah back to life. {Because of this,} I want you to stay focused on what is in heaven, since the Messiah is there. He sits next to God the Father on the throne {and rules everything}.
@@ -174,7 +174,7 @@
 
 <ms style="ts"/>
 
-<verse eid="COL 3:25"/><verse eid="COL 3:25"/></para>
+<verse eid="COL 3:25"/></para>
   <chapter eid="COL 3"/>
   <chapter number="4" style="c" sid="COL 4"/>
   <para style="p"><verse number="1" style="v" sid="COL 4:1"/>Masters must treat their slaves justly and fairly. {You who are masters must do this} because you know that you too serve a Master{, one who is} in heaven.

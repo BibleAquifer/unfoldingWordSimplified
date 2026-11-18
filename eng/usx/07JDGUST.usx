@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JDG" style="id">EN_UST en_English_ltr Mon Jul 01 2024 12:53:13 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -106,7 +106,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 1:36"/><verse eid="JDG 1:36"/></para>
+<verse eid="JDG 1:36"/></para>
   <chapter eid="JDG 1"/>
   <chapter number="2" style="c" sid="JDG 2"/>
   <para style="p"><verse number="1" style="v" sid="JDG 2:1"/>An angel representing Yahweh went from Gilgal to a place that the people of Israel would soon call Bochim. He said to the Israelite people, “Your ancestors were slaves in Egypt, but I set them free, and they escaped. I promised your ancestors that I would give this land to you, and I have now brought you to it. I told them I would never break the promises I made to them.
@@ -158,7 +158,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 2:23"/><verse eid="JDG 2:23"/></para>
+<verse eid="JDG 2:23"/></para>
   <chapter eid="JDG 2"/>
   <chapter number="3" style="c" sid="JDG 3"/>
   <para style="p"><verse number="1" style="v" sid="JDG 3:1"/>The younger Israelites had not fought in any of the wars against the Canaanites. Yahweh wanted them to show faith and courage. So he allowed some enemy people groups to stay in the land.
@@ -228,7 +228,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 3:31"/><verse eid="JDG 3:31"/></para>
+<verse eid="JDG 3:31"/></para>
   <chapter eid="JDG 3"/>
   <chapter number="4" style="c" sid="JDG 4"/>
   <para style="p"><verse number="1" style="v" sid="JDG 4:1"/>After Ehud died, the Israelites once again did things that Yahweh had said were very wicked.
@@ -299,243 +299,243 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 4:24"/><verse eid="JDG 4:24"/></para>
+<verse eid="JDG 4:24"/></para>
   <chapter eid="JDG 4"/>
   <chapter number="5" style="c" sid="JDG 5"/>
   <para style="p"><verse number="1" style="v" sid="JDG 5:1"/>At the time when the Israelites defeated Jabin’s army, Deborah and Barak son of Abinoam sang a song to celebrate. This is the song that they sang:
 <verse eid="JDG 5:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="JDG 5:2"/>“We should all praise Yahweh for the Israelite men who promised to fight
 </para>
-  <para style="q2">and who fought willingly.
+  <para style="q2" vid="JDG 5:2">and who fought willingly.
 
 <ms style="ts"/>
 <verse eid="JDG 5:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JDG 5:3"/>Even the most important people in the world
 </para>
-  <para style="q2">should pay attention to this!
+  <para style="q2" vid="JDG 5:3">should pay attention to this!
 </para>
-  <para style="q1">I am going to sing to Yahweh.
+  <para style="q1" vid="JDG 5:3">I am going to sing to Yahweh.
 </para>
-  <para style="q2">With this song, I will praise Yahweh, the God of Israel.
+  <para style="q2" vid="JDG 5:3">With this song, I will praise Yahweh, the God of Israel.
 <verse eid="JDG 5:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JDG 5:4"/>Yahweh, when you came from Seir,
 </para>
-  <para style="q2">when you marched from that land that people also call Edom,
+  <para style="q2" vid="JDG 5:4">when you marched from that land that people also call Edom,
 </para>
-  <para style="q1">thunder shook the earth
+  <para style="q1" vid="JDG 5:4">thunder shook the earth
 </para>
-  <para style="q2">and clouds poured down rain from the skies.
+  <para style="q2" vid="JDG 5:4">and clouds poured down rain from the skies.
 
 <ms style="ts"/>
 <verse eid="JDG 5:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JDG 5:5"/>The mountains shook when you came,
 </para>
-  <para style="q2">just as Mount Sinai shook when you appeared there,
+  <para style="q2" vid="JDG 5:5">just as Mount Sinai shook when you appeared there,
 </para>
-  <para style="q1">because you are Yahweh,
+  <para style="q1" vid="JDG 5:5">because you are Yahweh,
 </para>
-  <para style="q2">the God whom we Israelites worship.
+  <para style="q2" vid="JDG 5:5">the God whom we Israelites worship.
 <verse eid="JDG 5:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JDG 5:6"/>After our leader Shamgar son of Anath died
 </para>
-  <para style="q2">and before Jael helped us defeat the army of Jabin,
+  <para style="q2" vid="JDG 5:6">and before Jael helped us defeat the army of Jabin,
 </para>
-  <para style="q1">we Israelites were afraid to walk on the main roads,
+  <para style="q1" vid="JDG 5:6">we Israelites were afraid to walk on the main roads,
 </para>
-  <para style="q2">{because Jabin’s soldiers would rob us}.
+  <para style="q2" vid="JDG 5:6">{because Jabin’s soldiers would rob us}.
 </para>
-  <para style="q1">Instead, when our people had to travel,
+  <para style="q1" vid="JDG 5:6">Instead, when our people had to travel,
 </para>
-  <para style="q2">they used little roads that wound through the countryside.
+  <para style="q2" vid="JDG 5:6">they used little roads that wound through the countryside.
 
 <ms style="ts"/>
 <verse eid="JDG 5:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JDG 5:7"/>Israelites who lived in small villages left them
 </para>
-  <para style="q2">and moved into walled cities {for safety}.
+  <para style="q2" vid="JDG 5:7">and moved into walled cities {for safety}.
 </para>
-  <para style="q1">But then I, Deborah, became a leader of the Israelite people,
+  <para style="q1" vid="JDG 5:7">But then I, Deborah, became a leader of the Israelite people,
 </para>
-  <para style="q2">and I protected them just as a mother protects her children.
+  <para style="q2" vid="JDG 5:7">and I protected them just as a mother protects her children.
 <verse eid="JDG 5:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JDG 5:8"/>When the Israelite people {abandoned Yahweh} and began to worship different gods,
 </para>
-  <para style="q2">enemies attacked their cities.
+  <para style="q2" vid="JDG 5:8">enemies attacked their cities.
 </para>
-  <para style="q1">The Israelites {could barely defend themselves
+  <para style="q1" vid="JDG 5:8">The Israelites {could barely defend themselves
 </para>
-  <para style="q2">because they} had hardly any weapons.
+  <para style="q2" vid="JDG 5:8">because they} had hardly any weapons.
 
 <ms style="ts"/>
 <verse eid="JDG 5:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JDG 5:9"/>So I am very thankful for the Israelite leaders
 </para>
-  <para style="q2">and soldiers who willingly fought against Sisera.
+  <para style="q2" vid="JDG 5:9">and soldiers who willingly fought against Sisera.
 </para>
-  <para style="q1">We should all praise Yahweh for them!
+  <para style="q1" vid="JDG 5:9">We should all praise Yahweh for them!
 <verse eid="JDG 5:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="JDG 5:10"/>You wealthy people who ride on white donkeys,
 </para>
-  <para style="q2">sitting on nice, padded saddles,
+  <para style="q2" vid="JDG 5:10">sitting on nice, padded saddles,
 </para>
-  <para style="q2">and you poorer people who just walk on the road,
+  <para style="q2" vid="JDG 5:10">and you poorer people who just walk on the road,
 </para>
-  <para style="q1">think about all this!
+  <para style="q1" vid="JDG 5:10">think about all this!
 
 <ms style="ts"/>
 <verse eid="JDG 5:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="JDG 5:11"/>Listen to the songs that people sing at the places along the road where travelers stop to get water.
 </para>
-  <para style="q2">Those songs tell about how Yahweh acted righteously when he enabled the Israelite warriors to defeat their enemies.
+  <para style="q2" vid="JDG 5:11">Those songs tell about how Yahweh acted righteously when he enabled the Israelite warriors to defeat their enemies.
 </para>
-  <para style="q2">After that, Yahweh’s people were able to return safely to their cities.
+  <para style="q2" vid="JDG 5:11">After that, Yahweh’s people were able to return safely to their cities.
 
 <ms style="ts"/>
 <verse eid="JDG 5:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="JDG 5:12"/>Sing energetically, Deborah! Sing from your own vivid recollections!
 </para>
-  <para style="q2">Now is the time, Barak son of Abinoam, to show the prisoners that your army captured.
+  <para style="q2" vid="JDG 5:12">Now is the time, Barak son of Abinoam, to show the prisoners that your army captured.
 <verse eid="JDG 5:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="JDG 5:13"/>The Israelite people who had scattered for safety
 </para>
-  <para style="q2">came down from the highlands to where their leaders were gathering an army.
+  <para style="q2" vid="JDG 5:13">came down from the highlands to where their leaders were gathering an army.
 </para>
-  <para style="q1">These were men who were loyal to Yahweh,
+  <para style="q1" vid="JDG 5:13">These were men who were loyal to Yahweh,
 </para>
-  <para style="q2">and they came to help me, Barak, fight against the enemy soldiers.
+  <para style="q2" vid="JDG 5:13">and they came to help me, Barak, fight against the enemy soldiers.
 
 <ms style="ts"/>
 <verse eid="JDG 5:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="JDG 5:14"/>Some soldiers came from the tribe of Ephraim. They came from land that had once belonged to the descendants of Amalek.
 </para>
-  <para style="q2">Soldiers also came from the tribe of Benjamin. They reached the Israelite camp before the ones from Ephraim.
+  <para style="q2" vid="JDG 5:14">Soldiers also came from the tribe of Benjamin. They reached the Israelite camp before the ones from Ephraim.
 </para>
-  <para style="q1">Military leaders from the clan of Machir in the tribe of Manasseh led their troops to fight.
+  <para style="q1" vid="JDG 5:14">Military leaders from the clan of Machir in the tribe of Manasseh led their troops to fight.
 </para>
-  <para style="q2">So did officers from the tribe of Zebulun. They carried staffs to indicate their rank.
+  <para style="q2" vid="JDG 5:14">So did officers from the tribe of Zebulun. They carried staffs to indicate their rank.
 
 <ms style="ts"/>
 <verse eid="JDG 5:14"/></para>
   <para style="q2"><verse number="15" style="v" sid="JDG 5:15"/>Leaders from the tribe of Issachar brought their soldiers when Deborah told Barak to gather an army.
 </para>
-  <para style="q2">They fully supported Barak. He led these soldiers down into the valley {to fight Sisera}.
+  <para style="q2" vid="JDG 5:15">They fully supported Barak. He led these soldiers down into the valley {to fight Sisera}.
 </para>
-  <para style="q1">But the men of the tribe of Reuben could not decide what they should do.
+  <para style="q1" vid="JDG 5:15">But the men of the tribe of Reuben could not decide what they should do.
 
 <ms style="ts"/>
 <verse eid="JDG 5:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="JDG 5:16"/>They should not have stayed away from the battle,
 </para>
-  <para style="q2">taking care of their sheep and listening to shepherds playing their flutes.
+  <para style="q2" vid="JDG 5:16">taking care of their sheep and listening to shepherds playing their flutes.
 </para>
-  <para style="q1">But the men of the tribe of Reuben could not decide what they should do.
+  <para style="q1" vid="JDG 5:16">But the men of the tribe of Reuben could not decide what they should do.
 
 <ms style="ts"/>
 <verse eid="JDG 5:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="JDG 5:17"/>So the men of all the tribes living in the Gilead area stayed at home, east of the Jordan River.
 </para>
-  <para style="q2">And the men of the tribe of Dan just kept fishing in the sea {when they should have been helping to fight against Sisera}.
+  <para style="q2" vid="JDG 5:17">And the men of the tribe of Dan just kept fishing in the sea {when they should have been helping to fight against Sisera}.
 </para>
-  <para style="q2">Similarly, the men of the tribe of Asher did not leave their harbors on the seacoast {to come and help fight}.
+  <para style="q2" vid="JDG 5:17">Similarly, the men of the tribe of Asher did not leave their harbors on the seacoast {to come and help fight}.
 <verse eid="JDG 5:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="JDG 5:18"/>But the soldiers from the tribe of Zebulun risked their lives on the battlefield.
 </para>
-  <para style="q2">The soldiers from the tribe of Naphtali also risked their lives in order to occupy the high ground on the battlefield.
+  <para style="q2" vid="JDG 5:18">The soldiers from the tribe of Naphtali also risked their lives in order to occupy the high ground on the battlefield.
 
 <ms style="ts"/>
 <verse eid="JDG 5:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="JDG 5:19"/>Sisera brought an army of soldiers from many Canaanite kingdoms {that were subject to Jabin} to fight against us.
 </para>
-  <para style="q2">They fought a battle against us near the city of Taanach.
+  <para style="q2" vid="JDG 5:19">They fought a battle against us near the city of Taanach.
 </para>
-  <para style="q2">That city is near the river that flows through the Valley of Megiddo. But {they did not defeat us, and so} they did not carry any valuable things away from the battle.
+  <para style="q2" vid="JDG 5:19">That city is near the river that flows through the Valley of Megiddo. But {they did not defeat us, and so} they did not carry any valuable things away from the battle.
 <verse eid="JDG 5:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="JDG 5:20"/>It was as if the stars in the sky fought for us,
 </para>
-  <para style="q2">and as if those stars fought against Sisera,
+  <para style="q2" vid="JDG 5:20">and as if those stars fought against Sisera,
 </para>
-  <para style="q2">as they moved across the sky.
+  <para style="q2" vid="JDG 5:20">as they moved across the sky.
 
 <ms style="ts"/>
 <verse eid="JDG 5:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="JDG 5:21"/>The Kishon River, that river that has been there for a long time, was drowning Sisera’s soldiers.
 </para>
-  <para style="q2">So I told myself to be brave and to keep fighting.
+  <para style="q2" vid="JDG 5:21">So I told myself to be brave and to keep fighting.
 <verse eid="JDG 5:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="JDG 5:22"/>Then the horses of Sisera’s army {ran away from the battle.
 </para>
-  <para style="q2">As they ran, they} pounded the ground with their hooves.
+  <para style="q2" vid="JDG 5:22">As they ran, they} pounded the ground with their hooves.
 </para>
-  <para style="q2">Those powerful horses kept galloping along.
+  <para style="q2" vid="JDG 5:22">Those powerful horses kept galloping along.
 
 <ms style="ts"/>
 <verse eid="JDG 5:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="JDG 5:23"/>{After the battle,} an angel representing Yahweh said,
 </para>
-  <para style="q1">‘The people who live in the town of Meroz did not help Yahweh by stopping Sisera’s army from retreating.
+  <para style="q1" vid="JDG 5:23">‘The people who live in the town of Meroz did not help Yahweh by stopping Sisera’s army from retreating.
 </para>
-  <para style="q2">And so you must call for Yahweh to punish them by making bad things happen to them.’
+  <para style="q2" vid="JDG 5:23">And so you must call for Yahweh to punish them by making bad things happen to them.’
 
 <ms style="ts"/>
 <verse eid="JDG 5:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="JDG 5:24"/>But God is very pleased with the woman whose name is Jael, the wife of Heber the Kenite.
 </para>
-  <para style="q2">He is more pleased with her than with all the other women who live in tents.
+  <para style="q2" vid="JDG 5:24">He is more pleased with her than with all the other women who live in tents.
 <verse eid="JDG 5:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="JDG 5:25"/>Although Sisera only asked for some water, Jael gave him some milk.
 </para>
-  <para style="q2">She brought him some yogurt in the kind of bowl that rulers have.
+  <para style="q2" vid="JDG 5:25">She brought him some yogurt in the kind of bowl that rulers have.
 
 <ms style="ts"/>
 <verse eid="JDG 5:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="JDG 5:26"/>Then{, when Sisera was asleep,} Jael picked up a tent peg with her left hand and a heavy hammer with her right hand.
 </para>
-  <para style="q2">She pounded the tent peg into Sisera’s head so hard that it went right through his temple. This smashed his head.
+  <para style="q2" vid="JDG 5:26">She pounded the tent peg into Sisera’s head so hard that it went right through his temple. This smashed his head.
 <verse eid="JDG 5:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="JDG 5:27"/>As Jael stood over him, Sisera died {from the crushing blow to his head}.
 </para>
-  <para style="q2">He did not even move from where he was when she hit him. He died right there.
+  <para style="q2" vid="JDG 5:27">He did not even move from where he was when she hit him. He died right there.
 
 <ms style="ts"/>
 <verse eid="JDG 5:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="JDG 5:28"/>Sisera’s mother looked out through her window
 </para>
-  <para style="q2">{to see whether he was returning from the battle}.
+  <para style="q2" vid="JDG 5:28">{to see whether he was returning from the battle}.
 </para>
-  <para style="q1">She asked, ‘Why is he taking so long to come home in his chariot?
+  <para style="q1" vid="JDG 5:28">She asked, ‘Why is he taking so long to come home in his chariot?
 </para>
-  <para style="q2">Why have I not yet heard his chariot horses pounding the ground with their feet?’
+  <para style="q2" vid="JDG 5:28">Why have I not yet heard his chariot horses pounding the ground with their feet?’
 
 <ms style="ts"/>
 <verse eid="JDG 5:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="JDG 5:29"/>Some tactful ladies in her household reassured her,
 </para>
-  <para style="q2">and she told herself the same thing they told her:
+  <para style="q2" vid="JDG 5:29">and she told herself the same thing they told her:
 <verse eid="JDG 5:29"/></para>
   <para style="q1"><verse number="30" style="v" sid="JDG 5:30"/>‘Sisera and his soldiers are probably {late returning because they are} dividing up
 </para>
-  <para style="q2">the things and the people they captured after the battle.
+  <para style="q2" vid="JDG 5:30">the things and the people they captured after the battle.
 </para>
-  <para style="q1">Each soldier will get one or two women as slaves.
+  <para style="q1" vid="JDG 5:30">Each soldier will get one or two women as slaves.
 </para>
-  <para style="q2">Each of Sisera’s soldiers will also get one or two expensive robes that have bright colors and gold thread for decoration.
+  <para style="q2" vid="JDG 5:30">Each of Sisera’s soldiers will also get one or two expensive robes that have bright colors and gold thread for decoration.
 </para>
-  <para style="q2">They will probably wear them home from the battle to show that they won.’
+  <para style="q2" vid="JDG 5:30">They will probably wear them home from the battle to show that they won.’
 
 <ms style="ts"/>
 <verse eid="JDG 5:30"/></para>
   <para style="q1"><verse number="31" style="v" sid="JDG 5:31"/>{But that is not what happened!}
 </para>
-  <para style="q1">Yahweh, I hope that all your enemies will die as Sisera did!
+  <para style="q1" vid="JDG 5:31">Yahweh, I hope that all your enemies will die as Sisera did!
 </para>
-  <para style="q2">And I wish that all those who love you, Yahweh, will be as strong as the sun when it rises!”
+  <para style="q2" vid="JDG 5:31">And I wish that all those who love you, Yahweh, will be as strong as the sun when it rises!”
 
 </para>
-  <para style="p">After that, the land of Israel was a peaceful place for the next 40 years.
+  <para style="p" vid="JDG 5:31">After that, the land of Israel was a peaceful place for the next 40 years.
 
 <ms style="ts"/>
 
-<verse eid="JDG 5:31"/><verse eid="JDG 5:31"/></para>
+<verse eid="JDG 5:31"/></para>
   <chapter eid="JDG 5"/>
   <chapter number="6" style="c" sid="JDG 6"/>
   <para style="p"><verse number="1" style="v" sid="JDG 6:1"/>But then the Israelites once again did things that Yahweh had said were very wicked. So he allowed the people of Midian to conquer them and rule them for seven years.
@@ -583,7 +583,7 @@
 <verse eid="JDG 6:17"/><verse number="18" style="v" sid="JDG 6:18"/>I would like to go and prepare a special meal and bring it to you. Please do not leave here until I get back.”
 
 </para>
-  <para style="p">Yahweh answered, “{I agree.} I will wait here until you come back.”
+  <para style="p" vid="JDG 6:18">Yahweh answered, “{I agree.} I will wait here until you come back.”
 
 <ms style="ts"/>
 <verse eid="JDG 6:18"/></para>
@@ -652,7 +652,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 6:40"/><verse eid="JDG 6:40"/></para>
+<verse eid="JDG 6:40"/></para>
   <chapter eid="JDG 6"/>
   <chapter number="7" style="c" sid="JDG 7"/>
   <para style="p"><verse number="1" style="v" sid="JDG 7:1"/>So that morning Gideon (whom people were calling Jerubbaal) got up right away and led all of his soldiers as far as the spring that people would soon call Harod. The army of Midian had camped north of there, in the valley near the hill of Moreh.
@@ -676,7 +676,7 @@
 <verse eid="JDG 7:7"/><verse number="8" style="v" sid="JDG 7:8"/>So the 300 soldiers who were staying with Gideon collected the food that the other men had brought. They also collected the ram’s horns they had brought. Then Gideon sent those other men home, but he kept the 300 soldiers with him.
 
 </para>
-  <para style="p">The army of Midian was camping in the valley below Gideon and his army.
+  <para style="p" vid="JDG 7:8">The army of Midian was camping in the valley below Gideon and his army.
 
 <ms style="ts"/>
 <verse eid="JDG 7:8"/><verse number="9" style="v" sid="JDG 7:9"/>The night after all the other soldiers left, Yahweh said to Gideon, “Now is the time for you to attack the Midianites in the valley! You can be confident that I will enable you and your men to defeat them.
@@ -724,7 +724,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 7:25"/><verse eid="JDG 7:25"/></para>
+<verse eid="JDG 7:25"/></para>
   <chapter eid="JDG 7"/>
   <chapter number="8" style="c" sid="JDG 8"/>
   <para style="p"><verse number="1" style="v" sid="JDG 8:1"/>Then the soldiers from the tribe of Ephraim told Gideon, “You have not treated us fairly! You should have given us the opportunity to help you fight against the army of Midian!” They argued very angrily with Gideon.
@@ -774,7 +774,7 @@
   <para style="p"><verse number="18" style="v" sid="JDG 8:18"/>Then Gideon said to Zebah and Zalmunna, “You and your soldiers killed some men near Mount Tabor. Tell me about those men.”
 
 </para>
-  <para style="p">They replied, “They looked like you. They all looked like royal princes.”
+  <para style="p" vid="JDG 8:18">They replied, “They looked like you. They all looked like royal princes.”
 
 <verse eid="JDG 8:18"/></para>
   <para style="p"><verse number="19" style="v" sid="JDG 8:19"/>Gideon replied, “Those men were my own brothers! I swear by Yahweh that I would spare your lives now if you had spared their lives then.”
@@ -825,7 +825,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 8:35"/><verse eid="JDG 8:35"/></para>
+<verse eid="JDG 8:35"/></para>
   <chapter eid="JDG 8"/>
   <chapter number="9" style="c" sid="JDG 9"/>
   <para style="p"><verse number="1" style="v" sid="JDG 9:1"/>Gideon’s son Abimelech went to talk with his mother’s brothers in the city of Shechem. He spoke to them and to all his mother’s relatives. He said,
@@ -920,7 +920,7 @@
   <para style="p"><verse number="36" style="v" sid="JDG 9:36"/>When Gaal saw the soldiers, he said to Zebul, “Look! There is a group of people coming down from the hills!”
 
 </para>
-  <para style="p">But Zebul said, “You are just seeing the shadow that one hill casts on another as the sun gets higher in the sky. That dark shape is not a group of people. It only looks like one.”
+  <para style="p" vid="JDG 9:36">But Zebul said, “You are just seeing the shadow that one hill casts on another as the sun gets higher in the sky. That dark shape is not a group of people. It only looks like one.”
 <verse eid="JDG 9:36"/><verse number="37" style="v" sid="JDG 9:37"/>But Gaal {kept watching and} spoke again. He said to Zebul, “Look! I do see groups of people coming down that central hill! I also see a group coming towards us along the road that goes past the Oak of the Diviners.”
 
 <ms style="ts"/>
@@ -972,7 +972,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 9:57"/><verse eid="JDG 9:57"/></para>
+<verse eid="JDG 9:57"/></para>
   <chapter eid="JDG 9"/>
   <chapter number="10" style="c" sid="JDG 10"/>
   <para style="p"><verse number="1" style="v" sid="JDG 10:1"/>After Abimelech died, Tola, the son of Puah and grandson of Dodo became a leader. He rescued the Israelites from their enemies. He belonged to the tribe of Issachar. However, he lived in the town of Shamir in the hilly area where the descendants of Ephraim live.
@@ -1016,7 +1016,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 10:18"/><verse eid="JDG 10:18"/></para>
+<verse eid="JDG 10:18"/></para>
   <chapter eid="JDG 10"/>
   <chapter number="11" style="c" sid="JDG 11"/>
   <para style="p"><verse number="1" style="v" sid="JDG 11:1"/>There was a man from the region of Gilead whose name was Jephthah. He was a great soldier. But his mother was a prostitute. His father was a man whose name was Gilead.
@@ -1110,12 +1110,12 @@
 <verse eid="JDG 11:38"/><verse number="39" style="v" sid="JDG 11:39"/>After two months, she returned to her father Jephthah, and he did to her what he had solemnly promised. So his daughter never married.
 
 </para>
-  <para style="p">Because of that, the Israelites now have a custom.
+  <para style="p" vid="JDG 11:39">Because of that, the Israelites now have a custom.
 <verse eid="JDG 11:39"/><verse number="40" style="v" sid="JDG 11:40"/>The young Israelite women go into the hills for four days each year. There they sadly remember what happened to the daughter of Jephthah from the region of Gilead.
 
 <ms style="ts"/>
 
-<verse eid="JDG 11:40"/><verse eid="JDG 11:40"/></para>
+<verse eid="JDG 11:40"/></para>
   <chapter eid="JDG 11"/>
   <chapter number="12" style="c" sid="JDG 12"/>
   <para style="p"><verse number="1" style="v" sid="JDG 12:1"/>The men of the tribe of Ephraim got ready for battle. They crossed the Jordan River and went northeast to where Jephthah was. They said to Jephthah, “You should not have gone to fight the Ammonites without asking us to help you. We will burn down your house with you inside it!”
@@ -1156,7 +1156,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 12:15"/><verse eid="JDG 12:15"/></para>
+<verse eid="JDG 12:15"/></para>
   <chapter eid="JDG 12"/>
   <chapter number="13" style="c" sid="JDG 13"/>
   <para style="p"><verse number="1" style="v" sid="JDG 13:1"/>The Israelites again did what Yahweh had said was wicked. So Yahweh allowed the Philistines to rule over them for 40 years.
@@ -1230,7 +1230,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 13:25"/><verse eid="JDG 13:25"/></para>
+<verse eid="JDG 13:25"/></para>
   <chapter eid="JDG 13"/>
   <chapter number="14" style="c" sid="JDG 14"/>
   <para style="p"><verse number="1" style="v" sid="JDG 14:1"/>Samson went to the town of Timnah. There he saw a young Philistine woman.
@@ -1241,7 +1241,7 @@
   <para style="p"><verse number="3" style="v" sid="JDG 14:3"/>His parents said to him, “There are many young women in our own tribe of Dan and among our people of Israel. You can marry one of them. You should not marry someone from a people group that does not worship Yahweh.”
 
 </para>
-  <para style="p">But Samson told his father, “No, I like her very much, and so I want you to arrange for me to marry her.”
+  <para style="p" vid="JDG 14:3">But Samson told his father, “No, I like her very much, and so I want you to arrange for me to marry her.”
 <verse eid="JDG 14:3"/><verse number="4" style="v" sid="JDG 14:4"/>His parents did not know that Yahweh wanted this to happen. Yahweh was looking for a way to act against the Philistines because they were oppressing Israel at that time.
 
 <ms style="ts"/>
@@ -1269,12 +1269,12 @@
 <verse eid="JDG 14:13"/></para>
   <para style="p"><verse number="14" style="v" sid="JDG 14:14"/>He said to them,
 </para>
-  <para style="q1">“Something to eat came out of something that eats.
+  <para style="q1" vid="JDG 14:14">“Something to eat came out of something that eats.
 </para>
-  <para style="q2">Something sweet came out of something strong.”
+  <para style="q2" vid="JDG 14:14">Something sweet came out of something strong.”
 
 </para>
-  <para style="m">They tried for three days to solve the riddle, but they could not.
+  <para style="m" vid="JDG 14:14">They tried for three days to solve the riddle, but they could not.
 
 <ms style="ts"/>
 <verse eid="JDG 14:14"/></para>
@@ -1285,19 +1285,19 @@
   <para style="p"><verse number="16" style="v" sid="JDG 14:16"/>So Samson’s bride went to him and started crying. She shouted, “You hate me! You do not love me! You told a riddle to my relatives, but you did not tell me the answer.”
 
 </para>
-  <para style="p">Samson said to her, “I have not even told the answer to my parents. So I am not going to tell you.”
+  <para style="p" vid="JDG 14:16">Samson said to her, “I have not even told the answer to my parents. So I am not going to tell you.”
 <verse eid="JDG 14:16"/><verse number="17" style="v" sid="JDG 14:17"/>But she kept crying for the rest of the feast. Finally, as it was about to end, he told her the answer to the riddle because she had kept bothering him. She went and told the answer to the Philistine young men.
 
 <ms style="ts"/>
 <verse eid="JDG 14:17"/></para>
   <para style="p"><verse number="18" style="v" sid="JDG 14:18"/>Before sunset on the last day of the feast, the Philistine guests said to Samson,
 </para>
-  <para style="q1">“The sweet thing was honey,
+  <para style="q1" vid="JDG 14:18">“The sweet thing was honey,
 </para>
-  <para style="q2">and the strong thing was a lion!”
+  <para style="q2" vid="JDG 14:18">and the strong thing was a lion!”
 
 </para>
-  <para style="p">Samson said to them, “You must have gotten the answer from my bride! Otherwise, you could not have solved my riddle!”
+  <para style="p" vid="JDG 14:18">Samson said to them, “You must have gotten the answer from my bride! Otherwise, you could not have solved my riddle!”
 
 <ms style="ts"/>
 <verse eid="JDG 14:18"/></para>
@@ -1306,7 +1306,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 14:20"/><verse eid="JDG 14:20"/></para>
+<verse eid="JDG 14:20"/></para>
   <chapter eid="JDG 14"/>
   <chapter number="15" style="c" sid="JDG 15"/>
   <para style="p"><verse number="1" style="v" sid="JDG 15:1"/>Some time later, during the wheat harvest, Samson visited the woman he was supposed to marry. He brought a young goat as a gift. He told her father that he wanted to sleep with her {to make their marriage official}. But her father would not let him do that.
@@ -1336,21 +1336,21 @@
 <verse eid="JDG 15:9"/><verse number="10" style="v" sid="JDG 15:10"/>The men of Judah asked them, “Why have you come to fight us?”
 
 </para>
-  <para style="p">The Philistines answered, “We have come to capture Samson. He killed many of us, and so we are going to kill him.”
+  <para style="p" vid="JDG 15:10">The Philistines answered, “We have come to capture Samson. He killed many of us, and so we are going to kill him.”
 
 <ms style="ts"/>
 <verse eid="JDG 15:10"/></para>
   <para style="p"><verse number="11" style="v" sid="JDG 15:11"/>Then 3, 000 men from Judah went to the cave in the rock of Etam where Samson was hiding. They said to Samson, “The Philistines rule over us. You should have known not to upset them. You have caused much trouble for us.”
 
 </para>
-  <para style="p">Samson answered, “They killed my fiancée and her father, so I killed some of them.”
+  <para style="p" vid="JDG 15:11">Samson answered, “They killed my fiancée and her father, so I killed some of them.”
 
 <ms style="ts"/>
 <verse eid="JDG 15:11"/></para>
   <para style="p"><verse number="12" style="v" sid="JDG 15:12"/>The men of Judah told Samson, “We have come to tie you up. We are going to give you to the Philistines.”
 
 </para>
-  <para style="p">Samson said to them, “Promise me that you will not kill me yourselves.”
+  <para style="p" vid="JDG 15:12">Samson said to them, “Promise me that you will not kill me yourselves.”
 
 <verse eid="JDG 15:12"/></para>
   <para style="p"><verse number="13" style="v" sid="JDG 15:13"/>They answered, “We will only tie you up and give you to the Philistines. We will not kill you.” So they tied him with two new ropes and led him away from the rock.
@@ -1362,13 +1362,13 @@
 <verse eid="JDG 15:14"/><verse number="15" style="v" sid="JDG 15:15"/>Then Samson saw a donkey’s jawbone lying on the ground. It was new, so it was hard. He picked it up and used it to kill 1, 000 men.
 <verse eid="JDG 15:15"/><verse number="16" style="v" sid="JDG 15:16"/>Then Samson made up this poem:
 </para>
-  <para style="q1">“With a donkey’s jawbone,
+  <para style="q1" vid="JDG 15:16">“With a donkey’s jawbone,
 </para>
-  <para style="q2">I have made piles of bodies.
+  <para style="q2" vid="JDG 15:16">I have made piles of bodies.
 </para>
-  <para style="q1">With a donkey’s jawbone,
+  <para style="q1" vid="JDG 15:16">With a donkey’s jawbone,
 </para>
-  <para style="q2">I have killed 1, 000 men.”
+  <para style="q2" vid="JDG 15:16">I have killed 1, 000 men.”
 
 <ms style="ts"/>
 <verse eid="JDG 15:16"/></para>
@@ -1385,7 +1385,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 15:20"/><verse eid="JDG 15:20"/></para>
+<verse eid="JDG 15:20"/></para>
   <chapter eid="JDG 15"/>
   <chapter number="16" style="c" sid="JDG 16"/>
   <para style="p"><verse number="1" style="v" sid="JDG 16:1"/>Samson later went to the city of Gaza. He saw a prostitute there, and he had sexual relations with her {and then stayed in her room}.
@@ -1446,7 +1446,7 @@
   <para style="p"><verse number="20" style="v" sid="JDG 16:20"/>Then she called out, “Samson! The Philistines have come to capture you!”
 
 </para>
-  <para style="p">He woke up and thought, “I will be able to do whatever I need to do to get away from them, just as I did the other times!” But he did not realize that Yahweh was no longer helping him.
+  <para style="p" vid="JDG 16:20">He woke up and thought, “I will be able to do whatever I need to do to get away from them, just as I did the other times!” But he did not realize that Yahweh was no longer helping him.
 
 <verse eid="JDG 16:20"/></para>
   <para style="p"><verse number="21" style="v" sid="JDG 16:21"/>Instead, the Philistine men captured him. They blinded him by gouging out both of his eyes {so that he could no longer attack any of them}. Then they took him to Gaza. They put him in prison there and put bronze chains on him {so he could not escape}. They made him turn a large millstone to grind grain every day.
@@ -1464,7 +1464,7 @@
   <para style="p"><verse number="25" style="v" sid="JDG 16:25"/>The people drank a lot of wine and began to become drunk. Then they shouted, “Get Samson out of the prison! Bring him here so we can ridicule him!”
 
 </para>
-  <para style="p">So they brought Samson from the prison and made him stand {in the center of the temple,} between the pillars that supported the roof. The people ridiculed him.
+  <para style="p" vid="JDG 16:25">So they brought Samson from the prison and made him stand {in the center of the temple,} between the pillars that supported the roof. The people ridiculed him.
 <verse eid="JDG 16:25"/><verse number="26" style="v" sid="JDG 16:26"/>Samson said to the servant who was leading him by the hand {because he was blind}, “I want to rest. Place my hands against the two pillars that support the roof so that I can lean against them.”
 
 <ms style="ts"/>
@@ -1482,7 +1482,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 16:31"/><verse eid="JDG 16:31"/></para>
+<verse eid="JDG 16:31"/></para>
   <chapter eid="JDG 16"/>
   <chapter number="17" style="c" sid="JDG 17"/>
   <para style="p"><verse number="1" style="v" sid="JDG 17:1"/>There was a man whose name was Micah who lived in the hilly area that belongs to the tribe of Ephraim.
@@ -1509,7 +1509,7 @@
   <para style="p"><verse number="9" style="v" sid="JDG 17:9"/>Micah asked him, “Where are you from?”
 
 </para>
-  <para style="p">He replied, “I have come from Bethlehem in the territory of Judah. I belong to the tribe of Levi, and I am looking for a new place to live for a while.”
+  <para style="p" vid="JDG 17:9">He replied, “I have come from Bethlehem in the territory of Judah. I belong to the tribe of Levi, and I am looking for a new place to live for a while.”
 
 <ms style="ts"/>
 <verse eid="JDG 17:9"/><verse number="10" style="v" sid="JDG 17:10"/>Micah told him, “You may live in my house with me. You can advise me and be my priest. Each year I will give to you ten pieces of silver and some new clothes. I will also provide food for you.” So the Levite stayed there.
@@ -1521,13 +1521,13 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 17:13"/><verse eid="JDG 17:13"/></para>
+<verse eid="JDG 17:13"/></para>
   <chapter eid="JDG 17"/>
   <chapter number="18" style="c" sid="JDG 18"/>
   <para style="p"><verse number="1" style="v" sid="JDG 18:1"/>At that time the Israelites had no king.
 
 </para>
-  <para style="p">And at that time people of the tribe of Dan wanted more land where they could live. The other Israelite tribes had been able to occupy the territories that their leaders had assigned to them. But the tribe of Dan had not yet been able to occupy all of their territory.
+  <para style="p" vid="JDG 18:1">And at that time people of the tribe of Dan wanted more land where they could live. The other Israelite tribes had been able to occupy the territories that their leaders had assigned to them. But the tribe of Dan had not yet been able to occupy all of their territory.
 <verse eid="JDG 18:1"/><verse number="2" style="v" sid="JDG 18:2"/>So the Danites chose five strong soldiers from their tribe to look carefully for more land where they could live. These men lived in the part of their territory that the tribe had been able to occupy, in the cities of Zorah and Eshtaol. When the tribe sent them out to explore the land, the men went to the hilly area where the people of the tribe of Ephraim live. They stayed overnight in the area where Micah lived.
 
 <ms style="ts"/>
@@ -1602,7 +1602,7 @@
 <verse eid="JDG 18:27"/><verse number="28" style="v" sid="JDG 18:28"/>There was no group of people to rescue the people of Laish. The city was far from Sidon, so the people who lived there could not help them. And the people of Laish had no other allies. (Laish was in a valley near the town of Beth Rehob.)
 
 </para>
-  <para style="p">The people of the tribe of Dan rebuilt the city and lived there themselves.
+  <para style="p" vid="JDG 18:28">The people of the tribe of Dan rebuilt the city and lived there themselves.
 <verse eid="JDG 18:28"/><verse number="29" style="v" sid="JDG 18:29"/>They gave a new name to the city. They called it Dan, in honor of their ancestor whose name was Dan. He was one of Israel’s sons. But previously the name of the city had been Laish.
 
 <ms style="ts"/>
@@ -1611,13 +1611,13 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 18:31"/><verse eid="JDG 18:31"/></para>
+<verse eid="JDG 18:31"/></para>
   <chapter eid="JDG 18"/>
   <chapter number="19" style="c" sid="JDG 19"/>
   <para style="p"><verse number="1" style="v" sid="JDG 19:1"/>At that time the Israelites had no king.
 
 </para>
-  <para style="p">There was a Levite who lived in a remote place in the hilly area where the people of the tribe of Ephraim live. He had married a woman as a secondary wife. She was from the city whose name is Bethlehem that is in the area where the tribe of Judah lives.
+  <para style="p" vid="JDG 19:1">There was a Levite who lived in a remote place in the hilly area where the people of the tribe of Ephraim live. He had married a woman as a secondary wife. She was from the city whose name is Bethlehem that is in the area where the tribe of Judah lives.
 <verse eid="JDG 19:1"/><verse number="2" style="v" sid="JDG 19:2"/>But his secondary wife was unfaithful to him, and then she left him and returned to her father’s house in Bethlehem in Judah. She kept living there for four months.
 
 <ms style="ts"/>
@@ -1693,7 +1693,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 19:30"/><verse eid="JDG 19:30"/></para>
+<verse eid="JDG 19:30"/></para>
   <chapter eid="JDG 19"/>
   <chapter number="20" style="c" sid="JDG 20"/>
   <para style="p"><verse number="1" style="v" sid="JDG 20:1"/>Then many people from throughout Israel traveled to Mizpah so they could meet together there and talk about what to do. They came from as far north as the city of Dan and from as far south as the city of Beersheba. They also came from the region of Gilead east of the Jordan River. They asked Yahweh to be present with them and guide their discussion.
@@ -1703,7 +1703,7 @@
 <verse eid="JDG 20:2"/><verse number="3" style="v" sid="JDG 20:3"/>The people of the tribe of Benjamin heard that the other Israelites were meeting in Mizpah. But no one from the tribe of Benjamin joined them there.
 
 </para>
-  <para style="p">The other Israelites who had gathered asked to hear how this horrible crime had happened.
+  <para style="p" vid="JDG 20:3">The other Israelites who had gathered asked to hear how this horrible crime had happened.
 <verse eid="JDG 20:3"/><verse number="4" style="v" sid="JDG 20:4"/>The Levite whose wife the men of Gibeah had murdered spoke up. He said, “My wife and I were traveling, and we needed a place to stay for the night. We went to the city whose name is Gibeah that is in the territory of the tribe of Benjamin.
 
 <ms style="ts"/>
@@ -1726,7 +1726,7 @@
 <verse eid="JDG 20:12"/><verse number="13" style="v" sid="JDG 20:13"/>Those wicked men live in the city of Gibeah. Surrender them to us so that we can execute them. That way we can get rid of the influence that the wicked thing they did is having on the people of Israel.”
 
 </para>
-  <para style="p">But the people of the tribe of Benjamin refused to surrender the men as the other Israelites had demanded.
+  <para style="p" vid="JDG 20:13">But the people of the tribe of Benjamin refused to surrender the men as the other Israelites had demanded.
 <verse eid="JDG 20:13"/><verse number="14" style="v" sid="JDG 20:14"/>The men who lived in other cities in the territory of Benjamin gathered at Gibeah to defend it against the other Israelites when they attacked.
 
 <ms style="ts"/>
@@ -1741,7 +1741,7 @@
   <para style="p"><verse number="18" style="v" sid="JDG 20:18"/>Those other Israelites wanted to ask God for advice. So they went to Bethel {where the sacred chest was at that time}. They asked, “Which tribe’s soldiers should lead the attack when we go and fight against the tribe of Benjamin?”
 
 </para>
-  <para style="p">Yahweh answered, “The soldiers from the tribe of Judah should lead the attack.”
+  <para style="p" vid="JDG 20:18">Yahweh answered, “The soldiers from the tribe of Judah should lead the attack.”
 
 <ms style="ts"/>
 <verse eid="JDG 20:18"/></para>
@@ -1815,7 +1815,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 20:48"/><verse eid="JDG 20:48"/></para>
+<verse eid="JDG 20:48"/></para>
   <chapter eid="JDG 20"/>
   <chapter number="21" style="c" sid="JDG 21"/>
   <para style="p"><verse number="1" style="v" sid="JDG 21:1"/>(When the Israelites gathered at Mizpah before they started to fight the tribe of Benjamin, all of the men made a solemn promise. They had declared, “None of us will ever allow one of our daughters to marry a man from the tribe of Benjamin!”)

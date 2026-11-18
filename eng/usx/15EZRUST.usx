@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EZR" style="id">EN_UST en_English_ltr Mon Jul 26 2021 20:26:21 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -38,17 +38,16 @@
 <verse eid="EZR 1:9"/><verse number="10" style="v" sid="EZR 1:10"/>30 gold bowls, 410 secondary silver bowls, and 1, 000 other utensils.
 <verse eid="EZR 1:10"/><verse number="11" style="v" sid="EZR 1:11"/>All together, Cyrus gave 5, 400 silver and gold items to Sheshbazzar to take with him when he and the others returned from {the kingdom of} Babylon to Jerusalem.
 
+<ms style="ts"/>
+
 <verse eid="EZR 1:11"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 1:11"/>
   <chapter eid="EZR 1"/>
   <chapter number="2" style="c" sid="EZR 2"/>
   <para style="p"><verse number="1" style="v" sid="EZR 2:1"/>{Many years ago, the army of} King Nebuchadnezzar of Babylon had captured many Israelite people and taken them away to the kingdom of Babylon. Now, these Israelite people began to return to Judah. Some returned to Jerusalem, and some returned to other places in Judah. Each of them went to the towns where their ancestors had lived. This is a list of the groups who returned.
 <verse eid="EZR 2:1"/><verse number="2" style="v" sid="EZR 2:2"/>The leaders of those people who returned were Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 
 </para>
-  <para style="p">The groups of people who returned to Judah are listed next.
+  <para style="p" vid="EZR 2:2">The groups of people who returned to Judah are listed next.
 
 <ms style="ts"/>
 <verse eid="EZR 2:2"/></para>
@@ -113,7 +112,7 @@
   <para style="p"><verse number="21" style="v" sid="EZR 2:21"/>{The following is a list of people whose ancestors had lived in these towns in Judah:}
 
 </para>
-  <para style="p">123 from Bethlehem,
+  <para style="p" vid="EZR 2:21">123 from Bethlehem,
 
 <verse eid="EZR 2:21"/></para>
   <para style="p"><verse number="22" style="v" sid="EZR 2:22"/>56 from Netophah,
@@ -163,7 +162,7 @@
   <para style="p"><verse number="36" style="v" sid="EZR 2:36"/>These are the priests who returned:
 
 </para>
-  <para style="p">973 descendants of Jedaiah (that is, those who descended through Jeshua),
+  <para style="p" vid="EZR 2:36">973 descendants of Jedaiah (that is, those who descended through Jeshua),
 
 <verse eid="EZR 2:36"/></para>
   <para style="p"><verse number="37" style="v" sid="EZR 2:37"/>1, 052 descendants of Immer,
@@ -179,7 +178,7 @@
   <para style="p"><verse number="40" style="v" sid="EZR 2:40"/>These are the descendants of Levi who returned:
 
 </para>
-  <para style="p">74 descendants of Jeshua and Kadmiel, who were from the family of Hodaviah,
+  <para style="p" vid="EZR 2:40">74 descendants of Jeshua and Kadmiel, who were from the family of Hodaviah,
 
 <verse eid="EZR 2:40"/></para>
   <para style="p"><verse number="41" style="v" sid="EZR 2:41"/>128 musicians who were descendants of Asaph,
@@ -236,10 +235,9 @@
 <verse eid="EZR 2:69"/></para>
   <para style="p"><verse number="70" style="v" sid="EZR 2:70"/>So all of these priests, Levites, musicians, gatekeepers, temple servants, and other people returned to live in the towns and villages {of the province of Judah}. They settled in the places where their ancestors had lived.
 
+<ms style="ts"/>
+
 <verse eid="EZR 2:70"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 2:70"/>
   <chapter eid="EZR 2"/>
   <chapter number="3" style="c" sid="EZR 3"/>
   <para style="p"><verse number="1" style="v" sid="EZR 3:1"/>After the Israelite people {returned and} began to live in their towns, in the autumn of that year, they all gathered together in Jerusalem.
@@ -263,18 +261,17 @@
 <verse eid="EZR 3:9"/><verse number="10" style="v" sid="EZR 3:10"/>When the builders finished laying the foundation of the temple of Yahweh, the priests and the Levites did what King David had told Asaph and the other musicians to do {many years previously} in order to praise Yahweh. The priests put on their robes and stood in their places, blowing their trumpets. Then the Levites who were descendants of Asaph clashed their cymbals.
 <verse eid="EZR 3:10"/><verse number="11" style="v" sid="EZR 3:11"/>Then the Levites praised Yahweh and thanked him by singing this song about him:
 </para>
-  <para style="q1">“He is very good to us!
+  <para style="q1" vid="EZR 3:11">“He is very good to us!
 </para>
-  <para style="q1">He will continue to be faithful and kind to us Israelites {and he will love us} forever.” Then all the people shouted loudly. They praised Yahweh because they had finished laying the foundation of his temple.
+  <para style="q1" vid="EZR 3:11">He will continue to be faithful and kind to us Israelites {and he will love us} forever.” Then all the people shouted loudly. They praised Yahweh because they had finished laying the foundation of his temple.
 
 <ms style="ts"/>
 <verse eid="EZR 3:11"/><verse number="12" style="v" sid="EZR 3:12"/>Many of the old priests, Levites, and leaders of families remembered seeing the first temple. They cried aloud when they saw the workers lay the foundation of this temple {because they thought that this temple would not be as big or as beautiful as the first temple}. But the other people shouted joyfully in loud voices.
 <verse eid="EZR 3:12"/><verse number="13" style="v" sid="EZR 3:13"/>Since the shouting was so loud, no one could tell the difference between the people who were shouting joyfully and the people who were crying sorrowfully. All the noise was so loud that even people far away could hear it.
 
+<ms style="ts"/>
+
 <verse eid="EZR 3:13"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 3:13"/>
   <chapter eid="EZR 3"/>
   <chapter number="4" style="c" sid="EZR 4"/>
   <para style="p"><verse number="1" style="v" sid="EZR 4:1"/>The enemies of {the people of the tribes of} Judah and Benjamin learned that the Israelites who had returned from Babylon were rebuilding the temple for Yahweh, the God whom the people of Israel worship.
@@ -307,7 +304,7 @@
 <verse eid="EZR 4:10"/><verse number="11" style="v" sid="EZR 4:11"/>(This is what they wrote in the letter that they sent to him:)
 
 </para>
-  <para style="p">This letter is for King Artaxerxes. It comes from the officials serving you who live in the province west of the Euphrates River. Therefore:
+  <para style="p" vid="EZR 4:11">This letter is for King Artaxerxes. It comes from the officials serving you who live in the province west of the Euphrates River. Therefore:
 
 <verse eid="EZR 4:11"/></para>
   <para style="p"><verse number="12" style="v" sid="EZR 4:12"/>“Your Majesty, we want you to know that the Jews who left from your territories are now living near us. They are rebuilding the city of Jerusalem. These people are wicked and want to rebel against you. Therefore, they are now rebuilding the walls {of that city} and repairing the foundations {of its buildings}.
@@ -324,7 +321,7 @@
   <para style="p"><verse number="17" style="v" sid="EZR 4:17"/>{After} the king {read this letter, he} sent this reply to them:
 
 </para>
-  <para style="p">“To you, Rehum, the high commissioner, and Shimshai, the provincial secretary, and your colleagues in Samaria and in other parts of the province that is west of the {Euphrates} River, I send my greetings. Therefore:
+  <para style="p" vid="EZR 4:17">“To you, Rehum, the high commissioner, and Shimshai, the provincial secretary, and your colleagues in Samaria and in other parts of the province that is west of the {Euphrates} River, I send my greetings. Therefore:
 
 <verse eid="EZR 4:17"/></para>
   <para style="p"><verse number="18" style="v" sid="EZR 4:18"/>My officials carefully read out loud to me the letter that you sent to us.
@@ -341,10 +338,9 @@
   <para style="p"><verse number="23" style="v" sid="EZR 4:23"/>Then King Artaxerxes sent {messengers with} a copy of the letter to Rehum and Shimshai the provincial secretary and their colleagues. As soon as the messengers finished reading it out loud to them, Rehum and Shimshai and their colleagues went quickly to the Jews in Jerusalem, and they forced the Jews to stop rebuilding {the city}.
 <verse eid="EZR 4:23"/><verse number="24" style="v" sid="EZR 4:24"/>{Because the enemies of the Jews kept opposing them so strongly in these ways,} the Jews had stopped rebuilding the temple in Jerusalem. They did not do any more work to rebuild the temple until the second year after Darius had become the king of Persia.
 
+<ms style="ts"/>
+
 <verse eid="EZR 4:24"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 4:24"/>
   <chapter eid="EZR 4"/>
   <chapter number="5" style="c" sid="EZR 5"/>
   <para style="p"><verse number="1" style="v" sid="EZR 5:1"/>At that time two prophets were giving messages from God to the Jews living in Jerusalem and in other cities in Judah{, saying that they should continue rebuilding the temple}. Those prophets were Haggai and Zechariah, the son of Iddo. They spoke their messages representing the God whom the people of Israel worshiped, the one who ruled them.
@@ -364,7 +360,7 @@
 <verse eid="EZR 5:6"/><verse number="7" style="v" sid="EZR 5:7"/>When they sent the report to him, this is what they wrote in it:
 
 </para>
-  <para style="p">“King Darius, we hope everything is going well for you.
+  <para style="p" vid="EZR 5:7">“King Darius, we hope everything is going well for you.
 
 <ms style="ts"/>
 <verse eid="EZR 5:7"/></para>
@@ -391,10 +387,9 @@
 <verse eid="EZR 5:16"/></para>
   <para style="p"><verse number="17" style="v" sid="EZR 5:17"/>Therefore, your Majesty, please order your officials to search in the place in Babylon where you keep the royal records. Have them find out whether or not it is true that King Cyrus decreed that the Jews should rebuild this temple of God in Jerusalem. Then please tell us what you would like us to do about this matter.”
 
+<ms style="ts"/>
+
 <verse eid="EZR 5:17"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 5:17"/>
   <chapter eid="EZR 5"/>
   <chapter number="6" style="c" sid="EZR 6"/>
   <para style="p"><verse number="1" style="v" sid="EZR 6:1"/>So King Darius commanded his servants to search in the places where he kept important records there in the kingdom of Babylon.
@@ -442,10 +437,9 @@
 <verse eid="EZR 6:20"/><verse number="21" style="v" sid="EZR 6:21"/>All of the Israelite people celebrated the Passover. This included the Israelites who had returned from Babylonia and the people who had separated themselves from the people of the area around them who worshiped other gods. They separated themselves from those people and joined the Israelites so that they could worship Yahweh, the God whom the Israelite people worshiped.
 <verse eid="EZR 6:21"/><verse number="22" style="v" sid="EZR 6:22"/>Then for the next seven days, they joyfully celebrated the Festival of Unleavened Bread. They were joyful because Yahweh had caused the king of Assyria to be favorable to them. As a result, the king had helped them to rebuild the temple of God, the God whom Israel worshiped.
 
+<ms style="ts"/>
+
 <verse eid="EZR 6:22"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 6:22"/>
   <chapter eid="EZR 6"/>
   <chapter number="7" style="c" sid="EZR 7"/>
   <para style="p"><verse number="1" style="v" sid="EZR 7:1"/>Many years later, during the time when Artaxerxes was the king of Persia, {there was a man named} Ezra{. He} was a descendant of Seraiah, who was the son of Azariah, who was the son of Hilkiah.
@@ -506,10 +500,9 @@
   <para style="p"><verse number="27" style="v" sid="EZR 7:27"/>{When I, Ezra, read this letter, I said,} “Praise Yahweh, the God whom our ancestors worshiped! He has caused the king to want to honor his temple in Jerusalem.
 <verse eid="EZR 7:27"/><verse number="28" style="v" sid="EZR 7:28"/>God also acted very kindly to me by causing the king and his advisors and all of his powerful officials to want to help me. When I saw how Yahweh, the God whom I worship, was making all of my plans succeed, I boldly asked some of the Israelite leaders to go {to Jerusalem} with me.”
 
+<ms style="ts"/>
+
 <verse eid="EZR 7:28"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 7:28"/>
   <chapter eid="EZR 7"/>
   <chapter number="8" style="c" sid="EZR 8"/>
   <para style="p"><verse number="1" style="v" sid="EZR 8:1"/>“This is a list of the names of the clan leaders, along with the names of their clans, who traveled {to Jerusalem} with me from Babylonia when Artaxerxes was king {of Persia}:
@@ -518,14 +511,14 @@
   <para style="p"><verse number="2" style="v" sid="EZR 8:2"/>Gershom from the clan descended from {Aaron’s grandson} Phinehas.
 
 </para>
-  <para style="p">Daniel from the clan descended from {Aaron’s son} Ithamar.
+  <para style="p" vid="EZR 8:2">Daniel from the clan descended from {Aaron’s son} Ithamar.
 
 </para>
-  <para style="p">Hattush from the clan descended from {King} David.
+  <para style="p" vid="EZR 8:2">Hattush from the clan descended from {King} David.
 <verse eid="EZR 8:2"/><verse number="3" style="v" sid="EZR 8:3"/>{Hattush was also} a descendant of Shecaniah.
 
 </para>
-  <para style="p">Zechariah and 150 other men from the clan descended from Parosh.
+  <para style="p" vid="EZR 8:3">Zechariah and 150 other men from the clan descended from Parosh.
 
 <verse eid="EZR 8:3"/></para>
   <para style="p"><verse number="4" style="v" sid="EZR 8:4"/>Eliehoenai son of Zerahiah and 200 other men from the clan descended from Pahath-Moab.
@@ -612,10 +605,9 @@
 <verse eid="EZR 8:35"/></para>
   <para style="p"><verse number="36" style="v" sid="EZR 8:36"/>Some of us who had returned from Babylonia took the letter that the king had given to us to the governors of the king’s provinces and to the officials of the province west of the Euphrates River. {After they read the letter,} they did what the king commanded for us {Israelite} people and for the temple of God.”
 
+<ms style="ts"/>
+
 <verse eid="EZR 8:36"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 8:36"/>
   <chapter eid="EZR 8"/>
   <chapter number="9" style="c" sid="EZR 9"/>
   <para style="p"><verse number="1" style="v" sid="EZR 9:1"/>“After that, {some of} the {Jewish} leaders came to me and said, ‘Many Israelites and {even some} priests and Levites have not kept themselves from doing what the other people who are living in this land do. They are doing the same disgusting things that those people do. Those people are from the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.
@@ -652,10 +644,9 @@
 <verse eid="EZR 9:14"/></para>
   <para style="p"><verse number="15" style="v" sid="EZR 9:15"/>Yahweh, God of Israel, you always do the right thing! Because of that, you have continually allowed some of us to survive, just as you have done with this group now. But we acknowledge that we are guilty of disobeying you and so because of what we have done, we do not deserve even to pray to you.’”
 
+<ms style="ts"/>
+
 <verse eid="EZR 9:15"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="EZR 9:15"/>
   <chapter eid="EZR 9"/>
   <chapter number="10" style="c" sid="EZR 10"/>
   <para style="p"><verse number="1" style="v" sid="EZR 10:1"/>Ezra prostrated himself on the ground in front of the temple as he cried and prayed {to God}. He was confessing {to God the sins that the people had committed}. While he was doing that, a very large crowd of Israelites gathered around him, consisting of men, women, and children. They all cried very, very much {because they had sinned against God}.
@@ -722,7 +713,7 @@
   <para style="p"><verse number="25" style="v" sid="EZR 10:25"/>This is a list of the names of the other Israelites {who had married foreign wives}:
 
 </para>
-  <para style="p">In the clan of Parosh there were Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, and Benaiah.
+  <para style="p" vid="EZR 10:25">In the clan of Parosh there were Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, and Benaiah.
 
 <verse eid="EZR 10:25"/></para>
   <para style="p"><verse number="26" style="v" sid="EZR 10:26"/>In the clan of Elam there were Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.

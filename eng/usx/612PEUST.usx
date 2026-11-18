@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2PE" style="id">EN_UST en_English_ltr Fri Nov 19 2021 14:15:39 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -57,7 +57,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2PE 1:21"/><verse eid="2PE 1:21"/></para>
+<verse eid="2PE 1:21"/></para>
   <chapter eid="2PE 1"/>
   <chapter number="2" style="c" sid="2PE 2"/>
   <para style="p"><verse number="1" style="v" sid="2PE 2:1"/>But people who falsely proclaimed {messages from God} were also amidst the Israelites. In the same way there will also be people who teach false {messages} amidst you. They will introduce opinions {that will result in} eternal condemnation. They will even reject their owner, {Jesus,} who redeemed them. {As a result of this,} God will soon condemn them {for eternity}.
@@ -101,7 +101,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2PE 2:22"/><verse eid="2PE 2:22"/></para>
+<verse eid="2PE 2:22"/></para>
   <chapter eid="2PE 2"/>
   <chapter number="3" style="c" sid="2PE 3"/>
   <para style="p"><verse number="1" style="v" sid="2PE 3:1"/>Fellow believers whom I love, this {letter} that I am now writing to you is the second letter {that I have written to you}. {I have written} both {of these letters to you} to remind you of the things that your sincere minds already know.
@@ -141,7 +141,7 @@
 <verse eid="2PE 3:17"/><verse number="18" style="v" sid="2PE 3:18"/>Rather, live in such a manner that you experience more and more of the kind acts of the one who rules over us and saves us, Jesus the Messiah. And live in such a manner that you know more and more about him.
 
 </para>
-  <para style="p">I pray that everyone will glorify Jesus both at this time and forever. May this truly be so!
+  <para style="p" vid="2PE 3:18">I pray that everyone will glorify Jesus both at this time and forever. May this truly be so!
 <verse eid="2PE 3:18"/></para>
   <chapter eid="2PE 3"/>
 </usx>

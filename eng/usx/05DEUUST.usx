@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="DEU" style="id">EN_UST en_English_ltr Tue Nov 14 2023 15:23:54 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -70,7 +70,7 @@
 
 <verse eid="DEU 1:22"/></para>
   <para style="p"><verse number="23" style="v" sid="DEU 1:23"/>I thought that what they had planned was good, so I chose 12 men, one man from each tribe.
-<verse eid="DEU 1:23"/><verse number="24" style="v" sid="DEU 1:24"/>They went into the hilly area as far as the Valley of Eshkol, and they explored the area.
+<verse eid="DEU 1:23"/><verse number="24" style="v" sid="DEU 1:24"/>They went into the hilly area as far as the Valley of Eshcol, and they explored the area.
 
 <ms style="ts"/>
 <verse eid="DEU 1:24"/><verse number="25" style="v" sid="DEU 1:25"/>They picked some of the fruit that they found there and brought it to us. They reported that the land that Yahweh our God was giving to us was very good.
@@ -125,7 +125,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 1:46"/><verse eid="DEU 1:46"/></para>
+<verse eid="DEU 1:46"/></para>
   <chapter eid="DEU 1"/>
   <chapter number="2" style="c" sid="DEU 2"/>
   <para style="p"><verse number="1" style="v" sid="DEU 2:1"/>Then we turned around and went through the desert toward the Sea of Reeds as Yahweh told us to do. We wandered near Mount Seir for a long time.
@@ -217,7 +217,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 2:37"/><verse eid="DEU 2:37"/></para>
+<verse eid="DEU 2:37"/></para>
   <chapter eid="DEU 2"/>
   <chapter number="3" style="c" sid="DEU 3"/>
   <para style="p"><verse number="1" style="v" sid="DEU 3:1"/>Then we turned north and went toward the region of Bashan. Og, the king of that area, and all his soldiers marched south to fight against us at the city of Edrei.
@@ -290,7 +290,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 3:29"/><verse eid="DEU 3:29"/></para>
+<verse eid="DEU 3:29"/></para>
   <chapter eid="DEU 3"/>
   <chapter number="4" style="c" sid="DEU 4"/>
   <para style="p"><verse number="1" style="v" sid="DEU 4:1"/>Now, you Israelite people, obey all the rules and regulations that I will teach you. If you do that, you will remain alive. You will be able to enter and occupy the land that Yahweh, the God whom your ancestors worshiped, is giving to you.
@@ -400,7 +400,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 4:49"/><verse eid="DEU 4:49"/></para>
+<verse eid="DEU 4:49"/></para>
   <chapter eid="DEU 4"/>
   <chapter number="5" style="c" sid="DEU 5"/>
   <para style="p"><verse number="1" style="v" sid="DEU 5:1"/>Moses summoned all the people of Israel and said to them, “You Israelite people, listen to all the rules that I am commanding you today. Learn them and be sure to obey them.
@@ -488,7 +488,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 5:33"/><verse eid="DEU 5:33"/></para>
+<verse eid="DEU 5:33"/></para>
   <chapter eid="DEU 5"/>
   <chapter number="6" style="c" sid="DEU 6"/>
   <para style="p"><verse number="1" style="v" sid="DEU 6:1"/>These are the commandments, rules, and decrees that Yahweh our God commanded me to teach to you. He wants you to obey them in the land that you are about to enter and occupy.
@@ -543,7 +543,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 6:25"/><verse eid="DEU 6:25"/></para>
+<verse eid="DEU 6:25"/></para>
   <chapter eid="DEU 6"/>
   <chapter number="7" style="c" sid="DEU 7"/>
   <para style="p"><verse number="1" style="v" sid="DEU 7:1"/>Yahweh our God will take you into the land that you will soon enter and occupy. As you advance, he will expel these people groups that are more powerful and more numerous than you are. They are the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites.
@@ -603,7 +603,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 7:26"/><verse eid="DEU 7:26"/></para>
+<verse eid="DEU 7:26"/></para>
   <chapter eid="DEU 7"/>
   <chapter number="8" style="c" sid="DEU 8"/>
   <para style="p"><verse number="1" style="v" sid="DEU 8:1"/>You must faithfully obey all the commandments that I am giving you today. If you do that, you will live a long time and you will become very numerous. Your people will occupy the land that Yahweh solemnly promised your ancestors {that he would give to you}.
@@ -650,7 +650,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 8:20"/><verse eid="DEU 8:20"/></para>
+<verse eid="DEU 8:20"/></para>
   <chapter eid="DEU 8"/>
   <chapter number="9" style="c" sid="DEU 9"/>
   <para style="p"><verse number="1" style="v" sid="DEU 9:1"/>You people of Israel, listen to me! You will soon cross the Jordan River. In the land that you will enter, there are people groups that are more numerous and more powerful than you are. In that land, there are large cities that have very high walls {around them}. The walls are so high that they {seem to} extend up to the sky. You will take possession of the land that these people groups occupy.
@@ -726,7 +726,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 9:29"/><verse eid="DEU 9:29"/></para>
+<verse eid="DEU 9:29"/></para>
   <chapter eid="DEU 9"/>
   <chapter number="10" style="c" sid="DEU 10"/>
   <para style="p"><verse number="1" style="v" sid="DEU 10:1"/>Then Yahweh said to me, ‘Cut two stone tablets like the first ones and make a wooden chest to put them in. Then {bring the tablets} up to me on this mountain.
@@ -781,7 +781,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 10:22"/><verse eid="DEU 10:22"/></para>
+<verse eid="DEU 10:22"/></para>
   <chapter eid="DEU 10"/>
   <chapter number="11" style="c" sid="DEU 11"/>
   <para style="p"><verse number="1" style="v" sid="DEU 11:1"/>{Because of all that} Yahweh your God {has done for you}, you must love him. Also, you must continually obey all his rules, decrees, and commandments.
@@ -852,7 +852,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 11:32"/><verse eid="DEU 11:32"/></para>
+<verse eid="DEU 11:32"/></para>
   <chapter eid="DEU 11"/>
   <chapter number="12" style="c" sid="DEU 12"/>
   <para style="p"><verse number="1" style="v" sid="DEU 12:1"/>I will now tell you the rules and decrees that you must faithfully obey in the land. Yahweh, the God whom our ancestors worshiped, is giving to you the land to occupy. You must obey these laws all the time that you are alive.
@@ -935,7 +935,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 12:32"/><verse eid="DEU 12:32"/></para>
+<verse eid="DEU 12:32"/></para>
   <chapter eid="DEU 12"/>
   <chapter number="13" style="c" sid="DEU 13"/>
   <para style="p"><verse number="1" style="v" sid="DEU 13:1"/>In the future, there could be people in your community who say that they are prophets. They may say that they are able to interpret the meaning of dreams or perform various kinds of miracles.
@@ -976,7 +976,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 13:18"/><verse eid="DEU 13:18"/></para>
+<verse eid="DEU 13:18"/></para>
   <chapter eid="DEU 13"/>
   <chapter number="14" style="c" sid="DEU 14"/>
   <para style="p"><verse number="1" style="v" sid="DEU 14:1"/>We are people who belong to Yahweh our God. Do not gash yourselves or shave the hair on your foreheads when you grieve {like the other people groups do}.
@@ -1042,7 +1042,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 14:29"/><verse eid="DEU 14:29"/></para>
+<verse eid="DEU 14:29"/></para>
   <chapter eid="DEU 14"/>
   <chapter number="15" style="c" sid="DEU 15"/>
   <para style="p"><verse number="1" style="v" sid="DEU 15:1"/>At the end of {every} seven years, you must cancel all debts.
@@ -1094,7 +1094,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 15:23"/><verse eid="DEU 15:23"/></para>
+<verse eid="DEU 15:23"/></para>
   <chapter eid="DEU 15"/>
   <chapter number="16" style="c" sid="DEU 16"/>
   <para style="p"><verse number="1" style="v" sid="DEU 16:1"/>{Each year} honor Yahweh our God in the early spring with the Passover Celebration. It was on a night in the early spring that Yahweh rescued your families from Egypt.
@@ -1149,7 +1149,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 16:22"/><verse eid="DEU 16:22"/></para>
+<verse eid="DEU 16:22"/></para>
   <chapter eid="DEU 16"/>
   <chapter number="17" style="c" sid="DEU 17"/>
   <para style="p"><verse number="1" style="v" sid="DEU 17:1"/>Do not sacrifice to Yahweh our God any cattle, sheep, or goat that has any defect. This is because Yahweh detests that kind of gift.
@@ -1197,7 +1197,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 17:20"/><verse eid="DEU 17:20"/></para>
+<verse eid="DEU 17:20"/></para>
   <chapter eid="DEU 17"/>
   <chapter number="18" style="c" sid="DEU 18"/>
   <para style="p"><verse number="1" style="v" sid="DEU 18:1"/>The priests, who are all from the tribe of Levi, will not receive any land in Israel. Instead, they will receive some of the food that other people offer to Yahweh.
@@ -1249,7 +1249,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 18:22"/><verse eid="DEU 18:22"/></para>
+<verse eid="DEU 18:22"/></para>
   <chapter eid="DEU 18"/>
   <chapter number="19" style="c" sid="DEU 19"/>
   <para style="p"><verse number="1" style="v" sid="DEU 19:1"/>Yahweh our God will destroy the people groups from the land that he is giving to you. You will drive them out from their towns and you start to live in their homes. After that,
@@ -1297,7 +1297,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 19:21"/><verse eid="DEU 19:21"/></para>
+<verse eid="DEU 19:21"/></para>
   <chapter eid="DEU 19"/>
   <chapter number="20" style="c" sid="DEU 20"/>
   <para style="p"><verse number="1" style="v" sid="DEU 20:1"/>When your fighting men go to fight your enemies and see that they have many horses and chariots and that their army is much bigger than yours, do not be afraid of them, because Yahweh our God, who brought the Israelites safely out of Egypt, will be with you.
@@ -1345,7 +1345,7 @@
 <verse eid="DEU 20:19"/><verse number="20" style="v" sid="DEU 20:20"/>You are permitted to cut down trees you know do not bear fruit and use the wood to make ladders and towers to enable you to go over the walls and capture the city that is resisting you.
 
 
-<verse eid="DEU 20:20"/><verse eid="DEU 20:20"/></para>
+<verse eid="DEU 20:20"/></para>
   <chapter eid="DEU 20"/>
   <chapter number="21" style="c" sid="DEU 21"/>
   <para style="p"><verse number="1" style="v" sid="DEU 21:1"/>Suppose that while you are living in the land that Yahweh our God is giving to you to inherit, you find the body of a person that someone murdered. If you do not know who killed that person because it was in a field,
@@ -1398,7 +1398,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 21:23"/><verse eid="DEU 21:23"/></para>
+<verse eid="DEU 21:23"/></para>
   <chapter eid="DEU 21"/>
   <chapter number="22" style="c" sid="DEU 22"/>
   <para style="p"><verse number="1" style="v" sid="DEU 22:1"/>If you see an Israelite’s ox or sheep that has strayed away, do not act as though you did not see it. Take it back to its owner.
@@ -1484,7 +1484,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 22:30"/><verse eid="DEU 22:30"/></para>
+<verse eid="DEU 22:30"/></para>
   <chapter eid="DEU 22"/>
   <chapter number="23" style="c" sid="DEU 23"/>
   <para style="p"><verse number="1" style="v" sid="DEU 23:1"/>No man with crushed testicles or a severed penis may worship with Yahweh’s people.
@@ -1546,7 +1546,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 23:25"/><verse eid="DEU 23:25"/></para>
+<verse eid="DEU 23:25"/></para>
   <chapter eid="DEU 23"/>
   <chapter number="24" style="c" sid="DEU 24"/>
   <para style="p"><verse number="1" style="v" sid="DEU 24:1"/>Suppose a man marries a woman and later decides that he does not want her because he finds something about her offensive. Then he must write a paper in which he says that he is divorcing her, give the paper to her, and send her away from his house.
@@ -1607,7 +1607,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 24:22"/><verse eid="DEU 24:22"/></para>
+<verse eid="DEU 24:22"/></para>
   <chapter eid="DEU 24"/>
   <chapter number="25" style="c" sid="DEU 25"/>
   <para style="p"><verse number="1" style="v" sid="DEU 25:1"/>If people have a dispute and they go to a court, the judge will decide who is innocent and who is guilty.
@@ -1654,7 +1654,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 25:19"/><verse eid="DEU 25:19"/></para>
+<verse eid="DEU 25:19"/></para>
   <chapter eid="DEU 25"/>
   <chapter number="26" style="c" sid="DEU 26"/>
   <para style="p"><verse number="1" style="v" sid="DEU 26:1"/>After you arrive and settle in the land that Yahweh our God is giving to you to own forever,
@@ -1699,7 +1699,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 26:19"/><verse eid="DEU 26:19"/></para>
+<verse eid="DEU 26:19"/></para>
   <chapter eid="DEU 26"/>
   <chapter number="27" style="c" sid="DEU 27"/>
   <para style="p"><verse number="1" style="v" sid="DEU 27:1"/>Moses, along with the other Israelite leaders, said this to the people, “Obey all the commandments that I am giving to you today.
@@ -1735,71 +1735,71 @@
 <verse eid="DEU 27:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="DEU 27:15"/>‘Yahweh will curse anyone who carves a figure from wood or stone or casts a figure from metal, and secretly sets it up and worships it.
 </para>
-  <para style="q2">Yahweh considers that those things are detestable.’
+  <para style="q2" vid="DEU 27:15">Yahweh considers that those things are detestable.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:15">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="DEU 27:16"/>‘Yahweh will curse anyone who dishonors his father or his mother.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:16">And all the people must reply, ‘Amen.’
 <verse eid="DEU 27:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="DEU 27:17"/>‘Yahweh will curse anyone who removes someone else’s markers of property boundaries.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:17">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="DEU 27:18"/>‘Yahweh will curse anyone who leads a blind person to go in the wrong direction.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:18">And all the people must reply, ‘Amen.’
 <verse eid="DEU 27:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="DEU 27:19"/>‘Yahweh will curse anyone who refuses to act toward foreigners, orphans, or widows in the way that the law requires.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:19">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="DEU 27:20"/>‘Yahweh will curse anyone who violates his father’s marriage rights
 </para>
-  <para style="q2">by having sexual relations with any of his father’s wives.’
+  <para style="q2" vid="DEU 27:20">by having sexual relations with any of his father’s wives.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:20">And all the people must reply, ‘Amen.’
 <verse eid="DEU 27:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="DEU 27:21"/>‘Yahweh will curse anyone who has sexual relations with any animal.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:21">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="DEU 27:22"/>‘Yahweh will curse anyone who has sexual relations with his sister or with his half-sister.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:22">And all the people must reply, ‘Amen.’
 <verse eid="DEU 27:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="DEU 27:23"/>‘Yahweh will curse anyone who has sexual relations with his mother-in-law.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:23">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="DEU 27:24"/>‘Yahweh will curse anyone who secretly murders someone else.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:24">And all the people must reply, ‘Amen.’
 <verse eid="DEU 27:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="DEU 27:25"/>‘Yahweh will curse anyone who murders someone who is innocent because someone else has given him money or something else to do that.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:25">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 <verse eid="DEU 27:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="DEU 27:26"/>‘Yahweh will curse anyone who does not carefully obey these laws.’
 </para>
-  <para style="q2">And all the people must reply, ‘Amen.’
+  <para style="q2" vid="DEU 27:26">And all the people must reply, ‘Amen.’
 
 <ms style="ts"/>
 
-<verse eid="DEU 27:26"/><verse eid="DEU 27:26"/></para>
+<verse eid="DEU 27:26"/></para>
   <chapter eid="DEU 27"/>
   <chapter number="28" style="c" sid="DEU 28"/>
   <para style="p"><verse number="1" style="v" sid="DEU 28:1"/>If you do what Yahweh our God tells you to do and faithfully obey everything that I am today commanding you to do, he will cause you to become greater than any other people group on the earth.
@@ -1896,7 +1896,7 @@
   <para style="p"><verse number="43" style="v" sid="DEU 28:43"/>Foreigners who live in your land will become more and more powerful, and you will become less and less powerful.
 <verse eid="DEU 28:43"/><verse number="44" style="v" sid="DEU 28:44"/>They will have money to lend to you, but you will not have any money to lend to them.
 </para>
-  <para style="pi1">They will be superior to you, and you will be inferior to them.
+  <para style="pi1" vid="DEU 28:44">They will be superior to you, and you will be inferior to them.
 
 <ms style="ts"/>
 <verse eid="DEU 28:44"/></para>
@@ -1948,7 +1948,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 28:68"/><verse eid="DEU 28:68"/></para>
+<verse eid="DEU 28:68"/></para>
   <chapter eid="DEU 28"/>
   <chapter number="29" style="c" sid="DEU 29"/>
   <para style="p"><verse number="1" style="v" sid="DEU 29:1"/>Yahweh commanded Moses to have the Israelites commit to all the following things when they were in the Moab region {on the east side of the Jordan River}. This was in addition to what they and Yahweh promised each other at Horeb:
@@ -2018,7 +2018,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 29:29"/><verse eid="DEU 29:29"/></para>
+<verse eid="DEU 29:29"/></para>
   <chapter eid="DEU 29"/>
   <chapter number="30" style="c" sid="DEU 30"/>
   <para style="p"><verse number="1" style="v" sid="DEU 30:1"/>If, despite Yahweh our God blessing you in all the ways I have just told you about, {you disobey him, and when} he curses you in all the ways I have just told you about, and you are living in the countries to which he will have scattered you, you may realize what you have done.
@@ -2064,7 +2064,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 30:20"/><verse eid="DEU 30:20"/></para>
+<verse eid="DEU 30:20"/></para>
   <chapter eid="DEU 30"/>
   <chapter number="31" style="c" sid="DEU 31"/>
   <para style="p"><verse number="1" style="v" sid="DEU 31:1"/>Then Moses also told the Israelites,
@@ -2131,236 +2131,236 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 31:30"/><verse eid="DEU 31:30"/></para>
+<verse eid="DEU 31:30"/></para>
   <chapter eid="DEU 31"/>
   <chapter number="32" style="c" sid="DEU 32"/>
   <para style="q1"><verse number="1" style="v" sid="DEU 32:1"/>“Listen to me, all you who are in the heavens, let me sing {this song},
 </para>
-  <para style="q1">all you who are on the earth, {do the same:} listen to what I sing.
+  <para style="q1" vid="DEU 32:1">all you who are on the earth, {do the same:} listen to what I sing.
 <verse eid="DEU 32:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="DEU 32:2"/>I wish that my song may help you like the rain helps you,
 </para>
-  <para style="q1">may it refresh you like the dew on the ground in the morning,
+  <para style="q1" vid="DEU 32:2">may it refresh you like the dew on the ground in the morning,
 </para>
-  <para style="q1">like a gentle rain on the young plants,
+  <para style="q1" vid="DEU 32:2">like a gentle rain on the young plants,
 </para>
-  <para style="q1">or like showers of rain on the grass.
+  <para style="q1" vid="DEU 32:2">or like showers of rain on the grass.
 
 <ms style="ts"/>
 <verse eid="DEU 32:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="DEU 32:3"/>{This song will refresh you if you listen to it} because I will praise Yahweh.
 </para>
-  <para style="q1">All you people should praise how great our God is.
+  <para style="q1" vid="DEU 32:3">All you people should praise how great our God is.
 <verse eid="DEU 32:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="DEU 32:4"/>He is like a rock on top of which we are safe;
 </para>
-  <para style="q1">everything that he does is perfect and completely just.
+  <para style="q1" vid="DEU 32:4">everything that he does is perfect and completely just.
 </para>
-  <para style="q1">He always does what he says that he will do, and he never breaks his promises;
+  <para style="q1" vid="DEU 32:4">He always does what he says that he will do, and he never breaks his promises;
 </para>
-  <para style="q1">he always does the right thing.
+  <para style="q1" vid="DEU 32:4">he always does the right thing.
 
 <ms style="ts"/>
 <verse eid="DEU 32:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="DEU 32:5"/>But you Israelite people have been very unfaithful to him;
 </para>
-  <para style="q1">because of your sins, you no longer deserve to be his children.
+  <para style="q1" vid="DEU 32:5">because of your sins, you no longer deserve to be his children.
 </para>
-  <para style="q1">You are extremely wicked and deceitful.
+  <para style="q1" vid="DEU 32:5">You are extremely wicked and deceitful.
 <verse eid="DEU 32:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="DEU 32:6"/>You foolish and senseless people,
 </para>
-  <para style="q1">this is certainly not the way that you should repay Yahweh for all that he has done for you.
+  <para style="q1" vid="DEU 32:6">this is certainly not the way that you should repay Yahweh for all that he has done for you.
 </para>
-  <para style="q1">He is your father; he created you;
+  <para style="q1" vid="DEU 32:6">He is your father; he created you;
 </para>
-  <para style="q1">he caused you to become a nation.
+  <para style="q1" vid="DEU 32:6">he caused you to become a nation.
 
 <ms style="ts"/>
 <verse eid="DEU 32:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="DEU 32:7"/>Think about what happened long ago
 </para>
-  <para style="q1">by considering what happened to your ancestors.
+  <para style="q1" vid="DEU 32:7">by considering what happened to your ancestors.
 </para>
-  <para style="q1">Ask your parents, and they will inform you;
+  <para style="q1" vid="DEU 32:7">Ask your parents, and they will inform you;
 </para>
-  <para style="q1">{ask} the older people, and they will tell you.
+  <para style="q1" vid="DEU 32:7">{ask} the older people, and they will tell you.
 <verse eid="DEU 32:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="DEU 32:8"/>Long ago when the Greatest God divided humanity into people groups and gave them their lands,
 </para>
-  <para style="q1">he set their boundaries according to the number of Jacob’s descendants,
+  <para style="q1" vid="DEU 32:8">he set their boundaries according to the number of Jacob’s descendants,
 
 <ms style="ts"/>
 <verse eid="DEU 32:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="DEU 32:9"/>because Yahweh decided that we would be his people.
 </para>
-  <para style="q1">He chose us, Jacob’s descendants, to belong to him.
+  <para style="q1" vid="DEU 32:9">He chose us, Jacob’s descendants, to belong to him.
 <verse eid="DEU 32:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="DEU 32:10"/>He saw our ancestors when they were in a desert,
 </para>
-  <para style="q1">wandering in a land that was desolate.
+  <para style="q1" vid="DEU 32:10">wandering in a land that was desolate.
 </para>
-  <para style="q1">He protected them and took care of them,
+  <para style="q1" vid="DEU 32:10">He protected them and took care of them,
 </para>
-  <para style="q1">as every person takes good care of his own eyes.
+  <para style="q1" vid="DEU 32:10">as every person takes good care of his own eyes.
 
 <ms style="ts"/>
 <verse eid="DEU 32:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="DEU 32:11"/>Yahweh trained and protected his people just like an eagle encourages its babies to fly
 </para>
-  <para style="q1">and flutters over them,
+  <para style="q1" vid="DEU 32:11">and flutters over them,
 </para>
-  <para style="q1">spreading its wings and catching them if they start to fall.
+  <para style="q1" vid="DEU 32:11">spreading its wings and catching them if they start to fall.
 <verse eid="DEU 32:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="DEU 32:12"/>Yahweh was the only one who led them;
 </para>
-  <para style="q1">no other foreign god helped them.
+  <para style="q1" vid="DEU 32:12">no other foreign god helped them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="DEU 32:13"/>Yahweh enabled them to rule the hill country;
 </para>
-  <para style="q1">they ate the crops that grew in the fields.
+  <para style="q1" vid="DEU 32:13">they ate the crops that grew in the fields.
 </para>
-  <para style="q1">They found honey in the rocks,
+  <para style="q1" vid="DEU 32:13">They found honey in the rocks,
 </para>
-  <para style="q1">and their olive trees grew even in stony ground.
+  <para style="q1" vid="DEU 32:13">and their olive trees grew even in stony ground.
 
 <ms style="ts"/>
 <verse eid="DEU 32:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="DEU 32:14"/>Their cows produced very creamy milk,
 </para>
-  <para style="q1">the sheep and goats gave them plenty of milk,
+  <para style="q1" vid="DEU 32:14">the sheep and goats gave them plenty of milk,
 </para>
-  <para style="q1">they ate choice lamb fat, Bashan-bred rams, and goats,
+  <para style="q1" vid="DEU 32:14">they ate choice lamb fat, Bashan-bred rams, and goats,
 </para>
-  <para style="q1">they had choice wheat kernels,
+  <para style="q1" vid="DEU 32:14">they had choice wheat kernels,
 </para>
-  <para style="q1">and they made and drank delicious wine from their grapes.
+  <para style="q1" vid="DEU 32:14">and they made and drank delicious wine from their grapes.
 
 <ms style="ts"/>
 <verse eid="DEU 32:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="DEU 32:15"/>The Israelites became so rich and prosperous that they became very fat,
 </para>
-  <para style="q1">but then they rebelled against God;
+  <para style="q1" vid="DEU 32:15">but then they rebelled against God;
 </para>
-  <para style="q1">they abandoned him, the one who created them.
+  <para style="q1" vid="DEU 32:15">they abandoned him, the one who created them.
 </para>
-  <para style="q1">They disregarded the God who powerfully saves them.
+  <para style="q1" vid="DEU 32:15">They disregarded the God who powerfully saves them.
 <verse eid="DEU 32:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="DEU 32:16"/>The Israelites made God jealous by worshiping other gods.
 </para>
-  <para style="q1">Because they did disgusting things while worshiping idols, he became angry.
+  <para style="q1" vid="DEU 32:16">Because they did disgusting things while worshiping idols, he became angry.
 
 <ms style="ts"/>
 <verse eid="DEU 32:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="DEU 32:17"/>They offered sacrifices to gods who were really demons instead of sacrificing to God,
 </para>
-  <para style="q1">to gods that they had not known before.
+  <para style="q1" vid="DEU 32:17">to gods that they had not known before.
 </para>
-  <para style="q1">They offered sacrifices to gods that they had recently found out about,
+  <para style="q1" vid="DEU 32:17">They offered sacrifices to gods that they had recently found out about,
 </para>
-  <para style="q1">to gods whom your ancestors had never been afraid of.
+  <para style="q1" vid="DEU 32:17">to gods whom your ancestors had never been afraid of.
 <verse eid="DEU 32:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="DEU 32:18"/>They ignored their Protector who created them,
 </para>
-  <para style="q1">forgetting the {true} God who made them {a nation}.
+  <para style="q1" vid="DEU 32:18">forgetting the {true} God who made them {a nation}.
 
 <ms style="ts"/>
 <verse eid="DEU 32:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="DEU 32:19"/>When Yahweh saw {that they had abandoned him}, he became angry,
 </para>
-  <para style="q1">so he rejected the Israelites who were like his sons and daughters.
+  <para style="q1" vid="DEU 32:19">so he rejected the Israelites who were like his sons and daughters.
 <verse eid="DEU 32:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="DEU 32:20"/>He said, ‘They are very wicked people,
 </para>
-  <para style="q1">very unfaithful,
+  <para style="q1" vid="DEU 32:20">very unfaithful,
 </para>
-  <para style="q1">so I will no longer help them,
+  <para style="q1" vid="DEU 32:20">so I will no longer help them,
 </para>
-  <para style="q1">and then I will watch and see what happens to them.
+  <para style="q1" vid="DEU 32:20">and then I will watch and see what happens to them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="DEU 32:21"/>Because they worship worthless idols that are not real gods,
 </para>
-  <para style="q1">they have made me angry like a jealous husband.
+  <para style="q1" vid="DEU 32:21">they have made me angry like a jealous husband.
 </para>
-  <para style="q1">So I will make them angry in return by using a foolish nation that is not really a people.
+  <para style="q1" vid="DEU 32:21">So I will make them angry in return by using a foolish nation that is not really a people.
 
 <ms style="ts"/>
 <verse eid="DEU 32:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="DEU 32:22"/>My anger is like a fierce fire that burns in my nostrils;
 </para>
-  <para style="q1">it will burn all the way down to the place where dead people are.
+  <para style="q1" vid="DEU 32:22">it will burn all the way down to the place where dead people are.
 </para>
-  <para style="q1">That fire will destroy the land and the crops,
+  <para style="q1" vid="DEU 32:22">That fire will destroy the land and the crops,
 </para>
-  <para style="q1">it will even burn deep under the mountains.
+  <para style="q1" vid="DEU 32:22">it will even burn deep under the mountains.
 
 <ms style="ts"/>
 <verse eid="DEU 32:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="DEU 32:23"/>I will cause so many disasters to happen to them
 </para>
-  <para style="q1">that they will feel like I am shooting all my arrows into them.
+  <para style="q1" vid="DEU 32:23">that they will feel like I am shooting all my arrows into them.
 <verse eid="DEU 32:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="DEU 32:24"/>They will die because of being hungry and because of having hot fevers
 </para>
-  <para style="q1">and because of terrible diseases.
+  <para style="q1" vid="DEU 32:24">and because of terrible diseases.
 </para>
-  <para style="q1">I will send wild animals to attack them,
+  <para style="q1" vid="DEU 32:24">I will send wild animals to attack them,
 </para>
-  <para style="q1">and poisonous snakes to bite them.
+  <para style="q1" vid="DEU 32:24">and poisonous snakes to bite them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="DEU 32:25"/>Outside their houses, their enemies will kill them with swords,
 </para>
-  <para style="q1">and in their homes, their enemies will terrify them.
+  <para style="q1" vid="DEU 32:25">and in their homes, their enemies will terrify them.
 </para>
-  <para style="q1">Their enemies will kill young men and young women,
+  <para style="q1" vid="DEU 32:25">Their enemies will kill young men and young women,
 </para>
-  <para style="q1">and they will kill infants and old people with gray hair.
+  <para style="q1" vid="DEU 32:25">and they will kill infants and old people with gray hair.
 <verse eid="DEU 32:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="DEU 32:26"/>I almost completely destroyed them
 </para>
-  <para style="q1">in order that no one would ever remember them.
+  <para style="q1" vid="DEU 32:26">in order that no one would ever remember them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="DEU 32:27"/>But I worried that if I did that, their enemies would boast.
 </para>
-  <para style="q1">They would think the wrong thing.
+  <para style="q1" vid="DEU 32:27">They would think the wrong thing.
 </para>
-  <para style="q1">I did not want them to say, “We are the stronger than the Israelites;
+  <para style="q1" vid="DEU 32:27">I did not want them to say, “We are the stronger than the Israelites;
 </para>
-  <para style="q1">it was us, not Yahweh who destroyed them.”’
+  <para style="q1" vid="DEU 32:27">it was us, not Yahweh who destroyed them.”’
 
 <ms style="ts"/>
 <verse eid="DEU 32:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="DEU 32:28"/>You are a nation of people who do not have any sense.
 </para>
-  <para style="q1">None of you are wise.
+  <para style="q1" vid="DEU 32:28">None of you are wise.
 <verse eid="DEU 32:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="DEU 32:29"/>If you were wise, you would understand why I would punish you;
 </para>
-  <para style="q1">you would have realized what was going to happen to you.
+  <para style="q1" vid="DEU 32:29">you would have realized what was going to happen to you.
 <verse eid="DEU 32:29"/></para>
   <para style="q1"><verse number="30" style="v" sid="DEU 32:30"/>You would have realized why one soldier could defeat a thousand soldiers,
 </para>
-  <para style="q1">and why two soldiers could chase away ten thousand soldiers.
+  <para style="q1" vid="DEU 32:30">and why two soldiers could chase away ten thousand soldiers.
 </para>
-  <para style="q1">You would realize that this could happen only if the Israelites’ Protector, Yahweh, had given their enemies power to defeat them.
+  <para style="q1" vid="DEU 32:30">You would realize that this could happen only if the Israelites’ Protector, Yahweh, had given their enemies power to defeat them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:30"/></para>
   <para style="q1"><verse number="31" style="v" sid="DEU 32:31"/>Even our enemies know
 </para>
-  <para style="q1">that their protector gods are not like our Protector God.
+  <para style="q1" vid="DEU 32:31">that their protector gods are not like our Protector God.
 <verse eid="DEU 32:31"/></para>
   <para style="q1"><verse number="32" style="v" sid="DEU 32:32"/>Their gods are as deeply evil as those of Sodom and Gomorrah,
 </para>
-  <para style="q1">so those who worship them are bitter and toxic,
+  <para style="q1" vid="DEU 32:32">so those who worship them are bitter and toxic,
 <verse eid="DEU 32:32"/></para>
   <para style="q1"><verse number="33" style="v" sid="DEU 32:33"/>they love celebrating things as deadly as snakes’ poison.
 
@@ -2368,85 +2368,85 @@
 <verse eid="DEU 32:33"/></para>
   <para style="q1"><verse number="34" style="v" sid="DEU 32:34"/>Yahweh says, ‘The things I will do to punish them, I have kept hidden with me,
 </para>
-  <para style="q1">protected like a treasure.
+  <para style="q1" vid="DEU 32:34">protected like a treasure.
 <verse eid="DEU 32:34"/></para>
   <para style="q1"><verse number="35" style="v" sid="DEU 32:35"/>It is for me to punish and to pay back.
 </para>
-  <para style="q1">When everything sudden goes wrong
+  <para style="q1" vid="DEU 32:35">When everything sudden goes wrong
 </para>
-  <para style="q1">I am starting to destroy them.
+  <para style="q1" vid="DEU 32:35">I am starting to destroy them.
 </para>
-  <para style="q1">I am prepared to punish them quickly.’
+  <para style="q1" vid="DEU 32:35">I am prepared to punish them quickly.’
 
 <ms style="ts"/>
 <verse eid="DEU 32:35"/></para>
   <para style="q1"><verse number="36" style="v" sid="DEU 32:36"/>Yahweh will see that his people are helpless
 </para>
-  <para style="q1">and that almost no one remains—neither prisoner nor free person.
+  <para style="q1" vid="DEU 32:36">and that almost no one remains—neither prisoner nor free person.
 </para>
-  <para style="q1">Then he will pity his servants
+  <para style="q1" vid="DEU 32:36">Then he will pity his servants
 </para>
-  <para style="q1">and judge on behalf of them.
+  <para style="q1" vid="DEU 32:36">and judge on behalf of them.
 
 <ms style="ts"/>
 <verse eid="DEU 32:36"/></para>
   <para style="q1"><verse number="37" style="v" sid="DEU 32:37"/>Then Yahweh will ask you, ‘Where are the gods
 </para>
-  <para style="q2">that you thought would protect you?
+  <para style="q2" vid="DEU 32:37">that you thought would protect you?
 <verse eid="DEU 32:37"/></para>
   <para style="q1"><verse number="38" style="v" sid="DEU 32:38"/>You gave to those gods the best parts of the animals that you sacrificed,
 </para>
-  <para style="q1">and you poured out wine for them to drink.
+  <para style="q1" vid="DEU 32:38">and you poured out wine for them to drink.
 </para>
-  <para style="q1">So they should take action to help you;
+  <para style="q1" vid="DEU 32:38">So they should take action to help you;
 </para>
-  <para style="q1">they should be the ones who will protect you!
+  <para style="q1" vid="DEU 32:38">they should be the ones who will protect you!
 
 <ms style="ts"/>
 <verse eid="DEU 32:38"/></para>
   <para style="q1"><verse number="39" style="v" sid="DEU 32:39"/>But now you will realize that I, only I, am God;
 </para>
-  <para style="q1">there is no other god who is a real god.
+  <para style="q1" vid="DEU 32:39">there is no other god who is a real god.
 </para>
-  <para style="q1">I alone can kill people and can cause people to live;
+  <para style="q1" vid="DEU 32:39">I alone can kill people and can cause people to live;
 </para>
-  <para style="q1">I can wound people, and I alone can heal people,
+  <para style="q1" vid="DEU 32:39">I can wound people, and I alone can heal people,
 </para>
-  <para style="q1">and there is no one who can prevent me from doing those things.
+  <para style="q1" vid="DEU 32:39">and there is no one who can prevent me from doing those things.
 <verse eid="DEU 32:39"/></para>
   <para style="q1"><verse number="40" style="v" sid="DEU 32:40"/>I solemnly swear
 </para>
-  <para style="q1">that just as surely as I live forever, I will act.
+  <para style="q1" vid="DEU 32:40">that just as surely as I live forever, I will act.
 
 <ms style="ts"/>
 <verse eid="DEU 32:40"/></para>
   <para style="q1"><verse number="41" style="v" sid="DEU 32:41"/>I will prepare to judge my enemies
 </para>
-  <para style="q1">like a warrior sharpens his sword until it shines.
+  <para style="q1" vid="DEU 32:41">like a warrior sharpens his sword until it shines.
 </para>
-  <para style="q1">I will strike my enemies back
+  <para style="q1" vid="DEU 32:41">I will strike my enemies back
 </para>
-  <para style="q1">by repaying those who hate me for what they have done.
+  <para style="q1" vid="DEU 32:41">by repaying those who hate me for what they have done.
 
 <ms style="ts"/>
 <verse eid="DEU 32:41"/></para>
   <para style="q1"><verse number="42" style="v" sid="DEU 32:42"/>The arrows {of the army that I send to destroy my enemies} will have so much blood on them that it would make them drunk if it were wine and they were people.
 </para>
-  <para style="q1">Their swords will kill a lot of people.
+  <para style="q1" vid="DEU 32:42">Their swords will kill a lot of people.
 </para>
-  <para style="q1">The blood will come from enemies that they kill or that they wound and capture,
+  <para style="q1" vid="DEU 32:42">The blood will come from enemies that they kill or that they wound and capture,
 </para>
-  <para style="q1">some will come from the enemies’ leaders’ heads.’
+  <para style="q1" vid="DEU 32:42">some will come from the enemies’ leaders’ heads.’
 
 <ms style="ts"/>
 <verse eid="DEU 32:42"/></para>
   <para style="q1"><verse number="43" style="v" sid="DEU 32:43"/>Everyone joyfully praise Yahweh,
 </para>
-  <para style="q1">because Yahweh gets revenge on those who kill the people who serve him,
+  <para style="q1" vid="DEU 32:43">because Yahweh gets revenge on those who kill the people who serve him,
 </para>
-  <para style="q1">and he cleanses his people’s land
+  <para style="q1" vid="DEU 32:43">and he cleanses his people’s land
 </para>
-  <para style="q1">{which has become defiled because of their sins}.”
+  <para style="q1" vid="DEU 32:43">{which has become defiled because of their sins}.”
 
 <ms style="ts"/>
 <verse eid="DEU 32:43"/></para>
@@ -2472,259 +2472,259 @@
 
 <ms style="ts"/>
 
-<verse eid="DEU 32:52"/><verse eid="DEU 32:52"/></para>
+<verse eid="DEU 32:52"/></para>
   <chapter eid="DEU 32"/>
   <chapter number="33" style="c" sid="DEU 33"/>
   <para style="p"><verse number="1" style="v" sid="DEU 33:1"/>Before God’s prophet Moses died, he blessed the Israelites.
 <verse eid="DEU 33:1"/><verse number="2" style="v" sid="DEU 33:2"/>This is what he said,
 </para>
-  <para style="q1">“Yahweh came from Mount Sinai,
+  <para style="q1" vid="DEU 33:2">“Yahweh came from Mount Sinai,
 </para>
-  <para style="q1">he came to Israel like the sun rising over Mount Seir,
+  <para style="q1" vid="DEU 33:2">he came to Israel like the sun rising over Mount Seir,
 </para>
-  <para style="q1">his light shone from near Mount Paran.
+  <para style="q1" vid="DEU 33:2">his light shone from near Mount Paran.
 </para>
-  <para style="q1">He came with ten thousand holy angels,
+  <para style="q1" vid="DEU 33:2">He came with ten thousand holy angels,
 </para>
-  <para style="q1">and there was a flaming fire at his right side.
+  <para style="q1" vid="DEU 33:2">and there was a flaming fire at his right side.
 
 <ms style="ts"/>
 <verse eid="DEU 33:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="DEU 33:3"/>Yahweh truly loves his people
 </para>
-  <para style="q1">and protects all his special people.
+  <para style="q1" vid="DEU 33:3">and protects all his special people.
 </para>
-  <para style="q1">So they worship him
+  <para style="q1" vid="DEU 33:3">So they worship him
 </para>
-  <para style="q1">and listen to his instructions.
+  <para style="q1" vid="DEU 33:3">and listen to his instructions.
 <verse eid="DEU 33:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="DEU 33:4"/>{They said that} I gave them laws to obey,
 </para>
-  <para style="q1">laws that would forever be for the descendants of Jacob.
+  <para style="q1" vid="DEU 33:4">laws that would forever be for the descendants of Jacob.
 
 <ms style="ts"/>
 <verse eid="DEU 33:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="DEU 33:5"/>So Yahweh became the king of his precious people
 </para>
-  <para style="q1">when all the tribes and their leaders had gathered together.
+  <para style="q1" vid="DEU 33:5">when all the tribes and their leaders had gathered together.
 
 <verse eid="DEU 33:5"/></para>
   <para style="p"><verse number="6" style="v" sid="DEU 33:6"/>I say this about the tribe of Reuben,
 </para>
-  <para style="q1">I desire that their tribe will never disappear,
+  <para style="q1" vid="DEU 33:6">I desire that their tribe will never disappear,
 </para>
-  <para style="q1">but that they will never become numerous.
+  <para style="q1" vid="DEU 33:6">but that they will never become numerous.
 
 <ms style="ts"/>
 <verse eid="DEU 33:6"/></para>
   <para style="p"><verse number="7" style="v" sid="DEU 33:7"/>I say this about the tribe of Judah,
 </para>
-  <para style="q1">Yahweh, listen to them {when they call out for help}.
+  <para style="q1" vid="DEU 33:7">Yahweh, listen to them {when they call out for help}.
 </para>
-  <para style="q1">When they are fighting a battle,
+  <para style="q1" vid="DEU 33:7">When they are fighting a battle,
 </para>
-  <para style="q1">help them against the enemy,
+  <para style="q1" vid="DEU 33:7">help them against the enemy,
 </para>
-  <para style="q1">and bring them back home safely.
+  <para style="q1" vid="DEU 33:7">and bring them back home safely.
 
 <ms style="ts"/>
 <verse eid="DEU 33:7"/></para>
   <para style="p"><verse number="8" style="v" sid="DEU 33:8"/>I say this about the tribe of Levi,
 </para>
-  <para style="q1">Yahweh’s {sacred lots called} Thummim and Urim belong to the tribe that stayed loyal to him
+  <para style="q1" vid="DEU 33:8">Yahweh’s {sacred lots called} Thummim and Urim belong to the tribe that stayed loyal to him
 </para>
-  <para style="q1">after he tested them at Massah
+  <para style="q1" vid="DEU 33:8">after he tested them at Massah
 </para>
-  <para style="q1">and where they quarreled with him at Meribah spring.
+  <para style="q1" vid="DEU 33:8">and where they quarreled with him at Meribah spring.
 
 <ms style="ts"/>
 <verse eid="DEU 33:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="DEU 33:9"/>They did what you told them to do
 </para>
-  <para style="q1">by faithfully keeping the solemn agreement between Yahweh and the Israelites.
+  <para style="q1" vid="DEU 33:9">by faithfully keeping the solemn agreement between Yahweh and the Israelites.
 </para>
-  <para style="q1">Obeying Yahweh was much more important to them
+  <para style="q1" vid="DEU 33:9">Obeying Yahweh was much more important to them
 </para>
-  <para style="q1">than their parents, siblings, or children.
+  <para style="q1" vid="DEU 33:9">than their parents, siblings, or children.
 
 <ms style="ts"/>
 <verse eid="DEU 33:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="DEU 33:10"/>They teach Yahweh’s decrees and laws to the Israelites,
 </para>
-  <para style="q1">they will burn incense for him to enjoy and will completely burn the offerings {that the people bring} on Yahweh’s altar.
+  <para style="q1" vid="DEU 33:10">they will burn incense for him to enjoy and will completely burn the offerings {that the people bring} on Yahweh’s altar.
 
 <ms style="ts"/>
 <verse eid="DEU 33:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="DEU 33:11"/>Yahweh, make them prosper
 </para>
-  <para style="q1">and accept all that they do.
+  <para style="q1" vid="DEU 33:11">and accept all that they do.
 </para>
-  <para style="q1">Crush their attackers’ ability to have children,
+  <para style="q1" vid="DEU 33:11">Crush their attackers’ ability to have children,
 </para>
-  <para style="q1">so those that hate them will never be able to fight against them again.
+  <para style="q1" vid="DEU 33:11">so those that hate them will never be able to fight against them again.
 
 <ms style="ts"/>
 <verse eid="DEU 33:11"/></para>
   <para style="p"><verse number="12" style="v" sid="DEU 33:12"/>I say this about the tribe of Benjamin,
 </para>
-  <para style="q1">Yahweh loves them;
+  <para style="q1" vid="DEU 33:12">Yahweh loves them;
 </para>
-  <para style="q1">he keeps them safe.
+  <para style="q1" vid="DEU 33:12">he keeps them safe.
 </para>
-  <para style="q1">He protects them continually,
+  <para style="q1" vid="DEU 33:12">He protects them continually,
 </para>
-  <para style="q1">and he lives among their hills.
+  <para style="q1" vid="DEU 33:12">and he lives among their hills.
 
 <ms style="ts"/>
 <verse eid="DEU 33:12"/></para>
   <para style="p"><verse number="13" style="v" sid="DEU 33:13"/>I say this about the tribes of Joseph,
 </para>
-  <para style="q1">I desire that Yahweh will bless their land
+  <para style="q1" vid="DEU 33:13">I desire that Yahweh will bless their land
 </para>
-  <para style="q1">by giving them dew from the sky,
+  <para style="q1" vid="DEU 33:13">by giving them dew from the sky,
 </para>
-  <para style="q1">and water from deep in the ground
+  <para style="q1" vid="DEU 33:13">and water from deep in the ground
 
 <ms style="ts"/>
 <verse eid="DEU 33:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="DEU 33:14"/>to produce for them wonderful fruit that the sun makes ripe,
 </para>
-  <para style="q1">wonderful crops in the right months,
+  <para style="q1" vid="DEU 33:14">wonderful crops in the right months,
 <verse eid="DEU 33:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="DEU 33:15"/>and wonderful things produced on their ancient hills and mountains.
 <verse eid="DEU 33:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="DEU 33:16"/>Indeed, may he give them plenty of wonderful things from all that the earth produces
 </para>
-  <para style="q1">and may {Yahweh who} lived in the {burning} bush be kind to them.
+  <para style="q1" vid="DEU 33:16">and may {Yahweh who} lived in the {burning} bush be kind to them.
 </para>
-  <para style="q1">I desire that Yahweh will bless the tribes of Joseph in all those ways,
+  <para style="q1" vid="DEU 33:16">I desire that Yahweh will bless the tribes of Joseph in all those ways,
 </para>
-  <para style="q1">because he was the leader over his brothers {when they were in Egypt}.
+  <para style="q1" vid="DEU 33:16">because he was the leader over his brothers {when they were in Egypt}.
 
 <ms style="ts"/>
 <verse eid="DEU 33:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="DEU 33:17"/>There are ten thousand upon ten thousand people in the tribe of Ephraim
 </para>
-  <para style="q1">and thousands upon thousands of people in the tribe of Manasseh
+  <para style="q1" vid="DEU 33:17">and thousands upon thousands of people in the tribe of Manasseh
 </para>
-  <para style="q1">which will be as strong as a bull;
+  <para style="q1" vid="DEU 33:17">which will be as strong as a bull;
 </para>
-  <para style="q1">with their weapons they will wound their enemies like a wild ox gores other animals with its horns.
+  <para style="q1" vid="DEU 33:17">with their weapons they will wound their enemies like a wild ox gores other animals with its horns.
 </para>
-  <para style="q1">Together they will push other people groups
+  <para style="q1" vid="DEU 33:17">Together they will push other people groups
 </para>
-  <para style="q1">to the most distant places on the earth.
+  <para style="q1" vid="DEU 33:17">to the most distant places on the earth.
 
 <ms style="ts"/>
 <verse eid="DEU 33:17"/></para>
   <para style="p"><verse number="18" style="v" sid="DEU 33:18"/>I say this about the tribes of Zebulun {and Issachar},
 </para>
-  <para style="q1">I desire that the people of Zebulun will prosper whenever they go {across the seas},
+  <para style="q1" vid="DEU 33:18">I desire that the people of Zebulun will prosper whenever they go {across the seas},
 </para>
-  <para style="q1">and that the people of Issachar will prosper while they stay at home {and take care of their cattle and crops}.
+  <para style="q1" vid="DEU 33:18">and that the people of Issachar will prosper while they stay at home {and take care of their cattle and crops}.
 <verse eid="DEU 33:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="DEU 33:19"/>They will invite people {from the other Israelite tribe}s to the mountain
 </para>
-  <para style="q1">{where they worship Yahweh by} offering correct sacrifices to him.
+  <para style="q1" vid="DEU 33:19">{where they worship Yahweh by} offering correct sacrifices to him.
 </para>
-  <para style="q1">They will become rich from {the work that they do on} the seas
+  <para style="q1" vid="DEU 33:19">They will become rich from {the work that they do on} the seas
 </para>
-  <para style="q1">and from {using} the sand along the sea {to make things}.
+  <para style="q1" vid="DEU 33:19">and from {using} the sand along the sea {to make things}.
 
 <ms style="ts"/>
 <verse eid="DEU 33:19"/></para>
   <para style="p"><verse number="20" style="v" sid="DEU 33:20"/>I say this about the tribe of Gad,
 </para>
-  <para style="q1">Praise Yahweh, the one who made their territory large.
+  <para style="q1" vid="DEU 33:20">Praise Yahweh, the one who made their territory large.
 </para>
-  <para style="q1">The people of their tribe will attack their enemies fiercely like a lion that crouches,
+  <para style="q1" vid="DEU 33:20">The people of their tribe will attack their enemies fiercely like a lion that crouches,
 </para>
-  <para style="q1">waiting to tear off the arm or the scalp of some animal.
+  <para style="q1" vid="DEU 33:20">waiting to tear off the arm or the scalp of some animal.
 
 <ms style="ts"/>
 <verse eid="DEU 33:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="DEU 33:21"/>They chose the best part of the land for themselves;
 </para>
-  <para style="q1">they got a share big enough for a leader.
+  <para style="q1" vid="DEU 33:21">they got a share big enough for a leader.
 </para>
-  <para style="q1">When the leaders of the tribes of Israel gathered together,
+  <para style="q1" vid="DEU 33:21">When the leaders of the tribes of Israel gathered together,
 </para>
-  <para style="q1">the tribe of Gad did the righteous things Yahweh commanded Israel to do.
+  <para style="q1" vid="DEU 33:21">the tribe of Gad did the righteous things Yahweh commanded Israel to do.
 
 <ms style="ts"/>
 <verse eid="DEU 33:21"/></para>
   <para style="p"><verse number="22" style="v" sid="DEU 33:22"/>I say this about the tribe of Dan,
 </para>
-  <para style="q1">The people of the tribe of Dan are like a young lion;
+  <para style="q1" vid="DEU 33:22">The people of the tribe of Dan are like a young lion;
 </para>
-  <para style="q1">they leap out from their caves in the region of Bashan to attack their enemies.
+  <para style="q1" vid="DEU 33:22">they leap out from their caves in the region of Bashan to attack their enemies.
 
 <ms style="ts"/>
 <verse eid="DEU 33:22"/></para>
   <para style="p"><verse number="23" style="v" sid="DEU 33:23"/>I say this about the tribe of Naphtali,
 </para>
-  <para style="q1">Yahweh has blessed and been very kind to the people of the tribe of Naphtali;
+  <para style="q1" vid="DEU 33:23">Yahweh has blessed and been very kind to the people of the tribe of Naphtali;
 </para>
-  <para style="q1">their land extends far south from the Sea of Chenneroth.
+  <para style="q1" vid="DEU 33:23">their land extends far south from the Sea of Chenneroth.
 
 <ms style="ts"/>
 <verse eid="DEU 33:23"/></para>
   <para style="p"><verse number="24" style="v" sid="DEU 33:24"/>I say this about the tribe of Asher,
 </para>
-  <para style="q1">May Yahweh bless the descendants of Asher more than he will bless the other tribes.
+  <para style="q1" vid="DEU 33:24">May Yahweh bless the descendants of Asher more than he will bless the other tribes.
 </para>
-  <para style="q1">I desire that they have a lot of olive trees that will produce a lot of olives to make olive oil.
+  <para style="q1" vid="DEU 33:24">I desire that they have a lot of olive trees that will produce a lot of olives to make olive oil.
 <verse eid="DEU 33:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="DEU 33:25"/>Their towns will have high walls with gates that have bronze and iron bars.
 </para>
-  <para style="q1">They will be strong as long as they live.”
+  <para style="q1" vid="DEU 33:25">They will be strong as long as they live.”
 
 <verse eid="DEU 33:25"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="26" style="v" sid="DEU 33:26"/>{Then Moses said to all the Israelites,} “You Israelites, there is no god like your God,
 </para>
-  <para style="q1">who travels swiftly through the heavens to rescue you.
+  <para style="q1" vid="DEU 33:26">who travels swiftly through the heavens to rescue you.
 
 <ms style="ts"/>
 <verse eid="DEU 33:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="DEU 33:27"/>God, who lives forever, is the one who gives you refuge;
 </para>
-  <para style="q1">it is as though he puts his everlasting arms under you to support you.
+  <para style="q1" vid="DEU 33:27">it is as though he puts his everlasting arms under you to support you.
 </para>
-  <para style="q1">He will drive out your enemies while you advance;
+  <para style="q1" vid="DEU 33:27">He will drive out your enemies while you advance;
 </para>
-  <para style="q1">he has told you to destroy all of them.
+  <para style="q1" vid="DEU 33:27">he has told you to destroy all of them.
 
 <ms style="ts"/>
 <verse eid="DEU 33:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="DEU 33:28"/>So you Israelite people will live safely;
 </para>
-  <para style="q1">no one will disturb you descendants of Jacob;
+  <para style="q1" vid="DEU 33:28">no one will disturb you descendants of Jacob;
 </para>
-  <para style="q1">in the land {where you will live}, there will be plenty of grain and wine,
+  <para style="q1" vid="DEU 33:28">in the land {where you will live}, there will be plenty of grain and wine,
 </para>
-  <para style="q1">and plenty of dew will fall from the sky.
+  <para style="q1" vid="DEU 33:28">and plenty of dew will fall from the sky.
 
 <ms style="ts"/>
 <verse eid="DEU 33:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="DEU 33:29"/>You people of Israel are very fortunate.
 </para>
-  <para style="q1">There is certainly no nation like your nation,
+  <para style="q1" vid="DEU 33:29">There is certainly no nation like your nation,
 </para>
-  <para style="q1">whom Yahweh has rescued {from being slaves in Egypt}.
+  <para style="q1" vid="DEU 33:29">whom Yahweh has rescued {from being slaves in Egypt}.
 </para>
-  <para style="q1">He will be like a shield to protect you
+  <para style="q1" vid="DEU 33:29">He will be like a shield to protect you
 </para>
-  <para style="q1">and like a powerful sword to enable you to defeat your enemies.
+  <para style="q1" vid="DEU 33:29">and like a powerful sword to enable you to defeat your enemies.
 </para>
-  <para style="q1">Your enemies will come to you begging for you to act mercifully toward them,
+  <para style="q1" vid="DEU 33:29">Your enemies will come to you begging for you to act mercifully toward them,
 </para>
-  <para style="q1">but you will thoroughly overcome them.”
+  <para style="q1" vid="DEU 33:29">but you will thoroughly overcome them.”
 
 <ms style="ts"/>
 
-<verse eid="DEU 33:29"/><verse eid="DEU 33:29"/></para>
+<verse eid="DEU 33:29"/></para>
   <chapter eid="DEU 33"/>
   <chapter number="34" style="c" sid="DEU 34"/>
   <para style="p"><verse number="1" style="v" sid="DEU 34:1"/>Then Moses climbed up from the plains in the region of Moab to Mount Nebo, to the highest point on Mount Pisgah, which is across {the Jordan River} from Jericho. {There} Yahweh showed him all the {land that the Israelites would occupy. He showed him the region of} Gilead as far north as the city of Dan;

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EST" style="id">EN_UST en_English_ltr Thu Nov 05 2020 07:53:06 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -58,7 +58,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 1:22"/><verse eid="EST 1:22"/></para>
+<verse eid="EST 1:22"/></para>
   <chapter eid="EST 1"/>
   <chapter number="2" style="c" sid="EST 2"/>
   <para style="p"><verse number="1" style="v" sid="EST 2:1"/>Some time later, when King Ahasuerus no longer felt so angry, he started to miss Vashti. But when she disobeyed his command, he had made a decree that she could never come into his presence again.
@@ -108,7 +108,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 2:23"/><verse eid="EST 2:23"/></para>
+<verse eid="EST 2:23"/></para>
   <chapter eid="EST 2"/>
   <chapter number="3" style="c" sid="EST 3"/>
   <para style="p"><verse number="1" style="v" sid="EST 3:1"/>Some time later, King Ahasuerus promoted {one of his officials,} Haman, the son of Hammedatha, who was a descendant of Agag. The king gave Haman a very important position, more important than any of his other officials.
@@ -145,7 +145,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 3:15"/><verse eid="EST 3:15"/></para>
+<verse eid="EST 3:15"/></para>
   <chapter eid="EST 3"/>
   <chapter number="4" style="c" sid="EST 4"/>
   <para style="p"><verse number="1" style="v" sid="EST 4:1"/>When Mordecai found out about Haman’s plan {to kill all the Jews, as signs of grief} he tore his clothes and put on rough sackcloth and threw ashes over himself. Then he started walking towards the city center, {towards the king’s palace}, crying out in anguish.
@@ -183,7 +183,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 4:17"/><verse eid="EST 4:17"/></para>
+<verse eid="EST 4:17"/></para>
   <chapter eid="EST 4"/>
   <chapter number="5" style="c" sid="EST 5"/>
   <para style="p"><verse number="1" style="v" sid="EST 5:1"/>After {fasting for} three days, Esther put on her royal robes, and she {went and} stood in the inner courtyard of the palace, across from the king’s house. He was in the royal palace, sitting on the royal throne and facing the entrance of the room.
@@ -216,7 +216,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 5:14"/><verse eid="EST 5:14"/></para>
+<verse eid="EST 5:14"/></para>
   <chapter eid="EST 5"/>
   <chapter number="6" style="c" sid="EST 6"/>
   <para style="p"><verse number="1" style="v" sid="EST 6:1"/>That night the king was unable to sleep. So he told {the young men who attended him} to bring in the royal chronicles. One {of the young men got the chronicles and} began to read them out loud to the king.
@@ -252,7 +252,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 6:14"/><verse eid="EST 6:14"/></para>
+<verse eid="EST 6:14"/></para>
   <chapter eid="EST 6"/>
   <chapter number="7" style="c" sid="EST 7"/>
   <para style="p"><verse number="1" style="v" sid="EST 7:1"/>So the king and Haman went to the {second} banquet that Queen Esther {had arranged for them}.
@@ -278,7 +278,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 7:10"/><verse eid="EST 7:10"/></para>
+<verse eid="EST 7:10"/></para>
   <chapter eid="EST 7"/>
   <chapter number="8" style="c" sid="EST 8"/>
   <para style="p"><verse number="1" style="v" sid="EST 8:1"/>That same day, King Ahasuerus gave Queen Esther all the property that had belonged to Haman. He had been the enemy of the Jews. Esther told the king that Mordecai was {her cousin and that he had been like a father} to her. When he learned that, {the king summoned} Mordecai to come to him.
@@ -319,7 +319,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 8:17"/><verse eid="EST 8:17"/></para>
+<verse eid="EST 8:17"/></para>
   <chapter eid="EST 8"/>
   <chapter number="9" style="c" sid="EST 9"/>
   <para style="p"><verse number="1" style="v" sid="EST 9:1"/>On the thirteenth day of the twelfth month {of that year}, the month of Adar, it was time for everyone to do what the letters from the king said that he had decreed for them to do. The enemies of the Jews had expected to destroy the Jews on that day. But just the opposite happened. Instead, it was the Jews who destroyed their enemies.
@@ -385,7 +385,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 9:32"/><verse eid="EST 9:32"/></para>
+<verse eid="EST 9:32"/></para>
   <chapter eid="EST 9"/>
   <chapter number="10" style="c" sid="EST 10"/>
   <para style="p"><verse number="1" style="v" sid="EST 10:1"/>Then King Ahasuerus imposed a tax {on everyone} throughout his empire, even {on those living} on the islands of the sea.

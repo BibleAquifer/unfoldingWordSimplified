@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="LEV" style="id">EN_UST en_English_ltr Wed Apr 30 2025 12:05:01 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -52,7 +52,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 1:17"/><verse eid="LEV 1:17"/></para>
+<verse eid="LEV 1:17"/></para>
   <chapter eid="LEV 1"/>
   <chapter number="2" style="c" sid="LEV 2"/>
   <para style="p"><verse number="1" style="v" sid="LEV 2:1"/>Now if you want to offer a grain offering to me, Yahweh, you should offer wheat flour. Pour out some olive oil on it and place incense on top of it.
@@ -87,7 +87,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 2:16"/><verse eid="LEV 2:16"/></para>
+<verse eid="LEV 2:16"/></para>
   <chapter eid="LEV 2"/>
   <chapter number="3" style="c" sid="LEV 3"/>
   <para style="p"><verse number="1" style="v" sid="LEV 3:1"/>But if you want to offer a fellowship sacrifice, do this. If you want to offer a bovine, whether the animal is male or female, you should offer a totally healthy animal in the place where I, Yahweh, live among the Israelites.
@@ -124,7 +124,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 3:17"/><verse eid="LEV 3:17"/></para>
+<verse eid="LEV 3:17"/></para>
   <chapter eid="LEV 3"/>
   <chapter number="4" style="c" sid="LEV 4"/>
   <para style="p"><verse number="1" style="v" sid="LEV 4:1"/>Then Yahweh told Moses
@@ -203,7 +203,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 4:35"/><verse eid="LEV 4:35"/></para>
+<verse eid="LEV 4:35"/></para>
   <chapter eid="LEV 4"/>
   <chapter number="5" style="c" sid="LEV 5"/>
   <para style="p"><verse number="1" style="v" sid="LEV 5:1"/>It may happen that the community leaders are investigating a crime and have cursed anyone who has information but does not provide it. Perhaps a person saw the crime. Or perhaps the person only learned about it afterward. Either way, if he hears the curse but does not testify about what he knows, then he has become guilty of sinning
@@ -254,7 +254,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 5:19"/><verse eid="LEV 5:19"/></para>
+<verse eid="LEV 5:19"/></para>
   <chapter eid="LEV 5"/>
   <chapter number="6" style="c" sid="LEV 6"/>
   <para style="p"><verse number="1" style="v" sid="LEV 6:1"/>Then Yahweh told Moses,
@@ -316,7 +316,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 6:30"/><verse eid="LEV 6:30"/></para>
+<verse eid="LEV 6:30"/></para>
   <chapter eid="LEV 6"/>
   <chapter number="7" style="c" sid="LEV 7"/>
   <para style="p"><verse number="1" style="v" sid="LEV 7:1"/>This is the way a person should offer the restoring sacrifice. The people of Israel should consider this kind of sacrifice as especially set apart among all the sacred offerings that people offer to me that are set apart for me.
@@ -401,7 +401,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 7:38"/><verse eid="LEV 7:38"/></para>
+<verse eid="LEV 7:38"/></para>
   <chapter eid="LEV 7"/>
   <chapter number="8" style="c" sid="LEV 8"/>
   <para style="p"><verse number="1" style="v" sid="LEV 8:1"/>Then Yahweh told Moses,
@@ -483,7 +483,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 8:36"/><verse eid="LEV 8:36"/></para>
+<verse eid="LEV 8:36"/></para>
   <chapter eid="LEV 8"/>
   <chapter number="9" style="c" sid="LEV 9"/>
   <para style="p"><verse number="1" style="v" sid="LEV 9:1"/>Eight days later, Moses summoned Aaron, his sons, and the oldest and most respected people of Israel.
@@ -544,7 +544,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 9:24"/><verse eid="LEV 9:24"/></para>
+<verse eid="LEV 9:24"/></para>
   <chapter eid="LEV 9"/>
   <chapter number="10" style="c" sid="LEV 10"/>
   <para style="p"><verse number="1" style="v" sid="LEV 10:1"/>Two of Aaron’s sons, Nadab and Abihu, took the pans in which they burned incense. They put some burning coals in them and put incense on top of the coals. They offered this fire {and incense} to Yahweh, {but the fire was not acceptable to Yahweh because} it was not the kind that he had commanded them to burn.
@@ -553,16 +553,16 @@
 <ms style="ts"/>
 <verse eid="LEV 10:2"/><verse number="3" style="v" sid="LEV 10:3"/>Moses turned and said to Aaron, “These events are exactly what Yahweh spoke of when he said,
 </para>
-  <para style="q1">‘In the presence of the holy priests who draw near to me,
+  <para style="q1" vid="LEV 10:3">‘In the presence of the holy priests who draw near to me,
 </para>
-  <para style="q2">I will demonstrate that I am set apart from everything else;
+  <para style="q2" vid="LEV 10:3">I will demonstrate that I am set apart from everything else;
 </para>
-  <para style="q1">in the sight of everyone,
+  <para style="q1" vid="LEV 10:3">in the sight of everyone,
 </para>
-  <para style="q2">I will demonstrate that I should always be honored and worshiped.’”
+  <para style="q2" vid="LEV 10:3">I will demonstrate that I should always be honored and worshiped.’”
 
 </para>
-  <para style="m">But Aaron was silent and said nothing.
+  <para style="m" vid="LEV 10:3">But Aaron was silent and said nothing.
 
 <verse eid="LEV 10:3"/></para>
   <para style="p"><verse number="4" style="v" sid="LEV 10:4"/>So Moses summoned Mishael and Elzaphan, Aaron’s cousins, the sons of Aaron’s uncle, Uzziel. Moses said to them, “Offer yourselves for service and carry the corpses of your relatives from the front of the Holy Place in the sacred tent. Bring them to a place outside the camp.”
@@ -603,7 +603,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 10:20"/><verse eid="LEV 10:20"/></para>
+<verse eid="LEV 10:20"/></para>
   <chapter eid="LEV 10"/>
   <chapter number="11" style="c" sid="LEV 11"/>
   <para style="p"><verse number="1" style="v" sid="LEV 11:1"/>Then Yahweh spoke to Aaron and Moses. He said,
@@ -694,7 +694,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 11:47"/><verse eid="LEV 11:47"/></para>
+<verse eid="LEV 11:47"/></para>
   <chapter eid="LEV 11"/>
   <chapter number="12" style="c" sid="LEV 12"/>
   <para style="p"><verse number="1" style="v" sid="LEV 12:1"/>Then Yahweh told Moses
@@ -713,12 +713,12 @@
 <verse eid="LEV 12:6"/><verse number="7" style="v" sid="LEV 12:7"/>The priest should offer these animals in my presence in the sacred tent. When this happens, I will accept her again and purify her from the impurity of the blood that she bled when she gave birth to the baby.
 
 </para>
-  <para style="p">This is the way that women who give birth, whether to a baby boy or girl, should offer sacrifices to purify themselves from the impurity of the blood that they bleed when they give birth to their children.
+  <para style="p" vid="LEV 12:7">This is the way that women who give birth, whether to a baby boy or girl, should offer sacrifices to purify themselves from the impurity of the blood that they bleed when they give birth to their children.
 <verse eid="LEV 12:7"/><verse number="8" style="v" sid="LEV 12:8"/>However, if any woman cannot afford a lamb, then she may bring two pigeons or two doves. The priest should offer one of the birds as a wholly burned sacrifice and the other as a purifying sacrifice. When the priest offers these birds, I will accept the woman again, and I will purify her from the impurity of the blood that she bled when she gave birth to her children.”
 
 <ms style="ts"/>
 
-<verse eid="LEV 12:8"/><verse eid="LEV 12:8"/></para>
+<verse eid="LEV 12:8"/></para>
   <chapter eid="LEV 12"/>
   <chapter number="13" style="c" sid="LEV 13"/>
   <para style="p"><verse number="1" style="v" sid="LEV 13:1"/>Then Yahweh told Aaron and Moses,
@@ -842,7 +842,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 13:59"/><verse eid="LEV 13:59"/></para>
+<verse eid="LEV 13:59"/></para>
   <chapter eid="LEV 13"/>
   <chapter number="14" style="c" sid="LEV 14"/>
   <para style="p"><verse number="1" style="v" sid="LEV 14:1"/>Then Yahweh said to Moses,
@@ -966,7 +966,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 14:57"/><verse eid="LEV 14:57"/></para>
+<verse eid="LEV 14:57"/></para>
   <chapter eid="LEV 14"/>
   <chapter number="15" style="c" sid="LEV 15"/>
   <para style="p"><verse number="1" style="v" sid="LEV 15:1"/>Then Yahweh said to Moses and Aaron,
@@ -1047,7 +1047,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 15:33"/><verse eid="LEV 15:33"/></para>
+<verse eid="LEV 15:33"/></para>
   <chapter eid="LEV 15"/>
   <chapter number="16" style="c" sid="LEV 16"/>
   <para style="p"><verse number="1" style="v" sid="LEV 16:1"/>After Aaron’s two sons died when they approached Yahweh, Yahweh spoke to Moses.
@@ -1127,11 +1127,11 @@
 <verse eid="LEV 16:33"/><verse number="34" style="v" sid="LEV 16:34"/>This should be a permanent and enduring practice for the people of Israel. Doing these things will ensure that I will remove from them all of their wrongdoings every year at this time.”
 
 </para>
-  <para style="p">Moses did exactly as Yahweh told him to do.
+  <para style="p" vid="LEV 16:34">Moses did exactly as Yahweh told him to do.
 
 <ms style="ts"/>
 
-<verse eid="LEV 16:34"/><verse eid="LEV 16:34"/></para>
+<verse eid="LEV 16:34"/></para>
   <chapter eid="LEV 16"/>
   <chapter number="17" style="c" sid="LEV 17"/>
   <para style="p"><verse number="1" style="v" sid="LEV 17:1"/>Then Yahweh said to Moses,
@@ -1172,7 +1172,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 17:16"/><verse eid="LEV 17:16"/></para>
+<verse eid="LEV 17:16"/></para>
   <chapter eid="LEV 17"/>
   <chapter number="18" style="c" sid="LEV 18"/>
   <para style="p"><verse number="1" style="v" sid="LEV 18:1"/>Then Yahweh said to Moses,
@@ -1262,7 +1262,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 18:30"/><verse eid="LEV 18:30"/></para>
+<verse eid="LEV 18:30"/></para>
   <chapter eid="LEV 18"/>
   <chapter number="19" style="c" sid="LEV 19"/>
   <para style="p"><verse number="1" style="v" sid="LEV 19:1"/>Then Yahweh said to Moses,
@@ -1366,7 +1366,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 19:37"/><verse eid="LEV 19:37"/></para>
+<verse eid="LEV 19:37"/></para>
   <chapter eid="LEV 19"/>
   <chapter number="20" style="c" sid="LEV 20"/>
   <para style="p"><verse number="1" style="v" sid="LEV 20:1"/>Then Yahweh said to Moses,
@@ -1451,7 +1451,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 20:27"/><verse eid="LEV 20:27"/></para>
+<verse eid="LEV 20:27"/></para>
   <chapter eid="LEV 20"/>
   <chapter number="21" style="c" sid="LEV 21"/>
   <para style="p"><verse number="1" style="v" sid="LEV 21:1"/>Then Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and tell them that, as long as they live among the people of Israel, they must not make themselves impure by touching a dead body.
@@ -1505,7 +1505,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 21:24"/><verse eid="LEV 21:24"/></para>
+<verse eid="LEV 21:24"/></para>
   <chapter eid="LEV 21"/>
   <chapter number="22" style="c" sid="LEV 22"/>
   <para style="p"><verse number="1" style="v" sid="LEV 22:1"/>Then Yahweh said to Moses,
@@ -1580,7 +1580,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 22:33"/><verse eid="LEV 22:33"/></para>
+<verse eid="LEV 22:33"/></para>
   <chapter eid="LEV 22"/>
   <chapter number="23" style="c" sid="LEV 23"/>
   <para style="p"><verse number="1" style="v" sid="LEV 23:1"/>Yahweh spoke to Moses,
@@ -1673,7 +1673,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 23:44"/><verse eid="LEV 23:44"/></para>
+<verse eid="LEV 23:44"/></para>
   <chapter eid="LEV 23"/>
   <chapter number="24" style="c" sid="LEV 24"/>
   <para style="p"><verse number="1" style="v" sid="LEV 24:1"/>Yahweh also said to Moses,
@@ -1725,7 +1725,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 24:23"/><verse eid="LEV 24:23"/></para>
+<verse eid="LEV 24:23"/></para>
   <chapter eid="LEV 24"/>
   <chapter number="25" style="c" sid="LEV 25"/>
   <para style="p"><verse number="1" style="v" sid="LEV 25:1"/>Yahweh said to Moses on Mount Sinai,
@@ -1846,7 +1846,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 25:55"/><verse eid="LEV 25:55"/></para>
+<verse eid="LEV 25:55"/></para>
   <chapter eid="LEV 25"/>
   <chapter number="26" style="c" sid="LEV 26"/>
   <para style="p"><verse number="1" style="v" sid="LEV 26:1"/>Do not make idols because they are useless. Do not set up carved figures or sacred stones to worship {as if they were God}. Do not put on your property a stone that someone has carved so you can bow down to it. Worship only me, Yahweh your God.
@@ -1951,7 +1951,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 26:46"/><verse eid="LEV 26:46"/></para>
+<verse eid="LEV 26:46"/></para>
   <chapter eid="LEV 26"/>
   <chapter number="27" style="c" sid="LEV 27"/>
   <para style="p"><verse number="1" style="v" sid="LEV 27:1"/>Yahweh also said to Moses,
@@ -1961,9 +1961,9 @@
 <verse eid="LEV 27:2"/><verse number="3" style="v" sid="LEV 27:3"/>The priest must calculate the amount of money in terms of the silver pieces that they use in Yahweh’s sacred tent.
 
 </para>
-  <para style="p">{You must pay:}
+  <para style="p" vid="LEV 27:3">{You must pay:}
 </para>
-  <para style="q2">50 pieces of silver for men who are between 20 and 60 years old;
+  <para style="q2" vid="LEV 27:3">50 pieces of silver for men who are between 20 and 60 years old;
 <verse eid="LEV 27:3"/></para>
   <para style="q2"><verse number="4" style="v" sid="LEV 27:4"/>30 pieces of silver for adult women who are between 20 and 60 years old;
 
@@ -1971,17 +1971,17 @@
 <verse eid="LEV 27:4"/></para>
   <para style="q2"><verse number="5" style="v" sid="LEV 27:5"/>20 pieces of silver for young men who are between 5 and 20 years old;
 </para>
-  <para style="q2">10 pieces of silver for young women who are between 5 and 20 years old;
+  <para style="q2" vid="LEV 27:5">10 pieces of silver for young women who are between 5 and 20 years old;
 <verse eid="LEV 27:5"/></para>
   <para style="q2"><verse number="6" style="v" sid="LEV 27:6"/>5 pieces of silver for boys who are between 1 month and 5 years old;
 </para>
-  <para style="q2">3 pieces of silver for girls who are between 1 month and 5 years old;
+  <para style="q2" vid="LEV 27:6">3 pieces of silver for girls who are between 1 month and 5 years old;
 
 <ms style="ts"/>
 <verse eid="LEV 27:6"/></para>
   <para style="q2"><verse number="7" style="v" sid="LEV 27:7"/>15 pieces of silver for men who are more than 60 years old;
 </para>
-  <para style="q2">and 10 pieces of silver for women who are more than 60 years old.
+  <para style="q2" vid="LEV 27:7">and 10 pieces of silver for women who are more than 60 years old.
 
 <verse eid="LEV 27:7"/></para>
   <para style="p"><verse number="8" style="v" sid="LEV 27:8"/>If anyone who has made such a solemn promise is very poor and unable to pay to set free the person whom he has given to Yahweh, he must take that person to the priest. The priest will set the price for freeing him to an amount that the person can pay.

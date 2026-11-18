@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="RUT" style="id">EN_UST en_English_ltr Mon Apr 03 2023 14:07:37 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -59,7 +59,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 1:22"/><verse eid="RUT 1:22"/></para>
+<verse eid="RUT 1:22"/></para>
   <chapter eid="RUT 1"/>
   <chapter number="2" style="c" sid="RUT 2"/>
   <para style="p"><verse number="1" style="v" sid="RUT 2:1"/>There was a man {there} who was a relative of Naomi’s {dead} husband, Elimelech. He was rich and important, and a member of the same clan to which Elimelech belonged. The man’s name was Boaz.
@@ -119,7 +119,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 2:23"/><verse eid="RUT 2:23"/></para>
+<verse eid="RUT 2:23"/></para>
   <chapter eid="RUT 2"/>
   <chapter number="3" style="c" sid="RUT 3"/>
   <para style="p"><verse number="1" style="v" sid="RUT 3:1"/>One day, Naomi said to Ruth, “My daughter, I want to arrange for you to have a secure home with a good husband.
@@ -164,7 +164,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 3:18"/><verse eid="RUT 3:18"/></para>
+<verse eid="RUT 3:18"/></para>
   <chapter eid="RUT 3"/>
   <chapter number="4" style="c" sid="RUT 4"/>
   <para style="p"><verse number="1" style="v" sid="RUT 4:1"/>Meanwhile, Boaz went up to {the place inside} the town gate {where people conducted their official business}. He sat down there. Just as he had hoped, the man responsible for Naomi’s family came along, the man whom Boaz had mentioned earlier. Boaz called out to him by name and said, “Come over here and sit down.” So the man came over and sat down.

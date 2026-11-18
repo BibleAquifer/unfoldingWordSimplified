@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2TI" style="id">EN_UST en_English_ltr Wed Sep 29 2021 13:43:20 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -21,7 +21,7 @@
   <para style="p"><verse number="2" style="v" sid="2TI 1:2"/>{I send this letter} to you, Timothy. I love you as if you were my own son.
 
 </para>
-  <para style="p">{May} God the Father and Jesus the Messiah, our Lord, {continue to be} kind and merciful to you and {make you} peaceful.
+  <para style="p" vid="2TI 1:2">{May} God the Father and Jesus the Messiah, our Lord, {continue to be} kind and merciful to you and {make you} peaceful.
 
 <ms style="ts"/>
 <verse eid="2TI 1:2"/></para>
@@ -59,7 +59,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2TI 1:18"/><verse eid="2TI 1:18"/></para>
+<verse eid="2TI 1:18"/></para>
   <chapter eid="2TI 1"/>
   <chapter number="2" style="c" sid="2TI 2"/>
   <para style="p"><verse number="1" style="v" sid="2TI 2:1"/>As for you, {Timothy,} you are like my own son. Allow God to make you {spiritually} stronger as he acts kindly toward you. {He acts kindly toward you} because he has united you to Jesus the Messiah.
@@ -84,23 +84,23 @@
 <verse eid="2TI 2:10"/></para>
   <para style="p"><verse number="11" style="v" sid="2TI 2:11"/>Everyone should trust this statement:
 </para>
-  <para style="q1">“It is as if we died with Jesus when he died.
+  <para style="q1" vid="2TI 2:11">“It is as if we died with Jesus when he died.
 </para>
-  <para style="q2">So then, we will also live {forever} with him.
+  <para style="q2" vid="2TI 2:11">So then, we will also live {forever} with him.
 <verse eid="2TI 2:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="2TI 2:12"/>Suppose that we persevere {when bad things happen to us}.
 </para>
-  <para style="q2">Then we will also rule {over everything} with him.
+  <para style="q2" vid="2TI 2:12">Then we will also rule {over everything} with him.
 </para>
-  <para style="q1">Suppose that we say that we do not know him.
+  <para style="q1" vid="2TI 2:12">Suppose that we say that we do not know him.
 </para>
-  <para style="q2">Then he also will say that he does not know us.
+  <para style="q2" vid="2TI 2:12">Then he also will say that he does not know us.
 <verse eid="2TI 2:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="2TI 2:13"/>Suppose that we stop being loyal {to Jesus}.
 </para>
-  <para style="q2">Then he continues to be loyal {to us}.
+  <para style="q2" vid="2TI 2:13">Then he continues to be loyal {to us}.
 </para>
-  <para style="q1">That is because he always acts based on who he is.”
+  <para style="q1" vid="2TI 2:13">That is because he always acts based on who he is.”
 
 <ms style="ts"/>
 <verse eid="2TI 2:13"/></para>
@@ -131,7 +131,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2TI 2:26"/><verse eid="2TI 2:26"/></para>
+<verse eid="2TI 2:26"/></para>
   <chapter eid="2TI 2"/>
   <chapter number="3" style="c" sid="2TI 3"/>
   <para style="p"><verse number="1" style="v" sid="2TI 3:1"/>You need to understand that the final time period {before Jesus returns to this world} will be very dangerous {for believers}.
@@ -168,7 +168,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2TI 3:17"/><verse eid="2TI 3:17"/></para>
+<verse eid="2TI 3:17"/></para>
   <chapter eid="2TI 3"/>
   <chapter number="4" style="c" sid="2TI 4"/>
   <para style="p"><verse number="1" style="v" sid="2TI 4:1"/>God and Jesus the Messiah are listening right now {and agreeing with me} as I command you {to do what I am about to tell you}. {Remember that} Jesus will soon decide whether everyone who is alive and everyone who has died is guilty or innocent. {You should focus on what I am about to command you} as much as you expect Jesus to return {to this world} and to rule over everything.

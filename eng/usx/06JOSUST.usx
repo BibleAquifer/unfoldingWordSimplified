@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JOS" style="id">EN_UST en_English_ltr Wed Nov 13 2024 10:39:21 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -54,7 +54,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 1:18"/><verse eid="JOS 1:18"/></para>
+<verse eid="JOS 1:18"/></para>
   <chapter eid="JOS 1"/>
   <chapter number="2" style="c" sid="JOS 2"/>
   <para style="p"><verse number="1" style="v" sid="JOS 2:1"/>Then Joshua son of Nun chose two men from their camp at Shittim. He told them, “Go secretly and find out all that you can about the land, especially about the city of Jericho.” They left the camp and went to Jericho. A prostitute whose name was Rahab lived in that city. They stayed in her house that night.
@@ -107,7 +107,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 2:24"/><verse eid="JOS 2:24"/></para>
+<verse eid="JOS 2:24"/></para>
   <chapter eid="JOS 2"/>
   <chapter number="3" style="c" sid="JOS 3"/>
   <para style="p"><verse number="1" style="v" sid="JOS 3:1"/>Joshua {and all the other Israelites} got up early the next morning. They left their camp at Shittim and went down to the Jordan River. They camped there before they crossed over the river.
@@ -149,7 +149,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 3:17"/><verse eid="JOS 3:17"/></para>
+<verse eid="JOS 3:17"/></para>
   <chapter eid="JOS 3"/>
   <chapter number="4" style="c" sid="JOS 4"/>
   <para style="p"><verse number="1" style="v" sid="JOS 4:1"/>After all the people of Israel had finished crossing the Jordan River, Yahweh said to Joshua,
@@ -201,7 +201,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 4:24"/><verse eid="JOS 4:24"/></para>
+<verse eid="JOS 4:24"/></para>
   <chapter eid="JOS 4"/>
   <chapter number="5" style="c" sid="JOS 5"/>
   <para style="p"><verse number="1" style="v" sid="JOS 5:1"/>The leaders of the Amorites and Canaanites heard about how Yahweh had dried up the water of the Jordan River in front of the Israelites so that they could cross it. Those leaders included all the kings of the Amorites who {lived} on the west side of the Jordan River, toward the {Great} Sea. They also included all the kings of the Canaanites, who {lived} close to the {Great} Sea. When those kings heard {what Yahweh had done}, they became very afraid and no longer desired to fight {the Israelites}.
@@ -241,7 +241,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 5:15"/><verse eid="JOS 5:15"/></para>
+<verse eid="JOS 5:15"/></para>
   <chapter eid="JOS 5"/>
   <chapter number="6" style="c" sid="JOS 6"/>
   <para style="p"><verse number="1" style="v" sid="JOS 6:1"/>Because {the people of Jericho were afraid} of the army of Israel, {the guards of Jericho} tightly shut the city gates. No one was allowed to enter {the city} or leave {it}.
@@ -309,7 +309,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 6:27"/><verse eid="JOS 6:27"/></para>
+<verse eid="JOS 6:27"/></para>
   <chapter eid="JOS 6"/>
   <chapter number="7" style="c" sid="JOS 7"/>
   <para style="p"><verse number="1" style="v" sid="JOS 7:1"/>{Yahweh had commanded the Israelites to show that all the things they found in Jericho belonged to him. To do that, the Israelites were to destroy them or put them in his treasury.} But there was a man from the tribe of Judah whose name was Achan. He was the son of Karmi, the grandson of Zabdi, and the great-grandson of Zerah. He disobeyed what Yahweh had commanded the Israelites. He took for himself some of the things Yahweh had said belonged only to him. Therefore, Yahweh became very angry with the Israelites.
@@ -380,7 +380,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 7:26"/><verse eid="JOS 7:26"/></para>
+<verse eid="JOS 7:26"/></para>
   <chapter eid="JOS 7"/>
   <chapter number="8" style="c" sid="JOS 8"/>
   <para style="p"><verse number="1" style="v" sid="JOS 8:1"/>Then Yahweh said to Joshua, “Do not be afraid or discouraged {because of what happened last time you fought against the men of Ai}. Take with you all the soldiers you have and go up to Ai {again}. I will certainly enable you to defeat the king of Ai and his people, and I will give you his city and his land.
@@ -464,7 +464,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 8:35"/><verse eid="JOS 8:35"/></para>
+<verse eid="JOS 8:35"/></para>
   <chapter eid="JOS 8"/>
   <chapter number="9" style="c" sid="JOS 9"/>
   <para style="p"><verse number="1" style="v" sid="JOS 9:1"/>All the kings on the west side of the Jordan River heard about what the Israelites had done at Ai. These kings lived in the hilly region, in the western foothills, and along all the coast of the Great Sea as far as Lebanon. They were the kings of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites. Once these kings heard about what Israel had done to Ai,
@@ -486,7 +486,7 @@
   <para style="p"><verse number="8" style="v" sid="JOS 9:8"/>But they replied to Joshua, “We are willing to become your subjects.”
 
 </para>
-  <para style="p">But Joshua answered, “What people-group do you belong to, and from what place did you come from?”
+  <para style="p" vid="JOS 9:8">But Joshua answered, “What people-group do you belong to, and from what place did you come from?”
 
 <ms style="ts"/>
 <verse eid="JOS 9:8"/></para>
@@ -512,7 +512,7 @@
 <verse eid="JOS 9:17"/><verse number="18" style="v" sid="JOS 9:18"/>But the Israelites still did not kill the Gibeonites {even after seeing that they lived nearby}. That was because their leaders had made a solemn vow by Yahweh their God promising them that they would not kill them.
 
 </para>
-  <para style="p">All the people of Israel grumbled against their leaders {for making this treaty}.
+  <para style="p" vid="JOS 9:18">All the people of Israel grumbled against their leaders {for making this treaty}.
 <verse eid="JOS 9:18"/><verse number="19" style="v" sid="JOS 9:19"/>But all the leaders replied, “We made a solemn vow by Yahweh our God promising them {that we would not kill them}. So now we may not kill them.
 
 <ms style="ts"/>
@@ -536,7 +536,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 9:27"/><verse eid="JOS 9:27"/></para>
+<verse eid="JOS 9:27"/></para>
   <chapter eid="JOS 9"/>
   <chapter number="10" style="c" sid="JOS 10"/>
   <para style="p"><verse number="1" style="v" sid="JOS 10:1"/>This is what happened next. Adoni Zedek was the king who ruled the city of Jerusalem. He heard that Joshua’s army had captured the city of Ai and completely destroyed it, just as they had done to the city of Jericho and its king. He also heard that the people of the city of Gibeon had made a peace agreement with the Israelites and were living among them.
@@ -654,7 +654,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 10:43"/><verse eid="JOS 10:43"/></para>
+<verse eid="JOS 10:43"/></para>
   <chapter eid="JOS 10"/>
   <chapter number="11" style="c" sid="JOS 11"/>
   <para style="p"><verse number="1" style="v" sid="JOS 11:1"/>When King Jabin of the city of Hazor learned what had happened, he sent messages to several other kings. He sent them to King Jobab of the city of Madon, to the king of the city of Shimron, and to the king of the city of Achshaph.
@@ -710,7 +710,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 11:23"/><verse eid="JOS 11:23"/></para>
+<verse eid="JOS 11:23"/></para>
   <chapter eid="JOS 11"/>
   <chapter number="12" style="c" sid="JOS 12"/>
   <para style="p"><verse number="1" style="v" sid="JOS 12:1"/>While the Israelites were still on the east side of the Jordan River, they defeated the kings who ruled there, and they took their land. This land extended from the Arnon River gorge in the south to Mount Hermon in the north. It included all of the plain on the eastern side of the Jordan.
@@ -759,11 +759,11 @@
 <verse eid="JOS 12:23"/><verse number="24" style="v" sid="JOS 12:24"/>and Tirzah.
 
 </para>
-  <para style="m">There was a total of thirty-one kings that the Israelite army defeated.
+  <para style="m" vid="JOS 12:24">There was a total of thirty-one kings that the Israelite army defeated.
 
 <ms style="ts"/>
 
-<verse eid="JOS 12:24"/><verse eid="JOS 12:24"/></para>
+<verse eid="JOS 12:24"/></para>
   <chapter eid="JOS 12"/>
   <chapter number="13" style="c" sid="JOS 13"/>
   <para style="p"><verse number="1" style="v" sid="JOS 13:1"/>When Joshua was very old, Yahweh said to him, “Joshua, you are now an old man, but there is still a lot of land for your army to capture.
@@ -839,7 +839,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 13:33"/><verse eid="JOS 13:33"/></para>
+<verse eid="JOS 13:33"/></para>
   <chapter eid="JOS 13"/>
   <chapter number="14" style="c" sid="JOS 14"/>
   <para style="p"><verse number="1" style="v" sid="JOS 14:1"/>Here is a description of the areas where the Israelites settled in the land of Canaan. Eleazar the high priest, Joshua, and the family leaders of the Israelite tribes divided the land among them.
@@ -874,7 +874,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 14:15"/><verse eid="JOS 14:15"/></para>
+<verse eid="JOS 14:15"/></para>
   <chapter eid="JOS 14"/>
   <chapter number="15" style="c" sid="JOS 15"/>
   <para style="p"><verse number="1" style="v" sid="JOS 15:1"/>The Israelite leaders assigned land by lot to the clans of the tribe of Judah. In the south, their land extended to the wilderness of Zin at the border of Edom.
@@ -929,7 +929,7 @@
 <verse eid="JOS 15:20"/></para>
   <para style="m"><verse number="21" style="v" sid="JOS 15:21"/>The following cities that belonged to the tribe of Judah were in the southern wilderness, near the border of the region of Edom:
 </para>
-  <para style="pi1">Kabzeel, Eder, Jagur,
+  <para style="pi1" vid="JOS 15:21">Kabzeel, Eder, Jagur,
 <verse eid="JOS 15:21"/><verse number="22" style="v" sid="JOS 15:22"/>Kinah, Dimonah, Adadah,
 <verse eid="JOS 15:22"/><verse number="23" style="v" sid="JOS 15:23"/>Kedesh, Hazor, Ithnan,
 <verse eid="JOS 15:23"/><verse number="24" style="v" sid="JOS 15:24"/>Ziph, Telem, and Bealoth,
@@ -964,7 +964,7 @@
 <verse eid="JOS 15:39"/><verse number="40" style="v" sid="JOS 15:40"/>Kabbon, Lahmas, Kitlish,
 <verse eid="JOS 15:40"/><verse number="41" style="v" sid="JOS 15:41"/>Gederoth, Bethdagon, Naamah, and Makkedah.
 </para>
-  <para style="pi1">These were the 16 cities in that area. The people of Judah lived in them and in their surrounding villages.
+  <para style="pi1" vid="JOS 15:41">These were the 16 cities in that area. The people of Judah lived in them and in their surrounding villages.
 
 <ms style="ts"/>
 <verse eid="JOS 15:41"/></para>
@@ -1017,7 +1017,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 15:63"/><verse eid="JOS 15:63"/></para>
+<verse eid="JOS 15:63"/></para>
   <chapter eid="JOS 15"/>
   <chapter number="16" style="c" sid="JOS 16"/>
   <para style="p"><verse number="1" style="v" sid="JOS 16:1"/>The Israelite leaders assigned land to the two tribes that were descendants of Joseph, Ephraim and Manasseh. The southern border of this land started at the city of Jericho by the Jordan River. It went through the springs east of Jericho and up into the desolate area in the hill country around the city of Bethel.
@@ -1042,7 +1042,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 16:10"/><verse eid="JOS 16:10"/></para>
+<verse eid="JOS 16:10"/></para>
   <chapter eid="JOS 16"/>
   <chapter number="17" style="c" sid="JOS 17"/>
   <para style="p"><verse number="1" style="v" sid="JOS 17:1"/>This is a description of the land that the Israelite leaders gave to the tribe of Manasseh, the descendants of the oldest son of Joseph. Manasseh’s oldest son was Machir, and his grandson was Gilead. Their descendants were great soldiers, so Moses gave them land that they conquered in the regions of Gilead and Bashan.
@@ -1093,7 +1093,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 17:18"/><verse eid="JOS 17:18"/></para>
+<verse eid="JOS 17:18"/></para>
   <chapter eid="JOS 17"/>
   <chapter number="18" style="c" sid="JOS 18"/>
   <para style="p"><verse number="1" style="v" sid="JOS 18:1"/>Since no people groups were fighting against the Israelites any longer, they were able to meet together. They gathered at the city of Shiloh, and there they set up the tent where they worshiped Yahweh.
@@ -1161,7 +1161,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 18:28"/><verse eid="JOS 18:28"/></para>
+<verse eid="JOS 18:28"/></para>
   <chapter eid="JOS 18"/>
   <chapter number="19" style="c" sid="JOS 19"/>
   <para style="p"><verse number="1" style="v" sid="JOS 19:1"/>Then Joshua threw the lot again, and this time it selected the clans of the tribe of Simeon to receive the second part of the land. The land Joshua gave them was in the middle of Judah’s territory.
@@ -1179,7 +1179,7 @@
   <para style="pi1"><verse number="7" style="v" sid="JOS 19:7"/>The land that Joshua assigned to the tribe of Simeon also included the four cities of Ain, Rimmon, Ether, and Ashan and their surrounding villages.
 
 <ms style="ts"/>
-<verse eid="JOS 19:7"/><verse number="8" style="v" sid="JOS 19:8"/>It also included some villages in an area that extended south to Baalath Beer. (People also call that city Ramah of the Negev.) This was the land that Joshua assigned to the clans of the tribe of Simeon.
+<verse eid="JOS 19:7"/><verse number="8" style="v" sid="JOS 19:8"/>It also included some villages in an area that extended south to Baalath Beer. (People also call that city Ramah of the Negeb.) This was the land that Joshua assigned to the clans of the tribe of Simeon.
 
 <verse eid="JOS 19:8"/></para>
   <para style="m"><verse number="9" style="v" sid="JOS 19:9"/>The leaders of Israel had assigned more land to the tribe of Judah than it needed, so they gave part of that land to the tribe of Simeon.
@@ -1188,7 +1188,7 @@
 <verse eid="JOS 19:9"/></para>
   <para style="m"><verse number="10" style="v" sid="JOS 19:10"/>Then Joshua threw the lot again, and this time it selected the clans of the tribe of Zebulun to receive the third part of the land.
 </para>
-  <para style="pi1">Its southern border started at Sarid.
+  <para style="pi1" vid="JOS 19:10">Its southern border started at Sarid.
 <verse eid="JOS 19:10"/><verse number="11" style="v" sid="JOS 19:11"/>It extended west to Maralah and on to Dabbesheth, and then it extended to the brook in front of the city of Jokneam.
 
 <ms style="ts"/>
@@ -1284,7 +1284,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 19:51"/><verse eid="JOS 19:51"/></para>
+<verse eid="JOS 19:51"/></para>
   <chapter eid="JOS 19"/>
   <chapter number="20" style="c" sid="JOS 20"/>
   <para style="p"><verse number="1" style="v" sid="JOS 20:1"/>Then Yahweh said to Joshua,
@@ -1309,7 +1309,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 20:9"/><verse eid="JOS 20:9"/></para>
+<verse eid="JOS 20:9"/></para>
   <chapter eid="JOS 20"/>
   <chapter number="21" style="c" sid="JOS 21"/>
   <para style="p"><verse number="1" style="v" sid="JOS 21:1"/>The family leaders of the Levite clans came to Shiloh to speak with Eleazar the priest, Joshua son of Nun, and the family leaders of the Israelite tribes.
@@ -1382,7 +1382,7 @@
 <verse eid="JOS 21:26"/></para>
   <para style="m"><verse number="27" style="v" sid="JOS 21:27"/>The Israelite leaders also cast lots in order to assign cities and their surrounding fields to the Levite clans of the descendants of Gershon.
 </para>
-  <para style="pi1">These clans received two cities within the territory of the half of the tribe of Manasseh that had settled on the east side of the Jordan River. One of those cities was Golan in the region of Bashan. It was one of the cities to which someone could flee for safety who killed a person unintentionally. The other city was Beeshtarah. That made two cities, with their surrounding fields.
+  <para style="pi1" vid="JOS 21:27">These clans received two cities within the territory of the half of the tribe of Manasseh that had settled on the east side of the Jordan River. One of those cities was Golan in the region of Bashan. It was one of the cities to which someone could flee for safety who killed a person unintentionally. The other city was Beeshtarah. That made two cities, with their surrounding fields.
 
 <ms style="ts"/>
 <verse eid="JOS 21:27"/></para>
@@ -1403,7 +1403,7 @@
 <verse eid="JOS 21:33"/></para>
   <para style="m"><verse number="34" style="v" sid="JOS 21:34"/>The Israelite leaders also assigned cities to the last group of Levites, those who belonged to the clans that were descendants of Merari.
 </para>
-  <para style="pi1">These clans received some cities, with the surrounding fields, within the territory of the tribe of Zebulun. These cities were Jokneam, Kartah,
+  <para style="pi1" vid="JOS 21:34">These clans received some cities, with the surrounding fields, within the territory of the tribe of Zebulun. These cities were Jokneam, Kartah,
 <verse eid="JOS 21:34"/><verse number="35" style="v" sid="JOS 21:35"/>Dimnah, and Nahalal, four cities, all with their surrounding fields.
 
 <ms style="ts"/>
@@ -1432,7 +1432,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 21:45"/><verse eid="JOS 21:45"/></para>
+<verse eid="JOS 21:45"/></para>
   <chapter eid="JOS 21"/>
   <chapter number="22" style="c" sid="JOS 22"/>
   <para style="p"><verse number="1" style="v" sid="JOS 22:1"/>Joshua then summoned the leaders of the Reubenites, Gadites, and the half tribe of Manasseh.
@@ -1520,7 +1520,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 22:34"/><verse eid="JOS 22:34"/></para>
+<verse eid="JOS 22:34"/></para>
   <chapter eid="JOS 22"/>
   <chapter number="23" style="c" sid="JOS 23"/>
   <para style="p"><verse number="1" style="v" sid="JOS 23:1"/>A long time later, once Yahweh had enabled the Israelites to live peacefully, with none of the surrounding nations threatening them, Joshua had become very old.
@@ -1560,7 +1560,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 23:16"/><verse eid="JOS 23:16"/></para>
+<verse eid="JOS 23:16"/></para>
   <chapter eid="JOS 23"/>
   <chapter number="24" style="c" sid="JOS 24"/>
   <para style="p"><verse number="1" style="v" sid="JOS 24:1"/>Joshua brought all of the Israelites together in the city of Shechem. Their elders, leaders, judges, and officials all reported there in the presence of God.

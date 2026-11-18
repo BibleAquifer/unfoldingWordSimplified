@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="ROM" style="id">EN_UST en_English_ltr Wed Dec 07 2022 14:03:42 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -86,7 +86,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 1:32"/><verse eid="ROM 1:32"/></para>
+<verse eid="ROM 1:32"/></para>
   <chapter eid="ROM 1"/>
   <chapter number="2" style="c" sid="ROM 2"/>
   <para style="p"><verse number="1" style="v" sid="ROM 2:1"/>Consequently, any one of you who judges another person cannot excuse yourself {at all} {when God condemns you}. {This is} because you are actually condemning yourself when you judge someone else, since you who judge someone else do the exact same things {that they do}!
@@ -149,7 +149,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 2:29"/><verse eid="ROM 2:29"/></para>
+<verse eid="ROM 2:29"/></para>
   <chapter eid="ROM 2"/>
   <chapter number="3" style="c" sid="ROM 3"/>
   <para style="p"><verse number="1" style="v" sid="ROM 3:1"/>{You Jews might say,} “{If what you have said is true,} then surely being a Jew is not advantageous! Surely being circumcised is not beneficial at all!”
@@ -223,7 +223,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 3:31"/><verse eid="ROM 3:31"/></para>
+<verse eid="ROM 3:31"/></para>
   <chapter eid="ROM 3"/>
   <chapter number="4" style="c" sid="ROM 4"/>
   <para style="p"><verse number="1" style="v" sid="ROM 4:1"/>{You Jews might say,} “{If what you have said is true,} then surely our physical ancestor Abraham found out {about it}.
@@ -277,7 +277,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 4:25"/><verse eid="ROM 4:25"/></para>
+<verse eid="ROM 4:25"/></para>
   <chapter eid="ROM 4"/>
   <chapter number="5" style="c" sid="ROM 5"/>
   <para style="p"><verse number="1" style="v" sid="ROM 5:1"/>Consequently, we should live peacefully with God by means of {what} our Lord Jesus the Messiah {did for us} because we have become righteous by trusting {in Jesus}.
@@ -325,7 +325,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 5:21"/><verse eid="ROM 5:21"/></para>
+<verse eid="ROM 5:21"/></para>
   <chapter eid="ROM 5"/>
   <chapter number="6" style="c" sid="ROM 6"/>
   <para style="p"><verse number="1" style="v" sid="ROM 6:1"/>{Someone might say,} “{If what you have said is true,} then surely we {believers} should keep on sinning in order that, even more, God might show how kind he is even more!”
@@ -373,7 +373,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 6:23"/><verse eid="ROM 6:23"/></para>
+<verse eid="ROM 6:23"/></para>
   <chapter eid="ROM 6"/>
   <chapter number="7" style="c" sid="ROM 7"/>
   <para style="p"><verse number="1" style="v" sid="ROM 7:1"/>My fellow {Jewish} believers, you are well-aware that the laws {God gave the Jews} must be obeyed by {Jewish} people throughout their whole lives. ({I know that you are well-aware of this fact}, because I am speaking to people who are familiar with the laws {God gave the Jews}.)
@@ -432,7 +432,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 7:25"/><verse eid="ROM 7:25"/></para>
+<verse eid="ROM 7:25"/></para>
   <chapter eid="ROM 7"/>
   <chapter number="8" style="c" sid="ROM 8"/>
   <para style="p"><verse number="1" style="v" sid="ROM 8:1"/>So now, God absolutely does not condemn anyone whom he has united with the Messiah Jesus.
@@ -515,7 +515,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 8:39"/><verse eid="ROM 8:39"/></para>
+<verse eid="ROM 8:39"/></para>
   <chapter eid="ROM 8"/>
   <chapter number="9" style="c" sid="ROM 9"/>
   <para style="p"><verse number="1" style="v" sid="ROM 9:1"/>I speak what is true as one whom God has united with the Messiah. I do not speak what is false. The Holy Spirit confirms what my conscience testifies within myself {when I say}
@@ -587,7 +587,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 9:33"/><verse eid="ROM 9:33"/></para>
+<verse eid="ROM 9:33"/></para>
   <chapter eid="ROM 9"/>
   <chapter number="10" style="c" sid="ROM 10"/>
   <para style="p"><verse number="1" style="v" sid="ROM 10:1"/>My fellow believers, I strongly desire {that God will save the Israelites}. I also pray for him {to save} them!
@@ -638,7 +638,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 10:21"/><verse eid="ROM 10:21"/></para>
+<verse eid="ROM 10:21"/></para>
   <chapter eid="ROM 10"/>
   <chapter number="11" style="c" sid="ROM 11"/>
   <para style="p"><verse number="1" style="v" sid="ROM 11:1"/>Since {these things are true}, this is what I say, “God certainly has not rejected his people, the Israelites!” Of course not! {I know this is true} because I too am one of the Israelites. I descended from Abraham. {More specifically, I descended} from the tribe that descended from Benjamin.
@@ -727,7 +727,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 11:36"/><verse eid="ROM 11:36"/></para>
+<verse eid="ROM 11:36"/></para>
   <chapter eid="ROM 11"/>
   <chapter number="12" style="c" sid="ROM 12"/>
   <para style="p"><verse number="1" style="v" sid="ROM 12:1"/>So then, {considering everything that I have told you,} I exhort you fellow believers, based on how compassionate God is: Devote yourselves {to God}, as if you were living animals someone offers to God. Be holy and please God. Doing so is the reasonable way for you to serve {God}.
@@ -772,7 +772,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 12:21"/><verse eid="ROM 12:21"/></para>
+<verse eid="ROM 12:21"/></para>
   <chapter eid="ROM 12"/>
   <chapter number="13" style="c" sid="ROM 13"/>
   <para style="p"><verse number="1" style="v" sid="ROM 13:1"/>Every one of you must submit yourselves to those whom God has authorized to govern you. {This is} because no one {can govern} unless God authorizes them {to do so}. God has instituted the existing governments.
@@ -804,7 +804,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 13:14"/><verse eid="ROM 13:14"/></para>
+<verse eid="ROM 13:14"/></para>
   <chapter eid="ROM 13"/>
   <chapter number="14" style="c" sid="ROM 14"/>
   <para style="p"><verse number="1" style="v" sid="ROM 14:1"/>Welcome any fellow {believer in the Messiah} who is immature in how they believe. {Do} not {welcome them} in order to argue with them about matters of opinion.
@@ -860,7 +860,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 14:23"/><verse eid="ROM 14:23"/></para>
+<verse eid="ROM 14:23"/></para>
   <chapter eid="ROM 14"/>
   <chapter number="15" style="c" sid="ROM 15"/>
   <para style="p"><verse number="1" style="v" sid="ROM 15:1"/>Indeed, we {spiritually} mature {believers in the Messiah} must support {our} fellow believers in the Messiah who are {spiritually} immature. We must not {only} do what pleases us.
@@ -939,7 +939,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 15:33"/><verse eid="ROM 15:33"/></para>
+<verse eid="ROM 15:33"/></para>
   <chapter eid="ROM 15"/>
   <chapter number="16" style="c" sid="ROM 16"/>
   <para style="p"><verse number="1" style="v" sid="ROM 16:1"/>I, {Paul,} recommend to you our fellow believer whose name is Phoebe. She also serves the group of believers {that meets} in the city of Cenchrea.

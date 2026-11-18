@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JOL" style="id">EN_UST en_English_ltr Wed Sep 09 2020 15:30:43 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -20,400 +20,400 @@
 <verse eid="JOL 1:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="JOL 1:2"/>You leaders {of Israel}, and everyone else who lives in this country, listen {to this message}!
 </para>
-  <para style="q2">Nothing like this has ever happened during the time that we have lived
+  <para style="q2" vid="JOL 1:2">Nothing like this has ever happened during the time that we have lived
 </para>
-  <para style="q2">or during the time when our ancestors lived.
+  <para style="q2" vid="JOL 1:2">or during the time when our ancestors lived.
 <verse eid="JOL 1:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JOL 1:3"/>Tell your children about it,
 </para>
-  <para style="q2">and tell your children to tell it to their children,
+  <para style="q2" vid="JOL 1:3">and tell your children to tell it to their children,
 </para>
-  <para style="q2">and tell your grandchildren to tell it to their children.
+  <para style="q2" vid="JOL 1:3">and tell your grandchildren to tell it to their children.
 
 <ms style="ts"/>
 <verse eid="JOL 1:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JOL 1:4"/>Tell them this:
 </para>
-  <para style="q2">The first swarm of locusts came and cut many of the leaves of the crops;
+  <para style="q2" vid="JOL 1:4">The first swarm of locusts came and cut many of the leaves of the crops;
 </para>
-  <para style="q1">then another swarm came and ate the rest of the leaves,
+  <para style="q1" vid="JOL 1:4">then another swarm came and ate the rest of the leaves,
 </para>
-  <para style="q2">then hopping locusts came and ate what they had left,
+  <para style="q2" vid="JOL 1:4">then hopping locusts came and ate what they had left,
 </para>
-  <para style="q1">and finally, another swarm came
+  <para style="q1" vid="JOL 1:4">and finally, another swarm came
 </para>
-  <para style="q2">and they destroyed everything else.
+  <para style="q2" vid="JOL 1:4">and they destroyed everything else.
 
 <ms style="ts"/>
 <verse eid="JOL 1:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JOL 1:5"/>You people who are drunk, wake up and cry!
 </para>
-  <para style="q2">Cry loudly, all of you who drink wine,
+  <para style="q2" vid="JOL 1:5">Cry loudly, all of you who drink wine,
 </para>
-  <para style="q1">because all the grapes are ruined,
+  <para style="q1" vid="JOL 1:5">because all the grapes are ruined,
 </para>
-  <para style="q2">and so there will be no new wine!
+  <para style="q2" vid="JOL 1:5">and so there will be no new wine!
 <verse eid="JOL 1:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JOL 1:6"/>Huge swarms of locusts have entered our country.
 </para>
-  <para style="q2">They are like a powerful army
+  <para style="q2" vid="JOL 1:6">They are like a powerful army
 </para>
-  <para style="q1">that has very many soldiers;
+  <para style="q1" vid="JOL 1:6">that has very many soldiers;
 </para>
-  <para style="q2">no one can count them.
+  <para style="q2" vid="JOL 1:6">no one can count them.
 </para>
-  <para style="q1">The locusts have teeth that are as sharp as the teeth of lions!
+  <para style="q1" vid="JOL 1:6">The locusts have teeth that are as sharp as the teeth of lions!
 <verse eid="JOL 1:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JOL 1:7"/>They have destroyed our grapevines and our fig trees
 </para>
-  <para style="q2">by stripping off and eating all the bark,
+  <para style="q2" vid="JOL 1:7">by stripping off and eating all the bark,
 </para>
-  <para style="q2">with the result that the branches are white and bare.
+  <para style="q2" vid="JOL 1:7">with the result that the branches are white and bare.
 
 <ms style="ts"/>
 <verse eid="JOL 1:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JOL 1:8"/>Cry and wail as a young woman does
 </para>
-  <para style="q2">when the young man to whom she was engaged has died.
+  <para style="q2" vid="JOL 1:8">when the young man to whom she was engaged has died.
 <verse eid="JOL 1:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JOL 1:9"/>There is no more flour or wine for us to offer as sacrifices at Yahweh’s temple,
 </para>
-  <para style="q2">so the priests who serve Yahweh are mourning.
+  <para style="q2" vid="JOL 1:9">so the priests who serve Yahweh are mourning.
 <verse eid="JOL 1:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="JOL 1:10"/>The locusts have ruined the {crops in the} fields.
 </para>
-  <para style="q2">It is as though the ground itself is mourning
+  <para style="q2" vid="JOL 1:10">It is as though the ground itself is mourning
 </para>
-  <para style="q1">because the grain is gone;
+  <para style="q1" vid="JOL 1:10">because the grain is gone;
 </para>
-  <para style="q2">there will be no {grapes to make} wine,
+  <para style="q2" vid="JOL 1:10">there will be no {grapes to make} wine,
 </para>
-  <para style="q2">and there is no more {olive} oil.
+  <para style="q2" vid="JOL 1:10">and there is no more {olive} oil.
 
 <ms style="ts"/>
 <verse eid="JOL 1:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="JOL 1:11"/>You farmers, despair!
 </para>
-  <para style="q2">You who take care of grapevines, cry loudly,
+  <para style="q2" vid="JOL 1:11">You who take care of grapevines, cry loudly,
 </para>
-  <para style="q1">because the crops in the field are gone;
+  <para style="q1" vid="JOL 1:11">because the crops in the field are gone;
 </para>
-  <para style="q2">there is no wheat or barley growing any more.
+  <para style="q2" vid="JOL 1:11">there is no wheat or barley growing any more.
 <verse eid="JOL 1:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="JOL 1:12"/>The grapevines and the fig trees have withered,
 </para>
-  <para style="q2">and the pomegranate trees, palm trees, and apricot trees have also dried up.
+  <para style="q2" vid="JOL 1:12">and the pomegranate trees, palm trees, and apricot trees have also dried up.
 </para>
-  <para style="q1">The people are no longer joyful.
+  <para style="q1" vid="JOL 1:12">The people are no longer joyful.
 
 <ms style="ts"/>
 <verse eid="JOL 1:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="JOL 1:13"/>You priests, put on {rough sack} clothes and wail.
 </para>
-  <para style="q2">You who serve my God {by offering sacrifices} on the altar,
+  <para style="q2" vid="JOL 1:13">You who serve my God {by offering sacrifices} on the altar,
 </para>
-  <para style="q1">wear those sack clothes all night {to show that you are mourning},
+  <para style="q1" vid="JOL 1:13">wear those sack clothes all night {to show that you are mourning},
 </para>
-  <para style="q2">because there is no flour or wine to be offered at the temple of your God.
+  <para style="q2" vid="JOL 1:13">because there is no flour or wine to be offered at the temple of your God.
 <verse eid="JOL 1:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="JOL 1:14"/>Set apart a day for when the people should go without food.
 </para>
-  <para style="q1">Tell the leaders and the other people to gather at the temple
+  <para style="q1" vid="JOL 1:14">Tell the leaders and the other people to gather at the temple
 </para>
-  <para style="q2">and to cry out to Yahweh {there}.
+  <para style="q2" vid="JOL 1:14">and to cry out to Yahweh {there}.
 
 <ms style="ts"/>
 <verse eid="JOL 1:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="JOL 1:15"/>It will soon be the time when Yahweh, {who is} the Almighty God, will punish us,
 </para>
-  <para style="q2">when he will cause us to experience more disasters.
+  <para style="q2" vid="JOL 1:15">when he will cause us to experience more disasters.
 </para>
-  <para style="q2">That will be a terrible time!
+  <para style="q2" vid="JOL 1:15">That will be a terrible time!
 <verse eid="JOL 1:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="JOL 1:16"/>Our crops are already gone,
 </para>
-  <para style="q2">and no {one is} rejoicing at all at the temple of our God.
+  <para style="q2" vid="JOL 1:16">and no {one is} rejoicing at all at the temple of our God.
 <verse eid="JOL 1:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="JOL 1:17"/>When we plant seeds, {they do not grow;}
 </para>
-  <para style="q1">they dry up in the ground,
+  <para style="q1" vid="JOL 1:17">they dry up in the ground,
 </para>
-  <para style="q2">so there are no crops to harvest.
+  <para style="q2" vid="JOL 1:17">so there are no crops to harvest.
 </para>
-  <para style="q1">Our barns are empty;
+  <para style="q1" vid="JOL 1:17">Our barns are empty;
 </para>
-  <para style="q2">there is no grain {to store in them}.
+  <para style="q2" vid="JOL 1:17">there is no grain {to store in them}.
 
 <ms style="ts"/>
 <verse eid="JOL 1:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="JOL 1:18"/>Our cattle groan, searching for a pasture with some grass to eat but not finding any.
 </para>
-  <para style="q2">The sheep also {bleat because they} are suffering.
+  <para style="q2" vid="JOL 1:18">The sheep also {bleat because they} are suffering.
 <verse eid="JOL 1:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="JOL 1:19"/>Yahweh, I cry out to you,
 </para>
-  <para style="q2">because {it is as though} a fire has completely burned our pastures and our forests.
+  <para style="q2" vid="JOL 1:19">because {it is as though} a fire has completely burned our pastures and our forests.
 <verse eid="JOL 1:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="JOL 1:20"/>The wild animals also are desperate for you to help them,
 </para>
-  <para style="q2">because all the streams have dried up.
+  <para style="q2" vid="JOL 1:20">because all the streams have dried up.
 </para>
-  <para style="q2">The dryness is like a fire burning up the wilderness pastures.
+  <para style="q2" vid="JOL 1:20">The dryness is like a fire burning up the wilderness pastures.
 
 <ms style="ts"/>
 
-<verse eid="JOL 1:20"/><verse eid="JOL 1:20"/></para>
+<verse eid="JOL 1:20"/></para>
   <chapter eid="JOL 1"/>
   <chapter number="2" style="c" sid="JOL 2"/>
   <para style="q1"><verse number="1" style="v" sid="JOL 2:1"/>Blow horns on Mount Zion,
 </para>
-  <para style="q2">God’s sacred hill {in Jerusalem}!
+  <para style="q2" vid="JOL 2:1">God’s sacred hill {in Jerusalem}!
 </para>
-  <para style="q1">Shout to the people of Judah that they should {be afraid and} tremble,
+  <para style="q1" vid="JOL 2:1">Shout to the people of Judah that they should {be afraid and} tremble,
 </para>
-  <para style="q2">because it will soon be the time for Yahweh to punish us {further}.
+  <para style="q2" vid="JOL 2:1">because it will soon be the time for Yahweh to punish us {further}.
 <verse eid="JOL 2:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="JOL 2:2"/>That will be a very dark and gloomy day;
 </para>
-  <para style="q1">A huge swarm of locusts forms a black cloud, making it very dark.
+  <para style="q1" vid="JOL 2:2">A huge swarm of locusts forms a black cloud, making it very dark.
 </para>
-  <para style="q1">The swarm spreads over the mountains like the light of dawn;
+  <para style="q1" vid="JOL 2:2">The swarm spreads over the mountains like the light of dawn;
 </para>
-  <para style="q2">they are like a mighty army.
+  <para style="q2" vid="JOL 2:2">they are like a mighty army.
 </para>
-  <para style="q1">Nothing like this has ever happened before,
+  <para style="q1" vid="JOL 2:2">Nothing like this has ever happened before,
 </para>
-  <para style="q2">and nothing like this will ever happen again.
+  <para style="q2" vid="JOL 2:2">and nothing like this will ever happen again.
 
 <ms style="ts"/>
 <verse eid="JOL 2:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JOL 2:3"/>{It is as though} the locusts set everything on fire wherever they go.
 </para>
-  <para style="q1">In front of them, the land was {as beautiful} as the garden of Eden,
+  <para style="q1" vid="JOL 2:3">In front of them, the land was {as beautiful} as the garden of Eden,
 </para>
-  <para style="q2">but behind them {the land is like} a desert,
+  <para style="q2" vid="JOL 2:3">but behind them {the land is like} a desert,
 </para>
-  <para style="q2">and nothing is able to withstand them.
+  <para style="q2" vid="JOL 2:3">and nothing is able to withstand them.
 
 <ms style="ts"/>
 <verse eid="JOL 2:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JOL 2:4"/>The locusts resemble horses
 </para>
-  <para style="q2">and they run like war horses.
+  <para style="q2" vid="JOL 2:4">and they run like war horses.
 <verse eid="JOL 2:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JOL 2:5"/>Leaping over the mountaintops,
 </para>
-  <para style="q2">they make a noise like rumbling chariots,
+  <para style="q2" vid="JOL 2:5">they make a noise like rumbling chariots,
 </para>
-  <para style="q1">like a mighty army that is preparing for a battle,
+  <para style="q1" vid="JOL 2:5">like a mighty army that is preparing for a battle,
 </para>
-  <para style="q2">or like the roar of a fire that burns up stubble {in a field}.
+  <para style="q2" vid="JOL 2:5">or like the roar of a fire that burns up stubble {in a field}.
 
 <ms style="ts"/>
 <verse eid="JOL 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JOL 2:6"/>When people see them coming,
 </para>
-  <para style="q2">they become very pale and frightened.
+  <para style="q2" vid="JOL 2:6">they become very pale and frightened.
 <verse eid="JOL 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JOL 2:7"/>The locusts run and climb over walls like soldiers do;
 </para>
-  <para style="q2">each one continues on its way
+  <para style="q2" vid="JOL 2:7">each one continues on its way
 </para>
-  <para style="q1">and never turns aside from its course.
+  <para style="q1" vid="JOL 2:7">and never turns aside from its course.
 
 <ms style="ts"/>
 <verse eid="JOL 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JOL 2:8"/>They rush straight ahead
 </para>
-  <para style="q2">without pushing each other.
+  <para style="q2" vid="JOL 2:8">without pushing each other.
 </para>
-  <para style="q1">People try to fight against them,
+  <para style="q1" vid="JOL 2:8">People try to fight against them,
 </para>
-  <para style="q2">but that does not cause them to stop.
+  <para style="q2" vid="JOL 2:8">but that does not cause them to stop.
 <verse eid="JOL 2:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JOL 2:9"/>They swarm over the city walls and enter our houses;
 </para>
-  <para style="q2">they enter through our windows as thieves do.
+  <para style="q2" vid="JOL 2:9">they enter through our windows as thieves do.
 
 <ms style="ts"/>
 <verse eid="JOL 2:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="JOL 2:10"/>{It is as though} they cause the earth to shake and the sky to tremble as they come.
 </para>
-  <para style="q1">The sun and the moon become dark,
+  <para style="q1" vid="JOL 2:10">The sun and the moon become dark,
 </para>
-  <para style="q1">and the stars do not shine
+  <para style="q1" vid="JOL 2:10">and the stars do not shine
 </para>
-  <para style="q2">{because there are so many locusts in the sky}.
+  <para style="q2" vid="JOL 2:10">{because there are so many locusts in the sky}.
 <verse eid="JOL 2:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="JOL 2:11"/>Yahweh commands this army {of countless locusts},
 </para>
-  <para style="q2">and they obey him powerfully.
+  <para style="q2" vid="JOL 2:11">and they obey him powerfully.
 </para>
-  <para style="q1">This time during which Yahweh is judging and punishing us is very terrible,
+  <para style="q1" vid="JOL 2:11">This time during which Yahweh is judging and punishing us is very terrible,
 </para>
-  <para style="q2">{with the result that it seems that} no one can survive it.
+  <para style="q2" vid="JOL 2:11">{with the result that it seems that} no one can survive it.
 
 <ms style="ts"/>
 <verse eid="JOL 2:11"/></para>
   <para style="p"><verse number="12" style="v" sid="JOL 2:12"/>But Yahweh says,
 </para>
-  <para style="q1">“In spite of these disasters that you have experienced,
+  <para style="q1" vid="JOL 2:12">“In spite of these disasters that you have experienced,
 </para>
-  <para style="q2">you can still reconcile yourselves to me in your inner being.
+  <para style="q2" vid="JOL 2:12">you can still reconcile yourselves to me in your inner being.
 </para>
-  <para style="q1">Weep, and mourn, and fast {to show that you are sorry that you have abandoned me}.”
+  <para style="q1" vid="JOL 2:12">Weep, and mourn, and fast {to show that you are sorry that you have abandoned me}.”
 <verse eid="JOL 2:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="JOL 2:13"/>Do not tear {only} your clothes
 </para>
-  <para style="q2">{to show that you are sorry};
+  <para style="q2" vid="JOL 2:13">{to show that you are sorry};
 </para>
-  <para style="q2">{more importantly,} show in your inner being that you are truly sorry
+  <para style="q2" vid="JOL 2:13">{more importantly,} show in your inner being that you are truly sorry
 </para>
-  <para style="q2">and {in that way} reconcile yourselves to Yahweh your God.
+  <para style="q2" vid="JOL 2:13">and {in that way} reconcile yourselves to Yahweh your God.
 </para>
-  <para style="q1">{Do this} because Yahweh is merciful and kind;
+  <para style="q1" vid="JOL 2:13">{Do this} because Yahweh is merciful and kind;
 </para>
-  <para style="q2">he does not quickly become angry;
+  <para style="q2" vid="JOL 2:13">he does not quickly become angry;
 </para>
-  <para style="q1">instead, he greatly and faithfully loves us,
+  <para style="q1" vid="JOL 2:13">instead, he greatly and faithfully loves us,
 </para>
-  <para style="q2">and he does not like to punish us.
+  <para style="q2" vid="JOL 2:13">and he does not like to punish us.
 
 <ms style="ts"/>
 <verse eid="JOL 2:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="JOL 2:14"/>It is possible that he will change his mind about punishing {you}
 </para>
-  <para style="q2">and, instead, act mercifully {toward you}.
+  <para style="q2" vid="JOL 2:14">and, instead, act mercifully {toward you}.
 </para>
-  <para style="q1">If he does that, he will bless you
+  <para style="q1" vid="JOL 2:14">If he does that, he will bless you
 </para>
-  <para style="q2">by giving you plenty of grain and wine
+  <para style="q2" vid="JOL 2:14">by giving you plenty of grain and wine
 </para>
-  <para style="q2">so that you can offer {some of} those things for sacrifices to our God, Yahweh.
+  <para style="q2" vid="JOL 2:14">so that you can offer {some of} those things for sacrifices to our God, Yahweh.
 
 <ms style="ts"/>
 <verse eid="JOL 2:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="JOL 2:15"/>Blow the {signal} horns on Mount Zion!
 </para>
-  <para style="q2">Gather the people together!
+  <para style="q2" vid="JOL 2:15">Gather the people together!
 </para>
-  <para style="q1">Set apart time to fast{, to show that you are sorry for your sins}.
+  <para style="q1" vid="JOL 2:15">Set apart time to fast{, to show that you are sorry for your sins}.
 <verse eid="JOL 2:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="JOL 2:16"/>Gather everyone together and prepare them for a special meeting for Yahweh.
 </para>
-  <para style="q2">Bring everyone—
+  <para style="q2" vid="JOL 2:16">Bring everyone—
 </para>
-  <para style="q1">the old people and the children, even the babies;
+  <para style="q1" vid="JOL 2:16">the old people and the children, even the babies;
 </para>
-  <para style="q2">yes, even summon bridegrooms and brides from their rooms.
+  <para style="q2" vid="JOL 2:16">yes, even summon bridegrooms and brides from their rooms.
 
 <ms style="ts"/>
 <verse eid="JOL 2:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="JOL 2:17"/>Tell the priests who serve Yahweh to cry all the way from the entrance of the temple to the altar
 </para>
-  <para style="q2">and to pray this:
+  <para style="q2" vid="JOL 2:17">and to pray this:
 </para>
-  <para style="q1">“Yahweh, be merciful to us, your people;
+  <para style="q1" vid="JOL 2:17">“Yahweh, be merciful to us, your people;
 </para>
-  <para style="q2">do not allow people from other nations to despise us;
+  <para style="q2" vid="JOL 2:17">do not allow people from other nations to despise us;
 </para>
-  <para style="q1">do not allow them to rule over us and say among themselves,
+  <para style="q1" vid="JOL 2:17">do not allow them to rule over us and say among themselves,
 </para>
-  <para style="q2">‘Their God has abandoned them!’”
+  <para style="q2" vid="JOL 2:17">‘Their God has abandoned them!’”
 
 <ms style="ts"/>
 <verse eid="JOL 2:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="JOL 2:18"/>Then Yahweh showed that he cared deeply about his people
 </para>
-  <para style="q2">and that he would act mercifully toward them.
+  <para style="q2" vid="JOL 2:18">and that he would act mercifully toward them.
 
 <verse eid="JOL 2:18"/></para>
   <para style="p"><verse number="19" style="v" sid="JOL 2:19"/>When the people prayed,
 </para>
-  <para style="q1">Yahweh answered and said,
+  <para style="q1" vid="JOL 2:19">Yahweh answered and said,
 </para>
-  <para style="q1">“I will give you plenty of grain and wine and olive oil,
+  <para style="q1" vid="JOL 2:19">“I will give you plenty of grain and wine and olive oil,
 </para>
-  <para style="q2">and you will be satisfied.
+  <para style="q2" vid="JOL 2:19">and you will be satisfied.
 </para>
-  <para style="q1">I will no longer allow other nations to insult you.
+  <para style="q1" vid="JOL 2:19">I will no longer allow other nations to insult you.
 
 <ms style="ts"/>
 <verse eid="JOL 2:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="JOL 2:20"/>When an army from the north comes {to attack you},
 </para>
-  <para style="q2">I will force them to continue {past Jerusalem}
+  <para style="q2" vid="JOL 2:20">I will force them to continue {past Jerusalem}
 </para>
-  <para style="q2">into the desert.
+  <para style="q2" vid="JOL 2:20">into the desert.
 </para>
-  <para style="q1">Some will go into the {Dead} Sea in the east,
+  <para style="q1" vid="JOL 2:20">Some will go into the {Dead} Sea in the east,
 </para>
-  <para style="q2">and some will go into the {Mediterranean} Sea in the west.
+  <para style="q2" vid="JOL 2:20">and some will go into the {Mediterranean} Sea in the west.
 </para>
-  <para style="q1">{There they will all die,} and their bodies will stink powerfully,
+  <para style="q1" vid="JOL 2:20">{There they will all die,} and their bodies will stink powerfully,
 </para>
-  <para style="q2">because they were powerful in what they did.”
+  <para style="q2" vid="JOL 2:20">because they were powerful in what they did.”
 
 <ms style="ts"/>
 <verse eid="JOL 2:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="JOL 2:21"/>Do not be afraid, people, for what might happen to the land.
 </para>
-  <para style="q2">You can rejoice, because Yahweh will be powerful in what he does!
+  <para style="q2" vid="JOL 2:21">You can rejoice, because Yahweh will be powerful in what he does!
 <verse eid="JOL 2:21"/><verse number="22" style="v" sid="JOL 2:22"/>And the wild animals should not be afraid,
 </para>
-  <para style="q2">because the meadows will soon become green again;
+  <para style="q2" vid="JOL 2:22">because the meadows will soon become green again;
 </para>
-  <para style="q1">the fig trees and other trees will be full of fruit,
+  <para style="q1" vid="JOL 2:22">the fig trees and other trees will be full of fruit,
 </para>
-  <para style="q2">and the grapevines will be covered with grapes.
+  <para style="q2" vid="JOL 2:22">and the grapevines will be covered with grapes.
 <verse eid="JOL 2:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="JOL 2:23"/>You people of Jerusalem,
 </para>
-  <para style="q2">rejoice about what Yahweh, your God, will do {for you}.
+  <para style="q2" vid="JOL 2:23">rejoice about what Yahweh, your God, will do {for you}.
 </para>
-  <para style="q1">He will send rain to deliver you at the right time—
+  <para style="q1" vid="JOL 2:23">He will send rain to deliver you at the right time—
 </para>
-  <para style="q2">before planting and before harvesting,
+  <para style="q2" vid="JOL 2:23">before planting and before harvesting,
 </para>
-  <para style="q2">as he did previously.
+  <para style="q2" vid="JOL 2:23">as he did previously.
 
 <ms style="ts"/>
 <verse eid="JOL 2:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="JOL 2:24"/>The ground where you thresh the grain will be covered with grain,
 </para>
-  <para style="q2">and your vats where you store the fresh grape juice and olive oil will be full.
+  <para style="q2" vid="JOL 2:24">and your vats where you store the fresh grape juice and olive oil will be full.
 <verse eid="JOL 2:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="JOL 2:25"/>Yahweh said, “I will repay you for everything that those great swarms of locusts destroyed,
 </para>
-  <para style="q2">that enormous army that I sent to attack you.
+  <para style="q2" vid="JOL 2:25">that enormous army that I sent to attack you.
 
 <ms style="ts"/>
 <verse eid="JOL 2:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="JOL 2:26"/>Then you will eat until your stomachs are full.
 </para>
-  <para style="q2">Then you will praise me, Yahweh, your God,
+  <para style="q2" vid="JOL 2:26">Then you will praise me, Yahweh, your God,
 </para>
-  <para style="q2">for the wonderful things that I have done for you,
+  <para style="q2" vid="JOL 2:26">for the wonderful things that I have done for you,
 </para>
-  <para style="q1">and never again will I let others shame you, my people.
+  <para style="q1" vid="JOL 2:26">and never again will I let others shame you, my people.
 <verse eid="JOL 2:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="JOL 2:27"/>When that happens, you will know that I am {always} among you,
 </para>
-  <para style="q2">that I am Yahweh, your God,
+  <para style="q2" vid="JOL 2:27">that I am Yahweh, your God,
 </para>
-  <para style="q2">and that there is no other {God}.
+  <para style="q2" vid="JOL 2:27">and that there is no other {God}.
 </para>
-  <para style="q1">Never again will I let others shame you.”
+  <para style="q1" vid="JOL 2:27">Never again will I let others shame you.”
 
 <ms style="ts"/>
 <verse eid="JOL 2:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="JOL 2:28"/>“Some time later, I will give my Spirit to many people.
 </para>
-  <para style="q2">You sons and daughters will proclaim messages that come directly from me.
+  <para style="q2" vid="JOL 2:28">You sons and daughters will proclaim messages that come directly from me.
 </para>
-  <para style="q1">Your old men will have dreams that come from me,
+  <para style="q1" vid="JOL 2:28">Your old men will have dreams that come from me,
 </para>
-  <para style="q2">and your young men will have visions that come from me.
+  <para style="q2" vid="JOL 2:28">and your young men will have visions that come from me.
 <verse eid="JOL 2:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="JOL 2:29"/>At that time, I will generously give my Spirit even to servants, both men and women.
 
@@ -421,46 +421,46 @@
 <verse eid="JOL 2:29"/></para>
   <para style="q1"><verse number="30" style="v" sid="JOL 2:30"/>I will do unusual things on the earth and in the sky.
 </para>
-  <para style="q2">On the earth, there will be much bloodshed,
+  <para style="q2" vid="JOL 2:30">On the earth, there will be much bloodshed,
 </para>
-  <para style="q2">{and there will be} very large fires and smoke that resembles huge clouds.
+  <para style="q2" vid="JOL 2:30">{and there will be} very large fires and smoke that resembles huge clouds.
 <verse eid="JOL 2:30"/></para>
   <para style="q1"><verse number="31" style="v" sid="JOL 2:31"/>In the sky, the sun will become dark, and the moon will become {as red as} blood.
 </para>
-  <para style="q2">{Those things will happen} before that great and terrible day when I, Yahweh, come {to judge all people}.
+  <para style="q2" vid="JOL 2:31">{Those things will happen} before that great and terrible day when I, Yahweh, come {to judge all people}.
 
 <ms style="ts"/>
 <verse eid="JOL 2:31"/></para>
   <para style="q1"><verse number="32" style="v" sid="JOL 2:32"/>And I will do this: I will save everyone who worships me.
 </para>
-  <para style="q2">As I have said before, ‘On Mount Zion in Jerusalem I will make a way for them to escape;
+  <para style="q2" vid="JOL 2:32">As I have said before, ‘On Mount Zion in Jerusalem I will make a way for them to escape;
 </para>
-  <para style="q2">those whom I have chosen will survive.’”
+  <para style="q2" vid="JOL 2:32">those whom I have chosen will survive.’”
 
 <ms style="ts"/>
 
-<verse eid="JOL 2:32"/><verse eid="JOL 2:32"/></para>
+<verse eid="JOL 2:32"/></para>
   <chapter eid="JOL 2"/>
   <chapter number="3" style="c" sid="JOL 3"/>
   <para style="p"><verse number="1" style="v" sid="JOL 3:1"/>Yahweh says this:
 </para>
-  <para style="q1">“At that time, I will bring back the people whom their enemies took away from Jerusalem and from {other places in} Judah.
+  <para style="q1" vid="JOL 3:1">“At that time, I will bring back the people whom their enemies took away from Jerusalem and from {other places in} Judah.
 <verse eid="JOL 3:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="JOL 3:2"/>Then in the Valley of Jehoshaphat I will gather together {the people of} all of the other nations;
 </para>
-  <para style="q2">there I will judge {and punish} them
+  <para style="q2" vid="JOL 3:2">there I will judge {and punish} them
 </para>
-  <para style="q1">because they scattered my Israelite people
+  <para style="q1" vid="JOL 3:2">because they scattered my Israelite people
 </para>
-  <para style="q2">and forced them to go to other countries,
+  <para style="q2" vid="JOL 3:2">and forced them to go to other countries,
 </para>
-  <para style="q2">and because they divided up my land {among themselves}.
+  <para style="q2" vid="JOL 3:2">and because they divided up my land {among themselves}.
 <verse eid="JOL 3:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JOL 3:3"/>{I will judge them} also {because} they played games of chance to determine who would get {each of} my people.
 </para>
-  <para style="q1">They traded {some of the} Israelite boys for prostitutes,
+  <para style="q1" vid="JOL 3:3">They traded {some of the} Israelite boys for prostitutes,
 </para>
-  <para style="q2">and they sold {some of the} Israelite girls to get {money to buy} wine, and they drank {it}.
+  <para style="q2" vid="JOL 3:3">and they sold {some of the} Israelite girls to get {money to buy} wine, and they drank {it}.
 
 <ms style="ts"/>
 <verse eid="JOL 3:3"/></para>
@@ -477,99 +477,99 @@
 <verse eid="JOL 3:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JOL 3:9"/>Proclaim to {the people of} all nations,
 </para>
-  <para style="q2">“Prepare for a war!
+  <para style="q2" vid="JOL 3:9">“Prepare for a war!
 </para>
-  <para style="q1">Summon your soldiers;
+  <para style="q1" vid="JOL 3:9">Summon your soldiers;
 </para>
-  <para style="q2">tell them to stand in their battle positions.
+  <para style="q2" vid="JOL 3:9">tell them to stand in their battle positions.
 <verse eid="JOL 3:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="JOL 3:10"/>Take your plows and make swords from them;
 </para>
-  <para style="q2">take your pruning knives and make spears from them.
+  <para style="q2" vid="JOL 3:10">take your pruning knives and make spears from them.
 </para>
-  <para style="q1">{Even} the weak {people} must {also} act like {they are} strong {soldiers}.
+  <para style="q1" vid="JOL 3:10">{Even} the weak {people} must {also} act like {they are} strong {soldiers}.
 
 <ms style="ts"/>
 <verse eid="JOL 3:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="JOL 3:11"/>All of {you people from} the nations that are near Judah
 </para>
-  <para style="q2">must come quickly and gather there.”
+  <para style="q2" vid="JOL 3:11">must come quickly and gather there.”
 </para>
-  <para style="q1">But Yahweh, {when that happens,} send your army {of angels to attack them}!
+  <para style="q1" vid="JOL 3:11">But Yahweh, {when that happens,} send your army {of angels to attack them}!
 
 <ms style="ts"/>
 <verse eid="JOL 3:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="JOL 3:12"/>Yahweh says, “The {people in the} nations near Judah must get ready and come to the Valley of Jehoshaphat.
 </para>
-  <para style="q2">There I will sit as a judge, and I will punish them.
+  <para style="q2" vid="JOL 3:12">There I will sit as a judge, and I will punish them.
 <verse eid="JOL 3:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="JOL 3:13"/>{They are like} crops that are ready for farmers to harvest them;
 </para>
-  <para style="q2">so {strike them as a farmer} swings his sickle to cut the grain.
+  <para style="q2" vid="JOL 3:13">so {strike them as a farmer} swings his sickle to cut the grain.
 </para>
-  <para style="q1">{They are like} large piles of grapes in the pits where farmers will press them;
+  <para style="q1" vid="JOL 3:13">{They are like} large piles of grapes in the pits where farmers will press them;
 </para>
-  <para style="q2">{so crush them as a farmer tramples on the grapes.}
+  <para style="q2" vid="JOL 3:13">{so crush them as a farmer tramples on the grapes.}
 </para>
-  <para style="q1">{Punish them severely} because they are very wicked.
+  <para style="q1" vid="JOL 3:13">{Punish them severely} because they are very wicked.
 </para>
-  <para style="q2">{If all of the wicked things that they have done became grape juice,} they are so wicked that the juice would make the vats overflow.”
+  <para style="q2" vid="JOL 3:13">{If all of the wicked things that they have done became grape juice,} they are so wicked that the juice would make the vats overflow.”
 
 <ms style="ts"/>
 <verse eid="JOL 3:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="JOL 3:14"/>There will be huge crowds of people in that Valley of Judgment.
 </para>
-  <para style="q2">It will soon be the time that Yahweh will punish them in that Valley of Judgment.
+  <para style="q2" vid="JOL 3:14">It will soon be the time that Yahweh will punish them in that Valley of Judgment.
 <verse eid="JOL 3:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="JOL 3:15"/>At that time there will be no light from the sun or moon,
 </para>
-  <para style="q2">and the stars will not shine.
+  <para style="q2" vid="JOL 3:15">and the stars will not shine.
 
 <ms style="ts"/>
 <verse eid="JOL 3:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="JOL 3:16"/>From Mount Zion in Jerusalem, Yahweh will speak forcefully;
 </para>
-  <para style="q2">his voice will be like thunder,
+  <para style="q2" vid="JOL 3:16">his voice will be like thunder,
 </para>
-  <para style="q2">and his voice will cause the sky and the earth to shake.
+  <para style="q2" vid="JOL 3:16">and his voice will cause the sky and the earth to shake.
 </para>
-  <para style="q1">But Yahweh will protect his people;
+  <para style="q1" vid="JOL 3:16">But Yahweh will protect his people;
 </para>
-  <para style="q2">he will be like a strong wall around the people of Israel.
+  <para style="q2" vid="JOL 3:16">he will be like a strong wall around the people of Israel.
 
 <verse eid="JOL 3:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="JOL 3:17"/>Yahweh says, “At that time, you {Israelite people} will know that I am Yahweh, your God.
 </para>
-  <para style="q2">I live on Zion, my holy hill.
+  <para style="q2" vid="JOL 3:17">I live on Zion, my holy hill.
 </para>
-  <para style="q1">Jerusalem will be a holy city,
+  <para style="q1" vid="JOL 3:17">Jerusalem will be a holy city,
 </para>
-  <para style="q2">and soldiers from other countries will never conquer it again.
+  <para style="q2" vid="JOL 3:17">and soldiers from other countries will never conquer it again.
 
 <ms style="ts"/>
 <verse eid="JOL 3:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="JOL 3:18"/>At that time, there will be vineyards bearing sweet grapes on the mountains,
 </para>
-  <para style="q2">and your cattle and goats on those hills will produce plenty of milk.
+  <para style="q2" vid="JOL 3:18">and your cattle and goats on those hills will produce plenty of milk.
 </para>
-  <para style="q2">The streams in Judah will have abundant water,
+  <para style="q2" vid="JOL 3:18">The streams in Judah will have abundant water,
 </para>
-  <para style="q1">and a stream will flow from my temple into the Valley of Shittim {northeast of the Salt Sea}.
+  <para style="q1" vid="JOL 3:18">and a stream will flow from my temple into the Valley of Shittim {northeast of the Salt Sea}.
 <verse eid="JOL 3:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="JOL 3:19"/>{The armies of} Egypt and Edom attacked the people of Judah
 </para>
-  <para style="q2">and killed many people there who had not done anything that was wrong.
+  <para style="q2" vid="JOL 3:19">and killed many people there who had not done anything that was wrong.
 </para>
-  <para style="q1">As a result, those countries will become wastelands, with no one living there any longer.
+  <para style="q1" vid="JOL 3:19">As a result, those countries will become wastelands, with no one living there any longer.
 
 <ms style="ts"/>
 <verse eid="JOL 3:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="JOL 3:20"/>But there will always be people living throughout Judea
 </para>
-  <para style="q1">and in Jerusalem, forever.
+  <para style="q1" vid="JOL 3:20">and in Jerusalem, forever.
 <verse eid="JOL 3:20"/><verse number="21" style="v" sid="JOL 3:21"/>I, Yahweh, live on Mount Zion {in Jerusalem},
 </para>
-  <para style="q2">and I will not punish people {further} for killing my people, for which I {previously} punished them.”
+  <para style="q2" vid="JOL 3:21">and I will not punish people {further} for killing my people, for which I {previously} punished them.”
 <verse eid="JOL 3:21"/></para>
   <chapter eid="JOL 3"/>
 </usx>

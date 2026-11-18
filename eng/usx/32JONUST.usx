@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JON" style="id">EN_UST en_English_ltr Fri Mar 20 2020 17:44:14 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -43,7 +43,7 @@
 <verse eid="JON 1:9"/><verse number="10" style="v" sid="JON 1:10"/>Jonah also told the sailors that he was trying to get away from Yahweh {in order to avoid doing something that Yahweh had told him to do}. So now{, when they learned that Yahweh was the one controlling the sea,} they were terrified.
 
 </para>
-  <para style="p">One of the sailors said to Jonah, “You have done a terrible thing! {Now we are all about to die because of you!}”
+  <para style="p" vid="JON 1:10">One of the sailors said to Jonah, “You have done a terrible thing! {Now we are all about to die because of you!}”
 <verse eid="JON 1:10"/><verse number="11" style="v" sid="JON 1:11"/>The storm continued to become worse, and the waves continued to become bigger. So one of the sailors asked Jonah, “What should we do to you so that the sea might calm down and stop threatening us?”
 
 <ms style="ts"/>
@@ -59,14 +59,13 @@
 <verse eid="JON 1:14"/><verse number="15" style="v" sid="JON 1:15"/>Then they picked Jonah up and threw him into the sea. Immediately, the sea became calm.
 <verse eid="JON 1:15"/><verse number="16" style="v" sid="JON 1:16"/>When that happened, the sailors became greatly awed {at how powerful Yahweh was}. They offered a sacrifice to Yahweh and solemnly promised to worship him.
 
+<ms style="ts"/>
 <verse eid="JON 1:16"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="17" style="v" sid="JON 1:17"/>Meanwhile, Yahweh caused a huge fish to swallow Jonah, and Jonah was inside the fish for three days and three nights.
 
 <ms style="ts"/>
 
-<verse eid="JON 1:17"/><verse eid="JON 1:17"/></para>
+<verse eid="JON 1:17"/></para>
   <chapter eid="JON 1"/>
   <chapter number="2" style="c" sid="JON 2"/>
   <para style="p"><verse number="1" style="v" sid="JON 2:1"/>While he was inside the fish, Jonah prayed to Yahweh, the God whom he worshiped.
@@ -74,56 +73,55 @@
 
 <ms style="ts"/>
 </para>
-  <para style="q1">“When I was deeply distressed, I prayed to Yahweh {to rescue me}, and he did.
+  <para style="q1" vid="JON 2:2">“When I was deeply distressed, I prayed to Yahweh {to rescue me}, and he did.
 </para>
-  <para style="q2">Even though I was in the belly {of a fish} where I thought I would die, yet {even there} you heard my voice and listened to me {when I begged for you to help me}.
+  <para style="q2" vid="JON 2:2">Even though I was in the belly {of a fish} where I thought I would die, yet {even there} you heard my voice and listened to me {when I begged for you to help me}.
 
 <ms style="ts"/>
 <verse eid="JON 2:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JON 2:3"/>You had thrown me into the deep water, into the middle of the sea where the currents swirled around me.
 </para>
-  <para style="q2">All of those terrible waves that you made passed above me.
+  <para style="q2" vid="JON 2:3">All of those terrible waves that you made passed above me.
 <verse eid="JON 2:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JON 2:4"/>But as for me, I thought, ‘You have thrown me away; you do not care even to look at me;
 </para>
-  <para style="q2">even so I may still see your holy temple again.’
+  <para style="q2" vid="JON 2:4">even so I may still see your holy temple again.’
 
 <ms style="ts"/>
 <verse eid="JON 2:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JON 2:5"/>Water was all around me, close to ending my life; {yes,} deep water surrounded me;
 </para>
-  <para style="q2">seaweed became wrapped around my head.
+  <para style="q2" vid="JON 2:5">seaweed became wrapped around my head.
 <verse eid="JON 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JON 2:6"/>I went down as far as the place where the mountains start rising from the bottom of the sea; I felt as though the earth was a prison with no possible way for me to escape.
 </para>
-  <para style="q2">But you, Yahweh God, whom I worship, rescued me from going down to the place of the dead.
+  <para style="q2" vid="JON 2:6">But you, Yahweh God, whom I worship, rescued me from going down to the place of the dead.
 <verse eid="JON 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JON 2:7"/>When I was almost dead, I thought about you, Yahweh{, to ask you for help}.
 </para>
-  <para style="q2">And from your holy place where you live, you accepted my prayer.
+  <para style="q2" vid="JON 2:7">And from your holy place where you live, you accepted my prayer.
 
 <ms style="ts"/>
 <verse eid="JON 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JON 2:8"/>Those who worship worthless idols
 </para>
-  <para style="q2">reject you, the one who would always be faithful to them.
+  <para style="q2" vid="JON 2:8">reject you, the one who would always be faithful to them.
 <verse eid="JON 2:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JON 2:9"/>But I {will not do that. Rather}, I will give a sacrifice to you as I loudly thank you.
 </para>
-  <para style="q2">I will do what I have solemnly promised {you} that I would do.
+  <para style="q2" vid="JON 2:9">I will do what I have solemnly promised {you} that I would do.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">Yahweh, you are the only One True God who saves people.”
+  <para style="q1" vid="JON 2:9">Yahweh, you are the only One True God who saves people.”
 
 <ms style="ts"/>
 <verse eid="JON 2:9"/></para>
   <para style="m"><verse number="10" style="v" sid="JON 2:10"/>Then Yahweh commanded the {huge} fish {to spew out Jonah}, and the fish spewed out Jonah onto the land.
 
+<ms style="ts"/>
+
 <verse eid="JON 2:10"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="JON 2:10"/>
   <chapter eid="JON 2"/>
   <chapter number="3" style="c" sid="JON 3"/>
   <para style="p"><verse number="1" style="v" sid="JON 3:1"/>Then Yahweh spoke to Jonah again. This is what Yahweh said:
@@ -132,7 +130,7 @@
 
 <ms style="ts"/>
 </para>
-  <para style="p">Now Nineveh was an extremely large city. It was so large that a person had to walk for three days {to go completely through it}.
+  <para style="p" vid="JON 3:3">Now Nineveh was an extremely large city. It was so large that a person had to walk for three days {to go completely through it}.
 <verse eid="JON 3:3"/><verse number="4" style="v" sid="JON 3:4"/>When Jonah arrived, he began walking through the city for about one day. Then he proclaimed to the people in the city, “Forty days from now, God will destroy Nineveh!”
 
 <ms style="ts"/>
@@ -150,10 +148,9 @@
 <verse eid="JON 3:9"/></para>
   <para style="p"><verse number="10" style="v" sid="JON 3:10"/>So the people did those things and stopped doing the evil actions that they had been doing. God saw all of this. So God had mercy on them and did not destroy them as he had said he would do. {Even though he had said that,} he did not do it.
 
+<ms style="ts"/>
+
 <verse eid="JON 3:10"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="JON 3:10"/>
   <chapter eid="JON 3"/>
   <chapter number="4" style="c" sid="JON 4"/>
   <para style="p"><verse number="1" style="v" sid="JON 4:1"/>For Jonah, it was wrong, terribly wrong{, that God did not destroy Nineveh}. He became very angry about it.
@@ -178,7 +175,7 @@
   <para style="p"><verse number="9" style="v" sid="JON 4:9"/>Then God said to Jonah, “Is it right for you to be angry about what happened to the plant?”
 
 </para>
-  <para style="p">Jonah replied, “Yes, it is right for me to be angry! I am so angry that I want to die!”
+  <para style="p" vid="JON 4:9">Jonah replied, “Yes, it is right for me to be angry! I am so angry that I want to die!”
 
 <ms style="ts"/>
 <verse eid="JON 4:9"/></para>
